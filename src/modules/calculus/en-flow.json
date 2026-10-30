@@ -1,0 +1,1868 @@
+{
+  "source": "Movies/Calculus5min.swf",
+  "scenes": [
+    {
+      "name": "Scene 1",
+      "startFrame": 1,
+      "endFrame": 868
+    },
+    {
+      "name": "Scene 2",
+      "startFrame": 869,
+      "endFrame": 2865
+    },
+    {
+      "name": "Scene 3",
+      "startFrame": 2866,
+      "endFrame": 4856
+    },
+    {
+      "name": "Scene 4",
+      "startFrame": 4857,
+      "endFrame": 6900
+    },
+    {
+      "name": "Scene 5",
+      "startFrame": 6901,
+      "endFrame": 8875
+    },
+    {
+      "name": "Scene 6",
+      "startFrame": 8876,
+      "endFrame": 11035
+    },
+    {
+      "name": "Scene 7",
+      "startFrame": 11036,
+      "endFrame": 11859
+    }
+  ],
+  "stops": [
+    {
+      "frame": 1184,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 1568,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 1569,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 1569,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 1570,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 1569,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 1569,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 1568,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 1570,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 2527,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 2528,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 2528,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 2529,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 2528,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 2528,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 2527,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 2529,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 2828,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 2829,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 2829,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 2830,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 2829,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 2829,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 2828,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 2830,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 2852,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 3177,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 3559,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 3560,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 3560,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 3561,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 3560,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 3560,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 3559,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 3561,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 4518,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz3",
+          "targetFrame": 4519,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 4519,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz1",
+          "targetFrame": 4520,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 4519,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 4519,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 4518,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 4520,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 4819,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 4820,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 4820,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 4821,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 4820,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 4820,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 4819,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 4821,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 4833,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 5168,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 5550,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 5551,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 5551,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 5552,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 5551,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 5551,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 5550,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 5552,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 6613,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz3",
+          "targetFrame": 6614,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 6614,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz1",
+          "targetFrame": 6615,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 6614,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 6614,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 6613,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 6615,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 6790,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 6791,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 6791,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 6792,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 6791,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 6791,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 6790,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 6792,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 6894,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 7215,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 7598,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 7599,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 7599,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 7600,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 7599,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 7599,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 7598,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 7600,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 8661,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz3",
+          "targetFrame": 8662,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 8662,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz1",
+          "targetFrame": 8663,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 8662,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 8662,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 8661,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 8663,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 8838,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 8839,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 8839,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 8840,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 8839,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 8839,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 8838,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 8840,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 8853,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 9190,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 9749,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 9750,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 9750,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 9751,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 9750,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 9750,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 9749,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 9751,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 10761,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz3",
+          "targetFrame": 10762,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz1",
+          "targetFrame": 10762,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 10763,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 10762,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 10762,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 10761,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 10763,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 10998,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 10999,
+          "x": 38.65,
+          "y": 305.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 10999,
+          "x": 169.15,
+          "y": 304.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 11000,
+          "x": 441.6,
+          "y": 304.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 10999,
+          "x": 305.6,
+          "y": 304.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 10999,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 10998,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11000,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 11035,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 11285,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 11286,
+          "x": 43.65,
+          "y": 285.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 11286,
+          "x": 305.6,
+          "y": 285.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 11308,
+          "x": 169.15,
+          "y": 284.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 11286,
+          "x": 441.6,
+          "y": 285.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11307,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 11285,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11308,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 11358,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 11359,
+          "x": 43.65,
+          "y": 285.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 11359,
+          "x": 169.15,
+          "y": 284.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 11381,
+          "x": 305.6,
+          "y": 285.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 11359,
+          "x": 441.6,
+          "y": 285.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11380,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 11358,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11381,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 11430,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 11431,
+          "x": 41.35,
+          "y": 291.85,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 11431,
+          "x": 309.1,
+          "y": 293.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 11453,
+          "x": 169.15,
+          "y": 293.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 11431,
+          "x": 445.1,
+          "y": 291.45,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11452,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 11430,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11453,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 11502,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 11503,
+          "x": 43.65,
+          "y": 285.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 11503,
+          "x": 305.6,
+          "y": 285.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 11525,
+          "x": 441.6,
+          "y": 285.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 11503,
+          "x": 169.15,
+          "y": 284.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11524,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 11502,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11525,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 11574,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 11575,
+          "x": 36.25,
+          "y": 296.3,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 11575,
+          "x": 169.15,
+          "y": 299.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 11597,
+          "x": 305.6,
+          "y": 297.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 11575,
+          "x": 441.6,
+          "y": 299.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11596,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 11574,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11597,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 11646,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 11647,
+          "x": 43.65,
+          "y": 285.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 11647,
+          "x": 305.6,
+          "y": 285.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 11669,
+          "x": 441.6,
+          "y": 285.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 11647,
+          "x": 169.15,
+          "y": 284.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11668,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 11646,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11669,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 11718,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 11719,
+          "x": 43.65,
+          "y": 285.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 11719,
+          "x": 305.6,
+          "y": 285.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 11741,
+          "x": 169.15,
+          "y": 284.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 11719,
+          "x": 441.6,
+          "y": 285.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11740,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 11718,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11741,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 11790,
+      "kind": "question",
+      "actions": [
+        {
+          "id": "bQuiz1",
+          "targetFrame": 11791,
+          "x": 43.65,
+          "y": 285.55,
+          "symbol": "Symbol 332",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz4",
+          "targetFrame": 11791,
+          "x": 441.6,
+          "y": 285.8,
+          "symbol": "Symbol 345",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz3",
+          "targetFrame": 11813,
+          "x": 305.6,
+          "y": 285.8,
+          "symbol": "Symbol 342",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        },
+        {
+          "id": "bQuiz2",
+          "targetFrame": 11791,
+          "x": 169.15,
+          "y": 284.8,
+          "symbol": "Symbol 338",
+          "buttonSound": {
+            "soundId": 188,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11812,
+      "kind": "retry",
+      "actions": [
+        {
+          "id": "bWrongAns",
+          "targetFrame": 11790,
+          "x": 130.55,
+          "y": 278.35,
+          "symbol": "Symbol 349",
+          "buttonSound": {
+            "soundId": 98,
+            "inPoint44": 0,
+            "outPoint44": null
+          }
+        }
+      ]
+    },
+    {
+      "frame": 11813,
+      "kind": "manual",
+      "actions": []
+    },
+    {
+      "frame": 11859,
+      "kind": "manual",
+      "actions": []
+    }
+  ]
+}

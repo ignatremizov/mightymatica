@@ -1,0 +1,1468 @@
+{
+  "format": 1,
+  "modifiedDate": "2026-10-30",
+  "records": [
+    {
+      "path": "public/media/algebra/native/difference/timeline.mjs",
+      "baseline": "baseline/public/media/algebra/native/difference/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/algebra/native/difference/timeline.mjs",
+      "baselineSha256": "5333495415a4abcc16916c54b02a22643b9a543e5bdd53252d428df7c16a5d4f",
+      "finalSha256": "9024ab48d8ca2affceab0889e0dfd79d092cceb5a59fa370417afad4c28ae5f8"
+    },
+    {
+      "path": "public/media/algebra/native/quadratic/timeline.mjs",
+      "baseline": "baseline/public/media/algebra/native/quadratic/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/algebra/native/quadratic/timeline.mjs",
+      "baselineSha256": "dfb99973e285790c86a0fd5f5322c61d0437b955778ed13f7a57b08345a39cfa",
+      "finalSha256": "e2e745579ffb3c8f9cda11d622239ef23be5c856cfb987eaf25c94cc79299eea"
+    },
+    {
+      "path": "public/media/algebra/native/square/timeline.mjs",
+      "baseline": "baseline/public/media/algebra/native/square/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/algebra/native/square/timeline.mjs",
+      "baselineSha256": "d32cd4705a11fc0da2df0956dd929582038f0747ef12e0dc60f4b0074d66b3f1",
+      "finalSha256": "d6c3e424cfad9de6c6ef59e4ac88211903cda948dc28264b1a5471942ed9e24f"
+    },
+    {
+      "path": "public/media/algebra/native/transform/timeline.mjs",
+      "baseline": "baseline/public/media/algebra/native/transform/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/algebra/native/transform/timeline.mjs",
+      "baselineSha256": "0d3d0620edd4fc243066bf2adc02bff4551004fe55e5eda979e99dfee50b9942",
+      "finalSha256": "b1f48c1c575c9789b934f2583cfaea449830b70db06454e5f76f84532651193d"
+    },
+    {
+      "path": "public/media/calculus/native/en/chapter-1.mjs",
+      "baseline": "baseline/public/media/calculus/native/en/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/calculus/native/en/chapter-1.mjs",
+      "baselineSha256": "2a8d5a25f2c5da7106016e62602d4115468d19bab111d2e059614375b8a39fff",
+      "finalSha256": "464913b86b6bbf733388d235e9854cfcfd2e9adc5d2c2afbbfcb31866f5b7b50"
+    },
+    {
+      "path": "public/media/calculus/native/en/chapter-2.mjs",
+      "baseline": "baseline/public/media/calculus/native/en/chapter-2.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/calculus/native/en/chapter-2.mjs",
+      "baselineSha256": "86eb7faa1561666512be704e3afbd44e28a07c3a12cc01f8f0d96cd3cab1e376",
+      "finalSha256": "7adb2bc2fae4b29e64ee17abdffd8b50fae56c25dca56bcff9a23c9e75ff5eff"
+    },
+    {
+      "path": "public/media/calculus/native/en/chapter-3.mjs",
+      "baseline": "baseline/public/media/calculus/native/en/chapter-3.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/calculus/native/en/chapter-3.mjs",
+      "baselineSha256": "5870d3bca8abd74461755b2a6ee1049f814f8fa3bf7d4a7d3ab0ed3d99c0b1b9",
+      "finalSha256": "02faa73d0994740a59bc53054516ed24e03b679166faf34b69e42f6b7449f7e3"
+    },
+    {
+      "path": "public/media/calculus/native/ru/chapter-1.mjs",
+      "baseline": "baseline/public/media/calculus/native/ru/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/calculus/native/ru/chapter-1.mjs",
+      "baselineSha256": "8086c921523da5093d9bc7cfae79d30b11f4b5032f6a2b0142c0c80b4a55d47f",
+      "finalSha256": "e11133b8db35da733b72f996316b32d2f8005d4b96dce1ecb11f80a612e9db82"
+    },
+    {
+      "path": "public/media/calculus/native/ru/chapter-2.mjs",
+      "baseline": "baseline/public/media/calculus/native/ru/chapter-2.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/calculus/native/ru/chapter-2.mjs",
+      "baselineSha256": "9f3f8253510ebfe9dd58c7e2ecb033b5b09e090a5e9cbd090fe2958ee0b412fd",
+      "finalSha256": "e9f40237ae4d3190f0231d008a92cfc2202adbc5e8e9ca81cf182ebe43b12d30"
+    },
+    {
+      "path": "public/media/calculus/native/ru/chapter-3.mjs",
+      "baseline": "baseline/public/media/calculus/native/ru/chapter-3.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/calculus/native/ru/chapter-3.mjs",
+      "baselineSha256": "bd7e6729c909284f255ebfbfe63dc37863a939fab14d84e81586ac5d4184237c",
+      "finalSha256": "e6f400a3e438b486389835e6d5e95c866ba6b80fd9b235c00ce3c18870cb217e"
+    },
+    {
+      "path": "public/media/coloring/native/Threecolorplane-eng/timeline.mjs",
+      "baseline": "baseline/public/media/coloring/native/Threecolorplane-eng/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Threecolorplane-eng/timeline.mjs",
+      "baselineSha256": "02afd17af75d2af777505fa1c2d9bde8e0477a7c3080bc859c0216992c50ff90",
+      "finalSha256": "8c318e471b1b9e0f59adff0d12f4ffa008b623965c39f5d6767f49334ced0f58"
+    },
+    {
+      "path": "public/media/coloring/native/Threecolorplane-ru/timeline.mjs",
+      "baseline": "baseline/public/media/coloring/native/Threecolorplane-ru/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Threecolorplane-ru/timeline.mjs",
+      "baselineSha256": "2b426e22883d7c405ae1a38b95a362f5b49f37b398a7d069e0c777d206d6af5e",
+      "finalSha256": "9b72f48848e73673984012535908f6faa3565458293b6859d2548ba68ddce7a4"
+    },
+    {
+      "path": "public/media/coloring/native/Twocoloreqtri-eng/timeline.mjs",
+      "baseline": "baseline/public/media/coloring/native/Twocoloreqtri-eng/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Twocoloreqtri-eng/timeline.mjs",
+      "baselineSha256": "371f80c076865e92f29419a2caa39a01c3e5fe84440b38167d1f0c6987aaa3c5",
+      "finalSha256": "fa4f433dde63a33e4e5ea3948fc0149c0be5f5530c7c54379a9b702ff0a3f3c0"
+    },
+    {
+      "path": "public/media/coloring/native/Twocoloreqtri-ru/timeline.mjs",
+      "baseline": "baseline/public/media/coloring/native/Twocoloreqtri-ru/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Twocoloreqtri-ru/timeline.mjs",
+      "baselineSha256": "6813779861e5d8bcbdb5a05866d94f4cff8efae32442c1b917146dde45f532f3",
+      "finalSha256": "52b19d9a03faae3d734d9446926ccac164e86993007e9018b5e3269ed9c427e7"
+    },
+    {
+      "path": "public/media/coloring/native/Twocolorplane-eng/timeline.mjs",
+      "baseline": "baseline/public/media/coloring/native/Twocolorplane-eng/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Twocolorplane-eng/timeline.mjs",
+      "baselineSha256": "416624a0dc01839b0bb1f202ca2ba899762dfc7f5e5202b08af15c31a743f8c9",
+      "finalSha256": "f3344807275d9078e11e6453659c3d7dd98eba2876d1c5f7ea630588d2548bc9"
+    },
+    {
+      "path": "public/media/coloring/native/Twocolorplane/timeline.mjs",
+      "baseline": "baseline/public/media/coloring/native/Twocolorplane/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Twocolorplane/timeline.mjs",
+      "baselineSha256": "2ae9924530b2507bf739f36dfe2e758db93758f43cf4d27c922d4173489f5398",
+      "finalSha256": "c8b4c943975d182134632b636949d037455c5392f89160e9d7901a2276384808"
+    },
+    {
+      "path": "public/media/coloring/native/Twocolorplaneseg-en/timeline.mjs",
+      "baseline": "baseline/public/media/coloring/native/Twocolorplaneseg-en/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Twocolorplaneseg-en/timeline.mjs",
+      "baselineSha256": "31870c40ffd0759f4191de463853900c82eb6e9ca8e2de857b780635a9f51139",
+      "finalSha256": "5ed63659ddb9f9266ccf6190210a2406ee2d6934217f435a6d4f7a5f0e423b2e"
+    },
+    {
+      "path": "public/media/coloring/native/Twocolorplaneseg-ru/timeline.mjs",
+      "baseline": "baseline/public/media/coloring/native/Twocolorplaneseg-ru/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Twocolorplaneseg-ru/timeline.mjs",
+      "baselineSha256": "249e2bb92423761dc0fdee550976f8ec1d021ad5a847f8d62048d40a5462894e",
+      "finalSha256": "f563d20310196f0ff761f89d2e3074d2eeac44897f12248d364561db618e738d"
+    },
+    {
+      "path": "public/media/dissections/bills-en.mjs",
+      "baseline": "baseline/public/media/dissections/bills-en.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/dissections/bills-en.mjs",
+      "baselineSha256": "73a7b9f96b7595c87fbf3f5c2f3865d29a6b393072a72fd1eb63716edbea180d",
+      "finalSha256": "d1f4650a752fdaa10e8b3ac5e0ad60727e2789f67f851736c8c21f7fcfbeded4"
+    },
+    {
+      "path": "public/media/dissections/bills-ru.mjs",
+      "baseline": "baseline/public/media/dissections/bills-ru.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/dissections/bills-ru.mjs",
+      "baselineSha256": "8e68c2555de37878d76681d826ed384ac323d8f22c15a14f89b4aad51cee87ae",
+      "finalSha256": "df16bd125fe67badf4f546892bc8b6eaffe2aacbca4f83bd0c89f30f3cd12a99"
+    },
+    {
+      "path": "public/media/escher/canvas/Birdfish-e.mjs",
+      "baseline": "baseline/public/media/escher/canvas/Birdfish-e.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/escher/canvas/Birdfish-e.mjs",
+      "baselineSha256": "ab21ef97fef12914e409997d35ab507979d341cacdfe99ac65d924f5c23b9613",
+      "finalSha256": "9bf9f059f73c1072f704b96f0a44bf8f9894162e5f3c79965a319ed294dbfc6f"
+    },
+    {
+      "path": "public/media/escher/canvas/Escher-BandF-game.mjs",
+      "baseline": "baseline/public/media/escher/canvas/Escher-BandF-game.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/escher/canvas/Escher-BandF-game.mjs",
+      "baselineSha256": "678f3fc791080e1cfdaeda73c5e024024a110bdb441d3877c85640365efebecf",
+      "finalSha256": "f5eb64a15b2ae7959312a7a0900ca0b6ae8dd3cb5b6f23cab4593e8d20f24b84"
+    },
+    {
+      "path": "public/media/escher/canvas/Escher-ball.mjs",
+      "baseline": "baseline/public/media/escher/canvas/Escher-ball.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/escher/canvas/Escher-ball.mjs",
+      "baselineSha256": "18b3f63f34b2eb736ac4637383a801ecda2e4f6d00d05245370282b1dc87341d",
+      "finalSha256": "00e34aa2699c16621fb8da961b2e1a972cede13113008c008cb63cde008f7036"
+    },
+    {
+      "path": "public/media/escher/canvas/Escher-faces-game.mjs",
+      "baseline": "baseline/public/media/escher/canvas/Escher-faces-game.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/escher/canvas/Escher-faces-game.mjs",
+      "baselineSha256": "90d2d50c68a5a4bbc33bfa85673fca9caf26fb9bbed1760489e3b9bf6aa0e9fd",
+      "finalSha256": "d5f26912104c4b00493f5c34b426bbc4f3e410e3b245424b8bb985bd79ebf2b4"
+    },
+    {
+      "path": "public/media/escher/canvas/Escher-hands-game.mjs",
+      "baseline": "baseline/public/media/escher/canvas/Escher-hands-game.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/escher/canvas/Escher-hands-game.mjs",
+      "baselineSha256": "8b5643a5c1a7623549a1b9f8340e99fd84793d449be816a42a693957dbf76c8f",
+      "finalSha256": "26bb70e6555086484dc8dd5cef6ebdc3c369991571ae93cd24c1a5eb8d4ec2a7"
+    },
+    {
+      "path": "public/media/escher/canvas/Escher-lizards-game.mjs",
+      "baseline": "baseline/public/media/escher/canvas/Escher-lizards-game.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/escher/canvas/Escher-lizards-game.mjs",
+      "baselineSha256": "20f3ab3abf3541b10627f8a057cedf35a202a9a7037f31f409a8e5177a8252b1",
+      "finalSha256": "af9016cca9517b3ac53b78b12487cc9c675a20cdc28c518eadbaddaf30b7a39b"
+    },
+    {
+      "path": "public/media/escher/canvas/Escher-reptilies.mjs",
+      "baseline": "baseline/public/media/escher/canvas/Escher-reptilies.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/escher/canvas/Escher-reptilies.mjs",
+      "baselineSha256": "23c8366ca0f11431c3cac4daf81706ff34b45b4c69a134a9ba53de8fa1d54ca8",
+      "finalSha256": "afd4bb9b345232104fdd96b221368ec8b9e67e0ef6c0f677374c8d6f573c46eb"
+    },
+    {
+      "path": "public/media/escher/canvas/Escher-stairbig-game.mjs",
+      "baseline": "baseline/public/media/escher/canvas/Escher-stairbig-game.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/escher/canvas/Escher-stairbig-game.mjs",
+      "baselineSha256": "3fea1ad8efe69222e66e1e54c3c09204b1a54877c09f7662ea0d6ce7415549f5",
+      "finalSha256": "79533405da85a3b9db96add3e6ab99ff13bf5d7dfe1a5a6c5b2b45d098e354ef"
+    },
+    {
+      "path": "public/media/escher/canvas/Escher-stairs-game.mjs",
+      "baseline": "baseline/public/media/escher/canvas/Escher-stairs-game.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/escher/canvas/Escher-stairs-game.mjs",
+      "baselineSha256": "7c4405263775fdc88660789a5c9d3f041925e404fcbfb55cdf8f4aeeb019f38b",
+      "finalSha256": "85f1708f9ea33b2bcd3b818a446f02609e102f1747a18667028ffa81bb7d2d08"
+    },
+    {
+      "path": "public/media/escher/canvas/Escher-stairsbig.mjs",
+      "baseline": "baseline/public/media/escher/canvas/Escher-stairsbig.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/escher/canvas/Escher-stairsbig.mjs",
+      "baselineSha256": "4e40cd839f8d2e266f06f637f9aa982de8acd6ea633808f0805cc553281b66fd",
+      "finalSha256": "4ca628a47416d773a556a209958eecdd523df4d3a873cffefe384707f605c2aa"
+    },
+    {
+      "path": "public/media/escher/canvas/Escher-waterfall-game.mjs",
+      "baseline": "baseline/public/media/escher/canvas/Escher-waterfall-game.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/escher/canvas/Escher-waterfall-game.mjs",
+      "baselineSha256": "a00d1ab6ac78c4a51fb1a6fdf979bab5dbe2ba12738cef978798ddf28a7d0894",
+      "finalSha256": "21fb0125bcd420e0dfefcbfe7ccffbf6b4b7bc76710ffe86decdf99f9727fd88"
+    },
+    {
+      "path": "public/media/escher/canvas/Hands-escher.mjs",
+      "baseline": "baseline/public/media/escher/canvas/Hands-escher.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/escher/canvas/Hands-escher.mjs",
+      "baselineSha256": "1e8180abd70ea2084b72ab7d6237d3cbbacfded23f87a5d97fdf6388ef3f0b2f",
+      "finalSha256": "be6f31bfe5330cf9668f103c61d9befb4c8fb57e8497935cc437d177c6fef56c"
+    },
+    {
+      "path": "public/media/falling/audio/falling-figure/completion.mjs",
+      "baseline": "baseline/public/media/falling/audio/falling-figure/completion.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/falling/audio/falling-figure/completion.mjs",
+      "baselineSha256": "b095741beac6a4be7897b0b076a94d70f4c1f6a98eeae481247abc18c3d3cb6d",
+      "finalSha256": "bf602dfa046dcc51202e32f164efa66f5b63d72d39e658177c226138890fef6f"
+    },
+    {
+      "path": "public/media/fractals/native/buffon/en/frames-1-986.mjs",
+      "baseline": "baseline/public/media/fractals/native/buffon/en/frames-1-986.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/en/frames-1-986.mjs",
+      "baselineSha256": "0665cb8a31ea3de778944ee3825f8ff268122d802cbb409ba89748b4fc956dfa",
+      "finalSha256": "5703d7d995b8cb79197e481a28f0dcc8fa204772d90129f03f6ef1883cc13d2a"
+    },
+    {
+      "path": "public/media/fractals/native/buffon/en/frames-2797-3876.mjs",
+      "baseline": "baseline/public/media/fractals/native/buffon/en/frames-2797-3876.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/en/frames-2797-3876.mjs",
+      "baselineSha256": "0ae43b4d208fba2828b5167cdae652cbe9be4d7fa525b2da3cbee96d53d3748f",
+      "finalSha256": "afae026f592b6ef97ac8d0f6c866406bf8cf48a57b477b90135f05d92d30d01f"
+    },
+    {
+      "path": "public/media/fractals/native/buffon/en/frames-3877-4214.mjs",
+      "baseline": "baseline/public/media/fractals/native/buffon/en/frames-3877-4214.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/en/frames-3877-4214.mjs",
+      "baselineSha256": "b3034b7890e17aaccac751ca759b159cced72c0f61de6d3a61db78c7d9727e33",
+      "finalSha256": "dd18923f8cd6677407f104d51ddd85d4048502be0e3930fc33bcc8d5a401c970"
+    },
+    {
+      "path": "public/media/fractals/native/buffon/en/frames-987-2796.mjs",
+      "baseline": "baseline/public/media/fractals/native/buffon/en/frames-987-2796.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/en/frames-987-2796.mjs",
+      "baselineSha256": "45dcdb3e8bb7eb3eeeee42e8e046395ff8f7af73da6cdb777fa98ae6f7c5abe5",
+      "finalSha256": "e1fa92f4efb9001ca9830c6971d86e8fd3df8270be4b2fca7fea31346725923f"
+    },
+    {
+      "path": "public/media/fractals/native/buffon/ru/frames-1-851.mjs",
+      "baseline": "baseline/public/media/fractals/native/buffon/ru/frames-1-851.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/ru/frames-1-851.mjs",
+      "baselineSha256": "e180b98169b2a26db44dd06db9f6327e9ee0e89012041a3223a024e257b1605d",
+      "finalSha256": "8952ba40077a31d16192172a51443b18ccb3f3d229a94375bcbc9b56fe4a19e3"
+    },
+    {
+      "path": "public/media/fractals/native/buffon/ru/frames-2662-3423.mjs",
+      "baseline": "baseline/public/media/fractals/native/buffon/ru/frames-2662-3423.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/ru/frames-2662-3423.mjs",
+      "baselineSha256": "8d5534d5cc440c6820a21570af5b4a4ce4d825ff6f57aea67396b51ff4cf1687",
+      "finalSha256": "485ba6915c88bd64d3fbf3a28a1740e327b61f1b9ba6228c624d400b909429c8"
+    },
+    {
+      "path": "public/media/fractals/native/buffon/ru/frames-3424-3823.mjs",
+      "baseline": "baseline/public/media/fractals/native/buffon/ru/frames-3424-3823.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/ru/frames-3424-3823.mjs",
+      "baselineSha256": "6102a4ddf7f829fd889f020a90726a33fa9038a582ff46c082321cc43f9467db",
+      "finalSha256": "c4f6d68d8b9bdd0368d10a75af419563e00ad3bcd18ef8b5a10af536d35897bc"
+    },
+    {
+      "path": "public/media/fractals/native/buffon/ru/frames-852-2661.mjs",
+      "baseline": "baseline/public/media/fractals/native/buffon/ru/frames-852-2661.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/ru/frames-852-2661.mjs",
+      "baselineSha256": "b6bb3a17bb2088143d7dec1840feb74c5ba0467edab828e4f8179241dfb18f3a",
+      "finalSha256": "1c5a2d6b0d9b381218cde8449cbecacaf84d7cbfc4dc42b587a81aa29b85cd28"
+    },
+    {
+      "path": "public/media/fractals/native/carpet/en/frames-1-1144.mjs",
+      "baseline": "baseline/public/media/fractals/native/carpet/en/frames-1-1144.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/carpet/en/frames-1-1144.mjs",
+      "baselineSha256": "f4eb6e49562a3c29f52a38082810add665e2337742f82c63ef3e83b7b56051ee",
+      "finalSha256": "cb15868671d97d625f6c2b8f8639f00dfd9df339f571d17936a8fdf5087cb3d9"
+    },
+    {
+      "path": "public/media/fractals/native/mobius-face/en/frames-1-685.mjs",
+      "baseline": "baseline/public/media/fractals/native/mobius-face/en/frames-1-685.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/mobius-face/en/frames-1-685.mjs",
+      "baselineSha256": "57fadfff5283ea0ac2f76eece4569bb93d00114edd448d2e38e18b506343f997",
+      "finalSha256": "f86ba6c67ad95e051e344c166cb6f2f7f51972f2c9a01da0664f0d1b0fcfcf28"
+    },
+    {
+      "path": "public/media/kids/audio/kids-find-connect/lesson.mjs",
+      "baseline": "baseline/public/media/kids/audio/kids-find-connect/lesson.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-find-connect/lesson.mjs",
+      "baselineSha256": "3945e742cf31ed12ab5b6f0e2aa00f2a328677a7d0ecd995688dbadd28652776",
+      "finalSha256": "eb557e05329ba91a4d24e4de4649d44eec7b56b2f59e07d46795f81f2e495e99"
+    },
+    {
+      "path": "public/media/kids/audio/kids-find-couple/lesson.mjs",
+      "baseline": "baseline/public/media/kids/audio/kids-find-couple/lesson.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-find-couple/lesson.mjs",
+      "baselineSha256": "1a6086be74fcbf6613a207b719fbf39735ffe1d5c9579ab21c55ed4ddfe64b66",
+      "finalSha256": "d17bfaea79689ce64e8eb11559e636e2114b434a8263f84fd00760ef002e08b8"
+    },
+    {
+      "path": "public/media/kids/audio/kids-find-improper/lesson.mjs",
+      "baseline": "baseline/public/media/kids/audio/kids-find-improper/lesson.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-find-improper/lesson.mjs",
+      "baselineSha256": "a4f79fb085f018441a16ce7f62098bd18fa27f65f844f3b391199c364c5453b1",
+      "finalSha256": "31c71bbd4809a7f79e1f794f47404d84553b312867c95f2b087cb10ff3a7613f"
+    },
+    {
+      "path": "public/media/kids/audio/kids-find-match/lesson.mjs",
+      "baseline": "baseline/public/media/kids/audio/kids-find-match/lesson.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-find-match/lesson.mjs",
+      "baselineSha256": "46fef9a31d84f28cd250505e60b8901cb6e82f8bf3540c73e1e12551d8b80119",
+      "finalSha256": "9603993a4f8528a9f92a47212466699ba26ba863bfe46c87291379261e568d0b"
+    },
+    {
+      "path": "public/media/kids/audio/kids-find-proper/lesson.mjs",
+      "baseline": "baseline/public/media/kids/audio/kids-find-proper/lesson.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-find-proper/lesson.mjs",
+      "baselineSha256": "3b107bce473084d4a6bda07783d99191b533f78396e13083daa344b7b62a5bda",
+      "finalSha256": "cdc4d3bc82e0307a25fa581463cfcf8db183fcd80ee1e914914e1894431864e2"
+    },
+    {
+      "path": "public/media/kids/audio/kids-find-same/lesson.mjs",
+      "baseline": "baseline/public/media/kids/audio/kids-find-same/lesson.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-find-same/lesson.mjs",
+      "baselineSha256": "7248769c48c852a10a14389fb4bc1894bcba6c6971ab6b683b5412c53391cc7d",
+      "finalSha256": "6366f1e03f1e1a8b28c7af072e8ae44472d7fa31dd3afdced96f3ee5c9d31f4f"
+    },
+    {
+      "path": "public/media/kids/audio/kids-put-place/lesson.mjs",
+      "baseline": "baseline/public/media/kids/audio/kids-put-place/lesson.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-put-place/lesson.mjs",
+      "baselineSha256": "7a9d6a57cac1c856fc5c54632ad33945bd65c9a1f9c94fb3672cdfb1064ee21d",
+      "finalSha256": "9871fe3d5a7a7abd62b3494327b0aeb3f3ba955627847e29065e118613da59d9"
+    },
+    {
+      "path": "public/media/kids/audio/kids-share-color/lesson.mjs",
+      "baseline": "baseline/public/media/kids/audio/kids-share-color/lesson.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-share-color/lesson.mjs",
+      "baselineSha256": "8b0a1b041228c4e69da4c5eb39846167391f83fcfaee86a89b52a2d4811069d5",
+      "finalSha256": "43aebd5f22076c9da3087e2238a2aa294be4f70f718d1b336b216f002a24edf7"
+    },
+    {
+      "path": "public/media/kids/audio/kids-share-shape/lesson.mjs",
+      "baseline": "baseline/public/media/kids/audio/kids-share-shape/lesson.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-share-shape/lesson.mjs",
+      "baselineSha256": "c92532d3832508a9c7c9070ed237e0f097be21a0f84b27352c6b47b963ef6904",
+      "finalSha256": "c71e2622bae64d4170c7ee2a58be554ed4eb0fbbfb23563c32d56286d9e2305f"
+    },
+    {
+      "path": "public/media/kids/audio/kids-share-size/lesson.mjs",
+      "baseline": "baseline/public/media/kids/audio/kids-share-size/lesson.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-share-size/lesson.mjs",
+      "baselineSha256": "d09b64b8d383dd9a22dec93caf91df42760b5322f2e35402a2d6333f9821dbfc",
+      "finalSha256": "0e78b951e6f4af1e22030fbfbabd6a0f75be82b71265295766f03acf2f3024fd"
+    },
+    {
+      "path": "public/media/logic/native/wisemen-eight-en-hint.mjs",
+      "baseline": "baseline/public/media/logic/native/wisemen-eight-en-hint.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-eight-en-hint.mjs",
+      "baselineSha256": "daa72913cb2b5a1c0d8bdd76152daab38d8e2a0ad0f26857d6e2239fd39f285b",
+      "finalSha256": "0c3d7907f11115ed56a2e13708237c207e523b7a7b1fefbbe64e608f6a3c9c54"
+    },
+    {
+      "path": "public/media/logic/native/wisemen-eight-en-story.mjs",
+      "baseline": "baseline/public/media/logic/native/wisemen-eight-en-story.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-eight-en-story.mjs",
+      "baselineSha256": "96d554815f482545b1f2c9de233fb4a87140c8fbc34b400fdcb5d7fb57dfb131",
+      "finalSha256": "0490e887869d78ea026e011844955f236ca0d491012097b9db74c3ef35bf6228"
+    },
+    {
+      "path": "public/media/logic/native/wisemen-eight-ru-hint.mjs",
+      "baseline": "baseline/public/media/logic/native/wisemen-eight-ru-hint.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-eight-ru-hint.mjs",
+      "baselineSha256": "6a4a008ce4d91271c3325a55f59bd6c550466a1480e50244f96e452ac0a0645d",
+      "finalSha256": "4895b5a7623c045b9d12984dc375ce2b08d44466a0e1250d7e276383b7713831"
+    },
+    {
+      "path": "public/media/logic/native/wisemen-eight-ru-story.mjs",
+      "baseline": "baseline/public/media/logic/native/wisemen-eight-ru-story.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-eight-ru-story.mjs",
+      "baselineSha256": "fbd345b004649c587b43da7966d1953f51dcc6afcf593cef4c5774d537d1f589",
+      "finalSha256": "6d413b38a1dadd82954273fa9bc6f8d6c1ceeac9b4cd25962aa69cea99f6a394"
+    },
+    {
+      "path": "public/media/logic/native/wisemen-en-hint.mjs",
+      "baseline": "baseline/public/media/logic/native/wisemen-en-hint.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-en-hint.mjs",
+      "baselineSha256": "8dd1359a3935873c2ff5f768c80a93fc44ad0468b8813560d8385b6991fa933a",
+      "finalSha256": "cb492de40aa8abcc39d71d171a73e5ad6832ee3aa93797fa1bc07a0c85460301"
+    },
+    {
+      "path": "public/media/logic/native/wisemen-en-story.mjs",
+      "baseline": "baseline/public/media/logic/native/wisemen-en-story.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-en-story.mjs",
+      "baselineSha256": "cfafaf40b6cfb87d2943fb63f4a7adca3772f6dd7383d4db95788660d4b50b7f",
+      "finalSha256": "25e65ef845e87001b504c511bef5cac0ae483a75b7986a29563e7178a86b20b9"
+    },
+    {
+      "path": "public/media/logic/native/wisemen-ru-hint.mjs",
+      "baseline": "baseline/public/media/logic/native/wisemen-ru-hint.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-ru-hint.mjs",
+      "baselineSha256": "3f8313bc7742739e5ab53b374957d4c5d60c6b2543833438377df73ab55c52e7",
+      "finalSha256": "a287235a387fea3af50b88a18c6b1129a44aa7d387fecbbf9f89814d7e1fc1dc"
+    },
+    {
+      "path": "public/media/logic/native/wisemen-ru-story.mjs",
+      "baseline": "baseline/public/media/logic/native/wisemen-ru-story.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-ru-story.mjs",
+      "baselineSha256": "a5b1ed49dfabdba430bff403d63c291092674ac03178a6118725e1c8fac0d92e",
+      "finalSha256": "7006bd4f804a06837f1bc3daa1ac859a0ccad2ac06eb32d96b7dc1788db2e9b1"
+    },
+    {
+      "path": "public/media/magic/native/hourglasses/en/hint.mjs",
+      "baseline": "baseline/public/media/magic/native/hourglasses/en/hint.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/magic/native/hourglasses/en/hint.mjs",
+      "baselineSha256": "93b949f2089b3d49617eeb0dd9e98de51ba637044ed24bfd2d4414d660036fed",
+      "finalSha256": "431f078cfe2fa930d6d5495e5a5d37c18ff880d4fe61bc849c6d80a0df1a698a"
+    },
+    {
+      "path": "public/media/magic/native/hourglasses/en/question.mjs",
+      "baseline": "baseline/public/media/magic/native/hourglasses/en/question.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/magic/native/hourglasses/en/question.mjs",
+      "baselineSha256": "67290ba017d40d0c087acf9a514725e5cdb5ac3601b55f53aad1b512ce51fa97",
+      "finalSha256": "5c67bef1ea78d182256160f886b8dcb90741f43e1321c998e4e06d901582b0e8"
+    },
+    {
+      "path": "public/media/magic/native/hourglasses/ru/hint.mjs",
+      "baseline": "baseline/public/media/magic/native/hourglasses/ru/hint.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/magic/native/hourglasses/ru/hint.mjs",
+      "baselineSha256": "440b3bd6081a3f04e4e58a8707e7d01bf1d009272ef677ec0f841d6b9e12ffa5",
+      "finalSha256": "252725c7c745801fd5c7343558aab88b9cf0e4cd5e2552d601d498f775098b88"
+    },
+    {
+      "path": "public/media/magic/native/hourglasses/ru/question.mjs",
+      "baseline": "baseline/public/media/magic/native/hourglasses/ru/question.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/magic/native/hourglasses/ru/question.mjs",
+      "baselineSha256": "d4e997a25bb593bf633bba48e7a9d1bdc14bcf209e415bdb31a37cdf57fafc56",
+      "finalSha256": "4a94e1b9e31d28ed3fb9df8d2b5458af50ec9009d471d824e814f8d0ce31e8ac"
+    },
+    {
+      "path": "public/media/magic/native/subtraction/en/lesson.mjs",
+      "baseline": "baseline/public/media/magic/native/subtraction/en/lesson.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/magic/native/subtraction/en/lesson.mjs",
+      "baselineSha256": "cf146b8aedefffc022a312aabd6ff23d4a6af01c498912135866db529b61cbcf",
+      "finalSha256": "ef4a9cc572b7636fd520b7869f76f68735225fcbeefd8875d4320ec636bc5c6b"
+    },
+    {
+      "path": "public/media/magic/native/subtraction/ru/lesson.mjs",
+      "baseline": "baseline/public/media/magic/native/subtraction/ru/lesson.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/magic/native/subtraction/ru/lesson.mjs",
+      "baselineSha256": "e07786eb5d4d3e13bf60ccfc48e9a682e282b96ee6c5d29e7484609d8a0aa008",
+      "finalSha256": "2b840a26c903337e4dbe31ad2d354492c0471ca1264edd03d7582e683414e16c"
+    },
+    {
+      "path": "public/media/measurement/native/area/en/timeline.mjs",
+      "baseline": "baseline/public/media/measurement/native/area/en/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/measurement/native/area/en/timeline.mjs",
+      "baselineSha256": "7fddc87d3f7427a38da97bf5a04a0c6fab86e957262f88580aad42518eb676d2",
+      "finalSha256": "a42d463be67858baed1e1052b55452d4d0cf5c0a036af29558eff615183520d5"
+    },
+    {
+      "path": "public/media/measurement/native/area/ru/timeline.mjs",
+      "baseline": "baseline/public/media/measurement/native/area/ru/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/measurement/native/area/ru/timeline.mjs",
+      "baselineSha256": "ad70812a746cde92b01f0fa55b09611459d04ee52f097711206957042b67881e",
+      "finalSha256": "f1ef71faf8c872af46f3492d30b32ce9baee870f4a2b361508875698fc65960d"
+    },
+    {
+      "path": "public/media/measurement/native/circle/en/timeline.mjs",
+      "baseline": "baseline/public/media/measurement/native/circle/en/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/measurement/native/circle/en/timeline.mjs",
+      "baselineSha256": "2519de4a23d37a7e5ae5fa1b8ef5f4905af0e5cf454ad335416acf764a000cb8",
+      "finalSha256": "e24cdea120d58f9cc36b1e9b8d9e7b32f48367e03f38954973f665f7f99d9dab"
+    },
+    {
+      "path": "public/media/measurement/native/circle/ru/timeline.mjs",
+      "baseline": "baseline/public/media/measurement/native/circle/ru/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/measurement/native/circle/ru/timeline.mjs",
+      "baselineSha256": "7f4d5a2a57d56b1fb65e293d6f266a5da0d052d8ac371c1ca5197007f08e78fb",
+      "finalSha256": "1365dee59f855629927d29bcd34cd6247ef8c9676460e009f392caac6b0e00ca"
+    },
+    {
+      "path": "public/media/measurement/native/polygon/en/timeline.mjs",
+      "baseline": "baseline/public/media/measurement/native/polygon/en/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/measurement/native/polygon/en/timeline.mjs",
+      "baselineSha256": "ca05c09c5930f5d7ac670c3ef8101f32fd70c73a366973bf1e4d85a650f709c4",
+      "finalSha256": "8d917a7dc5c8a041cadc136658b437b7947a175454dc503d4a5058178d1a7d20"
+    },
+    {
+      "path": "public/media/measurement/native/polygon/ru/timeline.mjs",
+      "baseline": "baseline/public/media/measurement/native/polygon/ru/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/measurement/native/polygon/ru/timeline.mjs",
+      "baselineSha256": "3ec83d313e57cfd35a83e5667299dec8bb7510969d412c1ce3e38f56fa6c76ed",
+      "finalSha256": "e71d1746fc4fc5a7e00451c8f9adf457fffda785c593ae0aaac183dfb91311a3"
+    },
+    {
+      "path": "public/media/motion/native/caterpillar/en/frames-1-518.mjs",
+      "baseline": "baseline/public/media/motion/native/caterpillar/en/frames-1-518.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/caterpillar/en/frames-1-518.mjs",
+      "baselineSha256": "7e845b9d5e1d5e305def4e535c08e456784824efba714edb98f9fb76ca90c70b",
+      "finalSha256": "0f55f283a9948673e0a0e11fcfd0e9047ef8508216ea93b3308376822a07a994"
+    },
+    {
+      "path": "public/media/motion/native/caterpillar/en/frames-519-519.mjs",
+      "baseline": "baseline/public/media/motion/native/caterpillar/en/frames-519-519.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/caterpillar/en/frames-519-519.mjs",
+      "baselineSha256": "d40253b380e872d4ea426207da2f6fdac6c6a575237abec51fd899ef0c3bf6a9",
+      "finalSha256": "47ba8ef13e6cd936a99c7f2a66438c2fa8d86e00ad24502ef20bed5aba641184"
+    },
+    {
+      "path": "public/media/motion/native/caterpillar/en/frames-520-1000.mjs",
+      "baseline": "baseline/public/media/motion/native/caterpillar/en/frames-520-1000.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/caterpillar/en/frames-520-1000.mjs",
+      "baselineSha256": "23c5f12e19d1a36dcb1cc965402f26fbbcfabc1fe31525d2ea59bd4a4226a5df",
+      "finalSha256": "2952e97b7ab142fed5cb3626bb15a7d81d22e4d449b61b19bbdaa49fa8c6e96a"
+    },
+    {
+      "path": "public/media/motion/native/caterpillar/ru/frames-1-518.mjs",
+      "baseline": "baseline/public/media/motion/native/caterpillar/ru/frames-1-518.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/caterpillar/ru/frames-1-518.mjs",
+      "baselineSha256": "98abb1da8415f254a7b6b966356d96bb9552a893e1f41da12b2007919d45b9c0",
+      "finalSha256": "fc3f72d23b4be4535811ec5d2b17b0b39134480b32652824544ce902453b31bb"
+    },
+    {
+      "path": "public/media/motion/native/caterpillar/ru/frames-519-519.mjs",
+      "baseline": "baseline/public/media/motion/native/caterpillar/ru/frames-519-519.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/caterpillar/ru/frames-519-519.mjs",
+      "baselineSha256": "aab26ccb6ec6818ed377b670a63f8691c0fd05f4861c073619d0b50644617b37",
+      "finalSha256": "ab77b683e5257346b3e1dd16bff9cb6f7143ca8260f7fa96e18b2fc1d39156e2"
+    },
+    {
+      "path": "public/media/motion/native/caterpillar/ru/frames-520-1000.mjs",
+      "baseline": "baseline/public/media/motion/native/caterpillar/ru/frames-520-1000.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/caterpillar/ru/frames-520-1000.mjs",
+      "baselineSha256": "451495312fedaaf8479e720b1787c5d9fcfef85d48ea339a5c629817007f0a53",
+      "finalSha256": "39e55e010d7f29b37009aa581f30f609cf9666b811a79dade118a188b770d01f"
+    },
+    {
+      "path": "public/media/motion/native/coin-cluster/en/frames-1-1257.mjs",
+      "baseline": "baseline/public/media/motion/native/coin-cluster/en/frames-1-1257.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/coin-cluster/en/frames-1-1257.mjs",
+      "baselineSha256": "b9a0cc9cc1212311579a75c09543c9ab673ac7fb485bec1718a00e57d21e4bf5",
+      "finalSha256": "522c4861089cf6db3d85fd7023def7874018acfd1531135f11679e6ccfa3e7f9"
+    },
+    {
+      "path": "public/media/motion/native/coin-cluster/en/frames-1258-1558.mjs",
+      "baseline": "baseline/public/media/motion/native/coin-cluster/en/frames-1258-1558.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/coin-cluster/en/frames-1258-1558.mjs",
+      "baselineSha256": "d03c0b64b6fb0192c2b9b406b9dfaa47fadb8b117a74c8d9a313fd281f58055f",
+      "finalSha256": "ed04b443429f5ffaac77b30f724f4f6cc83a6229e0be2736849b8e1baa2c1fb6"
+    },
+    {
+      "path": "public/media/motion/native/coin-cluster/ru/frames-1-1257.mjs",
+      "baseline": "baseline/public/media/motion/native/coin-cluster/ru/frames-1-1257.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/coin-cluster/ru/frames-1-1257.mjs",
+      "baselineSha256": "9668aea0bcc175625417aa27ed0fbbde88855c5f0f08f8804857e0205f92929c",
+      "finalSha256": "f35bfec94a76169fda7f06d60e070495de8099f3586f14952b53eebc23fe04af"
+    },
+    {
+      "path": "public/media/motion/native/coin-cluster/ru/frames-1258-1558.mjs",
+      "baseline": "baseline/public/media/motion/native/coin-cluster/ru/frames-1258-1558.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/coin-cluster/ru/frames-1258-1558.mjs",
+      "baselineSha256": "cab9cf61e97d349172c3984147940f43c069919905d26c749875e9105a852b55",
+      "finalSha256": "e6ad6f9aaca248099de941112e3b45321a6ae5df386d81b0249941e36b036aee"
+    },
+    {
+      "path": "public/media/motion/native/cyclists/en/frames-1-818.mjs",
+      "baseline": "baseline/public/media/motion/native/cyclists/en/frames-1-818.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/en/frames-1-818.mjs",
+      "baselineSha256": "0cc316d475e19df7ddc8bcdafd92c4e855d2288b60ded5715a17158926c5553e",
+      "finalSha256": "bedac8cf2414679a2e6c40346136b443bd95d73707f2057fb2b516caee80416a"
+    },
+    {
+      "path": "public/media/motion/native/cyclists/en/frames-819-837.mjs",
+      "baseline": "baseline/public/media/motion/native/cyclists/en/frames-819-837.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/en/frames-819-837.mjs",
+      "baselineSha256": "c34e0182e0c4d52174662d0979cfabb9245ffa24b0988c08780c57709c5d6b78",
+      "finalSha256": "a187aa3eeb91907ed42094ce2924fec7dfc4ae84b8ccde791007ec36c6d19408"
+    },
+    {
+      "path": "public/media/motion/native/cyclists/en/frames-838-840.mjs",
+      "baseline": "baseline/public/media/motion/native/cyclists/en/frames-838-840.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/en/frames-838-840.mjs",
+      "baselineSha256": "f53b96dc485c51757c00dfbedc8ee0f51dca80de4af68292b21b0ca30057b533",
+      "finalSha256": "2c6b51e38ca89da40365624bda2391b75570d76e3ba49209d19ffe35f13e52de"
+    },
+    {
+      "path": "public/media/motion/native/cyclists/en/frames-841-880.mjs",
+      "baseline": "baseline/public/media/motion/native/cyclists/en/frames-841-880.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/en/frames-841-880.mjs",
+      "baselineSha256": "344ba5b6eb02ff56cc8a95ed4f3ecbb669cc9d15a88776ca19dcc98cefa6a5ac",
+      "finalSha256": "42aa95d9b6c80bca276ab8026476b08b81f70a2eb059d7f3da52790f898cb9e9"
+    },
+    {
+      "path": "public/media/motion/native/cyclists/ru/frames-1-818.mjs",
+      "baseline": "baseline/public/media/motion/native/cyclists/ru/frames-1-818.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/ru/frames-1-818.mjs",
+      "baselineSha256": "fb306a532158f87ad0a0f50d099772bfbae3e984bfc46a01d91b6803eedb28e5",
+      "finalSha256": "da53ee10e9a8be7dcf89c261ec933c7babcc6d1745bcde4a84eb83fbc2a5eaff"
+    },
+    {
+      "path": "public/media/motion/native/cyclists/ru/frames-819-837.mjs",
+      "baseline": "baseline/public/media/motion/native/cyclists/ru/frames-819-837.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/ru/frames-819-837.mjs",
+      "baselineSha256": "8cd5139a959e5804c4bac130d29273c7593a61e3a3f8b5d94387d1fc90f3ded6",
+      "finalSha256": "05c0c1503d767ab53b5bbe17438e5742e302a29b464fa4c37b1d55824fa9e960"
+    },
+    {
+      "path": "public/media/motion/native/cyclists/ru/frames-838-840.mjs",
+      "baseline": "baseline/public/media/motion/native/cyclists/ru/frames-838-840.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/ru/frames-838-840.mjs",
+      "baselineSha256": "f33ce16fefd906aae0559ca09a404691d9044f4cad61278199b1997c1f42e68d",
+      "finalSha256": "bed3378d04e478435f1f1b613609b0c71213949db3443a5ecbf3c47036325310"
+    },
+    {
+      "path": "public/media/motion/native/cyclists/ru/frames-841-880.mjs",
+      "baseline": "baseline/public/media/motion/native/cyclists/ru/frames-841-880.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/ru/frames-841-880.mjs",
+      "baselineSha256": "a8573b1e5f50564fcb7169ef7c8e067f36a314c3637605d1ef791d1b1a49df1f",
+      "finalSha256": "73ec085ce75a873a63b7b126065d47c502fb895b0e721ac306c8c8a2b656cf17"
+    },
+    {
+      "path": "public/media/motion/native/cyclists/zh/frames-1-818.mjs",
+      "baseline": "baseline/public/media/motion/native/cyclists/zh/frames-1-818.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/zh/frames-1-818.mjs",
+      "baselineSha256": "ff87dd5079a7e76661d595edfabbc147e3a4a4f2046f4a64797f4c62c77d8fd6",
+      "finalSha256": "9bf6e52673114fa36864fe3995b5bcc5e28722765093c51e352a97807d0b9eca"
+    },
+    {
+      "path": "public/media/motion/native/cyclists/zh/frames-819-840.mjs",
+      "baseline": "baseline/public/media/motion/native/cyclists/zh/frames-819-840.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/zh/frames-819-840.mjs",
+      "baselineSha256": "981c2578ec4cf667d6a24aab6052b5657ca24f32df27764b322c4d0aa2158392",
+      "finalSha256": "b8918bda8b8eaa31b60dbc9c02ee22e2aa849d9d4eeaed218c246391c092a29e"
+    },
+    {
+      "path": "public/media/motion/native/cyclists/zh/frames-841-843.mjs",
+      "baseline": "baseline/public/media/motion/native/cyclists/zh/frames-841-843.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/zh/frames-841-843.mjs",
+      "baselineSha256": "3746d1fcb6cfb4e5c074cd5d7c9bc7fbe1040bf75094069258cb868e7d404965",
+      "finalSha256": "fee65a19d0e317f8bbdbdaa73ac127b5aed8bcecb170d2c901eb65c83c02f026"
+    },
+    {
+      "path": "public/media/motion/native/earth-belt/en/frames-1-580.mjs",
+      "baseline": "baseline/public/media/motion/native/earth-belt/en/frames-1-580.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-belt/en/frames-1-580.mjs",
+      "baselineSha256": "2c0eb4fe62dc26ca951ec3585aa40484bd9899a209e9c720d3645ec3e5421552",
+      "finalSha256": "778c56a2082e97672ea4963834fa1ca23c3485392eed8f7aead66c140c4f5511"
+    },
+    {
+      "path": "public/media/motion/native/earth-belt/en/frames-581-1028.mjs",
+      "baseline": "baseline/public/media/motion/native/earth-belt/en/frames-581-1028.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-belt/en/frames-581-1028.mjs",
+      "baselineSha256": "9a7babc8eb67d76246fda9c021fdedac7cac34d68192096b78e3d459a90f1307",
+      "finalSha256": "4224d5dadeea8e8b305ff9e8ee3c0d074c70e439f07a23e2c78c1cdb3906bd2e"
+    },
+    {
+      "path": "public/media/motion/native/earth-belt/ru/frames-1-580.mjs",
+      "baseline": "baseline/public/media/motion/native/earth-belt/ru/frames-1-580.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-belt/ru/frames-1-580.mjs",
+      "baselineSha256": "2f7adaf1cb0633a06c0d61da56a7916f92e5c3f213ce365ae02c510a9a353d82",
+      "finalSha256": "d9f9f89ea0302f60a9cf9bfe8aea90054663a24ada04157cf19519406eac7cd0"
+    },
+    {
+      "path": "public/media/motion/native/earth-belt/ru/frames-581-1028.mjs",
+      "baseline": "baseline/public/media/motion/native/earth-belt/ru/frames-581-1028.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-belt/ru/frames-581-1028.mjs",
+      "baselineSha256": "13b38d12161b375dedf3ca97d44bb17ac6daf77856ee4d327b27fb5b188bd45f",
+      "finalSha256": "94a9efab0399b0e51e7d48ca17681bad214a54f7ae35d126880702ffa19f0b6b"
+    },
+    {
+      "path": "public/media/motion/native/earth-walk/en/frames-1-623.mjs",
+      "baseline": "baseline/public/media/motion/native/earth-walk/en/frames-1-623.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/en/frames-1-623.mjs",
+      "baselineSha256": "931516e2752f9e87ac00ec424edc22bdf1e4102af3937b9b0469e1534c09c259",
+      "finalSha256": "9f538b0d3b864f5f9edde40e7f5dc9c54410bc7fae8a0e0d3ce6b195051bd14f"
+    },
+    {
+      "path": "public/media/motion/native/earth-walk/en/frames-624-641.mjs",
+      "baseline": "baseline/public/media/motion/native/earth-walk/en/frames-624-641.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/en/frames-624-641.mjs",
+      "baselineSha256": "810b2a9fcf4d51adbc2661c98cf5859e2d16859ed7db0924ad7cb5d97b573bdb",
+      "finalSha256": "f20a35d399ce0b5a98b9b0048e7f651d68699359131244f0e7c0ebec004a84e5"
+    },
+    {
+      "path": "public/media/motion/native/earth-walk/en/frames-642-645.mjs",
+      "baseline": "baseline/public/media/motion/native/earth-walk/en/frames-642-645.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/en/frames-642-645.mjs",
+      "baselineSha256": "2c66a68972c593faec5982b80a08a09c22ca2a0107adeafa6d9aac8529e411db",
+      "finalSha256": "2989439db9b1ca8f588b9a2e29f7aaf382c76078efe0457701adcac763b97a60"
+    },
+    {
+      "path": "public/media/motion/native/earth-walk/en/frames-646-890.mjs",
+      "baseline": "baseline/public/media/motion/native/earth-walk/en/frames-646-890.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/en/frames-646-890.mjs",
+      "baselineSha256": "56a1b0580b337bec53bad1a9b85f90a9fdb4c5e1305b745feaf603139b7d4d23",
+      "finalSha256": "f1b43aad6707b0214ac8e613df5a50a6015ce075e1e58c2435fcc71e62eba503"
+    },
+    {
+      "path": "public/media/motion/native/earth-walk/ru/frames-1-623.mjs",
+      "baseline": "baseline/public/media/motion/native/earth-walk/ru/frames-1-623.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/ru/frames-1-623.mjs",
+      "baselineSha256": "36d4fc74da27dc3d16564eec401e8e731d7583fa163fb83c0739ee8c0eaa6ce4",
+      "finalSha256": "5e07fb96ccc735e556166ae9e5cd1fc5a0629a6c1288a52bbfdcdb1ef44785d5"
+    },
+    {
+      "path": "public/media/motion/native/earth-walk/ru/frames-624-641.mjs",
+      "baseline": "baseline/public/media/motion/native/earth-walk/ru/frames-624-641.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/ru/frames-624-641.mjs",
+      "baselineSha256": "52624c199ccea4edeb9f37b7bdf1e0f14de1cf6b0fb4fb5daebe8628ce71e165",
+      "finalSha256": "84598ab14298fe30c069c824dbf556965e4cf3062db3c5707ae80a1a66b423fc"
+    },
+    {
+      "path": "public/media/motion/native/earth-walk/ru/frames-642-645.mjs",
+      "baseline": "baseline/public/media/motion/native/earth-walk/ru/frames-642-645.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/ru/frames-642-645.mjs",
+      "baselineSha256": "638dea60065e85140df790467594c7a692a0430cb0e119d554ca4e32d4ba908f",
+      "finalSha256": "6d169ff8eff8d1a0f954b7bbac98a0a46f4cd7e619a6dfec2803f0d825d17f61"
+    },
+    {
+      "path": "public/media/motion/native/earth-walk/ru/frames-646-890.mjs",
+      "baseline": "baseline/public/media/motion/native/earth-walk/ru/frames-646-890.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/ru/frames-646-890.mjs",
+      "baselineSha256": "f0521f785543005ea628ba6910b7f0ba03dc43e2803b617ce1402174cd71e792",
+      "finalSha256": "87d1b7f1743f93ae5172a70cbe9daa3d04958478f4aaa1ffb4d34a6098c018c1"
+    },
+    {
+      "path": "public/media/motion/native/square-coin/en/frames-1-261.mjs",
+      "baseline": "baseline/public/media/motion/native/square-coin/en/frames-1-261.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/en/frames-1-261.mjs",
+      "baselineSha256": "eb6f55f1726d4658ef287f02e5ee9f59281f017597da86d44b9052335c3668d2",
+      "finalSha256": "1037ec25ea5c1c65395ef02f5501b78bca4435437927957adcd3ff65bb7bec60"
+    },
+    {
+      "path": "public/media/motion/native/square-coin/en/frames-262-281.mjs",
+      "baseline": "baseline/public/media/motion/native/square-coin/en/frames-262-281.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/en/frames-262-281.mjs",
+      "baselineSha256": "cf72d192c678184944468d9423fcc62f862e80ce5f650d23cbd13c784bc0d986",
+      "finalSha256": "f602341620ad941d465758120534f2e786e5dd05e509e2501867846be858a04b"
+    },
+    {
+      "path": "public/media/motion/native/square-coin/en/frames-282-283.mjs",
+      "baseline": "baseline/public/media/motion/native/square-coin/en/frames-282-283.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/en/frames-282-283.mjs",
+      "baselineSha256": "bab03277d361236c79cdd9b618eb57bd64e17bc9ab6614330defa8114ee0e754",
+      "finalSha256": "67e3900739c2acd4b6be240eb438dabe53b3a8b77810710cd3b11820e003d463"
+    },
+    {
+      "path": "public/media/motion/native/square-coin/en/frames-284-1190.mjs",
+      "baseline": "baseline/public/media/motion/native/square-coin/en/frames-284-1190.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/en/frames-284-1190.mjs",
+      "baselineSha256": "d0a6ffc38599b03cf52402df551cb9bb6f5e1612a8b755ba67e8305207dc6c69",
+      "finalSha256": "1637dd02a5d13adc48182af066cce9afcc9be44c3514a1bbf274fa69b1b4d811"
+    },
+    {
+      "path": "public/media/motion/native/square-coin/ru/frames-1-261.mjs",
+      "baseline": "baseline/public/media/motion/native/square-coin/ru/frames-1-261.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/ru/frames-1-261.mjs",
+      "baselineSha256": "4135e12390d2896134cda5d7fff6b4649b4d8ca9593cc5245f1ee2ae308756e3",
+      "finalSha256": "abf6d413c995a33b8d4da3a180adefad16076a34bbf2a5ce13c193b669895f24"
+    },
+    {
+      "path": "public/media/motion/native/square-coin/ru/frames-262-280.mjs",
+      "baseline": "baseline/public/media/motion/native/square-coin/ru/frames-262-280.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/ru/frames-262-280.mjs",
+      "baselineSha256": "32b2c16089c00c1b7cf8115fbbb330c36658b498c3459a3f5ecc8b8bf59ebd00",
+      "finalSha256": "681bba2946ac0e00e494708d35b9c9c7b65a19b451b97a15fdb40455a8c7b318"
+    },
+    {
+      "path": "public/media/motion/native/square-coin/ru/frames-281-283.mjs",
+      "baseline": "baseline/public/media/motion/native/square-coin/ru/frames-281-283.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/ru/frames-281-283.mjs",
+      "baselineSha256": "6c6dbccd253eae40187cc5069d7ff969f792357536eca8bed86db940581e41dd",
+      "finalSha256": "38206c8b8ed6dd813e4123353a0f8967325f201bce3562c8850d4bd0131675ec"
+    },
+    {
+      "path": "public/media/motion/native/square-coin/ru/frames-284-1190.mjs",
+      "baseline": "baseline/public/media/motion/native/square-coin/ru/frames-284-1190.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/ru/frames-284-1190.mjs",
+      "baselineSha256": "fe60a0db02e65d1a377119ca0c33aad31597209d7b3099e383e1da9a15c04fc0",
+      "finalSha256": "c115146cba65a369c728d4e28439e0b8d54a0a28ab302401813a09b95a8e3d65"
+    },
+    {
+      "path": "public/media/motion/native/two-coins/en/frames-1-183.mjs",
+      "baseline": "baseline/public/media/motion/native/two-coins/en/frames-1-183.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/en/frames-1-183.mjs",
+      "baselineSha256": "8f43e5be4b20c50161bd893add46f14b91e939346a7c48a6b3b29bdb364bd7d8",
+      "finalSha256": "c4e41e1632bbac530ba0f1eb190c6040989ad56318fd582a0a3ebf9794b45adb"
+    },
+    {
+      "path": "public/media/motion/native/two-coins/en/frames-184-202.mjs",
+      "baseline": "baseline/public/media/motion/native/two-coins/en/frames-184-202.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/en/frames-184-202.mjs",
+      "baselineSha256": "10f8ba3a5ea7962a498de9616c64b7a8a1e9bfb67037ff8f44df0d0c8f0afb30",
+      "finalSha256": "b80d1bc942a203466e4dbe0c7ef5da1dea0238ce6373abb69a1432b593a062a7"
+    },
+    {
+      "path": "public/media/motion/native/two-coins/en/frames-203-205.mjs",
+      "baseline": "baseline/public/media/motion/native/two-coins/en/frames-203-205.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/en/frames-203-205.mjs",
+      "baselineSha256": "3020ab3647fd60fc16fb34b478f4a744c44f665f24ea9140b340af28186d9b93",
+      "finalSha256": "4982e571d1acd6ffeaad4fdf97e2a883c84c86a5b0174697e368c347f82c82ae"
+    },
+    {
+      "path": "public/media/motion/native/two-coins/en/frames-206-733.mjs",
+      "baseline": "baseline/public/media/motion/native/two-coins/en/frames-206-733.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/en/frames-206-733.mjs",
+      "baselineSha256": "ada12c4356c5bb11f3dc3713dbacd986e74c35a22a0da37a033778878b395780",
+      "finalSha256": "78a496b306f37fe040dc839d44d8a3ba4ff3c8c8c623d3a8973fab5e8bf9edeb"
+    },
+    {
+      "path": "public/media/motion/native/two-coins/ru/frames-1-183.mjs",
+      "baseline": "baseline/public/media/motion/native/two-coins/ru/frames-1-183.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/ru/frames-1-183.mjs",
+      "baselineSha256": "2854a8908d07c574937ed5450febd019e79cf9251f95e1499abbc4a9c2c1804e",
+      "finalSha256": "783fcc8d3858f6eb14a9c2dce21edaca1cf962d7c03389cb0ccaf51a15458228"
+    },
+    {
+      "path": "public/media/motion/native/two-coins/ru/frames-184-202.mjs",
+      "baseline": "baseline/public/media/motion/native/two-coins/ru/frames-184-202.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/ru/frames-184-202.mjs",
+      "baselineSha256": "810f83998a59d9f09242d9a0d4ce33a386b77791dd7e9b0c182f18acb85eb744",
+      "finalSha256": "6aaa9387f053a37cd7ab41e5e7a0c094de074d8559be9dff41f9dd584b438d37"
+    },
+    {
+      "path": "public/media/motion/native/two-coins/ru/frames-203-205.mjs",
+      "baseline": "baseline/public/media/motion/native/two-coins/ru/frames-203-205.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/ru/frames-203-205.mjs",
+      "baselineSha256": "a802edde11d4d41cabc9f5a06fe2dd46ae3ffb0b6b439b7b7921d5e2d0a83997",
+      "finalSha256": "6b6db3e86728e02a5ff6d213a5a4f5b1cfafbd2527d516e41a23d0f47f997386"
+    },
+    {
+      "path": "public/media/motion/native/two-coins/ru/frames-206-733.mjs",
+      "baseline": "baseline/public/media/motion/native/two-coins/ru/frames-206-733.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/ru/frames-206-733.mjs",
+      "baselineSha256": "70c3410b2b12def05fbebe48d13da75ab7aacf27afc719be456e57ad3af91a9a",
+      "finalSha256": "9dd2f477441f26b0b255929298e671ae86212c713f4b97a2061e010de343de21"
+    },
+    {
+      "path": "public/media/reasoning/native/bacteria-en.mjs",
+      "baseline": "baseline/public/media/reasoning/native/bacteria-en.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/bacteria-en.mjs",
+      "baselineSha256": "4884c73b0536820ce26b8dd49c25831da0a0c84b82de09b2dd96664535399bfd",
+      "finalSha256": "2b076c921e9e55efa0ccf652ed9174f0b964ad14b89e46be302ab55aa4c584ee"
+    },
+    {
+      "path": "public/media/reasoning/native/bacteria-ru.mjs",
+      "baseline": "baseline/public/media/reasoning/native/bacteria-ru.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/bacteria-ru.mjs",
+      "baselineSha256": "781e6fa9e4885d4268ba4433b139983370e9577be317fe6b6c59eb529632a50b",
+      "finalSha256": "98d9b7085e0df04fc4910c87cce5b44211b5431020e56f84c2dbb78a3d4712df"
+    },
+    {
+      "path": "public/media/reasoning/native/burninghouse-en.mjs",
+      "baseline": "baseline/public/media/reasoning/native/burninghouse-en.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/burninghouse-en.mjs",
+      "baselineSha256": "566dc19ae6ffe651a6df6debed47565d96276c867df78a1674ac3a0ecea115a8",
+      "finalSha256": "339083b904175d27df0e474bee273acd608c32451c8c15965f81c591322223dc"
+    },
+    {
+      "path": "public/media/reasoning/native/burninghouse-ru.mjs",
+      "baseline": "baseline/public/media/reasoning/native/burninghouse-ru.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/burninghouse-ru.mjs",
+      "baselineSha256": "8bf4d98ca6504b760ff5f440a502a588f5eb36a25d1df734bda6a45378bf65bb",
+      "finalSha256": "49953edb45929e5d224f10d6642610a360a736e2b2239888b3a97491c6be2666"
+    },
+    {
+      "path": "public/media/reasoning/native/grandma-en.mjs",
+      "baseline": "baseline/public/media/reasoning/native/grandma-en.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/grandma-en.mjs",
+      "baselineSha256": "0259bd9512c0a6f318d09d7c511e5c2e1d3d84085a5f7942710fa0ea55af512d",
+      "finalSha256": "2e5b9bb5b37f7dc031c45dc23705003baf85232b8750f7ea3adaa85111d66c17"
+    },
+    {
+      "path": "public/media/reasoning/native/grandma-ru.mjs",
+      "baseline": "baseline/public/media/reasoning/native/grandma-ru.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/grandma-ru.mjs",
+      "baselineSha256": "c9b47c11286eff76d08d93d35c798f90544196675719befb48824a4933ba8fd2",
+      "finalSha256": "51976e7571e4f3c6562615cc1dbcc1b72fac44bac13c447f2632db9973e2100e"
+    },
+    {
+      "path": "public/media/reasoning/native/hand-en.mjs",
+      "baseline": "baseline/public/media/reasoning/native/hand-en.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/hand-en.mjs",
+      "baselineSha256": "c0bffa934321d0d637407e4b0ebd7bc831ea63b00d9f786a4c9e8d4ed1da89af",
+      "finalSha256": "569d254eb95019c67782038afc0bb9c97fde274c599431d44d3c5aa19b3b2590"
+    },
+    {
+      "path": "public/media/reasoning/native/hand-ru.mjs",
+      "baseline": "baseline/public/media/reasoning/native/hand-ru.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/hand-ru.mjs",
+      "baselineSha256": "f065eb5e8af8d3490c13ad4cef706600e917e59b56917d9222648c3e293a74ca",
+      "finalSha256": "0271eca3e65e69e654ddb3aa4ee89e31ae1200d384b0ed9761dfb92971d45d6e"
+    },
+    {
+      "path": "public/media/reasoning/native/hunter-en.mjs",
+      "baseline": "baseline/public/media/reasoning/native/hunter-en.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/hunter-en.mjs",
+      "baselineSha256": "e58bcce867c9dc924a02377457934d6efc110c72de8f39e675f8cc647204b2ae",
+      "finalSha256": "e1353a2d21fbe8ac01db2a36839693d08bc34b3a4f1af720a9b44600103c15be"
+    },
+    {
+      "path": "public/media/reasoning/native/hunter-ru.mjs",
+      "baseline": "baseline/public/media/reasoning/native/hunter-ru.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/hunter-ru.mjs",
+      "baselineSha256": "6fe2c96bc17e67b61c2e9aa44d5e888cd31398f953b393978ed8bcb723a3a3ef",
+      "finalSha256": "e20f416d60c6275b41c932ed49c8cc551243d1e5bde8021390f16de6c28da6c7"
+    },
+    {
+      "path": "public/media/reasoning/native/paradox-en.mjs",
+      "baseline": "baseline/public/media/reasoning/native/paradox-en.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/paradox-en.mjs",
+      "baselineSha256": "bd444758ba583267f628b76908a24386047aefa984a55a88102e0a90d4e88146",
+      "finalSha256": "476cb24f7bd4b6ce4bad6df603ffa58c1a3b085e8c9e05265c2de4d56364c303"
+    },
+    {
+      "path": "public/media/reasoning/native/paradox-ru.mjs",
+      "baseline": "baseline/public/media/reasoning/native/paradox-ru.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/paradox-ru.mjs",
+      "baselineSha256": "c6c4416b66bf0a1c5b4d94fd9e72c2608a659b2352ddc68a4707d29fb7dcae22",
+      "finalSha256": "9e8ea057d51a0b296f9957152aea619aa9e133862573b4b64c96e7507dedead1"
+    },
+    {
+      "path": "public/media/reasoning/native/snail-en.mjs",
+      "baseline": "baseline/public/media/reasoning/native/snail-en.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/snail-en.mjs",
+      "baselineSha256": "a1d65aba1ca3290df2e8c726605531cd0516c0d55192719f1023ecfdb91a7d3a",
+      "finalSha256": "9b65cdf40545c6894d1b339bcbaca81541c1a67bf7bb86337db975caf273f10d"
+    },
+    {
+      "path": "public/media/reasoning/native/snail-ru.mjs",
+      "baseline": "baseline/public/media/reasoning/native/snail-ru.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/snail-ru.mjs",
+      "baselineSha256": "4c16727aae528f847f40abf582265b7a12ccb2c2741b5cc4e539197da9559c33",
+      "finalSha256": "61ee633597dc51fb1a45ddef1277487ef7c33faf7b7e9fd0f2a9183ac76982fd"
+    },
+    {
+      "path": "public/media/reasoning/native/staruhi-en.mjs",
+      "baseline": "baseline/public/media/reasoning/native/staruhi-en.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/staruhi-en.mjs",
+      "baselineSha256": "8dcb535d870af8d04c88c365c52b180abcd0e20d0e47eea23e59512a5946da96",
+      "finalSha256": "bab1ff8d3f3b88ba926c4f48687eab6566b952cd0f691c7f0741d53b90856793"
+    },
+    {
+      "path": "public/media/reasoning/native/staruhi-ru.mjs",
+      "baseline": "baseline/public/media/reasoning/native/staruhi-ru.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/staruhi-ru.mjs",
+      "baselineSha256": "66d94485d2129a160da745efa4b9c3208f05143aa27931c80a3b2c6e85fbdd3c",
+      "finalSha256": "44b333d3f060ac98c9107ddfdd1d3e356b22a689423567b1acc863fc0ca34382"
+    },
+    {
+      "path": "public/media/reasoning/native/tram-en.mjs",
+      "baseline": "baseline/public/media/reasoning/native/tram-en.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/tram-en.mjs",
+      "baselineSha256": "e292a77d2b837f5d97011008882e7df4258709792b498c876f02006504d20116",
+      "finalSha256": "20502621495526cb662321ad2d29e1fcf69d19bb9ee414786568a716363cdb6b"
+    },
+    {
+      "path": "public/media/reasoning/native/tram-ru.mjs",
+      "baseline": "baseline/public/media/reasoning/native/tram-ru.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/tram-ru.mjs",
+      "baselineSha256": "84e64a43394fb2bf7347b9397cd1655406797a8c21e85c703641b565f03a697f",
+      "finalSha256": "d25ffe630fd6ec7cda14bb9a6e2445c9f97def098c35280ed7f04a082d9a73c3"
+    },
+    {
+      "path": "public/media/reasoning/native/turtles-en.mjs",
+      "baseline": "baseline/public/media/reasoning/native/turtles-en.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/turtles-en.mjs",
+      "baselineSha256": "ff67c1b55fc21b590981f9fb54b3aee84592d1c2d9aed9da4b3de125143ba69f",
+      "finalSha256": "280415be8703e05953bd313b61cce87d8b724ec1ac3378d98e62f9088ca6919e"
+    },
+    {
+      "path": "public/media/reasoning/native/turtles-ru.mjs",
+      "baseline": "baseline/public/media/reasoning/native/turtles-ru.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/turtles-ru.mjs",
+      "baselineSha256": "afdb37cbade3f9cba36eb0d55d0272bb81bd986228eaf441450a636d23e89718",
+      "finalSha256": "565bca6b187cc12ce72e23bc266f65e4bac83554aecd00bf4f10a361b66717b0"
+    },
+    {
+      "path": "public/media/reasoning/native/wine-en.mjs",
+      "baseline": "baseline/public/media/reasoning/native/wine-en.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/wine-en.mjs",
+      "baselineSha256": "1c3a27fb3fb0934dc55e34e8fe046aa22e78eaabbfca0167fbd6b577518c9cab",
+      "finalSha256": "8698617e0e07ace815579d50d389d5ad1dc075ee69badd5c7c02956a4702d6b3"
+    },
+    {
+      "path": "public/media/reasoning/native/wine-ru.mjs",
+      "baseline": "baseline/public/media/reasoning/native/wine-ru.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/wine-ru.mjs",
+      "baselineSha256": "91c0841f2c5b3ec79ac6d8119683f4bab8b30d9da75982db16cc1707424e96b5",
+      "finalSha256": "e0e4106d787eee07a4251465adf1c440db6aead0354d325ec22c2e0f0f4829a9"
+    },
+    {
+      "path": "public/media/solids/sphere-lesson/en/ending.mjs",
+      "baseline": "baseline/public/media/solids/sphere-lesson/en/ending.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/solids/sphere-lesson/en/ending.mjs",
+      "baselineSha256": "b8a670b2880c76e5dceb5aca8c21c121a890902cd1dd3d61a2eef6aaa94b7200",
+      "finalSha256": "bad65fc5ebe646863c280d801922d9f310a7af0cd87b911a3a3888c075d5415e"
+    },
+    {
+      "path": "public/media/solids/sphere-lesson/en/examples.mjs",
+      "baseline": "baseline/public/media/solids/sphere-lesson/en/examples.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/solids/sphere-lesson/en/examples.mjs",
+      "baselineSha256": "c1ae593682f52791ee0f16db34a4cecdbc33294c07a2fc12128d564a823975ea",
+      "finalSha256": "d941e657772a44050e89ace11b91732015711af44c3bd81bf5a9833389dafa98"
+    },
+    {
+      "path": "public/media/solids/sphere-lesson/en/proof.mjs",
+      "baseline": "baseline/public/media/solids/sphere-lesson/en/proof.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/solids/sphere-lesson/en/proof.mjs",
+      "baselineSha256": "97f944b0e5b60a986bdbd3ea3f1ba20ce965fe37fcfd9e9df05e8e27c3d1a720",
+      "finalSha256": "d6263aef921cf8417159fc8e75e33c1b6a821cd6691775817633c668ea01cda3"
+    },
+    {
+      "path": "public/media/solids/sphere-lesson/ru/ending.mjs",
+      "baseline": "baseline/public/media/solids/sphere-lesson/ru/ending.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/solids/sphere-lesson/ru/ending.mjs",
+      "baselineSha256": "412515f2c3d12de75b5814e7ca6911c106e3fc0557e6c7a2f49de0a8c3ec1bc7",
+      "finalSha256": "628da77687270ab48ed86eb98ee8e36dc4c0edfa634355ed9cfac25cc3100f62"
+    },
+    {
+      "path": "public/media/solids/sphere-lesson/ru/examples.mjs",
+      "baseline": "baseline/public/media/solids/sphere-lesson/ru/examples.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/solids/sphere-lesson/ru/examples.mjs",
+      "baselineSha256": "50b56839a43810b493fdac028eca20e4e7e406f03fbe2838011662d4fb38646e",
+      "finalSha256": "fb3ee402ad5f205e3cf56b15a766c92bff49e3e22a34f059f689b636a0e3fdd8"
+    },
+    {
+      "path": "public/media/solids/sphere-lesson/ru/proof.mjs",
+      "baseline": "baseline/public/media/solids/sphere-lesson/ru/proof.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/solids/sphere-lesson/ru/proof.mjs",
+      "baselineSha256": "275528265186e154bb0faafeea32ebce92cf7e27f2396a22d422ee84626d7aca",
+      "finalSha256": "a52b0ee997ef9c56d1a406a53f3b645f6219bda956f78c77e28689e1d549e70e"
+    },
+    {
+      "path": "public/media/stories/canvas/Pinoc-game.mjs",
+      "baseline": "baseline/public/media/stories/canvas/Pinoc-game.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/stories/canvas/Pinoc-game.mjs",
+      "baselineSha256": "717f3d52e09e3d470845bb9adb92b7caef883052ed5db8a575dce7ad696ef720",
+      "finalSha256": "8c1553e4babbc9d7913b8f6cc2155a81fa4046828bed2ba13fecb8a622d64f8c"
+    },
+    {
+      "path": "public/media/stories/canvas/Prosto-game.mjs",
+      "baseline": "baseline/public/media/stories/canvas/Prosto-game.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/stories/canvas/Prosto-game.mjs",
+      "baselineSha256": "6fa565404e0faea7103f9c043faf33477f7efbaec845a0a3efb56cd3d729f8cc",
+      "finalSha256": "c32b3c0b6484db3c937d6bfc9ff90515d1919fd4edee7985141dd2f6d60f62b0"
+    },
+    {
+      "path": "public/media/stories/canvas/Snowhite-game.mjs",
+      "baseline": "baseline/public/media/stories/canvas/Snowhite-game.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/stories/canvas/Snowhite-game.mjs",
+      "baselineSha256": "a57c5866d85c1f16d131ed9413d4e64366936e5d9e7e8149d0a553453b49f8ff",
+      "finalSha256": "9c8c5e69283b626c4ae748d25be0162c64d0a5d8a643c6a99c32730074ba9b64"
+    },
+    {
+      "path": "public/media/triangles/native/altitudes/en/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/altitudes/en/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/altitudes/en/chapter-1.mjs",
+      "baselineSha256": "c2822c7512e667eaeb26d6b7ba74e560eb455a3e2683f848e59c30ec5465e9fb",
+      "finalSha256": "c7fee84bfeb5c6e595d0c368c1a5acb2055e8805e4a9aa53fe4839109df0725b"
+    },
+    {
+      "path": "public/media/triangles/native/altitudes/en/chapter-2.mjs",
+      "baseline": "baseline/public/media/triangles/native/altitudes/en/chapter-2.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/altitudes/en/chapter-2.mjs",
+      "baselineSha256": "590a75bd642498649e1dc36db8a84669467a1b0d9dba5dad50dfbbb4bbec3455",
+      "finalSha256": "2f2edd5e0566c61190fd744d60f816276ef8e6ec37abaf869546985a82ea8b30"
+    },
+    {
+      "path": "public/media/triangles/native/altitudes/ru/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/altitudes/ru/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/altitudes/ru/chapter-1.mjs",
+      "baselineSha256": "d5b977abbcade45cae2e2be31ed50a31c9c909964351cbea4361c7a4e18913cb",
+      "finalSha256": "3d79b5abbdf315e3a8602b5a41417bf85be5cad6d6370d668197c98f3c53c9ea"
+    },
+    {
+      "path": "public/media/triangles/native/altitudes/ru/chapter-2.mjs",
+      "baseline": "baseline/public/media/triangles/native/altitudes/ru/chapter-2.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/altitudes/ru/chapter-2.mjs",
+      "baselineSha256": "3288acaf1df44db48b644922ffb4be41232379c40f5e597f52795881b9fa752e",
+      "finalSha256": "970efc12b2e24f35236231b136a8c013912dd36666147cd782a25cdad92953ab"
+    },
+    {
+      "path": "public/media/triangles/native/bisectors/en/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/bisectors/en/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/bisectors/en/chapter-1.mjs",
+      "baselineSha256": "797e945c6b7f14146566ace4ef16fe9d740a80a952a504edf89e5b28282d833f",
+      "finalSha256": "1dbc69a2ebad7172f995dc3637a7c33960339e937fe6dfe69cc24f368613a925"
+    },
+    {
+      "path": "public/media/triangles/native/bisectors/ru/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/bisectors/ru/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/bisectors/ru/chapter-1.mjs",
+      "baselineSha256": "24360b3f4ab2e54d7bea1c71d90785fa6416000592be28453f1da5dc653c0d27",
+      "finalSha256": "8e2edf1ed056806df8824485570efbeb65ab8d1ce307fce517109f65b7e4bde8"
+    },
+    {
+      "path": "public/media/triangles/native/congruence/en/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/congruence/en/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/congruence/en/chapter-1.mjs",
+      "baselineSha256": "492ed4f8fb992db0a21eb1a12f20d0215a7dcf4c4bfc16978c4c63f3c48d1a68",
+      "finalSha256": "0a2f2140ca821c490a0a34b4ecd59d14cffd8a9c1f31aa3331ce931b767a49be"
+    },
+    {
+      "path": "public/media/triangles/native/congruence/en/chapter-2.mjs",
+      "baseline": "baseline/public/media/triangles/native/congruence/en/chapter-2.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/congruence/en/chapter-2.mjs",
+      "baselineSha256": "0ceca8c2e4501772285a37ae3de1b0039bcbd2cb83464c57a1d3eaa30919e9fa",
+      "finalSha256": "8ca17b5e4cb134bdf7d784c4c820eaee7481d4e9288a950030148c1d12b8e440"
+    },
+    {
+      "path": "public/media/triangles/native/congruence/ru/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/congruence/ru/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/congruence/ru/chapter-1.mjs",
+      "baselineSha256": "9bd0ae6e3d3e0398070b802f217a2d7fdc9dd19e1139d3e07e2084044cddded0",
+      "finalSha256": "8f296d6131a85caf452f7820f76e845eaead42b3b2c2f56db7a31fd5eeb3341d"
+    },
+    {
+      "path": "public/media/triangles/native/congruence/ru/chapter-2.mjs",
+      "baseline": "baseline/public/media/triangles/native/congruence/ru/chapter-2.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/congruence/ru/chapter-2.mjs",
+      "baselineSha256": "4376c46134c02cb16f2448d86c0ed43a998145631d04793017993478cabecdb7",
+      "finalSha256": "1994cf440a4eeeba22dbd3e37c46848828613b4e3fc23c2699caecf3652ccb4c"
+    },
+    {
+      "path": "public/media/triangles/native/cosine-law/en/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/cosine-law/en/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/cosine-law/en/chapter-1.mjs",
+      "baselineSha256": "c197273aa18a447388fa74ab870dda76a44b37c76126029ac05cab98e05eec16",
+      "finalSha256": "1c5dfc781778e7664185b5adbe709a864361e0beee6d577b680afc1b2621f28e"
+    },
+    {
+      "path": "public/media/triangles/native/cosine-law/ru/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/cosine-law/ru/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/cosine-law/ru/chapter-1.mjs",
+      "baselineSha256": "fb3280627dd4f71c2936de00872c50539f321283ea1209c328c940a8ac6711bb",
+      "finalSha256": "395268857009a58d407a1b6edb0f49b98966d58bf94c85807a755314ca80058a"
+    },
+    {
+      "path": "public/media/triangles/native/false-proof/en/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/false-proof/en/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/false-proof/en/chapter-1.mjs",
+      "baselineSha256": "d25cd787b9de312be547900e5cec99d3dbf17694988ecccf7c53ede6c4562024",
+      "finalSha256": "3df08b87936663a771b26bf8f28a6c05d8e6cf5dd366a4359c8debef9b9b2efa"
+    },
+    {
+      "path": "public/media/triangles/native/false-proof/ru/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/false-proof/ru/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/false-proof/ru/chapter-1.mjs",
+      "baselineSha256": "9606931dc4b83a010f890560aae921c96698a806411d5d8f3705815c98c0d45a",
+      "finalSha256": "bc33c09ab6dde59c964f64f00573512d52582e6a08386a159384613433c0e08e"
+    },
+    {
+      "path": "public/media/triangles/native/inscribed-angle/en/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/inscribed-angle/en/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/inscribed-angle/en/chapter-1.mjs",
+      "baselineSha256": "e0d8e8a288b85851988ae435c6079d471a42ea8ce3172f71230a3f8492eb3ae8",
+      "finalSha256": "e873e9bd4e682f2c45c0242b5501dac45b9a00ef6b5ea8308c8b76921f5923be"
+    },
+    {
+      "path": "public/media/triangles/native/inscribed-angle/ru/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/inscribed-angle/ru/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/inscribed-angle/ru/chapter-1.mjs",
+      "baselineSha256": "a9cc8bda6e8f89a9e8c33011eee76be594c80a4cba9eff8e3c8c0f07526c9e67",
+      "finalSha256": "7263df67640f9dbb59294a8b858939a3713b570279d5304c388c7457b3586ce9"
+    },
+    {
+      "path": "public/media/triangles/native/inscribed-angle/ru/chapter-2.mjs",
+      "baseline": "baseline/public/media/triangles/native/inscribed-angle/ru/chapter-2.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/inscribed-angle/ru/chapter-2.mjs",
+      "baselineSha256": "cd7b33397c840cc335f127c690aba4a042f8d592c32d3103dee33e60bc5baef2",
+      "finalSha256": "993f496eb44cda9c3315ad346a97cd003772cf28b49648a626585d359c86e4c2"
+    },
+    {
+      "path": "public/media/triangles/native/medians/en/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/medians/en/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/medians/en/chapter-1.mjs",
+      "baselineSha256": "064b813e2e62234d061ee6005f25ddda76df74523754d6c1bddf721694abbbce",
+      "finalSha256": "f456b67246321724bb0e178762d8002c4147b43eee2a3c595f9d21ff410725bf"
+    },
+    {
+      "path": "public/media/triangles/native/medians/en/chapter-2.mjs",
+      "baseline": "baseline/public/media/triangles/native/medians/en/chapter-2.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/medians/en/chapter-2.mjs",
+      "baselineSha256": "1715fa69e833b9c3998be5a59f6632d96685cb3b7491d13b6ba337f9d6897d98",
+      "finalSha256": "dbae33ff3d0b998873c2941e7752ecdb875454723d21b9e51c114219d3c23b40"
+    },
+    {
+      "path": "public/media/triangles/native/medians/ru/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/medians/ru/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/medians/ru/chapter-1.mjs",
+      "baselineSha256": "07198625a4a0c6f2714cd691e67fbc1ca1feebe7a9255cb44cdc100532d68943",
+      "finalSha256": "9775172393097f6f3905c8c34524c3ffc578720bd59ec2a5c421987494998d6e"
+    },
+    {
+      "path": "public/media/triangles/native/medians/ru/chapter-2.mjs",
+      "baseline": "baseline/public/media/triangles/native/medians/ru/chapter-2.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/medians/ru/chapter-2.mjs",
+      "baselineSha256": "a4cd0b8b6c15d37bfed56ca4ee4a9a092b8b5d2f868b1c56c5b5e95afd3d709c",
+      "finalSha256": "1e86571666752ba25403b2a6450e79f1c0bd8de705d60091bdce953154c3d4c6"
+    },
+    {
+      "path": "public/media/triangles/native/palm-trig/en/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/palm-trig/en/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/palm-trig/en/chapter-1.mjs",
+      "baselineSha256": "889f627b8e69b0829a31615a459a2676714cacef1ddffcf0403bfbde20cefe37",
+      "finalSha256": "ea74ab07be2d7cec9a7b63685c3205f77baba88e921a008ba32dcd1e69fdaf14"
+    },
+    {
+      "path": "public/media/triangles/native/palm-trig/en/chapter-2.mjs",
+      "baseline": "baseline/public/media/triangles/native/palm-trig/en/chapter-2.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/palm-trig/en/chapter-2.mjs",
+      "baselineSha256": "aab8607de8370691b7093db9b29a37abf4e960dbebbbce9b85d54cdd5e436e90",
+      "finalSha256": "ef25d7cd458f0bf39e7771ccf92fe0aebd40c09a5bad928727d9f63a16bb9078"
+    },
+    {
+      "path": "public/media/triangles/native/pythagoras/en/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/pythagoras/en/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/pythagoras/en/chapter-1.mjs",
+      "baselineSha256": "c94f79b671cee95446d63e539134260d039dae53207b36d99fa47a421d279477",
+      "finalSha256": "39e2f430a640393e6694c69983e856efd83905be2ef0083c33823db603756ff0"
+    },
+    {
+      "path": "public/media/triangles/native/pythagoras/en/chapter-2.mjs",
+      "baseline": "baseline/public/media/triangles/native/pythagoras/en/chapter-2.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/pythagoras/en/chapter-2.mjs",
+      "baselineSha256": "096a08191392f1a09d86a07159359ff97d8a3dd7b06f28e8311b58ac77bf5ab3",
+      "finalSha256": "b7383d5441bc20f33844943e7e493d51a8beec16befdd5feffdee9608a04d4e1"
+    },
+    {
+      "path": "public/media/triangles/native/pythagoras/ru/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/pythagoras/ru/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/pythagoras/ru/chapter-1.mjs",
+      "baselineSha256": "d9abfd878c39ad8489f513853305bde79057dee787724676dc191a29bd7a98d9",
+      "finalSha256": "b9b44eac6b4d65126777ae9820ea9604af9c39a17b40c0cb0a8cd41577e25b42"
+    },
+    {
+      "path": "public/media/triangles/native/pythagoras/ru/chapter-2.mjs",
+      "baseline": "baseline/public/media/triangles/native/pythagoras/ru/chapter-2.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/pythagoras/ru/chapter-2.mjs",
+      "baselineSha256": "b4a993b78c344d5dc99939399800ec1d4b4acc3d3722eb62f1d66fa18ea281da",
+      "finalSha256": "7b5fda2a4207ae036ff18ebcc9953a5d773d7760274088f1cd07c3a3855d7664"
+    },
+    {
+      "path": "public/media/triangles/native/sine-law/en/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/sine-law/en/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/sine-law/en/chapter-1.mjs",
+      "baselineSha256": "9949af59d46beba5613032b7eb6994ddbddf021512d88c106bc7c1dc784b633a",
+      "finalSha256": "ba8a80d3944ba26316aba4831aa7201444d59efe592a1d297acb71cf6e5f55ea"
+    },
+    {
+      "path": "public/media/triangles/native/sine-law/ru/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/sine-law/ru/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/sine-law/ru/chapter-1.mjs",
+      "baselineSha256": "de95ae7f30e96e44e54c954c7413a126de53681c58d0f08dfef7fa7132b52e88",
+      "finalSha256": "bc73de0653afb2fb12502e16cc484b91ea4cd191b599d45df2bdd0ca3cf26e0d"
+    },
+    {
+      "path": "public/media/triangles/native/trig-addition/en/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/trig-addition/en/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/trig-addition/en/chapter-1.mjs",
+      "baselineSha256": "eab277677db8fc97396dc0f914b4e400b96a7f58eef338d2d3b39a212fa07157",
+      "finalSha256": "5f88aa90194f2c91d1ec59086df821912977f17dca1e2a27f2c40f9de92536cc"
+    },
+    {
+      "path": "public/media/triangles/native/trig-addition/ru/chapter-1.mjs",
+      "baseline": "baseline/public/media/triangles/native/trig-addition/ru/chapter-1.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/trig-addition/ru/chapter-1.mjs",
+      "baselineSha256": "1fc7c94a6ff92078877dd55c236a022dd3c32f55e1118e719415c7135dba70ed",
+      "finalSha256": "f90c47c3424a8fab5c1733a2070f3f4d871112c412f46b7a03925e60937ce886"
+    }
+  ],
+  "support": [
+    {
+      "path": "package-lock.json",
+      "sha256": "cb28895a2a3506cf6999a0a4ef63cb3b93d46211a1b53699eb1deb5cc57ae1a6"
+    },
+    {
+      "path": "package.json",
+      "sha256": "e8fe54c2110d4926fd1b7196b2450b4b0533a2f533f3bf8082b89694db0ebb07"
+    },
+    {
+      "path": "public/licenses/GPL-3.0.txt",
+      "sha256": "8ceb4b9ee5adedde47b31e975c1d90c73ad27b6b165a1dcd80c7c545eb65b903"
+    },
+    {
+      "path": "public/licenses/LGPL-3.0.txt",
+      "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
+    },
+    {
+      "path": "public/media/coloring/native/cube-en/timeline.mjs",
+      "sha256": "f406a9763ee1232abb09d6fad1d0cd63faa85661f64df811a16e2035a216e36d"
+    },
+    {
+      "path": "public/media/coloring/native/cube-ru/timeline.mjs",
+      "sha256": "6b2d9d960b1dbe6685b18809c1e76aa5123ec289590eb50815fdafc0ed049bb1"
+    },
+    {
+      "path": "public/media/coloring/native/cube-stage.mjs",
+      "sha256": "2a6fb2fca45dd80bb32b15d907ce8e864a26026e944e6691b4e99fc0e7621232"
+    },
+    {
+      "path": "scripts/calculus-filter-buffers.mjs",
+      "sha256": "2eea469fb1f7e13b83bc564951e421853765b9866408cf1a3f8e1e5d39143285"
+    },
+    {
+      "path": "scripts/calculus-frame-dispatch.mjs",
+      "sha256": "b5363bbd00ef715bb08ede6d6d3d6599391dd504501ed6735821c3c1a4dd74fd"
+    },
+    {
+      "path": "scripts/calculus-playback-control.mjs",
+      "sha256": "6e6b5b24c958e1caef24f45e73522d19b6a3203718da4550c8c7d400d29d86f0"
+    },
+    {
+      "path": "scripts/calculus-playback-control.test.mjs",
+      "sha256": "bc0d96098eecdd3fc639e8b740cab6a180670fd0ba783aeaf97e66f81cf217a7"
+    },
+    {
+      "path": "scripts/canvas-context-transforms.mjs",
+      "sha256": "bc5441c369e88154b30af5a3c56a8e9059415a80659b5fe734ebcc1bd0d30c27"
+    },
+    {
+      "path": "scripts/canvas-context-transforms.test.mjs",
+      "sha256": "9ab4f43de152d981580e4fb0587b88ac3b3c5b3a923d2267c8d8f9dcb6b675ef"
+    },
+    {
+      "path": "scripts/canvas-font-locals.mjs",
+      "sha256": "c385b9c7b1b05c4242228292954aa477cc418faf6bd1f7bee39a9649d346c242"
+    },
+    {
+      "path": "scripts/canvas-font-locals.test.mjs",
+      "sha256": "eb39441be550457ce758955af2a11f75ad2e7d41051a8bb6bc6a44002bf3058e"
+    },
+    {
+      "path": "scripts/canvas-timeline-lifecycle.mjs",
+      "sha256": "74e7d05b8fb4f572642501e962066bf74c3fc48556177624213172fe40989bbf"
+    },
+    {
+      "path": "scripts/canvas-timeline-lifecycle.test.mjs",
+      "sha256": "75a6cbc2aabf4f6271305388924c1933618d7d18489834ca68acab953115ef1e"
+    },
+    {
+      "path": "scripts/check-build.mjs",
+      "sha256": "6ad42d245e09e46b18f18abf444343a946dba424e1464a24e0f111a42868ea63"
+    },
+    {
+      "path": "scripts/collection-metadata.mjs",
+      "sha256": "5ae8e0d6191a4ee3045bfe0a0b4877bec193255bb6f5f4708a08dc04682fa981"
+    },
+    {
+      "path": "scripts/compose-portfolio.mjs",
+      "sha256": "beab59ac1f399cb97c43daf8aeb77776ea27eaae03422f8510c13a4da20a18ed"
+    },
+    {
+      "path": "scripts/convert-canvas-export.mjs",
+      "sha256": "1c8696c7320f1856115faee7c3c8c13916035a5a069e814f6d7c8ae80e77e050"
+    },
+    {
+      "path": "scripts/convert-canvas-export.test.mjs",
+      "sha256": "76de4ef0bf4221b0ad003e91514ac41d699a0af8625a1b00112a60dc039f7881"
+    },
+    {
+      "path": "scripts/export-original-frames.mjs",
+      "sha256": "28eafe3d20cf2fde6ce8c5d83ffaae6e3279e47a7573a72c75b7b22b1ccdca9f"
+    },
+    {
+      "path": "scripts/import-catalog.mjs",
+      "sha256": "14fc2d7a598d7cd837466f034cb67c702fefe33f181ffa625862ea666d8777db"
+    },
+    {
+      "path": "scripts/import-site-design.mjs",
+      "sha256": "4ab750f6cdbf321281892782c78975af6896fa10480fd47847263e9b05072a9f"
+    },
+    {
+      "path": "scripts/measurement-playback-control.mjs",
+      "sha256": "be1285ee43bed358b485e30a09f95bb0967d3cc607da021f0f61e002d4f8e665"
+    },
+    {
+      "path": "scripts/measurement-playback-control.test.mjs",
+      "sha256": "86c8531b05d85daf568cf50b9e3bef41831a1b61acbfffd94d212f2efb23b6b9"
+    },
+    {
+      "path": "scripts/minify-native-drawings.mjs",
+      "sha256": "232373c0df6c9d3f8a336ff1336334ef6a4f2df0a43dc92d354c84ab94f6693d"
+    },
+    {
+      "path": "scripts/minify-native-drawings.test.mjs",
+      "sha256": "9d71f25cdda6827e57e7e24a6a757406403ea0adc66f3e72d83309308c91cad0"
+    },
+    {
+      "path": "scripts/optimize-calculus-filters.mjs",
+      "sha256": "445cfb0e4998df8794044e3a88378b0ed109561b3b586502c2f35e3315c8e5b6"
+    },
+    {
+      "path": "scripts/optimize-calculus-transitions.mjs",
+      "sha256": "75dc4a1f774ad31b3d6ac78f51fd64afe86ced49b54cf44e13df25e789afa069"
+    },
+    {
+      "path": "scripts/profile-calculus-filters.mjs",
+      "sha256": "0ecffd0b9f267e389387416eb2209db6e65501f009dacb468e7f1596436dfff3"
+    },
+    {
+      "path": "scripts/recover-calculus-text-bounds.mjs",
+      "sha256": "cc61b35453e042d76695dc2280ecf4f8755de41d3f51889e48849c6bd8f285b6"
+    },
+    {
+      "path": "scripts/recover-lesson-audio.mjs",
+      "sha256": "5d64f470d0a4346c28df16fc6f74179ea294f70bd8471f7ee7f3f387b60e0aa4"
+    },
+    {
+      "path": "scripts/recover-sphere-lesson.mjs",
+      "sha256": "ae219f58c9fb9627f6a6164a093c7a84e08cefb7ce8d4b0d227cf671ad9df7d9"
+    },
+    {
+      "path": "scripts/refresh-canvas-lifecycle.mjs",
+      "sha256": "f1476d04a8744170fe469398a084b15d5781b34cd2fb3a4cb780f95a1286b4b2"
+    },
+    {
+      "path": "scripts/refresh-canvas-transforms.mjs",
+      "sha256": "42e247ec52febe3ca73e0c8b9b459e4e755888e4dc26b5a1c280702cf179e30b"
+    },
+    {
+      "path": "scripts/reviewed-playback-control.mjs",
+      "sha256": "0e0599c1399d99adcb3de97493fb10f816809e68ade0ec2d2cf91e985ca42281"
+    },
+    {
+      "path": "scripts/sphere-playback-control.mjs",
+      "sha256": "268fd07cc8c531c7f1a6fa6950a1d30dfe416be930be7cb91d55cd34179c2fe3"
+    },
+    {
+      "path": "scripts/sphere-playback-control.test.mjs",
+      "sha256": "287521e5be669ec639d79d1258167a25fbe0bbbab7129d8d4c9ebf1bd7ca204f"
+    },
+    {
+      "path": "scripts/transcode-films.mjs",
+      "sha256": "ec34f7c5c934ac5b450529fcfc5c9bca09022601b364f436bf25dafab325b76e"
+    },
+    {
+      "path": "scripts/triangle-playback-control.mjs",
+      "sha256": "1031c064e3f67a8f428bad065c4f293f4682a455c7982e5c4e3f4ba18b038972"
+    },
+    {
+      "path": "third-party/ffdec/canvas-original.js",
+      "sha256": "98b62f4b9eb061b95dbe8c71ce555421721479aa16548fc99e06940084d94f92"
+    }
+  ]
+}

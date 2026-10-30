@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Escher-stairbig-game.swf",
+      "sourceSha256": "d105016da3df78c5f04d4ef1afec89efe5df0a32b60ade1151ea11a4cc04437e",
+      "textBounds": {
+        "text35": [
+          -41,
+          319,
+          9372,
+          3337
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Escher-stairbig-game.swf",
+      "sourceSha256": "d105016da3df78c5f04d4ef1afec89efe5df0a32b60ade1151ea11a4cc04437e",
+      "textBounds": {
+        "text35": [
+          -41,
+          319,
+          9372,
+          3337
+        ]
+      }
+    }
+  }
+}

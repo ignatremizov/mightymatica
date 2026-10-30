@@ -1,0 +1,178 @@
+{
+  "paradox": {
+    "en": {
+      "module": "reasoning/native/paradox-en.mjs",
+      "source": "Movies/Paradox box.swf",
+      "frames": 4122,
+      "fps": 10,
+      "sha256": "3bbb9fa7e1877575f8d71b1bab430fe6b75a096e4bec87847a8738b7b864c395"
+    },
+    "ru": {
+      "module": "reasoning/native/paradox-ru.mjs",
+      "source": "Movies/Paradox box-ru.swf",
+      "frames": 4122,
+      "fps": 10,
+      "sha256": "17912b911228b73108047abf91bd8fbef7a8738f20b4bd414038f206a98dd484"
+    }
+  },
+  "burninghouse": {
+    "en": {
+      "module": "reasoning/native/burninghouse-en.mjs",
+      "source": "Movies/Burninghouse.swf",
+      "frames": 580,
+      "fps": 24,
+      "sha256": "e48836a595221d74e83f94c9607deb951d91962feb047395a11abfa2fd1bed95"
+    },
+    "ru": {
+      "module": "reasoning/native/burninghouse-ru.mjs",
+      "source": "Movies/Burninghouse-ru.swf",
+      "frames": 580,
+      "fps": 24,
+      "sha256": "a27e7579792169018c536d9db46f13b00dfc421bdcae8fbee53d88b18d83387a"
+    }
+  },
+  "grandma": {
+    "en": {
+      "module": "reasoning/native/grandma-en.mjs",
+      "source": "Movies/Grandmaclimbes.swf",
+      "frames": 1240,
+      "fps": 24,
+      "sha256": "acde807b26519ea14b99f7fee10543bc5820540052b8fbe6fd896225e3bda09d"
+    },
+    "ru": {
+      "module": "reasoning/native/grandma-ru.mjs",
+      "source": "Movies/Grandmaclimbes-ru.swf",
+      "frames": 1240,
+      "fps": 24,
+      "sha256": "2c156bf7d3a79ee7cd3cf64c7ca6d9b17e45b5538cac389429871ea0bb417430"
+    }
+  },
+  "hunter": {
+    "en": {
+      "module": "reasoning/native/hunter-en.mjs",
+      "source": "Movies/Hunter.swf",
+      "frames": 1220,
+      "fps": 24,
+      "sha256": "8dd9a2cd110b71ac085f497fb91e8091838b675538fb2257112f56672221c45a"
+    },
+    "ru": {
+      "module": "reasoning/native/hunter-ru.mjs",
+      "source": "Movies/Hunter-ru.swf",
+      "frames": 1220,
+      "fps": 24,
+      "sha256": "3af53811e32a33947f84233cdade3610f402181efe3ccdee32b066164624ed1f"
+    }
+  },
+  "snail": {
+    "en": {
+      "module": "reasoning/native/snail-en.mjs",
+      "source": "Movies/Snail-eng.swf",
+      "frames": 1175,
+      "fps": 24,
+      "sha256": "103cb2da4cdc120f7e333348f221c533c4ff78cf3174e75c1a43b62046c534a8"
+    },
+    "ru": {
+      "module": "reasoning/native/snail-ru.mjs",
+      "source": "Movies/Snail.swf",
+      "frames": 1175,
+      "fps": 24,
+      "sha256": "f2a070d4269e80cec6b55bb9e309f06e77722f8dac0e096533d2fd866a5cf04c"
+    }
+  },
+  "staruhi": {
+    "en": {
+      "module": "reasoning/native/staruhi-en.mjs",
+      "source": "Movies/Staruhi-eng.swf",
+      "frames": 1260,
+      "fps": 24,
+      "sha256": "438ef6aa2e6d683ff6f2d561f88dbfc554cf072b1e11ba7000bd1f8af0e6fedd"
+    },
+    "ru": {
+      "module": "reasoning/native/staruhi-ru.mjs",
+      "source": "Movies/Staruhi.swf",
+      "frames": 1260,
+      "fps": 24,
+      "sha256": "df68fe4b453804f680df648095b5c720cfd1fcfc7b5cb4e3467154630131de31"
+    }
+  },
+  "tram": {
+    "en": {
+      "module": "reasoning/native/tram-en.mjs",
+      "source": "Movies/Tram.swf",
+      "frames": 1371,
+      "fps": 24,
+      "sha256": "1249d52a4e45f53b27e0201c63a64fe76c951144dff83270d2008adac6f33fda"
+    },
+    "ru": {
+      "module": "reasoning/native/tram-ru.mjs",
+      "source": "Movies/Tram-ru.swf",
+      "frames": 1371,
+      "fps": 24,
+      "sha256": "5c70807cc0000549a0db3ad300f4d36325cbbe62b24f1facf733ee9f09e5b9d4"
+    }
+  },
+  "turtles": {
+    "en": {
+      "module": "reasoning/native/turtles-en.mjs",
+      "source": "Movies/Turtles.swf",
+      "frames": 800,
+      "fps": 24,
+      "sha256": "a2e9254ad4fc537bdf07434f8a49ca5b08e8092d1a8349f049b99a499d3ec769"
+    },
+    "ru": {
+      "module": "reasoning/native/turtles-ru.mjs",
+      "source": "Movies/Turtles-ru.swf",
+      "frames": 800,
+      "fps": 24,
+      "sha256": "19ef78b54c4e545a5f89123b49457951b44004964e99ed40daa4ef2803cb2d9e"
+    }
+  },
+  "wine": {
+    "en": {
+      "module": "reasoning/native/wine-en.mjs",
+      "source": "Movies/Wineandmilk.swf",
+      "frames": 1239,
+      "fps": 24,
+      "sha256": "f090507ed4748560f4fbad947796bb36236674db6d4af01ea54eec235c6b6549"
+    },
+    "ru": {
+      "module": "reasoning/native/wine-ru.mjs",
+      "source": "Movies/Wineandmilk-ru.swf",
+      "frames": 1239,
+      "fps": 24,
+      "sha256": "cfebb923d2baa7ae0f85cdbfb2e42479b5f841e01b63b4daff850b4c8dcd0c3b"
+    }
+  },
+  "bacteria": {
+    "en": {
+      "module": "reasoning/native/bacteria-en.mjs",
+      "source": "Movies/Bacteria.swf",
+      "frames": 1053,
+      "fps": 24,
+      "sha256": "f1ffdcfb2ce1866285e6c7cceba588ab4ce370a72fbb446f69284b5869a48509"
+    },
+    "ru": {
+      "module": "reasoning/native/bacteria-ru.mjs",
+      "source": "Movies/Bacteria-ru.swf",
+      "frames": 1282,
+      "fps": 24,
+      "sha256": "1a2dd284998949f136f5d7fa89c8237b8ad167b87b583e3bc54bcaf5663a7c38"
+    }
+  },
+  "hand": {
+    "en": {
+      "module": "reasoning/native/hand-en.mjs",
+      "source": "Movies/Hand1000.swf",
+      "frames": 850,
+      "fps": 24,
+      "sha256": "52a73f78b3efb7efeb4ebdea48879d09ae734b3672b1ae6aadb8aa468f3e9384"
+    },
+    "ru": {
+      "module": "reasoning/native/hand-ru.mjs",
+      "source": "Movies/Hand1000-ru.swf",
+      "frames": 850,
+      "fps": 24,
+      "sha256": "0b8eab02886c72639c654d39652b4383e891f1b964cb4201bccff53baa5c9544"
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "mightymatica",
+  "version": "0.1.0-alpha.1",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 5174",
+    "type-check": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test --test-concurrency=2 tests/*.test.mjs scripts/*.test.mjs",
+    "check": "npm run type-check && npm test",
+    "build": "npm run type-check && vite build",
+    "postbuild": "npm run check:build",
+    "check:build": "node --experimental-strip-types scripts/check-build.mjs",
+    "compose:portfolio": "node scripts/compose-portfolio.mjs",
+    "preview": "vite preview --host 127.0.0.1 --port 4174"
+  },
+  "dependencies": {
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "three": "^0.185.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "@types/three": "^0.185.4",
+    "@vitejs/plugin-react": "6.1.2",
+    "acorn": "8.19.0",
+    "typescript": "7.0.2",
+    "vite": "8.3.5"
+  }
+}

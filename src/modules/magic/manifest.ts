@@ -1,0 +1,28 @@
+import type { ActivityMeta } from "../../shared/contracts";
+
+export const manifest: ActivityMeta[] = [
+  { id: "magic-mouse-cheese", title: "Mouse and cheese", titleRu: "Мышка и сыр",
+    description: "Three mazes separate the mouse from the cheese. Cats patrol the passages.",
+    descriptionRu: "Мышку от сыра отделяют три лабиринта. По проходам ходят коты.",
+    category: "magic", fidelity: "adaptation", sources: ["Movies/Mouse-cheese.swf"] },
+  { id: "magic-mouse-cherry", title: "Mouse collects cherries", titleRu: "Мышка собирает вишни",
+    description: "Choose a route that collects exactly the requested number of cherries across eight levels.",
+    descriptionRu: "На восьми уровнях выберите маршрут, чтобы собрать ровно нужное число вишен.",
+    category: "magic", fidelity: "adaptation", sources: ["Movies/Mouse-cherry.swf"] },
+  { id: "magic-mouse-cherry-oppo", title: "Mouse shares cherries", titleRu: "Мышка делится вишнями",
+    description: "Carry cherries through the maze and feed mousekin groups without leftovers.",
+    descriptionRu: "Пронесите вишни через лабиринт и накормите мышат без остатка.",
+    category: "magic", fidelity: "adaptation", sources: ["Movies/Mouse-cherry-oppo.swf"] },
+  { id: "magic-mindread", title: "The mind-reading ball", titleRu: "Шар, читающий мысли",
+    description: "Keep a number secret, find its symbol, and let the ball make its prediction.",
+    descriptionRu: "Задумайте число, найдите его символ и проверьте предсказание шара.",
+    category: "magic", fidelity: "adaptation", sources: ["Movies/Mindread.swf", "Movies/Mindread-ru.swf"] },
+  { id: "magic-mistic-subtraction", title: "Mysterious subtraction", titleRu: "Удивительное вычитание",
+    description: "Reversing digits, subtracting, and adding lead different three-digit numbers to the same result.",
+    descriptionRu: "Перестановка цифр, вычитание и сложение приводят разные трёхзначные числа к одному результату.",
+    category: "magic", fidelity: "adaptation", sources: ["Movies/Mistic substr.swf", "Movies/Mistic substr-ru.swf"] },
+  { id: "magic-two-hourglasses", title: "Two hourglasses", titleRu: "Двое песочных часов",
+    description: "Measure fifteen minutes with only eleven- and seven-minute hourglasses.",
+    descriptionRu: "Отмерьте 15 минут с помощью часов на 11 и 7 минут.",
+    category: "magic", fidelity: "adaptation", sources: ["Movies/Twohourglasses.swf", "Movies/Twohourglasses-ru.swf"] },
+];

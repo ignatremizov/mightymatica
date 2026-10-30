@@ -1,0 +1,243 @@
+{
+  "source": "Movies/Coslaw.swf",
+  "sourceSha256": "2d5cd47be1d71c15cf52b6005c708b9e1d1f9cc11addfe111fb1090bfc9a331d",
+  "width": 550,
+  "height": 400,
+  "fps": 24,
+  "initialFrame": 1,
+  "endFrame": 1166,
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "startFrame": 1,
+      "endFrame": 1166,
+      "module": "triangles/native/cosine-law/en/chapter-1.mjs"
+    }
+  ],
+  "stops": [
+    {
+      "frame": 18,
+      "kind": "manual"
+    },
+    {
+      "frame": 1166,
+      "kind": "manual"
+    }
+  ],
+  "audioAssets": [
+    {
+      "soundId": 8,
+      "codec": 2,
+      "sampleRate": 44100,
+      "sampleCount": 221184,
+      "channels": 2,
+      "seekSamples": 0,
+      "src": "triangles/native/cosine-law/en/8.mp3",
+      "sha256": "849d4fbac93ee78df75e2a81ea3eb6d30ab8abb1d76475ffde4ea63d42407696",
+      "embeddedMp3Sha256": "849d4fbac93ee78df75e2a81ea3eb6d30ab8abb1d76475ffde4ea63d42407696",
+      "durationSeconds": 5.015423999999997,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 14,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 5212,
+      "channels": 1,
+      "seekSamples": 1633,
+      "src": "triangles/native/cosine-law/en/14.mp3",
+      "sha256": "746727041a22c4068861ab1d011e71fa31ecb5a9afd1dab82844b31873bda6cb",
+      "embeddedMp3Sha256": "746727041a22c4068861ab1d011e71fa31ecb5a9afd1dab82844b31873bda6cb",
+      "durationSeconds": 0.7314299999999999,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 17,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 42656,
+      "channels": 1,
+      "seekSamples": 1661,
+      "src": "triangles/native/cosine-law/en/17.mp3",
+      "sha256": "c5184c461734bf5a72fb8f9cbc465e950e2832ecd7fb9af4f33ad74c12a285d9",
+      "embeddedMp3Sha256": "c5184c461734bf5a72fb8f9cbc465e950e2832ecd7fb9af4f33ad74c12a285d9",
+      "durationSeconds": 4.127355000000005,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 44,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 32873,
+      "channels": 1,
+      "seekSamples": 1633,
+      "src": "triangles/native/cosine-law/en/44.mp3",
+      "sha256": "66b9aa62f19c33e5f506935dee56b8623c506afd6ccbe496ecd8dee078347113",
+      "embeddedMp3Sha256": "66b9aa62f19c33e5f506935dee56b8623c506afd6ccbe496ecd8dee078347113",
+      "durationSeconds": 3.239190000000004,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 74,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 40847,
+      "channels": 1,
+      "seekSamples": 1633,
+      "src": "triangles/native/cosine-law/en/74.mp3",
+      "sha256": "d06286570518b3639ff21c3a769085c992078639a15fba2c3087c97a042a81eb",
+      "embeddedMp3Sha256": "d06286570518b3639ff21c3a769085c992078639a15fba2c3087c97a042a81eb",
+      "durationSeconds": 3.866130000000005,
+      "durationMeasurement": "ffprobe-packet-sum"
+    }
+  ],
+  "audioCues": [
+    {
+      "frame": 19,
+      "soundId": 17,
+      "inPoint44": 0,
+      "outPoint44": 170626,
+      "inPointSeconds": 0,
+      "outPointSeconds": 3.8690702947845805,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 222,
+      "soundId": 44,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 11667,
+          "right": 10923,
+          "seconds": 0,
+          "leftGain": 0.356048583984375,
+          "rightGain": 0.333343505859375
+        },
+        {
+          "mark44": 75939,
+          "left": 12412,
+          "right": 10923,
+          "seconds": 1.7219727891156462,
+          "leftGain": 0.3787841796875,
+          "rightGain": 0.333343505859375
+        },
+        {
+          "mark44": 79139,
+          "left": 0,
+          "right": 0,
+          "seconds": 1.7945351473922901,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 813,
+      "soundId": 74,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 983,
+      "soundId": 44,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 12909,
+          "right": 11171,
+          "seconds": 0,
+          "leftGain": 0.393951416015625,
+          "rightGain": 0.340911865234375
+        },
+        {
+          "mark44": 98052,
+          "left": 13653,
+          "right": 11171,
+          "seconds": 2.2234013605442176,
+          "leftGain": 0.416656494140625,
+          "rightGain": 0.340911865234375
+        },
+        {
+          "mark44": 99852,
+          "left": 0,
+          "right": 0,
+          "seconds": 2.26421768707483,
+          "leftGain": 0,
+          "rightGain": 0
+        },
+        {
+          "mark44": 102252,
+          "left": 0,
+          "right": 0,
+          "seconds": 2.318639455782313,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 1078,
+      "soundId": 44,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 12909,
+          "right": 11171,
+          "seconds": 0,
+          "leftGain": 0.393951416015625,
+          "rightGain": 0.340911865234375
+        },
+        {
+          "mark44": 98052,
+          "left": 13653,
+          "right": 11171,
+          "seconds": 2.2234013605442176,
+          "leftGain": 0.416656494140625,
+          "rightGain": 0.340911865234375
+        },
+        {
+          "mark44": 99852,
+          "left": 0,
+          "right": 0,
+          "seconds": 2.26421768707483,
+          "leftGain": 0,
+          "rightGain": 0
+        },
+        {
+          "mark44": 102252,
+          "left": 0,
+          "right": 0,
+          "seconds": 2.318639455782313,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    }
+  ],
+  "gates": []
+}

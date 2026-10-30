@@ -1,0 +1,9 @@
+.falling-activity { color:#000066; font-family:"Times New Roman",serif; }
+.falling-activity .falling-board { display:block; width:100%; max-width:770px; margin-inline:auto; height:auto; aspect-ratio:550/400; touch-action:none; border:0; border-radius:0; }
+.falling-activity fieldset { min-width:0; border:1px solid #000099; padding:12px; border-radius:0; }
+.falling-activity button[aria-pressed="true"] { outline:3px solid currentColor; outline-offset:2px; }
+.falling-activity .controls { flex-wrap:wrap; }
+.falling-activity select { max-width:100%; }
+.falling-activity .falling-host { display:flex; align-items:center; gap:1rem; padding:.5rem 0; background:transparent; color:#000066; border-radius:0; }
+.falling-activity .falling-host canvas { width:108px; height:120px; flex:none; }
+.falling-activity .falling-host p { font-family:"Times New Roman",serif; font-size:clamp(1.1rem,3vw,1.55rem); font-weight:bold; margin:0; }

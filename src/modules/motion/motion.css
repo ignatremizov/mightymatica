@@ -1,0 +1,92 @@
+.motion-activity { max-width: 720px; margin-inline: auto; background: #6ff; color: #0000a0; font-family: "Times New Roman", Times, serif; gap: .8rem; }
+.motion-activity .motion-diagram { display: block; width: 100%; height: auto; max-height: 520px; background: transparent; color: #000; border: 0; border-radius: 0; }
+.motion-diagram text { font: 18px "Times New Roman", Times, serif; fill: #000; }
+.motion-diagram .motion-solid { fill: none; stroke: #000; stroke-width: 1; }
+.motion-diagram .motion-coin { fill: #ffc96c; stroke: #694315; stroke-width: 3; }
+.motion-diagram .motion-crossing-handle { fill: transparent; cursor: ns-resize; touch-action: none; }
+.motion-diagram .motion-mark { stroke: #000; stroke-width: 2; fill: none; }
+.motion-diagram .motion-trace { stroke: #00f; stroke-width: 2; stroke-dasharray: 6 5; fill: none; }
+.motion-diagram .motion-wall { stroke: #000; stroke-width: 1; fill: none; }
+.motion-diagram .motion-ladder { stroke: #b64c22; stroke-width: 7; fill: none; stroke-linecap: round; }
+.motion-diagram .motion-coin-number { fill: #fff; paint-order: stroke; stroke: #332014; stroke-width: 4px; font-weight: 700; }
+.motion-activity .control { min-width: min(100%, 220px); }
+.motion-activity .control input { width: 100%; }
+.motion-quiz { padding-block: .5rem; }
+.motion-quiz .activity-status { min-height: 3em; }
+.motion-activity .controls { margin-block: .4rem; }
+.motion-activity .explanation,
+.motion-activity .activity-status {
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: inherit;
+}
+.motion-activity .activity-note { color: inherit; }
+.motion-activity .choice-grid { display: flex; flex-wrap: wrap; gap: .5rem; }
+.motion-activity .button {
+  border: 1px solid #555;
+  border-radius: 2px;
+  background: #eee;
+  color: #000;
+  box-shadow: none;
+  padding: .25rem .7rem;
+  font-family: "Times New Roman", Times, serif;
+}
+.motion-activity .button:hover { background: #fff; }
+.motion-activity .button[aria-pressed="true"] { background: #fff; color: #00a; border-color: #00a; outline: 1px solid #00a; }
+.motion-activity .button:focus-visible,
+.motion-activity input:focus-visible { outline: 2px solid #00a; outline-offset: 3px; }
+.motion-activity input[type="range"] { accent-color: #00a; }
+.motion-circles-activity .motion-diagram {
+  width: min(100%, 520px);
+  height: clamp(240px, 50vw, 460px);
+  max-height: 460px;
+  margin-inline: auto;
+}
+.motion-circles-activity .controls { font-variant-numeric: tabular-nums; }
+
+/* The ladder's authored stage uses aqua, blue type/trace and a red cat point.
+   Keep these overrides local: other motion lessons have their own diagrams. */
+.motion-ladder-activity {
+  max-width: 560px;
+  padding: .75rem;
+  gap: .65rem;
+  background: #6ff;
+  color: #0000a0;
+  font-family: "Times New Roman", Times, serif;
+}
+.motion-ladder-activity > p { margin: 0; line-height: 1.4; }
+.motion-ladder-activity .motion-ladder-diagram {
+  width: min(100%, 390px);
+  max-height: none;
+  margin-inline: auto;
+  background: transparent;
+  border: 0;
+  border-radius: 0;
+}
+.motion-ladder-diagram .motion-wall { stroke: #000; stroke-width: 1; }
+.motion-ladder-diagram .motion-ladder { stroke: #930; stroke-width: 8; stroke-linecap: butt; }
+.motion-ladder-diagram .motion-trace { stroke: #00f; stroke-width: 2; stroke-dasharray: none; }
+.motion-ladder-diagram .motion-cat-point { fill: #f00; stroke: #000; stroke-width: 2; }
+.motion-ladder-activity .controls { margin: 0; gap: .5rem .75rem; justify-content: center; }
+.motion-ladder-activity .control { min-width: 0; width: 180px; max-width: 100%; gap: .15rem; font: 14px "Times New Roman", Times, serif; }
+.motion-ladder-activity input[type="range"] { accent-color: #0000a0; }
+.motion-ladder-activity .button {
+  padding: .2rem .65rem;
+  min-height: 30px;
+  border: 1px solid #555;
+  border-radius: 2px;
+  background: #eee;
+  color: #000;
+  box-shadow: none;
+  font: 15px "Times New Roman", Times, serif;
+}
+.motion-ladder-activity .button:hover { background: #fff; }
+.motion-ladder-activity .button:focus-visible,
+.motion-ladder-activity input:focus-visible { outline: 2px solid #0000a0; outline-offset: 3px; }
+.motion-ladder-activity .explanation { padding: 0; border: 0; border-radius: 0; background: transparent; }
+.motion-ladder-activity .activity-note { flex-basis: 100%; margin: 0; color: inherit; font-size: .85rem; }
+.motion-ladder-activity.motion-embedded { max-width: 420px; padding: .25rem; gap: .4rem; }
+.motion-ladder-activity.motion-embedded .motion-ladder-diagram { width: min(100%, 300px); }
+.motion-ladder-activity.motion-embedded .control { width: 155px; font-size: 13px; }

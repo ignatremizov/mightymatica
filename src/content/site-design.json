@@ -1,0 +1,4637 @@
+{
+  "version": 1,
+  "palette": {
+    "background": "#66ffff",
+    "text": "#330099"
+  },
+  "assets": {
+    "Images/Escher-stairs-gif.gif": {
+      "src": "site-design/Images/Escher-stairs-gif.gif",
+      "width": 669,
+      "height": 485,
+      "sha256": "8ae5fbfa8fcbfe7a04b66f19028c3075e99bbb2e695774ecf305e14597dbf067",
+      "stillSrc": "site-design/Images/Escher-stairs-gif.gif.first-frame.png"
+    },
+    "Images/Calculus-button.jpg": {
+      "src": "site-design/Images/Calculus-button.jpg",
+      "width": 117,
+      "height": 22,
+      "sha256": "06a1192698615f457f21b001303b731add9e29c1c586de948c34cae7d80a0b15"
+    },
+    "Images/Books-button.jpg": {
+      "src": "site-design/Images/Books-button.jpg",
+      "width": 91,
+      "height": 24,
+      "sha256": "9ec2bb013a0b44b739bddefc3b03bac3acb5d2bf8330bbcb36e1475477b070fe"
+    },
+    "Images/LiveGeometry-button.jpg": {
+      "src": "site-design/Images/LiveGeometry-button.jpg",
+      "width": 120,
+      "height": 22,
+      "sha256": "8c1b51a138c878a382d90e1bcda31d4a4b0f9dd9e131d8cf578f94bf93352f55"
+    },
+    "Images/Slidingpuzzles.jpg": {
+      "src": "site-design/Images/Slidingpuzzles.jpg",
+      "width": 91,
+      "height": 19,
+      "sha256": "f0fc8b8052b5e599ab8242bf8223bb1ff2f634f2fe9f4563736890e1b37166bf"
+    },
+    "Images/Forkids-button.jpg": {
+      "src": "site-design/Images/Forkids-button.jpg",
+      "width": 99,
+      "height": 19,
+      "sha256": "77c80f8ca8addbf0b33afc4827ef4f661b3a44a5f678bb27c3321b9da19a5d86"
+    },
+    "Images/Magicmath-button.jpg": {
+      "src": "site-design/Images/Magicmath-button.jpg",
+      "width": 88,
+      "height": 22,
+      "sha256": "c92791dca2a341c0c81e8c5b676cd5dcc2076b1f0209aeff19203d0bdcfb38ae"
+    },
+    "Images/Funny Math-button.jpg": {
+      "src": "site-design/Images/Funny Math-button.jpg",
+      "width": 88,
+      "height": 21,
+      "sha256": "8b2d09e1308f983aadb2f5cb6c1c7f3f8f0aab0dc94350a66002958fb20a211c"
+    },
+    "Images/Play Math-button.jpg": {
+      "src": "site-design/Images/Play Math-button.jpg",
+      "width": 79,
+      "height": 19,
+      "sha256": "31c4a730619502b54e84c0f356a838c899b2a71ac53492792feb93895156aba4"
+    },
+    "Images/Visual Math-button.jpg": {
+      "src": "site-design/Images/Visual Math-button.jpg",
+      "width": 87,
+      "height": 21,
+      "sha256": "7d2a07792fb6ef552f56a83c754734c92a896eb239776172338145f2f4d99a8f"
+    },
+    "Images/MathSAT-button.jpg": {
+      "src": "site-design/Images/MathSAT-button.jpg",
+      "width": 91,
+      "height": 22,
+      "sha256": "a1033b1821d1c0a3e4f92c5078b9044a3f4d1e04fb86cd62198a59c62b7dfcf5"
+    },
+    "Images/Contactf-button.jpg": {
+      "src": "site-design/Images/Contactf-button.jpg",
+      "width": 86,
+      "height": 21,
+      "sha256": "8d2cdb16e68ceef8d9802697dd93b22604f9af7e74e8587d54ebec8c228213c4"
+    },
+    "Images/Calculus5min.jpg": {
+      "src": "site-design/Images/Calculus5min.jpg",
+      "width": 727,
+      "height": 555,
+      "sha256": "73be7921e3375d97a51f40d935129fce3b1e7f54eb115d023e50ce01904cab92"
+    },
+    "Images/Calculus5min-over.jpg": {
+      "src": "site-design/Images/Calculus5min-over.jpg",
+      "width": 727,
+      "height": 555,
+      "sha256": "e1ace771c98b098d83308fadba6ac87984b85919b1b29cd39e574573ea7871b4"
+    },
+    "Images/Home.jpg": {
+      "src": "site-design/Images/Home.jpg",
+      "width": 119,
+      "height": 24,
+      "sha256": "34d527510946f7887db0941c80bff6a73c1dc31cbcaf6ced95b26f9e726eb108"
+    },
+    "Images/MMbook-1-1.jpg": {
+      "src": "site-design/Images/MMbook-1-1.jpg",
+      "width": 369,
+      "height": 243,
+      "sha256": "2ef5ae3f88d740671ecfdb1a48bc39631f62bc67be5742011e788727df2ee84a"
+    },
+    "Images/MMbook-1-1-over.jpg": {
+      "src": "site-design/Images/MMbook-1-1-over.jpg",
+      "width": 369,
+      "height": 243,
+      "sha256": "04acd693da212eba847741cbb26d3847e830d3d60534ac5c53c633c16a79b757"
+    },
+    "Images/MMbook-1-2.jpg": {
+      "src": "site-design/Images/MMbook-1-2.jpg",
+      "width": 367,
+      "height": 233,
+      "sha256": "acc749f3cbee2fcbee93bb5aab97c92e70cdd2eb11c3b909773ab42842cce2ab"
+    },
+    "Images/MMbook-1-2-over.jpg": {
+      "src": "site-design/Images/MMbook-1-2-over.jpg",
+      "width": 367,
+      "height": 233,
+      "sha256": "4b8ece9e9094fc38a0cbfa2fe689e304e09c3d29568409662b68980b76a5bc08"
+    },
+    "Images/MMbook-1-3.jpg": {
+      "src": "site-design/Images/MMbook-1-3.jpg",
+      "width": 366,
+      "height": 259,
+      "sha256": "03edc22bc884bb80f9ffce657ef09c4f5f9ba1401dc6263ad6d8ba324fcbd784"
+    },
+    "Images/MMbook-1-3-over.jpg": {
+      "src": "site-design/Images/MMbook-1-3-over.jpg",
+      "width": 366,
+      "height": 259,
+      "sha256": "442658399c1bbd78e6290ac795b82ef072bd1bc09d0ce0a231fd56592d7a0631"
+    },
+    "Images/MMbook-2-1.jpg": {
+      "src": "site-design/Images/MMbook-2-1.jpg",
+      "width": 366,
+      "height": 249,
+      "sha256": "8ea1d79fd0d8d71d1b941d30a75099a92d7f84e50b5f5164305115f2000437f4"
+    },
+    "Images/MMbook-2-1-over.jpg": {
+      "src": "site-design/Images/MMbook-2-1-over.jpg",
+      "width": 366,
+      "height": 249,
+      "sha256": "40044152be15a8c3c89447b954ee5c1a31ccefa3cb71af218b4220d89a164137"
+    },
+    "Images/MMbook-SAT-101.jpg": {
+      "src": "site-design/Images/MMbook-SAT-101.jpg",
+      "width": 373,
+      "height": 266,
+      "sha256": "83126c83558849656032bf8382af9cfbc777ba99a6a2e992cc6ac8fb3077a8bf"
+    },
+    "Images/MMbook-SAT-101-over.jpg": {
+      "src": "site-design/Images/MMbook-SAT-101-over.jpg",
+      "width": 373,
+      "height": 266,
+      "sha256": "2757206feb10096d3dbcf34a03e1ff25fb9a57080ca58d6e3c3e843753aa1bd1"
+    },
+    "Images/MMbook-Circles.jpg": {
+      "src": "site-design/Images/MMbook-Circles.jpg",
+      "width": 359,
+      "height": 240,
+      "sha256": "7cc047be21f9f9f6b8ac2be858367ef62ae04335b718c5be5195d5da5ae61789"
+    },
+    "Images/MMbook-Circles-over.jpg": {
+      "src": "site-design/Images/MMbook-Circles-over.jpg",
+      "width": 359,
+      "height": 240,
+      "sha256": "746c2841830c53b92269193539774dea131bb892bf6ebb9739095c891963f52a"
+    },
+    "Images/Pictures for flashes/Area.png": {
+      "src": "site-design/Images/Pictures for flashes/Area.png",
+      "width": 343,
+      "height": 252,
+      "sha256": "018838c31f5d5bdd02fb01e19f764ea72ab9945238fa1306e8b938255316e454"
+    },
+    "Images/Pictures for flashes/Area-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Area-over.png",
+      "width": 343,
+      "height": 252,
+      "sha256": "4374f8d1d276c9295d7ac63070fb23b1e79c84c67ed74e57d9baea75669211fd"
+    },
+    "Images/Pictures for flashes/Cubenet.png": {
+      "src": "site-design/Images/Pictures for flashes/Cubenet.png",
+      "width": 245,
+      "height": 245,
+      "sha256": "9e4de8bffdbdebde8774c7d83cb10cee2ddbd45fe264ca400fde74035275a5bc"
+    },
+    "Images/Pictures for flashes/Cubenet-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Cubenet-over.png",
+      "width": 245,
+      "height": 245,
+      "sha256": "3a630beda52088d75009a5b85950b0908c8efc795fb20a4132f088b7ad58fd32"
+    },
+    "Images/Pictures for flashes/Cubenetreplce.png": {
+      "src": "site-design/Images/Pictures for flashes/Cubenetreplce.png",
+      "width": 311,
+      "height": 226,
+      "sha256": "02f8c8cfd860f66aeba5379917ea52da2ab7318f18b7bc0d3627e891210ec652"
+    },
+    "Images/Pictures for flashes/Cubenetreplce - over.png": {
+      "src": "site-design/Images/Pictures for flashes/Cubenetreplce - over.png",
+      "width": 311,
+      "height": 226,
+      "sha256": "8c342c61674df8735d3c18db671120506d6f29abf01849d4cfb31e838bd1cc5a"
+    },
+    "Images/Pictures for flashes/Cubenets.png": {
+      "src": "site-design/Images/Pictures for flashes/Cubenets.png",
+      "width": 311,
+      "height": 226,
+      "sha256": "27371340ad96af9274b49afa3889c6f90189755e52e933bc13b0bd304c0bdc9b"
+    },
+    "Images/Pictures for flashes/Cubenets-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Cubenets-over.png",
+      "width": 311,
+      "height": 226,
+      "sha256": "8c5639db93f00454d578ecc8433f98e3ece24da5acf5bc8a69f1de284e036b9b"
+    },
+    "Images/Pictures for flashes/Area of circle site.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Area of circle site.jpg",
+      "width": 171,
+      "height": 119,
+      "sha256": "88b60f5cbc76c323d583cba834b7452b8db3fdbff7804c1b38d756f1f90bca34"
+    },
+    "Images/Pictures for flashes/Area of circle site-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Area of circle site-over.jpg",
+      "width": 171,
+      "height": 119,
+      "sha256": "e87e93100f460dc44f1006bf67478dee559503e781b22b5edbeedd1c74b987c8"
+    },
+    "Images/Pictures for flashes/Pifagor flp site.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Pifagor flp site.jpg",
+      "width": 212,
+      "height": 135,
+      "sha256": "04c24462526643f983372795bd8e6b1d712e9769284d19923c05d8f87e4ca52b"
+    },
+    "Images/Pictures for flashes/Pifagor flp site-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Pifagor flp site-over.jpg",
+      "width": 212,
+      "height": 135,
+      "sha256": "ed958308007f1fe8123df4dc3614888eb4516e2735500193661fc03d7af3ce31"
+    },
+    "Images/Pictures for flashes/Vol of sphere site.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Vol of sphere site.jpg",
+      "width": 228,
+      "height": 161,
+      "sha256": "5755c052911821c0d5fab9f84946c31bfb0abe68c50efd94695b8bc908b57014"
+    },
+    "Images/Pictures for flashes/Vol of sphere site-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Vol of sphere site-over.jpg",
+      "width": 228,
+      "height": 161,
+      "sha256": "e9cb14a8b5e9a5e1f6743b3c33497af29afdded33c43f8d9c43484fa42b4e2a1"
+    },
+    "Images/Median.jpg": {
+      "src": "site-design/Images/Median.jpg",
+      "width": 177,
+      "height": 146,
+      "sha256": "50da8d47f979f20b9719e79f0dba476df5ea97fbe4b2561c9e7d38bce8163390"
+    },
+    "Images/Median-over.jpg": {
+      "src": "site-design/Images/Median-over.jpg",
+      "width": 177,
+      "height": 146,
+      "sha256": "8f5e5f8e104321dda72a62e9da724d3aa75d5c8762c4f73340ef3214ce2fd032"
+    },
+    "Images/Insangletheo.jpg": {
+      "src": "site-design/Images/Insangletheo.jpg",
+      "width": 211,
+      "height": 172,
+      "sha256": "46e0426503e1c6050a8dabc1f22bb24c2d2130b0cf9f0a13b65f24d46aa814da"
+    },
+    "Images/Insangletheo-over.jpg": {
+      "src": "site-design/Images/Insangletheo-over.jpg",
+      "width": 211,
+      "height": 172,
+      "sha256": "dcba86cddfa1989e000016c7463c0de3acb530ae4f674c6d15d6ff399d31c633"
+    },
+    "Images/Bisec.jpg": {
+      "src": "site-design/Images/Bisec.jpg",
+      "width": 216,
+      "height": 178,
+      "sha256": "57713dd8c747b7d814d31d526236a22ebb25652f6f6cbb27815578f53599ccfa"
+    },
+    "Images/Bisec-over.jpg": {
+      "src": "site-design/Images/Bisec-over.jpg",
+      "width": 216,
+      "height": 178,
+      "sha256": "efbe3815d7c61245d32150ac50dced3f9a6cce5491ca5b697e7cd35c578caa93"
+    },
+    "Images/Altitudes.jpg": {
+      "src": "site-design/Images/Altitudes.jpg",
+      "width": 171,
+      "height": 146,
+      "sha256": "facb9d80d6ed0ef5856f6b8b27231623227a8acacfd36eee9df14e026c533a58"
+    },
+    "Images/Altitudes-cover.jpg": {
+      "src": "site-design/Images/Altitudes-cover.jpg",
+      "width": 171,
+      "height": 146,
+      "sha256": "a19a77a8b5b1ef4a2d22529d077c6bc921c1d4952adefec16cba3ccd859b99e8"
+    },
+    "Images/Pictures for flashes/Arpolen.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Arpolen.jpg",
+      "width": 294,
+      "height": 212,
+      "sha256": "67990c8c519e963de4114e706b6b75cbb85c29fd1811aeb96d8fe9528bfb3d72"
+    },
+    "Images/Pictures for flashes/Arpolen-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Arpolen-over.jpg",
+      "width": 294,
+      "height": 212,
+      "sha256": "af25c1240d5b3ab13cc533fcecb71111f52e1e353336ff5445fc558203145291"
+    },
+    "Images/Pictures for flashes/Congen.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Congen.jpg",
+      "width": 260,
+      "height": 205,
+      "sha256": "6fe5ad19102b1d7a8433f37a36ee70ea068bd89074236b6253a49ff75ed20971"
+    },
+    "Images/Pictures for flashes/Congen-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Congen-over.jpg",
+      "width": 260,
+      "height": 205,
+      "sha256": "c49ac1c4bca9e7a70afa63f36c9a466c2f7346e3df91bb1ce6a0011b671fc232"
+    },
+    "Images/Pictures for flashes/Alltriangles-sof.png": {
+      "src": "site-design/Images/Pictures for flashes/Alltriangles-sof.png",
+      "width": 414,
+      "height": 298,
+      "sha256": "1a5306085355149cad66dbd8513af195229f251c87a137ce993a2c5ec82e7530"
+    },
+    "Images/Pictures for flashes/Alltriangles-sof-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Alltriangles-sof-over.png",
+      "width": 414,
+      "height": 298,
+      "sha256": "13912cee084fc9b6318353e577540e084ab73ff4d3186ba94cde8d70ba509a4c"
+    },
+    "Images/Pictures for flashes/Cossinsum.png": {
+      "src": "site-design/Images/Pictures for flashes/Cossinsum.png",
+      "width": 277,
+      "height": 202,
+      "sha256": "d140d70d0e4cc557c7365ef744149991a4135475df63b1538aefd4c91458466d"
+    },
+    "Images/Pictures for flashes/Cossinsum-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Cossinsum-over.png",
+      "width": 277,
+      "height": 202,
+      "sha256": "a20f96c6da06e1fcc007f02ee4f01b4a5f0f957884eb4ccea95a8b46d0d69d2e"
+    },
+    "Images/Pictures for flashes/lawofcos.png": {
+      "src": "site-design/Images/Pictures for flashes/lawofcos.png",
+      "width": 277,
+      "height": 202,
+      "sha256": "8bf55c210434dab2e0e90b626025c236d8c73d4f4c693dc834ecc03f2835ecea"
+    },
+    "Images/Pictures for flashes/lawofcos-over.png": {
+      "src": "site-design/Images/Pictures for flashes/lawofcos-over.png",
+      "width": 277,
+      "height": 202,
+      "sha256": "6254e5609cc334159effa4367a06188efdcc9dc582dc3980a9d3e2513a9d92a4"
+    },
+    "Images/Pictures for flashes/lawofsin.png": {
+      "src": "site-design/Images/Pictures for flashes/lawofsin.png",
+      "width": 269,
+      "height": 195,
+      "sha256": "716b30f61590308955e69b5319dc2949634a02d1f00137c97d08ed1571f69468"
+    },
+    "Images/Pictures for flashes/lawofsin-over.png": {
+      "src": "site-design/Images/Pictures for flashes/lawofsin-over.png",
+      "width": 269,
+      "height": 195,
+      "sha256": "f97e4c7ef42942cfaa368a1327194ab06c6075861e8df2a20fd075aa77b8c68e"
+    },
+    "Images/Pictures for flashes/Palmandtrig.png": {
+      "src": "site-design/Images/Pictures for flashes/Palmandtrig.png",
+      "width": 269,
+      "height": 194,
+      "sha256": "2d44092bed04013f6ab6cff4bb927e7fc0c191ce8ec2ee9deee63a05c85d5760"
+    },
+    "Images/Pictures for flashes/Palmandtrig-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Palmandtrig-over.png",
+      "width": 269,
+      "height": 194,
+      "sha256": "e110de2bc1a48cd7ffbf1b0c9971d62aaae6faef524d8dacbc0886ace32f16d1"
+    },
+    "Images/Conicsections.jpg": {
+      "src": "site-design/Images/Conicsections.jpg",
+      "width": 378,
+      "height": 271,
+      "sha256": "3b801bef7e03ced3810a6c27d6854f2ab796a30e69653ed55d64ff47068d3f38"
+    },
+    "Images/Conicsections-over.jpg": {
+      "src": "site-design/Images/Conicsections-over.jpg",
+      "width": 378,
+      "height": 271,
+      "sha256": "08324df38d9d291fc31674c660abfabe84c38086a7bee6d6cb1ceb67770531b6"
+    },
+    "Images/Pictures for flashes/Cubesections.png": {
+      "src": "site-design/Images/Pictures for flashes/Cubesections.png",
+      "width": 359,
+      "height": 319,
+      "sha256": "15b471e2a438954a415428c24b6c7e7c2e36961d10f626a609ed68755a8aee27"
+    },
+    "Images/Pictures for flashes/Cubesections-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Cubesections-over.png",
+      "width": 359,
+      "height": 319,
+      "sha256": "31f21a4de8515a566ecc1fa0ce079dc0446d408294260449fe8a859c067d9c72"
+    },
+    "Images/Pictures for flashes/Nine bills site.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Nine bills site.jpg",
+      "width": 1253,
+      "height": 697,
+      "sha256": "e70c405d47ab24a22b0a1584b30efcdde0e6733f352fd4f342870c9fc0576f7b"
+    },
+    "Images/Pictures for flashes/Nine bills site-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Nine bills site-over.jpg",
+      "width": 1253,
+      "height": 697,
+      "sha256": "db3b32b77ed7bffb347bd940249519bbfeb35f200ca6b28af56d3f99a1568df8"
+    },
+    "Images/Pictures for flashes/Sliding4.png": {
+      "src": "site-design/Images/Pictures for flashes/Sliding4.png",
+      "width": 353,
+      "height": 256,
+      "sha256": "5f168f26122fcf04b2147aaa04196d15c0481561f8fd5724f54ea815a36b0230"
+    },
+    "Images/Pictures for flashes/Sliding4-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Sliding4-over.png",
+      "width": 353,
+      "height": 256,
+      "sha256": "72f7cc76f679b1158ce41087e885c480823f79f660f46d60a2dfd9de9830f4f2"
+    },
+    "Images/Jigsawstairs.jpg": {
+      "src": "site-design/Images/Jigsawstairs.jpg",
+      "width": 392,
+      "height": 280,
+      "sha256": "d4781cc1b812693ee38f8f362f4ec3ec8ab321f7349f07564d8ef2d4134ce2ab"
+    },
+    "Images/Jigsawstairs-over.jpg": {
+      "src": "site-design/Images/Jigsawstairs-over.jpg",
+      "width": 392,
+      "height": 280,
+      "sha256": "f05a95a07487f0e3595eb956f7f00dd0392f144a9fe63fbaf28aa5d555ff3f69"
+    },
+    "Images/Escher-water.jpg": {
+      "src": "site-design/Images/Escher-water.jpg",
+      "width": 344,
+      "height": 308,
+      "sha256": "e5e600840f45795958b3222d72fc4c51e1b79e43ee1b57108f59a042397d8ec8"
+    },
+    "Images/Escher-water-over.jpg": {
+      "src": "site-design/Images/Escher-water-over.jpg",
+      "width": 344,
+      "height": 308,
+      "sha256": "9d37faf9abc47896d4d10af7f098a603f45cda2c0aa4e1a41c7ac249d81cb713"
+    },
+    "Images/Escher-lizgame.jpg": {
+      "src": "site-design/Images/Escher-lizgame.jpg",
+      "width": 400,
+      "height": 288,
+      "sha256": "d3d9b3ecd8b8b76f7ae6cae216198dfdf892f563e9662b5cccf29bdbaf3163cb"
+    },
+    "Images/Escher-lizgame-over.jpg": {
+      "src": "site-design/Images/Escher-lizgame-over.jpg",
+      "width": 400,
+      "height": 288,
+      "sha256": "02b91cce24278e1a71e6913eb51b1ddc643cc0956c002ba2395e567baaed22d2"
+    },
+    "Images/Escher-stbigame.jpg": {
+      "src": "site-design/Images/Escher-stbigame.jpg",
+      "width": 397,
+      "height": 284,
+      "sha256": "b603cc5632f870c1a9520e0560eb5bcf150fc4e8dbdc0aeb6b3e53c0f7649392"
+    },
+    "Images/Escher-stbigame-over.jpg": {
+      "src": "site-design/Images/Escher-stbigame-over.jpg",
+      "width": 397,
+      "height": 284,
+      "sha256": "87becb357f300e06258fd7b0b4609f81ee1e908b25de62231a36ab2f136331ba"
+    },
+    "Images/Esch-faces-puzzle.jpg": {
+      "src": "site-design/Images/Esch-faces-puzzle.jpg",
+      "width": 417,
+      "height": 292,
+      "sha256": "8b2dbbdbc8bf3e2505d14633bd97ebae98c29531f39a924dbdb99fcb15dc4ba2"
+    },
+    "Images/Esch-faces-puzzle-over.jpg": {
+      "src": "site-design/Images/Esch-faces-puzzle-over.jpg",
+      "width": 417,
+      "height": 292,
+      "sha256": "a4dddec48064a7edf59f5c0b1278a5887af759f5ddaf762b7fd184c66e300e91"
+    },
+    "Images/Escherhandsforsite.jpg": {
+      "src": "site-design/Images/Escherhandsforsite.jpg",
+      "width": 379,
+      "height": 252,
+      "sha256": "e10743ceed26371b564b08496833d90ab4a47ddecbc3a4efb3244f01b2936d80"
+    },
+    "Images/Escherhandsforsite-over.jpg": {
+      "src": "site-design/Images/Escherhandsforsite-over.jpg",
+      "width": 379,
+      "height": 252,
+      "sha256": "23f6a2ecfb625c0fbda4b2e954898beac0e1c8a4a92feb58518eea18ace44e2b"
+    },
+    "Images/Escher BandFsite.jpg": {
+      "src": "site-design/Images/Escher BandFsite.jpg",
+      "width": 400,
+      "height": 296,
+      "sha256": "fd8e67b81b603f04d2a304dff04a4409b6e4225cff263b4247ab9d9aec28ab33"
+    },
+    "Images/Escher BandFsite-over.jpg": {
+      "src": "site-design/Images/Escher BandFsite-over.jpg",
+      "width": 400,
+      "height": 296,
+      "sha256": "b141222dca1ce9191c2bb91c9f54fe055721de017c2d54bfeaeccc2a4d3545c8"
+    },
+    "Images/Pinoc-game.jpg": {
+      "src": "site-design/Images/Pinoc-game.jpg",
+      "width": 360,
+      "height": 271,
+      "sha256": "5c8f945de89c1f9086dff60ec627bb80121ae8a3e11fe9be28da13dff449a61f"
+    },
+    "Images/Pinoc-game-over.jpg": {
+      "src": "site-design/Images/Pinoc-game-over.jpg",
+      "width": 360,
+      "height": 271,
+      "sha256": "4bb4ca35ee286ee937253e6cecfa0af81fc292a36020121116479eae1f14d5d4"
+    },
+    "Images/Snowhite-game.jpg": {
+      "src": "site-design/Images/Snowhite-game.jpg",
+      "width": 418,
+      "height": 303,
+      "sha256": "30aa8e9a73e6f85696a923c0c0d0a3f3cb09800fcedbc95b55935521408ae2ae"
+    },
+    "Images/Snowhite-game-over.jpg": {
+      "src": "site-design/Images/Snowhite-game-over.jpg",
+      "width": 418,
+      "height": 303,
+      "sha256": "619450fc71974c69d2f31521ae9471f978e4e199cafc34e1a48e2c374ac33d97"
+    },
+    "Images/Prostogame.jpg": {
+      "src": "site-design/Images/Prostogame.jpg",
+      "width": 359,
+      "height": 260,
+      "sha256": "2a23fb931b24541e38660382bf76c69e3cf57efd8301a0f5843b3877ab551c06"
+    },
+    "Images/Prostogame-over.jpg": {
+      "src": "site-design/Images/Prostogame-over.jpg",
+      "width": 359,
+      "height": 260,
+      "sha256": "c81c8b9d0f65a6f3235bb463c21a440e12ad1f83edb25c0148813a4cb7573923"
+    },
+    "Images/Sepcolor.jpg": {
+      "src": "site-design/Images/Sepcolor.jpg",
+      "width": 385,
+      "height": 273,
+      "sha256": "c2d7fc3b5c7b0bd654c20fa8cce191294d29c156cdedd2cddbec28a81152ec2d"
+    },
+    "Images/Sepcolor-over.jpg": {
+      "src": "site-design/Images/Sepcolor-over.jpg",
+      "width": 385,
+      "height": 273,
+      "sha256": "6110ec93b66b8dc6bd450146d48a6234940d657edb068ac07d8ed0694199fc63"
+    },
+    "Images/Sepshape.jpg": {
+      "src": "site-design/Images/Sepshape.jpg",
+      "width": 370,
+      "height": 274,
+      "sha256": "695a7145fda51c52da93bee2389f98080bfeb13e293cdd3fe13f0d0c1b6b1a9a"
+    },
+    "Images/Sepshape-over.jpg": {
+      "src": "site-design/Images/Sepshape-over.jpg",
+      "width": 370,
+      "height": 274,
+      "sha256": "72e88e0aa2bb25c7396b1672b2fd2d62321e953b7a4e8d7b5b32131b5d65dfdc"
+    },
+    "Images/Sepsize.jpg": {
+      "src": "site-design/Images/Sepsize.jpg",
+      "width": 381,
+      "height": 284,
+      "sha256": "031d30ec1f8c91a2a3a6be3249929143ef251f6694d764d5eae48b786c87edca"
+    },
+    "Images/Sepsize-over.jpg": {
+      "src": "site-design/Images/Sepsize-over.jpg",
+      "width": 381,
+      "height": 284,
+      "sha256": "da7efe823560b49c883efffa6261772377ef65c6548ea50c62b687dd746e8031"
+    },
+    "Images/Findimproper.jpg": {
+      "src": "site-design/Images/Findimproper.jpg",
+      "width": 400,
+      "height": 305,
+      "sha256": "b6ca5e5d2efc394900f08fed3715641422ad4606733d970e1dc48b93ee1e9cc9"
+    },
+    "Images/Findimproper-over.jpg": {
+      "src": "site-design/Images/Findimproper-over.jpg",
+      "width": 400,
+      "height": 305,
+      "sha256": "0812f4aea072e905404bcf01aca995595d1c11f698e305844036efa9e62c7129"
+    },
+    "Images/Findcoupline.jpg": {
+      "src": "site-design/Images/Findcoupline.jpg",
+      "width": 388,
+      "height": 299,
+      "sha256": "051c32e380476337364a16ef514da973da87c3c5a2f0fd7071a0a24e2e9955d0"
+    },
+    "Images/Findcoupline-over.jpg": {
+      "src": "site-design/Images/Findcoupline-over.jpg",
+      "width": 388,
+      "height": 299,
+      "sha256": "8aee485d0c02222ba83ec9a397c513f83b6f64485720de93cf7ab6400daa03ae"
+    },
+    "Images/Complchain1.jpg": {
+      "src": "site-design/Images/Complchain1.jpg",
+      "width": 356,
+      "height": 279,
+      "sha256": "2f02ab86e118034b0b930716e805b05ff21a16b7453dacac4f2574dd8a00fc24"
+    },
+    "Images/Complchain1-over.jpg": {
+      "src": "site-design/Images/Complchain1-over.jpg",
+      "width": 356,
+      "height": 279,
+      "sha256": "78bf91c36838d1c149614ad7a48973d46c421551f32f4e1df298af9d2d1db9ff"
+    },
+    "Images/Findwline.jpg": {
+      "src": "site-design/Images/Findwline.jpg",
+      "width": 421,
+      "height": 302,
+      "sha256": "63838a93a979e0645f57ea9b2adf9eb184424b50c98823d69764559bbc930b2a"
+    },
+    "Images/Findwline-over.jpg": {
+      "src": "site-design/Images/Findwline-over.jpg",
+      "width": 421,
+      "height": 302,
+      "sha256": "888e1d5b0aedbce2b7e294dd6f14e34013549bdef573c53d079e5d4b3e21fe21"
+    },
+    "Images/Findproperfig.jpg": {
+      "src": "site-design/Images/Findproperfig.jpg",
+      "width": 419,
+      "height": 306,
+      "sha256": "614d94a70677970f9bdb468d461326df4ba6e0b582d3ac38102cb8f227673310"
+    },
+    "Images/Findproperfig-over.jpg": {
+      "src": "site-design/Images/Findproperfig-over.jpg",
+      "width": 419,
+      "height": 306,
+      "sha256": "5a25e52d264d6a7691540d4212b5672978e8d7a32e45aeea443b76a014b60b4d"
+    },
+    "Images/Makesame.jpg": {
+      "src": "site-design/Images/Makesame.jpg",
+      "width": 402,
+      "height": 292,
+      "sha256": "4c4d171db3bc0920d0d02cf01f4d62a20f69b25f50748ee1ba2608c9b1000019"
+    },
+    "Images/Makesame-over.jpg": {
+      "src": "site-design/Images/Makesame-over.jpg",
+      "width": 402,
+      "height": 292,
+      "sha256": "5e63d2a451598ec5dd2fda31e0a9f1492673e28c7c1bd24cd38e8d7f06bec57a"
+    },
+    "Images/Rippedneckl.jpg": {
+      "src": "site-design/Images/Rippedneckl.jpg",
+      "width": 411,
+      "height": 290,
+      "sha256": "0d5609f762fe2396b5be177a2419317546a2b6e70d32c97b0f8bb96646860aeb"
+    },
+    "Images/Rippedneckl-over.jpg": {
+      "src": "site-design/Images/Rippedneckl-over.jpg",
+      "width": 411,
+      "height": 290,
+      "sha256": "e824de077acb1242c31ae99d83e570fb3b5cbdff16387bac47554c83dc628e0a"
+    },
+    "Images/Findsamewline.jpg": {
+      "src": "site-design/Images/Findsamewline.jpg",
+      "width": 445,
+      "height": 332,
+      "sha256": "06cd15f301dfa8fa81344ef38d7be86287ef48f1caf6d34c0dcbb82b3b6d27ba"
+    },
+    "Images/Findsamewline-over.jpg": {
+      "src": "site-design/Images/Findsamewline-over.jpg",
+      "width": 445,
+      "height": 332,
+      "sha256": "d80876c815d853435f7b81f907e9aad7b1891b53b5762f758c5951e31f225137"
+    },
+    "Images/Mousecheese.jpg": {
+      "src": "site-design/Images/Mousecheese.jpg",
+      "width": 450,
+      "height": 344,
+      "sha256": "9c28322082450493b9c8264dd9510bf097a16961ce3ab1bbe314dd7f4956abb9"
+    },
+    "Images/Mousecheese-over.jpg": {
+      "src": "site-design/Images/Mousecheese-over.jpg",
+      "width": 450,
+      "height": 344,
+      "sha256": "796bec49332a0a781af88d7e63b9f113c2d3cb8bd7614a3b25dfca04ba951ffd"
+    },
+    "Images/Sixbeeds.jpg": {
+      "src": "site-design/Images/Sixbeeds.jpg",
+      "width": 466,
+      "height": 329,
+      "sha256": "ecf9dd25b2ecc23bb7e89aee4413cfd1e411406ccd48f0f14c9b61d6a71ba284"
+    },
+    "Images/Sixbeeds-over.jpg": {
+      "src": "site-design/Images/Sixbeeds-over.jpg",
+      "width": 466,
+      "height": 329,
+      "sha256": "52d8de7eea96ac604e0b42c5c5e866de73310d66d57fbc9f54a0f455bef8bb4c"
+    },
+    "Images/Mousecherry.jpg": {
+      "src": "site-design/Images/Mousecherry.jpg",
+      "width": 445,
+      "height": 347,
+      "sha256": "f909a7234e4bcceec8f389aec9c1815a08f2123d564b2bf3af626c4855f1a9b6"
+    },
+    "Images/Mousecherry-over.jpg": {
+      "src": "site-design/Images/Mousecherry-over.jpg",
+      "width": 445,
+      "height": 347,
+      "sha256": "9b172fd508faafc939ab5deeb917299449cea86b358c96d9f7381854174f81d5"
+    },
+    "Images/Fallingfigures.jpg": {
+      "src": "site-design/Images/Fallingfigures.jpg",
+      "width": 402,
+      "height": 273,
+      "sha256": "ca24a26ea1b8b86a804d6008c8030351de0d03ca540267394451c47777472b75"
+    },
+    "Images/Fallingfigures-over.jpg": {
+      "src": "site-design/Images/Fallingfigures-over.jpg",
+      "width": 402,
+      "height": 273,
+      "sha256": "19365db5f8b0457ec64852e5fa6669416f0b1948daf564d528aca34cdf738cd3"
+    },
+    "Images/Pictures for flashes/Stones.png": {
+      "src": "site-design/Images/Pictures for flashes/Stones.png",
+      "width": 418,
+      "height": 304,
+      "sha256": "81c26c8824082cc6bbdbbd0e9972f5fc09a4489dcac8688f90f97088bb818300"
+    },
+    "Images/Pictures for flashes/Stones-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Stones-over.png",
+      "width": 418,
+      "height": 304,
+      "sha256": "2b0cdc7caaa948d6fef06283ffc1e8cf6a2bb030161c44dc49bca8cc7329ab17"
+    },
+    "Images/Pictures for flashes/Helpmouse.png": {
+      "src": "site-design/Images/Pictures for flashes/Helpmouse.png",
+      "width": 403,
+      "height": 302,
+      "sha256": "d06e8cd39e9c4622a0c6d6839bc71eaeaa5b4e4bd346a87fb38a046476810562"
+    },
+    "Images/Pictures for flashes/Helpmouse-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Helpmouse-over.png",
+      "width": 403,
+      "height": 302,
+      "sha256": "4bc0f81e527cdd143e4da2a7dedc6008caf493afb143283717e0eb11f3eb50ed"
+    },
+    "Images/Pictures for flashes/Mindreadeng.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Mindreadeng.jpg",
+      "width": 593,
+      "height": 406,
+      "sha256": "88909e7ff747b0051231880e4bef9e4c4e900115f377d0cb1df28c74f55e7065"
+    },
+    "Images/Pictures for flashes/Mindreadeng-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Mindreadeng-over.jpg",
+      "width": 593,
+      "height": 406,
+      "sha256": "47f774576b0b858c34c5eebcc9a10791eeba7566261cb316cbbd575a79852bde"
+    },
+    "Images/Pictures for flashes/Sum Mystery.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Sum Mystery.jpg",
+      "width": 547,
+      "height": 398,
+      "sha256": "2acd5dc3b336873939e9df3d985fc357b2720b9696d29841e95a3c4bf580ccc2"
+    },
+    "Images/Pictures for flashes/Sum Mystery-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Sum Mystery-over.jpg",
+      "width": 547,
+      "height": 398,
+      "sha256": "2eb1fe28d6cedfc5d95d63e16a53bddd382d81f6d87052642f436e74693deff3"
+    },
+    "Images/Mathgif-5.gif": {
+      "src": "site-design/Images/Mathgif-5.gif",
+      "width": 246,
+      "height": 199,
+      "sha256": "9e44f8c56a0a7cb2d06a7b6f382717806f6a8325f9b98c8c4ea8233496de9332",
+      "stillSrc": "site-design/Images/Mathgif-5.gif.first-frame.png"
+    },
+    "Images/Million-perm.jpg": {
+      "src": "site-design/Images/Million-perm.jpg",
+      "width": 282,
+      "height": 204,
+      "sha256": "562c600e7a22764592541be149d702e08b2ef23041b67d89e2221d4d3a1ee0e8"
+    },
+    "Images/Million-perm-over.jpg": {
+      "src": "site-design/Images/Million-perm-over.jpg",
+      "width": 282,
+      "height": 204,
+      "sha256": "de5e0658baa40f94ff9d146f7f7663765223d642206b8803429f3b1f3b7afb90"
+    },
+    "Images/Million-perm-more.jpg": {
+      "src": "site-design/Images/Million-perm-more.jpg",
+      "width": 287,
+      "height": 221,
+      "sha256": "081626cb641b3d963074f9790372b18cd65345a41730a9abaee509666cab0565"
+    },
+    "Images/Million-perm-more-over.jpg": {
+      "src": "site-design/Images/Million-perm-more-over.jpg",
+      "width": 287,
+      "height": 221,
+      "sha256": "ffe024a295f64fe124f66f7bccaaa8b332c74f569c10c501866c5cba0b4756b2"
+    },
+    "Images/Forplaymath.gif": {
+      "src": "site-design/Images/Forplaymath.gif",
+      "width": 550,
+      "height": 400,
+      "sha256": "1a9231d99a0f6e666600d9f28446c47c8e53045925a6c88f50030e27ebdc677c",
+      "stillSrc": "site-design/Images/Forplaymath.gif.first-frame.png"
+    },
+    "Images/Pictures for flashes/Serpcarpet.png": {
+      "src": "site-design/Images/Pictures for flashes/Serpcarpet.png",
+      "width": 415,
+      "height": 301,
+      "sha256": "09e6cc57d2e3704d61272eb3c4c33ab094f4d6f3f12a0c2f9b753b5e858be813"
+    },
+    "Images/Pictures for flashes/Serpcarpet-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Serpcarpet-over.png",
+      "width": 415,
+      "height": 301,
+      "sha256": "5eb52e62f33630db10f9ba7d80a2d1f11093967422e569c669d12b506f8be668"
+    },
+    "Images/Pictures for flashes/BHen.jpg": {
+      "src": "site-design/Images/Pictures for flashes/BHen.jpg",
+      "width": 191,
+      "height": 135,
+      "sha256": "42a5dad140898bae619896a365f519a7cb7216756f33d58d28fe3ab5b9e06eb7"
+    },
+    "Images/Pictures for flashes/BHen-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/BHen-over.jpg",
+      "width": 191,
+      "height": 135,
+      "sha256": "1f0ed51d2ad9759044f60ae6795f4bae4d4bbe89362a310cf2c72b1309cc5fcf"
+    },
+    "Images/Pictures for flashes/Tutrleen.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Tutrleen.jpg",
+      "width": 181,
+      "height": 134,
+      "sha256": "1c814a4b49a58ca2e28ce6c091f21903bd141839cde7ca4652ca5bcb47d35033"
+    },
+    "Images/Pictures for flashes/Tutrleen-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Tutrleen-over.jpg",
+      "width": 181,
+      "height": 134,
+      "sha256": "38a19b604a9c9e1a967dd0cff60bcd2902c073ece5e18c248f16971c74592666"
+    },
+    "Images/Pictures for flashes/WM3en.jpg": {
+      "src": "site-design/Images/Pictures for flashes/WM3en.jpg",
+      "width": 176,
+      "height": 133,
+      "sha256": "6bf0cdb1086ced2c851b9dcc73bf05f92cc74aeb1729b7403773c9ea5cd93aa0"
+    },
+    "Images/Pictures for flashes/WM3en-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/WM3en-over.jpg",
+      "width": 176,
+      "height": 133,
+      "sha256": "6da44c8d799facefb756912e97c34618a0d0acc5487d28b87548fa25780ef8e3"
+    },
+    "Images/Staruhieng.jpg": {
+      "src": "site-design/Images/Staruhieng.jpg",
+      "width": 181,
+      "height": 131,
+      "sha256": "3a47297d2b87d51ca5f953065c5f91ef2b0f96e4b624787831fa4c14e9b95f8b"
+    },
+    "Images/Staruhieng-over.jpg": {
+      "src": "site-design/Images/Staruhieng-over.jpg",
+      "width": 181,
+      "height": 131,
+      "sha256": "3781e80434649875ae47f013794ac3cfe9c6ae9d99d052db82f2d25e6a554346"
+    },
+    "Images/Pictures for flashes/Fly.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Fly.jpg",
+      "width": 175,
+      "height": 130,
+      "sha256": "aa841e1cbb4ed79b4e52d52b53213a1e69e42a2a57d8601ae8100bc082f10661"
+    },
+    "Images/Pictures for flashes/Fly-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Fly-over.jpg",
+      "width": 175,
+      "height": 130,
+      "sha256": "e874a988471bf11de69c9b7a38597b4ce459ccac4ba5390038d9712d6759597a"
+    },
+    "Images/Pictures for flashes/Snaileng.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Snaileng.jpg",
+      "width": 188,
+      "height": 134,
+      "sha256": "a3264090f56fe1ed84d336c6ddcec5651feb4fa4b2da0fc87b60361849d94a65"
+    },
+    "Images/Pictures for flashes/Snaileng-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Snaileng-over.jpg",
+      "width": 188,
+      "height": 134,
+      "sha256": "d842b75804551d0e2937d0023d1ca2f365a281d7d2275b4af2a6742c52fc370f"
+    },
+    "Images/Cubeseng.jpg": {
+      "src": "site-design/Images/Cubeseng.jpg",
+      "width": 179,
+      "height": 135,
+      "sha256": "5f0bc775be353b96436eecdda30edacf4b996918bcdd7126c58a8ce63815af84"
+    },
+    "Images/Cubeseng-over.jpg": {
+      "src": "site-design/Images/Cubeseng-over.jpg",
+      "width": 179,
+      "height": 135,
+      "sha256": "42cacba7c91b0fd0ccfaf6e9c14e5b53906b14da929a4baecd344035d8fda8b3"
+    },
+    "Images/Pictures for flashes/Huntereng.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Huntereng.jpg",
+      "width": 170,
+      "height": 135,
+      "sha256": "23943c0cade5357889d6ce56e8347ee3220c444f6f1fc6f887f0d91176bf21d8"
+    },
+    "Images/Pictures for flashes/Huntereng-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Huntereng-over.jpg",
+      "width": 170,
+      "height": 135,
+      "sha256": "b73061df4401158ebbd0b449b5364a694ac842c2929679b9eb70957aa7fa1335"
+    },
+    "Images/Pictures for flashes/Bacteriaeng.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Bacteriaeng.jpg",
+      "width": 195,
+      "height": 144,
+      "sha256": "b7c8ecaa66cc6bbfd1fa22d906b68f52bf3f27f5b59c5da38859047c3eff2997"
+    },
+    "Images/Pictures for flashes/Bacteriaeng-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Bacteriaeng-over.jpg",
+      "width": 195,
+      "height": 144,
+      "sha256": "2791b42ff909b6ea685a8b059e3b30525aece4f41857994685d43511c7e0dfef"
+    },
+    "Images/Pictures for flashes/Wandmeng.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Wandmeng.jpg",
+      "width": 193,
+      "height": 143,
+      "sha256": "09083ef4415b1ecdec7b3f6aa371076b6ad2fc1293eea25f03dc37e7d35590b3"
+    },
+    "Images/Pictures for flashes/Wandmeng-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Wandmeng-over.jpg",
+      "width": 193,
+      "height": 143,
+      "sha256": "f54877dfa4e45f1b9399745af328b61624da6dbf0c13dc4f149e566dbad00b96"
+    },
+    "Images/Pictures for flashes/Coloredtetra.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Coloredtetra.jpg",
+      "width": 173,
+      "height": 131,
+      "sha256": "42f7d258042d9ad3b5c08f36402b3986ed8156c7091deb9f36e5ff50cd8b4374"
+    },
+    "Images/Pictures for flashes/Coloredtetra-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Coloredtetra-over.jpg",
+      "width": 173,
+      "height": 131,
+      "sha256": "13520a3a626da2e78c9976226dd7ca44e75008b78412dc00f9fc937affda2c79"
+    },
+    "Images/Pictures for flashes/Coloredcube.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Coloredcube.jpg",
+      "width": 174,
+      "height": 123,
+      "sha256": "51b1f5e1c6baf94c91fa4bb68cd7004320cc917fe56af1ca61cedc88ebf0b83b"
+    },
+    "Images/Pictures for flashes/Coloredcube-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Coloredcube-over.jpg",
+      "width": 174,
+      "height": 123,
+      "sha256": "bbd3011d66f2f3fbe355aed71e700a8b204f633132951116d25a826a5da192d6"
+    },
+    "Images/Pictures for flashes/Coloredprizm.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Coloredprizm.jpg",
+      "width": 163,
+      "height": 116,
+      "sha256": "6208cefa6feb08d39a9b0008ab2200bb0f3661642654649c4efbb224354da33d"
+    },
+    "Images/Pictures for flashes/Coloredprizm-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Coloredprizm-over.jpg",
+      "width": 163,
+      "height": 116,
+      "sha256": "6b1bb9f5d39371dfc72715ab4f21e30fc22565e39cb95e9e731ee39e4247fe55"
+    },
+    "Images/Pictures for flashes/Colorparalele-en.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Colorparalele-en.jpg",
+      "width": 166,
+      "height": 132,
+      "sha256": "c6fd919056c7c2d511714e7aa951f36fdb904542e126be9ba2a5c59247d17ca3"
+    },
+    "Images/Pictures for flashes/Colorparalele-en-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Colorparalele-en-over.jpg",
+      "width": 166,
+      "height": 132,
+      "sha256": "b4c458588a6412e6062239924ea0dc260ce033d62cdfe999033ea67c83f43553"
+    },
+    "Images/Pictures for flashes/Colorbrick-en.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Colorbrick-en.jpg",
+      "width": 161,
+      "height": 132,
+      "sha256": "e312dce5ffc405525b8dcc38528e4641b6c914fa80b123a5638cebe07f3c0a32"
+    },
+    "Images/Pictures for flashes/Colorbrick-en-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Colorbrick-en-over.jpg",
+      "width": 161,
+      "height": 132,
+      "sha256": "144e454e407a9279e6e598332aaec6a34de134a4c02f4024ab53a6ff3d5c3fb9"
+    },
+    "Images/Pictures for flashes/Minde-1.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Minde-1.jpg",
+      "width": 175,
+      "height": 129,
+      "sha256": "f5dc29ab5243d721f72aead52e86ed4ff8499ff0eab1eddcf027568fc226798b"
+    },
+    "Images/Pictures for flashes/Minde-1-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Minde-1-over.jpg",
+      "width": 175,
+      "height": 129,
+      "sha256": "dd18c69d84599f83359a03b2246077b0e73500e9e74821475da1682b9c89d088"
+    },
+    "Images/Pictures for flashes/Minde-2.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Minde-2.jpg",
+      "width": 164,
+      "height": 121,
+      "sha256": "7aa8a05ddb1b6ceda2c3dec5e18ca926d1d7e5076a10bd45bad205593f1e3e87"
+    },
+    "Images/Pictures for flashes/Minde-2-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Minde-2-over.jpg",
+      "width": 164,
+      "height": 121,
+      "sha256": "c131ea1e344f53b52a13dc5c9c22be0eb66272f13ba495aa0ec2354d0d9b72bf"
+    },
+    "Images/Pictures for flashes/Minde-3.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Minde-3.jpg",
+      "width": 171,
+      "height": 128,
+      "sha256": "a7e0e715397d5b44836fb52cdcb5b9512161be6e36c6ff9381e70996ef4aa2cb"
+    },
+    "Images/Pictures for flashes/Minde-3-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Minde-3-over.jpg",
+      "width": 171,
+      "height": 128,
+      "sha256": "abf1c510bc35bc06ce24d1efae09e047188b967568478c98a6aea1270c64214b"
+    },
+    "Images/Pictures for flashes/Minde-4.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Minde-4.jpg",
+      "width": 176,
+      "height": 133,
+      "sha256": "13cea9cfc74db1de4b7d23529bf27494a87f930dc41fbcb60192f2845801609c"
+    },
+    "Images/Pictures for flashes/Minde-4-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Minde-4-over.jpg",
+      "width": 176,
+      "height": 133,
+      "sha256": "dda48bc9f365332072313d837652cb27240aab5f18279c20c7e8eed651a79d3b"
+    },
+    "Images/Pictures for flashes/WM8en.jpg": {
+      "src": "site-design/Images/Pictures for flashes/WM8en.jpg",
+      "width": 187,
+      "height": 139,
+      "sha256": "7d75defbedb772eee643d3b2144d4ca974d306eb96db195c02b7de95dcd5d090"
+    },
+    "Images/Pictures for flashes/WM8en-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/WM8en-over.jpg",
+      "width": 187,
+      "height": 139,
+      "sha256": "d9a5dea6d839e676f7e4e9988a4329d9d16a6a774f6844d48da9b9f25928ee69"
+    },
+    "Images/Pictures for flashes/Twocolorsen.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Twocolorsen.jpg",
+      "width": 213,
+      "height": 151,
+      "sha256": "22ed416a6ee71951f7af1ed769861daee44975a33f234f4bdaa97a6a40833405"
+    },
+    "Images/Pictures for flashes/Twocolorsen-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Twocolorsen-over.jpg",
+      "width": 213,
+      "height": 151,
+      "sha256": "101f6fc27c01b299325677c97d80fc688356163653e49ea53e16c4b5529f1478"
+    },
+    "Images/Pictures for flashes/Threecolorsen.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Threecolorsen.jpg",
+      "width": 226,
+      "height": 148,
+      "sha256": "294c1b65576c92b9eada67cb19341c603f6bf1c4f798224c69a40186a8122319"
+    },
+    "Images/Pictures for flashes/Threecolorsen-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Threecolorsen-over.jpg",
+      "width": 226,
+      "height": 148,
+      "sha256": "58710f33bfb3197d95ba92bf4dc43cdb6f7ba4a9fc4d29c84cbc3636d3bb0ee2"
+    },
+    "Images/Pictures for flashes/Twocolorsen-seg.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Twocolorsen-seg.jpg",
+      "width": 204,
+      "height": 150,
+      "sha256": "171e8b928d54ac43d3e6cf4d921478b1e7cedbaf316cc13d931288c0e9cb8454"
+    },
+    "Images/Pictures for flashes/Twocolorsen-seg-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Twocolorsen-seg-over.jpg",
+      "width": 204,
+      "height": 150,
+      "sha256": "18923b09d7e13352974981b70cbc5a41d03727452bb667e0228058432168473f"
+    },
+    "Images/Pictures for flashes/Twocolorsen-tri.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Twocolorsen-tri.jpg",
+      "width": 194,
+      "height": 152,
+      "sha256": "032e337af87e702d9c1771f327fd7d94ee857e765741505b636c4d4870e9e1fc"
+    },
+    "Images/Pictures for flashes/Twocolorsen-tri-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Twocolorsen-tri-over.jpg",
+      "width": 194,
+      "height": 152,
+      "sha256": "527dd107b5542ec0e4d83de5b758d65f061d660c257df35113726b7d029d678c"
+    },
+    "Images/Twotetra.jpg": {
+      "src": "site-design/Images/Twotetra.jpg",
+      "width": 251,
+      "height": 173,
+      "sha256": "ea974bc5318729e122b2c34ec5175407217c58493a337ce630d745d00f20ba11"
+    },
+    "Images/Twotetra-over.jpg": {
+      "src": "site-design/Images/Twotetra-over.jpg",
+      "width": 251,
+      "height": 173,
+      "sha256": "132056499ba063eb2c2177392d4f16ff91318bdd0821b9569172ed9dbacd6597"
+    },
+    "Images/Pictures for flashes/Hand1000.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Hand1000.jpg",
+      "width": 216,
+      "height": 168,
+      "sha256": "d6e9e761cae38ece576bae4690b00700062cfca9d66a347d279e59083d70086e"
+    },
+    "Images/Pictures for flashes/Hand1000-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Hand1000-over.jpg",
+      "width": 216,
+      "height": 168,
+      "sha256": "022aad1595dc23398360575812e1ded3bff56730237ad09a71f6ad7d9284c3d0"
+    },
+    "Images/Pictures for flashes/Caterpillareng.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Caterpillareng.jpg",
+      "width": 227,
+      "height": 169,
+      "sha256": "6394a47311c094f1c01f23eac747995edd32233ce2b310c1e0ad03ae2c7394fe"
+    },
+    "Images/Pictures for flashes/Caterpillareng-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Caterpillareng-over.jpg",
+      "width": 227,
+      "height": 169,
+      "sha256": "f51b4df87fb144f72c642a7f6beb3cc8021b9ff59559ac71059b0b4c1b8e82c7"
+    },
+    "Images/Pictures for flashes/Grandma.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Grandma.jpg",
+      "width": 211,
+      "height": 161,
+      "sha256": "4bbeb8b24e6cc9132f89a8f67fcada8381f5848b3b9da2531839e347c633d06d"
+    },
+    "Images/Pictures for flashes/Grandma-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Grandma-over.jpg",
+      "width": 211,
+      "height": 161,
+      "sha256": "1427556c7c54e5c64419604df2a3457d90e8789fbbb5a147cb5dbd83bd6f0aac"
+    },
+    "Images/Holmseng.jpg": {
+      "src": "site-design/Images/Holmseng.jpg",
+      "width": 211,
+      "height": 171,
+      "sha256": "96c26a72eb7a74c3b02be6bd34cda19bca3f66fd9e25c4008864d577a80b040d"
+    },
+    "Images/Holmseng-over.jpg": {
+      "src": "site-design/Images/Holmseng-over.jpg",
+      "width": 211,
+      "height": 171,
+      "sha256": "bdd8e36a8449b19a45eafc853e7ab0f55287f366f9315c4d05fe4ed31bf26fb5"
+    },
+    "Images/Pictures for flashes/Walkaroun.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Walkaroun.jpg",
+      "width": 214,
+      "height": 152,
+      "sha256": "d667b0410646a0687052748cc08b30695fdf885feb4671604cf8a33a167e3759"
+    },
+    "Images/Pictures for flashes/Walkaroun-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Walkaroun-over.jpg",
+      "width": 214,
+      "height": 152,
+      "sha256": "9f3073e2298cb55484a3fd908252ce57ac2f7733f6f87fb2831b93a7d6f6c5c8"
+    },
+    "Images/Pictures for flashes/Findcubespair.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Findcubespair.jpg",
+      "width": 254,
+      "height": 169,
+      "sha256": "1bbcdf4e50efae7f568f6e1a7f01676d2614d1202fb76c64e3e0351de916a16d"
+    },
+    "Images/Pictures for flashes/Findcubespair-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Findcubespair-over.jpg",
+      "width": 254,
+      "height": 169,
+      "sha256": "5828d780ff821e432a5d008d0dd0c3cec649a57236ad3b8537157ee9af1bd9ff"
+    },
+    "Images/Pictures for flashes/Earthbelt-en.png": {
+      "src": "site-design/Images/Pictures for flashes/Earthbelt-en.png",
+      "width": 220,
+      "height": 162,
+      "sha256": "69d1f14023e5b0cef85992748b70e83a913777fff14d8dfdc2798209c37d880c"
+    },
+    "Images/Pictures for flashes/Earthbelt-en-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Earthbelt-en-over.png",
+      "width": 220,
+      "height": 162,
+      "sha256": "6bf09b51d41f718ab0d816e91681391e30a412664baa55f204f422108231e990"
+    },
+    "Images/Pictures for flashes/Twohourglass.png": {
+      "src": "site-design/Images/Pictures for flashes/Twohourglass.png",
+      "width": 240,
+      "height": 173,
+      "sha256": "4c28f3406a3259f34c3b93134c7ed2081239d6c8535090a4c4c3106e9a4d53b8"
+    },
+    "Images/Pictures for flashes/Twohourglass-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Twohourglass-over.png",
+      "width": 240,
+      "height": 173,
+      "sha256": "6b31899e4b7f965d39048b140e0d9d8ae728bccb59422a6af9c9996c030cfa07"
+    },
+    "Images/Pictures for flashes/Byufon.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Byufon.jpg",
+      "width": 545,
+      "height": 395,
+      "sha256": "51cdf868fd94f42bade044af7b6dde26c4e7015b712c198b5f870fd730ad354d"
+    },
+    "Images/Pictures for flashes/Byufon-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Byufon-over.jpg",
+      "width": 545,
+      "height": 395,
+      "sha256": "5f520ffb9eb69705bc2c82da64926ecf51d78bb6fb1c5a1252ac9083132ccbe5"
+    },
+    "Images/Pictures for flashes/Moebiusstrip.png": {
+      "src": "site-design/Images/Pictures for flashes/Moebiusstrip.png",
+      "width": 334,
+      "height": 244,
+      "sha256": "4cb7cd9cdfccbb04eb8cf7d00571a2ca1e7ab8b54a87777deab938209b2c2236"
+    },
+    "Images/Pictures for flashes/Moebiusstrip-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Moebiusstrip-over.png",
+      "width": 334,
+      "height": 244,
+      "sha256": "86ac509541bfff6e180f94a285944342fd27de1a66aad96060694b40ec670809"
+    },
+    "Images/Pictures for flashes/Algebra trans.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Algebra trans.jpg",
+      "width": 216,
+      "height": 162,
+      "sha256": "af430fa87e11684781548ed61b18032229fed9f72a774237879b3527acf19a03"
+    },
+    "Images/Pictures for flashes/Algebra trans-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Algebra trans-over.jpg",
+      "width": 216,
+      "height": 162,
+      "sha256": "18f1689839cdd1f5184db7b007635c2b9db9091791db96b4b354143a752d165d"
+    },
+    "Images/Pictures for flashes/Sum1n.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Sum1n.jpg",
+      "width": 234,
+      "height": 154,
+      "sha256": "0233f984f94299825daed4f4e66f5962a504f6f513602ec27f498524b51ee934"
+    },
+    "Images/Pictures for flashes/Sum1n-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Sum1n-over.jpg",
+      "width": 234,
+      "height": 154,
+      "sha256": "a6c7c4d491c7993a4c469fc28e3d912afa152db51199e72987042902c0cc4a7b"
+    },
+    "Images/Pictures for flashes/Sumodd.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Sumodd.jpg",
+      "width": 218,
+      "height": 154,
+      "sha256": "45444535a90e86e03dd3dcf1df37c900168d404b3c0c7e7a2e415453d850dc07"
+    },
+    "Images/Pictures for flashes/Sumodd-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Sumodd-over.jpg",
+      "width": 218,
+      "height": 154,
+      "sha256": "86a52e475acd733392818649a402f4a82c65cea52c7219c18ced6d111f782f30"
+    },
+    "Images/Pictures for flashes/AmBsquare.png": {
+      "src": "site-design/Images/Pictures for flashes/AmBsquare.png",
+      "width": 196,
+      "height": 155,
+      "sha256": "9113f7b7d95b9ca3932849efa5d8ef14d7663d5e8220f57d29be35f18e46fad1"
+    },
+    "Images/Pictures for flashes/AmBsquare-over.png": {
+      "src": "site-design/Images/Pictures for flashes/AmBsquare-over.png",
+      "width": 196,
+      "height": 155,
+      "sha256": "08fd837f6edbd7343554660ad40e378a28c05a3830120bdb5fcf4871c5f6fc27"
+    },
+    "Images/Pictures for flashes/ApBsquare.png": {
+      "src": "site-design/Images/Pictures for flashes/ApBsquare.png",
+      "width": 236,
+      "height": 168,
+      "sha256": "8e372fd7b6d961af4b9b2fa4f9a00131313e3972821844fe7d44fdab91590f26"
+    },
+    "Images/Pictures for flashes/ApBsquare-over.png": {
+      "src": "site-design/Images/Pictures for flashes/ApBsquare-over.png",
+      "width": 236,
+      "height": 168,
+      "sha256": "1f4b8e4db2f70cdb59a16286e3acf43a5e3f30d4324449d91bb4e43787d0a87d"
+    },
+    "Images/Pictures for flashes/Qeq.png": {
+      "src": "site-design/Images/Pictures for flashes/Qeq.png",
+      "width": 397,
+      "height": 288,
+      "sha256": "1dd01bd947daf4052ddf97ab25fb5ff230997e80b67716e1947d5b523f47bf0d"
+    },
+    "Images/Pictures for flashes/Qeq-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Qeq-over.png",
+      "width": 397,
+      "height": 288,
+      "sha256": "d9c8936debbe67b90b63548210739b619b5c9f9933f1fb74aae00a56db263d92"
+    },
+    "Images/Pictures for flashes/Graph-video.gif": {
+      "src": "site-design/Images/Pictures for flashes/Graph-video.gif",
+      "width": 550,
+      "height": 400,
+      "sha256": "ca4f3590ef887ad01e304e5becf7417dc8a1700843766ea9849f1e49f4f4134c",
+      "stillSrc": "site-design/Images/Pictures for flashes/Graph-video.gif.first-frame.png"
+    },
+    "Images/Pictures for flashes/Graph-videoover.gif": {
+      "src": "site-design/Images/Pictures for flashes/Graph-videoover.gif",
+      "width": 550,
+      "height": 400,
+      "sha256": "384953b039d465b13e69509bf2d0fa250716ca6f74879acf6a48205864a0e7d8",
+      "stillSrc": "site-design/Images/Pictures for flashes/Graph-videoover.gif.first-frame.png"
+    },
+    "Images/Topology-hands.gif": {
+      "src": "site-design/Images/Topology-hands.gif",
+      "width": 472,
+      "height": 345,
+      "sha256": "2351549634e786686761e4485a7eabfc82aeecac7fd316f30353eb024e837052",
+      "stillSrc": "site-design/Images/Topology-hands.gif.first-frame.png"
+    },
+    "Images/Waterfall-gif.gif": {
+      "src": "site-design/Images/Waterfall-gif.gif",
+      "width": 193,
+      "height": 257,
+      "sha256": "dbc597bb5430884184462e589f42e3bbf418b9a5c033e677e369457d05de358b",
+      "stillSrc": "site-design/Images/Waterfall-gif.gif.first-frame.png"
+    },
+    "Images/MMbook-SATsubs.jpg": {
+      "src": "site-design/Images/MMbook-SATsubs.jpg",
+      "width": 340,
+      "height": 229,
+      "sha256": "68e5389e21fb82a579429673078897fd4dfbeebaff4d402d53ba690c3b73a977"
+    },
+    "Images/MMbook-SATsubs-over.jpg": {
+      "src": "site-design/Images/MMbook-SATsubs-over.jpg",
+      "width": 340,
+      "height": 229,
+      "sha256": "b353e18f55ba56f5f1a45e8307667b3740b735c85887f88af84e286926684fa2"
+    },
+    "Images/Mathsat.gif": {
+      "src": "site-design/Images/Mathsat.gif",
+      "width": 197,
+      "height": 210,
+      "sha256": "a01922bad8166c6957c79afebcd073f7fe4fe5aff78030b98df133bb73b7a757",
+      "stillSrc": "site-design/Images/Mathsat.gif.first-frame.png"
+    },
+    "Images/Pictures for flashes/Area of circle site ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Area of circle site ru.jpg",
+      "width": 175,
+      "height": 118,
+      "sha256": "15c78791561cd53670db615a73a3214dd4a8e03547f30a014285d37e5006a4be"
+    },
+    "Images/Pictures for flashes/Area of circle site ru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Area of circle site ru-over.jpg",
+      "width": 175,
+      "height": 118,
+      "sha256": "e3a7404c073dadddbd39ccb91a6fae0fa5773be17e18c7ea804554e70b4149ec"
+    },
+    "Images/Pictures for flashes/Pifagor flp site ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Pifagor flp site ru.jpg",
+      "width": 219,
+      "height": 142,
+      "sha256": "c6619fbf02e320aa723bfad31360e71987516b5a5c2cf46de9ead33750a4bcb0"
+    },
+    "Images/Pictures for flashes/Pifagor flp site ru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Pifagor flp site ru-over.jpg",
+      "width": 219,
+      "height": 142,
+      "sha256": "d9ac04d3631481045b9e5ef0f76cbf56738701fb7882612bee908195d2251425"
+    },
+    "Images/Pictures for flashes/Vol of sphere site ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Vol of sphere site ru.jpg",
+      "width": 228,
+      "height": 164,
+      "sha256": "db91238c58646c71bc2f1f96fc8375e849fc613c7a0766852bbe62693cd7e6a1"
+    },
+    "Images/Pictures for flashes/Vol of sphere site ru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Vol of sphere site ru-over.jpg",
+      "width": 228,
+      "height": 164,
+      "sha256": "0cd33af9ff9562af7360fef6cfc35aa7bd88be3886a3fec87ad83d9716743a5a"
+    },
+    "Images/Median-ru.jpg": {
+      "src": "site-design/Images/Median-ru.jpg",
+      "width": 173,
+      "height": 141,
+      "sha256": "1dbf558b966bd97d7c02972db59d0c9b9a730d3efdd3e6b2d60c8a9175f83cc6"
+    },
+    "Images/Median-ru-over.jpg": {
+      "src": "site-design/Images/Median-ru-over.jpg",
+      "width": 173,
+      "height": 141,
+      "sha256": "bb4c69ebad3a4d98b1eb1876ed9ecf8657582c9f5afedb765a4dd5eeb24e8ea2"
+    },
+    "Images/Insangletheo-ru.jpg": {
+      "src": "site-design/Images/Insangletheo-ru.jpg",
+      "width": 198,
+      "height": 148,
+      "sha256": "c1b300a8936e23c79b04ea55070a9eda24a17c92062365f8f90fd2509823c305"
+    },
+    "Images/Insangletheo-ru-over.jpg": {
+      "src": "site-design/Images/Insangletheo-ru-over.jpg",
+      "width": 198,
+      "height": 148,
+      "sha256": "ca7051bbcd85fd06cd0831bf12e15eb30f50ac8835aa466008597304304688c2"
+    },
+    "Images/Bisectorru.jpg": {
+      "src": "site-design/Images/Bisectorru.jpg",
+      "width": 236,
+      "height": 187,
+      "sha256": "30ea9be57a533db28188ed61e335ae08a8b6db2195b677b3a6ffd9717a6054b7"
+    },
+    "Images/Bisectorru-over.jpg": {
+      "src": "site-design/Images/Bisectorru-over.jpg",
+      "width": 236,
+      "height": 187,
+      "sha256": "8bba1df78b8c13087560fde61b9005a5f30004ced64a1ab001aeee7df6ac1d30"
+    },
+    "Images/Altitudesru.jpg": {
+      "src": "site-design/Images/Altitudesru.jpg",
+      "width": 193,
+      "height": 145,
+      "sha256": "35918cf2424ca307f744a63aaf5e01d660a0ece53e2a2e506161e1323e547c66"
+    },
+    "Images/Altitudesru-over.jpg": {
+      "src": "site-design/Images/Altitudesru-over.jpg",
+      "width": 193,
+      "height": 145,
+      "sha256": "fb27ef932c1ec3509a6ed087940b53d80ffec8f2ef431f4b325bb6cecbb4a112"
+    },
+    "Images/Pictures for flashes/Congru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Congru.jpg",
+      "width": 257,
+      "height": 200,
+      "sha256": "7609a49748a0843105a5480830e8019e5f102208cf34d67827fadfe1623e7f5c"
+    },
+    "Images/Pictures for flashes/Congru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Congru-over.jpg",
+      "width": 257,
+      "height": 200,
+      "sha256": "d092107508a46d1574b3b3aa6b9a8013c23c0758d48124c86b5e9e9b3b17e3d4"
+    },
+    "Images/Pictures for flashes/BHru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/BHru.jpg",
+      "width": 254,
+      "height": 185,
+      "sha256": "0f09ea3a3f4dc1fb12463c82f5718e336ce3fb4cedb24b123a4c54b6fe7c9b67"
+    },
+    "Images/Pictures for flashes/BHru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/BHru-over.jpg",
+      "width": 254,
+      "height": 185,
+      "sha256": "c2de8f0bf4b22a228a315fc6f04a57236ca7704b7882c48c21f73cce101c778c"
+    },
+    "Images/Pictures for flashes/Tutrleru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Tutrleru.jpg",
+      "width": 265,
+      "height": 201,
+      "sha256": "281e5b7349769ba785a0198d52fb275ade121065f0374bf7279f7dad4a24c181"
+    },
+    "Images/Pictures for flashes/Tutrleru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Tutrleru-over.jpg",
+      "width": 265,
+      "height": 201,
+      "sha256": "3f6a47cb4bcd67f61fe49b9018549f0565961cd0483bdff872ec120bb2e77833"
+    },
+    "Images/Pictures for flashes/WM3ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/WM3ru.jpg",
+      "width": 262,
+      "height": 193,
+      "sha256": "00a0975d3977626ce9aff644ae4c82309a3653e6db7d2f155c37c5ca4d9d265c"
+    },
+    "Images/Pictures for flashes/WM3ru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/WM3ru-over.jpg",
+      "width": 262,
+      "height": 193,
+      "sha256": "5b98f96e7fd365205e442bf56797824a82e5661a41eee7e699c0e405b85f2b14"
+    },
+    "Images/Pictures for flashes/WM8ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/WM8ru.jpg",
+      "width": 265,
+      "height": 199,
+      "sha256": "dbdabcb0a97bae73919c5423ed421cd29cc3f39db3bca3910787b5e3d01132c0"
+    },
+    "Images/Pictures for flashes/WM8ru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/WM8ru-over.jpg",
+      "width": 265,
+      "height": 199,
+      "sha256": "538d8647db5e7967507490326b74bfae43029ecd69e9f976afa21af0921e1a32"
+    },
+    "Images/Staruhiru.jpg": {
+      "src": "site-design/Images/Staruhiru.jpg",
+      "width": 398,
+      "height": 296,
+      "sha256": "b7112a9827924c82c138e048a00517510b62172191993e8968c5fae62f712004"
+    },
+    "Images/Staruhiru-over.jpg": {
+      "src": "site-design/Images/Staruhiru-over.jpg",
+      "width": 398,
+      "height": 296,
+      "sha256": "2ac2c93c25be0891a58c62fd1941b7983dd96a4c4051f934e462b9c9df337ef6"
+    },
+    "Images/Pictures for flashes/Flychi.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Flychi.jpg",
+      "width": 409,
+      "height": 290,
+      "sha256": "0a73c5a198eff39f0902a9a79b8b5d8407af925f1a4d133ad7ad7e9f25b72ea1"
+    },
+    "Images/Pictures for flashes/Flychi-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Flychi-over.jpg",
+      "width": 409,
+      "height": 290,
+      "sha256": "a9c2c14d9e8b5767660f363e9ec2d429b829ae3ba51051cd04179f64cc87ca5f"
+    },
+    "Images/Pictures for flashes/Flyru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Flyru.jpg",
+      "width": 346,
+      "height": 288,
+      "sha256": "288bc543d0a6cb568154584d1f063c028c536c0b8be8f22d31b7908843848be6"
+    },
+    "Images/Pictures for flashes/Flyru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Flyru-over.jpg",
+      "width": 346,
+      "height": 288,
+      "sha256": "0ca127b7d53a46d33afdf765730373025798ab7c8d0bbfdbe82cba9d4def2658"
+    },
+    "Images/Pictures for flashes/Snailru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Snailru.jpg",
+      "width": 355,
+      "height": 282,
+      "sha256": "da7ba09add4bcdca7b75eb65b543a6ccaf94f954b6bc460ad353f6358322a9f4"
+    },
+    "Images/Pictures for flashes/Snailru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Snailru-over.jpg",
+      "width": 355,
+      "height": 282,
+      "sha256": "41d03653702801a49522e7b3bf2bbcf9deac30671bdd68af699dd9915c579943"
+    },
+    "Images/Cubesru.jpg": {
+      "src": "site-design/Images/Cubesru.jpg",
+      "width": 417,
+      "height": 292,
+      "sha256": "fd25572725f3d70ad6776e9d79ea11cc57d35b0885aac94428e16a63176fd4a9"
+    },
+    "Images/Cubesru-oer.jpg": {
+      "src": "site-design/Images/Cubesru-oer.jpg",
+      "width": 417,
+      "height": 292,
+      "sha256": "6882d314cea5d6677d16314b0083762dc89978cff05fd6ce1c761076df138aa5"
+    },
+    "Images/Pictures for flashes/Hunterru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Hunterru.jpg",
+      "width": 394,
+      "height": 320,
+      "sha256": "ecc351d0d2a9c26b72f4562c122398cde46550d7633a57867fec5788c4824807"
+    },
+    "Images/Pictures for flashes/Hunterru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Hunterru-over.jpg",
+      "width": 394,
+      "height": 320,
+      "sha256": "932612fb38a701bfb9dc4277a98c52d73c60c5603f6f2b532052a0b5df861e98"
+    },
+    "Images/Pictures for flashes/Bacteriaru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Bacteriaru.jpg",
+      "width": 396,
+      "height": 308,
+      "sha256": "622a673b016fd5afad0fd4922d12c8b470aee75f917c8b39af9e34c64724c0ee"
+    },
+    "Images/Pictures for flashes/Bacteriaru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Bacteriaru-over.jpg",
+      "width": 396,
+      "height": 308,
+      "sha256": "7af577d6cf85bb3537621179715592022d87619c310d14b9060bc8c25153aa55"
+    },
+    "Images/Pictures for flashes/Mindru-1.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Mindru-1.jpg",
+      "width": 378,
+      "height": 269,
+      "sha256": "496855dbf85fdb52539b704bb09e6c833f18b5c392d16758f64dc352100efbcc"
+    },
+    "Images/Pictures for flashes/Mindru-1-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Mindru-1-over.jpg",
+      "width": 378,
+      "height": 269,
+      "sha256": "75496ef3f26f32ac7574a2519682651159bb2492493d9a2d74f1cd13c42da9de"
+    },
+    "Images/Pictures for flashes/Mindru-2.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Mindru-2.jpg",
+      "width": 344,
+      "height": 247,
+      "sha256": "1f9636dc0896c0baa643305b2107576e4285a7f171c234f108097e507e17912f"
+    },
+    "Images/Pictures for flashes/Mindru-2-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Mindru-2-over.jpg",
+      "width": 344,
+      "height": 247,
+      "sha256": "b2761fec1f8b38e36f92958ab363e94ed0dd74967876c92a2000c45bec8123b0"
+    },
+    "Images/Pictures for flashes/Mindru-3.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Mindru-3.jpg",
+      "width": 351,
+      "height": 255,
+      "sha256": "2b41fad56ae71bc5bd48cca5441058878003c980fbc3f0aa04de4d22f44ef89d"
+    },
+    "Images/Pictures for flashes/Mindru-3-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Mindru-3-over.jpg",
+      "width": 351,
+      "height": 255,
+      "sha256": "6983f7650b6453d92cef5602cf19388f5cd7d083ca8060424d61822ed7e72ee4"
+    },
+    "Images/Pictures for flashes/Mindru-4.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Mindru-4.jpg",
+      "width": 353,
+      "height": 253,
+      "sha256": "242681be7a03bacaf6cf710f31902ae443b8fdedc5c35e7c6df937aee506fb95"
+    },
+    "Images/Pictures for flashes/Mindru-4-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Mindru-4-over.jpg",
+      "width": 353,
+      "height": 253,
+      "sha256": "dcd2cd53d00a9f7d4a5cc3d596c7c3f6cf8cdfd5237ddd920ac43a8959ca4b79"
+    },
+    "Images/Pictures for flashes/Wandmru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Wandmru.jpg",
+      "width": 405,
+      "height": 294,
+      "sha256": "737a6d1e897c4474106efa613e57b2031d27a246fc24f9d470a6c3d82580a47c"
+    },
+    "Images/Pictures for flashes/Wandmru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Wandmru-over.jpg",
+      "width": 405,
+      "height": 294,
+      "sha256": "a9b6aea20f2668a32ff7981fcaaff1844c5f5c221ac52f77cea16a9e937c6a65"
+    },
+    "Images/Pictures for flashes/Hand1000ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Hand1000ru.jpg",
+      "width": 417,
+      "height": 329,
+      "sha256": "62e8b8daecdf76148043ed9ade5d941df669923178b584ee6e5377533a7e7b53"
+    },
+    "Images/Pictures for flashes/Hand1000ru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Hand1000ru-over.jpg",
+      "width": 417,
+      "height": 329,
+      "sha256": "6764eff539dfd6e8e93864c4e0a2580fa7d08065b7810389fc9c3e79e4e8022d"
+    },
+    "Images/Pictures for flashes/Caterpillarru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Caterpillarru.jpg",
+      "width": 405,
+      "height": 310,
+      "sha256": "04d18bcf10deaa0901031730a5608b1a48a46801a93b0ad9cf9f38df4b5651ce"
+    },
+    "Images/Pictures for flashes/Caterpillarru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Caterpillarru-over.jpg",
+      "width": 405,
+      "height": 310,
+      "sha256": "ea4b2d1200c6769dfdffe05a3d7793ffac787a9674e80a9b42f0c46516b7a8d2"
+    },
+    "Images/Pictures for flashes/Grandmaru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Grandmaru.jpg",
+      "width": 411,
+      "height": 309,
+      "sha256": "9a30d95b87e49ce79ccdd4c896e0b3a2bede21b2e280afffc9880080eaf3f2f0"
+    },
+    "Images/Pictures for flashes/Grandmaru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Grandmaru-over.jpg",
+      "width": 411,
+      "height": 309,
+      "sha256": "37bdaee5d76320c63f2e1aaba07c5d548de95ace8058e5db07f26a955c82b494"
+    },
+    "Images/Pictures for flashes/Coloredtetra-ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Coloredtetra-ru.jpg",
+      "width": 251,
+      "height": 184,
+      "sha256": "6e3373cbeec180b6f43321aa066bcfa60612985f2d783cb477f01280bedf9db3"
+    },
+    "Images/Pictures for flashes/Coloredtetra-ru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Coloredtetra-ru-over.jpg",
+      "width": 251,
+      "height": 184,
+      "sha256": "a5d5cbda9d32116399490d568d9ba37d805c606d2788195251e1492305805b3b"
+    },
+    "Images/Pictures for flashes/Coloredprizm-ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Coloredprizm-ru.jpg",
+      "width": 291,
+      "height": 223,
+      "sha256": "dc7e4445a23fbb62393e5e81c29c95feaca3ad8457b82e3299dd46a2b68adb98"
+    },
+    "Images/Pictures for flashes/Coloredprizm-ru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Coloredprizm-ru-over.jpg",
+      "width": 291,
+      "height": 223,
+      "sha256": "39dd576507b8562df323b6cea124f5f4e13ed3ac21c13126b184813f0e004c11"
+    },
+    "Images/Pictures for flashes/Coloredcube-ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Coloredcube-ru.jpg",
+      "width": 277,
+      "height": 206,
+      "sha256": "6606205253f5816cdbd341e19361d6f9f9bbadf012fd13ca75d638ec67fa2a2d"
+    },
+    "Images/Pictures for flashes/Coloredcube-ru-oer.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Coloredcube-ru-oer.jpg",
+      "width": 277,
+      "height": 206,
+      "sha256": "8a14ce93fe9733a49c8f1b0038495a657becb2866355aa69df281e128ee637e0"
+    },
+    "Images/Pictures for flashes/Colorparalele-ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Colorparalele-ru.jpg",
+      "width": 306,
+      "height": 243,
+      "sha256": "194a4c0848effc6a8d4109eea4977e96e569d392aa5730cdfe8e42c465018c7d"
+    },
+    "Images/Pictures for flashes/Colorparalele-ru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Colorparalele-ru-over.jpg",
+      "width": 306,
+      "height": 243,
+      "sha256": "249e63881153ddf4bf053989cab67f727673a1f0ad61a62b90cfe756b7e2d91e"
+    },
+    "Images/Pictures for flashes/Colorbrick-ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Colorbrick-ru.jpg",
+      "width": 325,
+      "height": 265,
+      "sha256": "d7a92ebe32b9f1141534e80b7ef5cb0d56e7e651c1fbd55969332fd4e11f5134"
+    },
+    "Images/Pictures for flashes/Colorbrick-ru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Colorbrick-ru-over.jpg",
+      "width": 325,
+      "height": 265,
+      "sha256": "d94b858ad7acb5ea9414c83217b97ebd7d19fad073248b7880b3a3ee4d832bcc"
+    },
+    "Images/Holms.jpg": {
+      "src": "site-design/Images/Holms.jpg",
+      "width": 396,
+      "height": 312,
+      "sha256": "231f977732277935b6a8f1a48e29b3591778b9b42a70f2f3eb73658e6190ce9f"
+    },
+    "Images/Holms-over.jpg": {
+      "src": "site-design/Images/Holms-over.jpg",
+      "width": 396,
+      "height": 312,
+      "sha256": "b406a5853556457c809739ca29264cb00c86fc2130133933fbb503aebd03d48b"
+    },
+    "Images/Pictures for flashes/Earthbelt-ru.png": {
+      "src": "site-design/Images/Pictures for flashes/Earthbelt-ru.png",
+      "width": 409,
+      "height": 298,
+      "sha256": "7e3149950d37e2abe97a1644bdb6c8bf899f8ab864ea744823d3e1249e82ec7a"
+    },
+    "Images/Pictures for flashes/Earthbelt-ru-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Earthbelt-ru-over.png",
+      "width": 409,
+      "height": 298,
+      "sha256": "8e9ab2e56c12f573a7fff89768003ca284710ef770fbc537352cd2f67845138c"
+    },
+    "Images/Pictures for flashes/Twocolorsru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Twocolorsru.jpg",
+      "width": 387,
+      "height": 284,
+      "sha256": "502c5e4be6c4856c7edd81aa847bbad02269537ade7c0fffa79fd61e4215ad59"
+    },
+    "Images/Pictures for flashes/Twocolorsru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Twocolorsru-over.jpg",
+      "width": 387,
+      "height": 284,
+      "sha256": "072626976a06502fc7a5071f06f3e8275c4bd4ae6a19ce3eb451d9a01afc9dff"
+    },
+    "Images/Pictures for flashes/Threecolorsru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Threecolorsru.jpg",
+      "width": 416,
+      "height": 249,
+      "sha256": "d719887c6bc5f637eac2f969f86143ed9dc06a2247830bada6e00024d7b0ffd6"
+    },
+    "Images/Pictures for flashes/Threecolorsru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Threecolorsru-over.jpg",
+      "width": 416,
+      "height": 249,
+      "sha256": "70727b0b6121a821294dcb156130693cf88305c77b3d15f0ac184e2b96554e9a"
+    },
+    "Images/Pictures for flashes/Twocolorsru-seg.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Twocolorsru-seg.jpg",
+      "width": 277,
+      "height": 194,
+      "sha256": "78b2b089db588ecc982e4803e276a96b433382bfe2ec616cbcdfca7210888962"
+    },
+    "Images/Pictures for flashes/Twocolorsru-seg-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Twocolorsru-seg-over.jpg",
+      "width": 277,
+      "height": 194,
+      "sha256": "7aad1edb420b7a158e03cc33dccddda67afe6c57bc31dcb66434ec61c63d3686"
+    },
+    "Images/Pictures for flashes/Twocolorsru-tri.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Twocolorsru-tri.jpg",
+      "width": 256,
+      "height": 195,
+      "sha256": "fee2662e7c3e43fc9165cd48dde5824985dbcc984473ee79648b4b09c6c13997"
+    },
+    "Images/Pictures for flashes/Twocolorsru-tri-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Twocolorsru-tri-over.jpg",
+      "width": 256,
+      "height": 195,
+      "sha256": "7eecc0ae64ec08072f8f2fb05882c4ef9745b9344459550024eb40753922d5e2"
+    },
+    "Images/Pictures for flashes/Walkaroun-ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Walkaroun-ru.jpg",
+      "width": 471,
+      "height": 339,
+      "sha256": "614f61d26921ea8f6a6c2a0bce89f54bd53926ea566ffb13165a5b2aa296a810"
+    },
+    "Images/Pictures for flashes/Walkaroun-ru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Walkaroun-ru-over.jpg",
+      "width": 471,
+      "height": 339,
+      "sha256": "d200a307e9c64dffe7135f30f277b973034b7c56f1091da392bf55cfb887f2e6"
+    },
+    "Images/Flatland.jpg": {
+      "src": "site-design/Images/Flatland.jpg",
+      "width": 365,
+      "height": 275,
+      "sha256": "47d57ff7f43d01425bdc6381ca6756cbe365ed1ad597afadaa86da24150d7ef9"
+    },
+    "Images/Flatland-over.jpg": {
+      "src": "site-design/Images/Flatland-over.jpg",
+      "width": 365,
+      "height": 275,
+      "sha256": "c4e41e9d89f2adb19f5f1a23d21e1d7bd1a49a774e317cf7d007e97f5f1e783e"
+    },
+    "Images/Kleinbottle.jpg": {
+      "src": "site-design/Images/Kleinbottle.jpg",
+      "width": 358,
+      "height": 288,
+      "sha256": "73d44ab224c2967b1d382c6d49ad0bcb14244b8a9c2c211106408c01e0f799b3"
+    },
+    "Images/Kleinbottle-over.jpg": {
+      "src": "site-design/Images/Kleinbottle-over.jpg",
+      "width": 358,
+      "height": 288,
+      "sha256": "6dc5b7a479a7b15bb716ee606be53d5139f521c1c2e42ddf57b22face070a1bc"
+    },
+    "Images/Cubesections.jpg": {
+      "src": "site-design/Images/Cubesections.jpg",
+      "width": 398,
+      "height": 273,
+      "sha256": "a56cb4379631e78a97b03cba82e0cc6f2aad458da10538b5a55eddf5cb7e9b48"
+    },
+    "Images/Cubesections-over.jpg": {
+      "src": "site-design/Images/Cubesections-over.jpg",
+      "width": 398,
+      "height": 273,
+      "sha256": "775649f931c68d2c969d7b7207da85689480700ddb9c41ff0e4aa13e2ac01dbf"
+    },
+    "Images/Intro-perandcomb.jpg": {
+      "src": "site-design/Images/Intro-perandcomb.jpg",
+      "width": 397,
+      "height": 239,
+      "sha256": "0476cdc2e0834f0276e79467d7f3a69810e199068427ef4ef93eabf50e8809a1"
+    },
+    "Images/Intro-perandcomb-over.jpg": {
+      "src": "site-design/Images/Intro-perandcomb-over.jpg",
+      "width": 397,
+      "height": 239,
+      "sha256": "2e6fd9346ef6efd223b4657f917be7260fb477f2e145d9d3e077ce61ba620109"
+    },
+    "Images/Htocalcperm3f5.jpg": {
+      "src": "site-design/Images/Htocalcperm3f5.jpg",
+      "width": 390,
+      "height": 246,
+      "sha256": "a8880cd0fcda2fa12849c819972619b6ceeea2950941f936de9ea167c77ba2e5"
+    },
+    "Images/Htocalcperm3f5-over.jpg": {
+      "src": "site-design/Images/Htocalcperm3f5-over.jpg",
+      "width": 390,
+      "height": 246,
+      "sha256": "bad2a440bf4cfda8eed182c678d4805c93da8bd5d20c3f8ae52912704f83e7e3"
+    },
+    "Images/Oddslottery.jpg": {
+      "src": "site-design/Images/Oddslottery.jpg",
+      "width": 401,
+      "height": 228,
+      "sha256": "41782320fb6211fe4db1323e832429a248e76739080db1febe48e282ee300182"
+    },
+    "Images/Oddslottery-over.jpg": {
+      "src": "site-design/Images/Oddslottery-over.jpg",
+      "width": 401,
+      "height": 228,
+      "sha256": "8164e264db1e89c26e6b4192a5cec4fb6d8ce77d97f93a3bcdff235d526346f5"
+    },
+    "Images/Lotteryodds.jpg": {
+      "src": "site-design/Images/Lotteryodds.jpg",
+      "width": 367,
+      "height": 237,
+      "sha256": "303ceea68fc44c859dfddc92ad2dab83c67f198676f81d0f84e3f3e6a729893d"
+    },
+    "Images/Lotteryodds-over.jpg": {
+      "src": "site-design/Images/Lotteryodds-over.jpg",
+      "width": 367,
+      "height": 237,
+      "sha256": "292c62eb9fa93759c594626dcd4fbff95be48aa42fa28ca6da2bb66f8fded490"
+    },
+    "Images/Pictures for flashes/Matanalizru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Matanalizru-over.jpg",
+      "sha256": "f144f3e5473fbf442f0e56f45ab9bd3759d5821371caed653d0240e21e91e358"
+    },
+    "Images/Pictures for flashes/Matanalizru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Matanalizru.jpg",
+      "width": 547,
+      "height": 398,
+      "sha256": "b2123c6ccff2ad8cff1d38a5838a25c010a6df947d49453fb7b656b859d15f90"
+    },
+    "Images/Pictures for flashes/Arearu.png": {
+      "src": "site-design/Images/Pictures for flashes/Arearu.png",
+      "width": 367,
+      "height": 267,
+      "sha256": "8e2ab3f98bf0670a5dd0633c6b427b92624e044b157d0ba104a5bca57a883ca2"
+    },
+    "Images/Pictures for flashes/Arearu-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Arearu-over.png",
+      "width": 367,
+      "height": 267,
+      "sha256": "515fc4ae2a8540e73c78836a7474ee383bc498db349cc920770f5e9dce4d669d"
+    },
+    "Images/Pictures for flashes/Arpolru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Arpolru.jpg",
+      "width": 291,
+      "height": 210,
+      "sha256": "a58f36d3f0eedbc75a9e1c4bf833be5bc0d32bb116641c1d2458bc1967994bdd"
+    },
+    "Images/Pictures for flashes/Arpolru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Arpolru-over.jpg",
+      "width": 291,
+      "height": 210,
+      "sha256": "9a7a4f9ce11faaa05dccad192c64fbdaf8a8ce9755ceb28b4fb75edb73f61c1c"
+    },
+    "Images/Pictures for flashes/Alltriangles-ru.png": {
+      "src": "site-design/Images/Pictures for flashes/Alltriangles-ru.png",
+      "width": 338,
+      "height": 244,
+      "sha256": "55710cb7fffa7fd92798009cfea9f7be7512df8534385b9c5a67530075df25d1"
+    },
+    "Images/Pictures for flashes/Alltriangles-ru-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Alltriangles-ru-over.png",
+      "width": 338,
+      "height": 244,
+      "sha256": "896851889c049a60a081fac6283120c0e82da628664858a358678948573649dd"
+    },
+    "Images/Pictures for flashes/Cossinsum-ru.png": {
+      "src": "site-design/Images/Pictures for flashes/Cossinsum-ru.png",
+      "width": 295,
+      "height": 215,
+      "sha256": "b1beeb02d06687368c7f2388026e8b76ae11f1067f4c2f7606ee14645cdfe335"
+    },
+    "Images/Pictures for flashes/Cossinsumru-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Cossinsumru-over.png",
+      "width": 295,
+      "height": 215,
+      "sha256": "37878cb28bdcb4b854f08722c2e5a135fef4b783fdcc2f43d29f81b0b6c733f4"
+    },
+    "Images/Pictures for flashes/lawofcosru.png": {
+      "src": "site-design/Images/Pictures for flashes/lawofcosru.png",
+      "width": 304,
+      "height": 220,
+      "sha256": "ab290ac0af25af2832d02c74379fa9e2a64ecfde0d570f54385561337e0de006"
+    },
+    "Images/Pictures for flashes/lawofcosru-over.png": {
+      "src": "site-design/Images/Pictures for flashes/lawofcosru-over.png",
+      "width": 304,
+      "height": 220,
+      "sha256": "a85f7f7d3f9eecef5ac8d212da3282a297c667f47ff97631895b219f016369d2"
+    },
+    "Images/Pictures for flashes/lawofsinru.png": {
+      "src": "site-design/Images/Pictures for flashes/lawofsinru.png",
+      "width": 290,
+      "height": 211,
+      "sha256": "7a140a1514b885f4e17ebe66d26fd97ea4d54596ef99af53970710f677401f13"
+    },
+    "Images/Pictures for flashes/lawofsinru-over.png": {
+      "src": "site-design/Images/Pictures for flashes/lawofsinru-over.png",
+      "width": 290,
+      "height": 211,
+      "sha256": "a7963e6bc7f7a2c62a93199371771271395d8e1d09eb96ddd08caa56ba6e0129"
+    },
+    "Images/Pictures for flashes/Cubesectionsru.png": {
+      "src": "site-design/Images/Pictures for flashes/Cubesectionsru.png",
+      "width": 325,
+      "height": 260,
+      "sha256": "43dce332e983533baf24ae740c5b86b337c4778db419adf31817e62d9e46306f"
+    },
+    "Images/Pictures for flashes/Cubesectionsru-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Cubesectionsru-over.png",
+      "width": 325,
+      "height": 260,
+      "sha256": "73df0556e0e17f2084c098425017085092e0e32bc88b50ed45dd49f19b8a28fd"
+    },
+    "Images/Pictures for flashes/Nine bills site -ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Nine bills site -ru.jpg",
+      "width": 697,
+      "height": 398,
+      "sha256": "39e932262f2396877f9d7a5adcef9bcd1cfae8dd359cbef4678de1662cdb0d3c"
+    },
+    "Images/Pictures for flashes/Nine bills site-over-ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Nine bills site-over-ru.jpg",
+      "width": 697,
+      "height": 398,
+      "sha256": "5f36b88e6a8540dd47b9038a8bb48b434fe47b1f535864ad0d384e6d22a482f3"
+    },
+    "Images/Pictures for flashes/Mindreadru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Mindreadru.jpg",
+      "width": 598,
+      "height": 433,
+      "sha256": "00ba90887a90d80bde046103c55436b079767829b9521a51b40ac777a80f6395"
+    },
+    "Images/Pictures for flashes/Mindreadru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Mindreadru-over.jpg",
+      "width": 598,
+      "height": 433,
+      "sha256": "8d98e1d6703fbda8b6afedf6dba94abc81f8ea736157ce9de53fcfa9868633af"
+    },
+    "Images/Pictures for flashes/Sum Mystery-ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Sum Mystery-ru.jpg",
+      "width": 547,
+      "height": 398,
+      "sha256": "b499df4d29d69c4d02acbb451cdf18e2f5a2b73e455e0bc61ce3d49f89fe6fac"
+    },
+    "Images/Pictures for flashes/Sum Mystery-ru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Sum Mystery-ru-over.jpg",
+      "width": 547,
+      "height": 398,
+      "sha256": "30932d730db3145d141be6b278af5b95d71375e9a1cd9ff29dade5fdc4d0f13a"
+    },
+    "Images/Pictures for flashes/Findcubespair-ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Findcubespair-ru.jpg",
+      "width": 237,
+      "height": 154,
+      "sha256": "ce0a04a65cf5806293dda524f2fbaa10efd3c3ee72264ea343936635e1e4573c"
+    },
+    "Images/Pictures for flashes/Findcubespair-ru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Findcubespair-ru-over.jpg",
+      "width": 237,
+      "height": 154,
+      "sha256": "f63437d75a08e8437c13f1fdf31eeb882e75fc3031b9a02be83508a78570e2dc"
+    },
+    "Images/Twotetra-ru.jpg": {
+      "src": "site-design/Images/Twotetra-ru.jpg",
+      "width": 195,
+      "height": 140,
+      "sha256": "c4e9adc416b2cb13aa51c50486bed4ed727177288c707e2570f0687532de97f1"
+    },
+    "Images/Twotetra-ru-over.jpg": {
+      "src": "site-design/Images/Twotetra-ru-over.jpg",
+      "width": 195,
+      "height": 140,
+      "sha256": "5284195faf1ca4a4314b17309a8f5cd6d056f8412f9f130bbe9847df1ec53076"
+    },
+    "Images/Pictures for flashes/Twohourglassru.png": {
+      "src": "site-design/Images/Pictures for flashes/Twohourglassru.png",
+      "width": 198,
+      "height": 144,
+      "sha256": "deb7ea35c4b9db99d0540df087ef1cc1b216d4e11852a908d8f207b499229263"
+    },
+    "Images/Pictures for flashes/Twohourglassru-over.png": {
+      "src": "site-design/Images/Pictures for flashes/Twohourglassru-over.png",
+      "width": 198,
+      "height": 144,
+      "sha256": "6acf976ae7f28aec0f20fc11e8e428ca3c4743dffad36e90960780b8219367ea"
+    },
+    "Images/Pictures for flashes/Byufon-ru.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Byufon-ru.jpg",
+      "width": 548,
+      "height": 399,
+      "sha256": "bef143dc345294d4913789b56893c2b4b09eed179226ea303f8244068ca6c418"
+    },
+    "Images/Pictures for flashes/Byufon-ru-over.jpg": {
+      "src": "site-design/Images/Pictures for flashes/Byufon-ru-over.jpg",
+      "width": 548,
+      "height": 399,
+      "sha256": "3959ba96253670e5c410dbf9797827c30fb2eea03b7f78325954e1b4b8960512"
+    },
+    "Images/M-1.jpg": {
+      "src": "site-design/Images/M-1.jpg",
+      "width": 369,
+      "height": 285,
+      "sha256": "730fb293be9bf3f03db11f659dfff2506e6615442f43519180701f9aa9dbad90"
+    },
+    "Images/M-2.jpg": {
+      "src": "site-design/Images/M-2.jpg",
+      "width": 348,
+      "height": 308,
+      "sha256": "00abe4972e62b41ed0af07dcc251107e4d400e4f80f9a924946404526a09a4ac"
+    },
+    "Images/M-3.jpg": {
+      "src": "site-design/Images/M-3.jpg",
+      "width": 353,
+      "height": 309,
+      "sha256": "b4785490a22a9de1d2885e232f1a1bcd58a28373e04cd521fba3fb09a58b9963"
+    },
+    "Images/Kitten-green-live.gif": {
+      "src": "site-design/Images/Kitten-green-live.gif",
+      "width": 303,
+      "height": 230,
+      "sha256": "0cd2ea2374cca563fa142a03e30ea9e2af4d3e6233f0e992919a058d114301c3",
+      "stillSrc": "site-design/Images/Kitten-green-live.gif.first-frame.png"
+    },
+    "Images/Kitten-green-fallinglive.gif": {
+      "src": "site-design/Images/Kitten-green-fallinglive.gif",
+      "width": 292,
+      "height": 243,
+      "sha256": "b1f853f53ad6ea4bbe6d406ba8ccd79618e3621448a5a79cb92f4df8824ccdb4",
+      "stillSrc": "site-design/Images/Kitten-green-fallinglive.gif.first-frame.png"
+    },
+    "Images/Ladder-green1.gif": {
+      "src": "site-design/Images/Ladder-green1.gif",
+      "width": 250,
+      "height": 211,
+      "sha256": "d52d8824bb19a9069d9e69a1f76595f71c2a31ba682fa283e1c479ded8b74a13",
+      "stillSrc": "site-design/Images/Ladder-green1.gif.first-frame.png"
+    },
+    "Images/2-05.gif": {
+      "src": "site-design/Images/2-05.gif",
+      "width": 250,
+      "height": 211,
+      "sha256": "5a8171d52419e272196f513a8b5eafb9782b3115a57ebdfb9bbbdd24da7f6533",
+      "stillSrc": "site-design/Images/2-05.gif.first-frame.png"
+    },
+    "Images/2-06.gif": {
+      "src": "site-design/Images/2-06.gif",
+      "width": 260,
+      "height": 226,
+      "sha256": "b014865de439788acff37ea4a3d29e25c62991abdef72b92da1b49abfcd515b3",
+      "stillSrc": "site-design/Images/2-06.gif.first-frame.png"
+    },
+    "Images/2-11.gif": {
+      "src": "site-design/Images/2-11.gif",
+      "width": 280,
+      "height": 280,
+      "sha256": "091925e5fe5a4822476da26e282f5967340eab1c4f4ccddc64db5bd2e3a8f4fa",
+      "stillSrc": "site-design/Images/2-11.gif.first-frame.png"
+    },
+    "Images/2-12.gif": {
+      "src": "site-design/Images/2-12.gif",
+      "width": 280,
+      "height": 280,
+      "sha256": "28d2bad98fee9f91e6882b0008fe1725be25044e187ca043a25b7a06f44a71a9",
+      "stillSrc": "site-design/Images/2-12.gif.first-frame.png"
+    },
+    "Images/2-32.gif": {
+      "src": "site-design/Images/2-32.gif",
+      "width": 280,
+      "height": 280,
+      "sha256": "582e5c22b45e0ad2f85808e4ec25eadde5420fc5a9cda15a0e13bc0cfdb7c3ff",
+      "stillSrc": "site-design/Images/2-32.gif.first-frame.png"
+    },
+    "Images/Math-sin.jpg": {
+      "src": "site-design/Images/Math-sin.jpg",
+      "width": 278,
+      "height": 184,
+      "sha256": "313811c97a8d83e61515a37e9be9a68af404ecbf9baf9d28370b80b8ae533610"
+    },
+    "Images/Funnymath-1.jpg": {
+      "src": "site-design/Images/Funnymath-1.jpg",
+      "width": 303,
+      "height": 186,
+      "sha256": "1585f860cfe86820cdf2eaba9fadbfe0307b6931f96c01013bd42631c256fb8c"
+    },
+    "Images/FM-2.png": {
+      "src": "site-design/Images/FM-2.png",
+      "width": 350,
+      "height": 263,
+      "sha256": "32cf5ff181a2254ee325dd6e67e10868b20fdfeec09c5b6e497398454e2311dd"
+    },
+    "Images/FM-1.png": {
+      "src": "site-design/Images/FM-1.png",
+      "width": 322,
+      "height": 263,
+      "sha256": "119edcdfec35facb47a4912a6fd7f1a80a3d679445956aa28205cbed6a66cc3e"
+    },
+    "Images/WGC-1.jpg": {
+      "src": "site-design/Images/WGC-1.jpg",
+      "width": 279,
+      "height": 169,
+      "sha256": "e9ae5f5dbe3f8436f267652f31e41fa15c901eb9f5fbe1185bfbdb8d96ab7676"
+    },
+    "Images/WGC-over1.jpg": {
+      "src": "site-design/Images/WGC-over1.jpg",
+      "width": 279,
+      "height": 169,
+      "sha256": "7adcd26a1893711db67053b4da801b91cab595db783806073138f48ef0364ed9"
+    },
+    "Images/Matholymp.jpg": {
+      "src": "site-design/Images/Matholymp.jpg",
+      "width": 275,
+      "height": 176,
+      "sha256": "750726c75211c0bb671f2692c79f169eb91b3803d3cfa3fadf1b4dcb3e8539b5"
+    },
+    "Images/Matholymp-over.jpg": {
+      "src": "site-design/Images/Matholymp-over.jpg",
+      "width": 275,
+      "height": 176,
+      "sha256": "8f2f4fbd76677674b2e5c1bedf7c6c1bc7e3e91af849c51da17bc83a7f3414e9"
+    },
+    "Images/Frogsjump.jpg": {
+      "src": "site-design/Images/Frogsjump.jpg",
+      "width": 275,
+      "height": 206,
+      "sha256": "f30cc57bf52ae526a87893b6295dac1dc379aed7b89b3ad896790dff8e40726b"
+    },
+    "Images/Frogsjump-over.jpg": {
+      "src": "site-design/Images/Frogsjump-over.jpg",
+      "width": 275,
+      "height": 206,
+      "sha256": "0670710694ea9077afb222fc67eb054a24fec221bc7268599707287b50a8e782"
+    },
+    "Images/TowerofH.jpg": {
+      "src": "site-design/Images/TowerofH.jpg",
+      "width": 278,
+      "height": 207,
+      "sha256": "531b008c86b3f3c37cd79bc07c476a5a8e523ce4f9c60be1ab3511e76f768641"
+    },
+    "Images/TowerofH-over.jpg": {
+      "src": "site-design/Images/TowerofH-over.jpg",
+      "width": 278,
+      "height": 207,
+      "sha256": "32c6e249a4cf89a6fccd3c6c0513e58b08b4aec81cc382434ec3842da4395215"
+    },
+    "Images/Crossingriver1.jpg": {
+      "src": "site-design/Images/Crossingriver1.jpg",
+      "width": 273,
+      "height": 195,
+      "sha256": "24f6ed961555bebce166f218a639f684164886d8554208b73bd9dbc750e6a320"
+    },
+    "Images/Crossingriver1-over.jpg": {
+      "src": "site-design/Images/Crossingriver1-over.jpg",
+      "width": 273,
+      "height": 195,
+      "sha256": "876d151963019fe22f193af2f4ccfe7eab74118363d084c9fbb5cc0c10487054"
+    },
+    "Images/Mathplayground.jpg": {
+      "src": "site-design/Images/Mathplayground.jpg",
+      "width": 281,
+      "height": 210,
+      "sha256": "15247309f7b0c9531a67a8e3f2697a99ebd18ab95483684cdae32e7207217bb6"
+    },
+    "Images/Mathplayground-over.jpg": {
+      "src": "site-design/Images/Mathplayground-over.jpg",
+      "width": 281,
+      "height": 210,
+      "sha256": "005ec598312e564b550b8f4b111dbb3a0233a5ecf33854fabfe30068c4527c29"
+    },
+    "Images/Coolmath.jpg": {
+      "src": "site-design/Images/Coolmath.jpg",
+      "width": 283,
+      "height": 192,
+      "sha256": "72e6513efd5be201774c6ac892c1c5903f543d5d272bfb555bd6200373e1d54c"
+    },
+    "Images/Coolmath-over.jpg": {
+      "src": "site-design/Images/Coolmath-over.jpg",
+      "width": 283,
+      "height": 192,
+      "sha256": "918f34ba5623512ec1b9657c63b82d686e987e13e1a92d10d0c42c788d3f4c50"
+    },
+    "Images/Japcrossing.jpg": {
+      "src": "site-design/Images/Japcrossing.jpg",
+      "width": 284,
+      "height": 201,
+      "sha256": "5066354d5e5e335fd7259d0cc2560f30fa2dcf043015940f0f891ea23f6e1eab"
+    },
+    "Images/Japcrossing-over.jpg": {
+      "src": "site-design/Images/Japcrossing-over.jpg",
+      "width": 284,
+      "height": 201,
+      "sha256": "965b0d62c9615b5003fbec58adfec0b7c127df074944deb232a6c852b9c22080"
+    },
+    "Images/Bridgecrossing.jpg": {
+      "src": "site-design/Images/Bridgecrossing.jpg",
+      "width": 293,
+      "height": 228,
+      "sha256": "4e3e041a48cb22bbb68250b95dbf17bdd023d791e561a29fb04b558c50b1fff3"
+    },
+    "Images/Bridgecrossing-over.jpg": {
+      "src": "site-design/Images/Bridgecrossing-over.jpg",
+      "width": 293,
+      "height": 228,
+      "sha256": "4206b01017df96d45273e8017b48ea968f2135c2137b47298d7590e5f26c9519"
+    },
+    "Images/Millionar.jpg": {
+      "src": "site-design/Images/Millionar.jpg",
+      "width": 285,
+      "height": 227,
+      "sha256": "910a8875536849d3607c531e4ee83d2e31b3bedd139b6279a1dbf864b9d2cf6b"
+    },
+    "Images/Millionar-over.jpg": {
+      "src": "site-design/Images/Millionar-over.jpg",
+      "width": 285,
+      "height": 227,
+      "sha256": "f4a4516fde54b66c1ee6e8a1e62dd9737df9646e5e0becb3482d9ab30c8ca09f"
+    },
+    "Images/MMSATonline-1.jpg": {
+      "src": "site-design/Images/MMSATonline-1.jpg",
+      "width": 360,
+      "height": 243,
+      "sha256": "e66ed9d3632e743186e9e83c41679c13b1e76571edeb00494c2ec907cf3ab5df"
+    },
+    "Images/MMSATonline-1-over.jpg": {
+      "src": "site-design/Images/MMSATonline-1-over.jpg",
+      "width": 360,
+      "height": 243,
+      "sha256": "b2c41479067a156bd3fc3e27126f974966988424904c6f3e30b73510c1b86015"
+    },
+    "Images/MMSATonline-2.jpg": {
+      "src": "site-design/Images/MMSATonline-2.jpg",
+      "width": 360,
+      "height": 264,
+      "sha256": "fb3702fa45a0b221e560c73d3f4579b5aa4a3b6257974f40b7f722f7020c21f0"
+    },
+    "Images/MMSATonline-2-over.jpg": {
+      "src": "site-design/Images/MMSATonline-2-over.jpg",
+      "width": 360,
+      "height": 264,
+      "sha256": "d5a94f2fbdd7cac3eeea61871c64e05b449d44fad057e3aaffc97238687e625a"
+    },
+    "Images/MMSATonline-3.jpg": {
+      "src": "site-design/Images/MMSATonline-3.jpg",
+      "width": 360,
+      "height": 244,
+      "sha256": "fdb938ca98d2f4894a6cacd6fb0b329553bbfabe6a64813ce9e47d7dfc3e1e71"
+    },
+    "Images/MMSATonline-3-over.jpg": {
+      "src": "site-design/Images/MMSATonline-3-over.jpg",
+      "width": 360,
+      "height": 244,
+      "sha256": "db2633a5f8c41d42b9a00d17bec78e268620fb60a973add9961d69fe2e7fb602"
+    },
+    "Images/MMSATonline-4.jpg": {
+      "src": "site-design/Images/MMSATonline-4.jpg",
+      "width": 360,
+      "height": 243,
+      "sha256": "5ff2d28952dbb58cf2fe30ff5f3b877c4834ca8d60f8aacc00640b46287a3cad"
+    },
+    "Images/MMSATonline-4-over.jpg": {
+      "src": "site-design/Images/MMSATonline-4-over.jpg",
+      "width": 360,
+      "height": 243,
+      "sha256": "18b1d556380186fe07ca637cc810ca0d0d8ac69a00b3bb6d5a8a972f5ef31e1c"
+    },
+    "Images/MMSATonline-5.jpg": {
+      "src": "site-design/Images/MMSATonline-5.jpg",
+      "width": 360,
+      "height": 255,
+      "sha256": "e4d0902a290f0aabd768eef650578ff22c46cb73c551c9c1ae08cd31a18c2fd9"
+    },
+    "Images/MMSATonline-5-over.jpg": {
+      "src": "site-design/Images/MMSATonline-5-over.jpg",
+      "width": 360,
+      "height": 255,
+      "sha256": "8e49e6b73dd0781009e8fde344606333a5bb8dea9842a1dd14209cfe1c90afe9"
+    },
+    "Images/MMSATonline-6.jpg": {
+      "src": "site-design/Images/MMSATonline-6.jpg",
+      "width": 360,
+      "height": 246,
+      "sha256": "8932a295f4f318ef5572efa17a3764d792550a180a486aab6586689fa212c8ca"
+    },
+    "Images/MMSATonline-6-over.jpg": {
+      "src": "site-design/Images/MMSATonline-6-over.jpg",
+      "width": 360,
+      "height": 246,
+      "sha256": "3fb6c1a9052f555231a079a355e58389ce332455cc77559cad7ffa0aca169e67"
+    },
+    "Images/MMSATonline-7.jpg": {
+      "src": "site-design/Images/MMSATonline-7.jpg",
+      "width": 360,
+      "height": 263,
+      "sha256": "58a1ff020c8c72fdacfd3a5ae560fbdd0259be0e8230735065f98bb788f3038a"
+    },
+    "Images/MMSATonline-7-over.jpg": {
+      "src": "site-design/Images/MMSATonline-7-over.jpg",
+      "width": 360,
+      "height": 263,
+      "sha256": "f0363f36e5508a119632b51955e12fe15a54a729b88958a8337cc98338795b1e"
+    },
+    "Images/MMSATonline-8.jpg": {
+      "src": "site-design/Images/MMSATonline-8.jpg",
+      "width": 360,
+      "height": 245,
+      "sha256": "83d3293925d125136fd31182c2c01f77e7e0eda38123c24029e552236f14ab21"
+    },
+    "Images/MMSATonline-8-over.jpg": {
+      "src": "site-design/Images/MMSATonline-8-over.jpg",
+      "width": 360,
+      "height": 245,
+      "sha256": "89acf31c4c8b799cd6252cfe7c19bf3aa137b2d085fc21d0b6997b7596065dbc"
+    },
+    "Images/MMSATonline-9.jpg": {
+      "src": "site-design/Images/MMSATonline-9.jpg",
+      "width": 360,
+      "height": 246,
+      "sha256": "0e19b5def34d252c0eec38c47b3dda25af674d216cd799ec9bc266e551af4db3"
+    },
+    "Images/MMSATonline-9-over.jpg": {
+      "src": "site-design/Images/MMSATonline-9-over.jpg",
+      "width": 360,
+      "height": 246,
+      "sha256": "691186c51aaed51d81e6b6bd0d97c509c646ca0a626098f4348a091e65a0a6ca"
+    },
+    "Images/MMSATonline-10.jpg": {
+      "src": "site-design/Images/MMSATonline-10.jpg",
+      "width": 360,
+      "height": 250,
+      "sha256": "3f6109c5dd9fcde093e8fae5f1981c8f11784d9d0cf56180349dd1517021969b"
+    },
+    "Images/MMSATonline-10-over.jpg": {
+      "src": "site-design/Images/MMSATonline-10-over.jpg",
+      "width": 360,
+      "height": 250,
+      "sha256": "2820846f808d02604146a7f64fb1c597ab0b97c9497abdc690ffee22c7278a6d"
+    },
+    "Images/Mainru.jpg": {
+      "src": "site-design/Images/Mainru.jpg",
+      "width": 118,
+      "height": 23,
+      "sha256": "210e878fda6930283170144d896e3a49f2a2449e782e0ef6e2573ec7a3c3b5be"
+    },
+    "Images/Mainru-over.jpg": {
+      "src": "site-design/Images/Mainru-over.jpg",
+      "width": 118,
+      "height": 23,
+      "sha256": "ec5f56e1bb9b992e9b051feccf6de4d3e7b61e43be74aa6abb568440549f105a"
+    },
+    "Images/Slidingpuzzlesru.jpg": {
+      "src": "site-design/Images/Slidingpuzzlesru.jpg",
+      "width": 103,
+      "height": 27,
+      "sha256": "479ee28dec94494d2e004f01ab15ac7157b43b2399f9e82600fb68e1762974d4"
+    },
+    "Images/Slidingpuzzlesru-over.jpg": {
+      "src": "site-design/Images/Slidingpuzzlesru-over.jpg",
+      "width": 103,
+      "height": 27,
+      "sha256": "a003cbe4c3b199d943d3ec97c516c2be9ea6eb78fa851261c1eea7b6a3ca31d6"
+    },
+    "Images/Home-button-over.jpg": {
+      "src": "site-design/Images/Home-button-over.jpg",
+      "sha256": "1537d0748f92c79cd00bd4538d2b0a0ebe0f84004eb49f11d5d526cb18378dd5"
+    },
+    "Images/Calculus-button-over.jpg": {
+      "src": "site-design/Images/Calculus-button-over.jpg",
+      "sha256": "13f342a2d57a8b4a36620171ae9b46dd6f37a5281a105b4e1ad882dd258b5a72"
+    },
+    "Images/Books-button over.jpg": {
+      "src": "site-design/Images/Books-button over.jpg",
+      "sha256": "1544c41150d646ab8f57c100d15cedcde819779e14d870db0deec73c0c1779a8"
+    },
+    "Images/LiveGeometry-button-over.jpg": {
+      "src": "site-design/Images/LiveGeometry-button-over.jpg",
+      "sha256": "68a6e52e5d70ae936033b0e407d88d3cb73da863a1388ec83d2adf5eca592343"
+    },
+    "Images/Slidingpuzzles-over.jpg": {
+      "src": "site-design/Images/Slidingpuzzles-over.jpg",
+      "sha256": "bba4b4d0702c2177b086342083a7904ca20c1bd1c58c6f0528816b768629b562"
+    },
+    "Images/Forkids-button-over.jpg": {
+      "src": "site-design/Images/Forkids-button-over.jpg",
+      "sha256": "9501e8d3ad05bf16c45abbca9a423835e7dfc006c1a829dd752df73a73e24e5b"
+    },
+    "Images/Magicmath-button-over.jpg": {
+      "src": "site-design/Images/Magicmath-button-over.jpg",
+      "sha256": "5e6e2ed77ca45e8ed53f59bb92e11264b63e714219dc801152896f708fd03857"
+    },
+    "Images/Funny Math-button-over.jpg": {
+      "src": "site-design/Images/Funny Math-button-over.jpg",
+      "sha256": "fd5923f6700efea4c5cca77503e8f1f7bcd09076bde44695aa5eaba73efc5977"
+    },
+    "Images/Play Math-button-over.jpg": {
+      "src": "site-design/Images/Play Math-button-over.jpg",
+      "sha256": "ff9e3c84b7dd701434361a8c2292f978a2ac549f4893c6c814125bade45fc54b"
+    },
+    "Images/Visual Math-button-over.jpg": {
+      "src": "site-design/Images/Visual Math-button-over.jpg",
+      "sha256": "211f8a70a8dcf7cdfe172b719e358e1176c7200bd507d64d1ebbb954537ddddd"
+    },
+    "Images/MathSAT-button-over.jpg": {
+      "src": "site-design/Images/MathSAT-button-over.jpg",
+      "sha256": "72782f765149a1261003a6f7c30e01438c8eb6f6f6af57fe0a65b3f4ebdbcedb"
+    },
+    "Images/Contactf-button-over.jpg": {
+      "src": "site-design/Images/Contactf-button-over.jpg",
+      "sha256": "5abadc7847b8fed3f72f17cba1ff0334af9a88ee35d781329750329ac964e439"
+    },
+    "Images/Etudes.jpg": {
+      "src": "site-design/Images/Etudes.jpg",
+      "sha256": "ed5a3bd0508f18ae069c3978093d78f4f58b22e44a7e2cf88d578ed42c806627"
+    },
+    "Images/Etudes-over.jpg": {
+      "src": "site-design/Images/Etudes-over.jpg",
+      "sha256": "b93ff113573c5c12448b01e627f1c16292f600282e487b6d20b8f34fb7fef1e9"
+    },
+    "Images/Artofproblemsolving.jpg": {
+      "src": "site-design/Images/Artofproblemsolving.jpg",
+      "sha256": "e7d1726e8a9e0f0f6f42809838bdc0ede1b77b99638218312f7669f361777be0"
+    },
+    "Images/Artofproblemsolving-over.jpg": {
+      "src": "site-design/Images/Artofproblemsolving-over.jpg",
+      "sha256": "59864561de3bd953666dbf7514ef97518c0a6872b2aee5341c9f5bf7f4cb7f2c"
+    },
+    "Images/collmath4kids.jpg": {
+      "src": "site-design/Images/collmath4kids.jpg",
+      "sha256": "3a5d070997002f6f3db6b041342e808d879f5952cb1a123a51cc63b57e6fd738"
+    },
+    "Images/collmath4kids-over.jpg": {
+      "src": "site-design/Images/collmath4kids-over.jpg",
+      "sha256": "e0159bec52739ea1b2bd5dbd52d702e1c1379232f896d9ba9136f2afde9cd6e8"
+    },
+    "Images/Mathisfun.jpg": {
+      "src": "site-design/Images/Mathisfun.jpg",
+      "sha256": "2888bdaf037eaff676497fe168b071150b4c49081353163b26785ccc17e446c6"
+    },
+    "Images/Mathisfun-over.jpg": {
+      "src": "site-design/Images/Mathisfun-over.jpg",
+      "sha256": "4a8c01bbe13f263259ca401f0ec301fa42a405d6fb0f371dd18c008ba5e35c92"
+    },
+    "Images/Mathplaygroundlbl.jpg": {
+      "src": "site-design/Images/Mathplaygroundlbl.jpg",
+      "sha256": "e26b5169078e25bf319578820f5d8882d0217cf3ee02809a7c4340fd25a00bc6"
+    },
+    "Images/Mathplaygroundlbl-over.jpg": {
+      "src": "site-design/Images/Mathplaygroundlbl-over.jpg",
+      "sha256": "da1b9aecceb68fa40730091262bc6187159dbda2483097d3c4280f5aa6104acb"
+    },
+    "Images/Intmath.jpg": {
+      "src": "site-design/Images/Intmath.jpg",
+      "sha256": "021c02a0a9fc8d6a9a77b15ef1dad8794ddd5862f2156218645456e55c9d672c"
+    },
+    "Images/Intmath-over.jpg": {
+      "src": "site-design/Images/Intmath-over.jpg",
+      "sha256": "e38c6002585e847b4e207a7900a275bbb971b5e9dcd87ba5bb4031719a04cab2"
+    },
+    "Images/Khanacademy.jpg": {
+      "src": "site-design/Images/Khanacademy.jpg",
+      "sha256": "a4134cef75a8f299622a4760f07c0c1f3cd2b1f83190aa447c3eef02ecb5ddde"
+    },
+    "Images/Khanacademy-over.jpg": {
+      "src": "site-design/Images/Khanacademy-over.jpg",
+      "sha256": "297abf8345d2293ef6d2d014f0543a3a9ce806d1bb02902cb931bdd14761c6fa"
+    },
+    "Images/Mathgif-Tetrahedron-ongreen.gif": {
+      "src": "site-design/Images/Mathgif-Tetrahedron-ongreen.gif",
+      "width": 256,
+      "height": 256,
+      "sha256": "241254f80cdb2f9a5aad2fa8e450dff7777addaa2d68d53e4787566b5a21e9eb",
+      "stillSrc": "site-design/Images/Mathgif-Tetrahedron-ongreen.gif.first-frame.png"
+    },
+    "Images/Fold_Tetrahedron_320t.gif": {
+      "src": "site-design/Images/Fold_Tetrahedron_320t.gif",
+      "width": 256,
+      "height": 256,
+      "sha256": "4315d7b7dc52134a818e91702d573659ffe87729598b55096ec009d033500247",
+      "stillSrc": "site-design/Images/Fold_Tetrahedron_320t.gif.first-frame.png"
+    },
+    "Images/Mathgif-Dodecahedron-green.gif": {
+      "src": "site-design/Images/Mathgif-Dodecahedron-green.gif",
+      "width": 256,
+      "height": 256,
+      "sha256": "f6843abe5f50a7550d10c545ef5376eea1e7f9602e5f0334320b318796874b7d",
+      "stillSrc": "site-design/Images/Mathgif-Dodecahedron-green.gif.first-frame.png"
+    },
+    "Images/Fold_Dodekahedron_320t.gif": {
+      "src": "site-design/Images/Fold_Dodekahedron_320t.gif",
+      "width": 256,
+      "height": 256,
+      "sha256": "42ef5c22d23b5d76525256faa4e373aecec76cba320c90f9ab1fd90778d1d8c4",
+      "stillSrc": "site-design/Images/Fold_Dodekahedron_320t.gif.first-frame.png"
+    },
+    "Images/Mathgif-Hexahedron-green.gif": {
+      "src": "site-design/Images/Mathgif-Hexahedron-green.gif",
+      "width": 256,
+      "height": 256,
+      "sha256": "6d480f96a4012bc9bc36442c2c26e9cc503b176cccceb2b148b898f92cd24a13",
+      "stillSrc": "site-design/Images/Mathgif-Hexahedron-green.gif.first-frame.png"
+    },
+    "Images/Fold_Cube_256t.gif": {
+      "src": "site-design/Images/Fold_Cube_256t.gif",
+      "width": 256,
+      "height": 256,
+      "sha256": "85b125d3f9d42e210b034bfd37c7ab2295afac44b59d9509c85adf3d53549c84",
+      "stillSrc": "site-design/Images/Fold_Cube_256t.gif.first-frame.png"
+    },
+    "Images/Mathgif-Icosahedron-green.gif": {
+      "src": "site-design/Images/Mathgif-Icosahedron-green.gif",
+      "width": 256,
+      "height": 256,
+      "sha256": "b09bb734dd4eca2dff8f74bb179b52cc4fecdcd93370650980d5853f411c499d",
+      "stillSrc": "site-design/Images/Mathgif-Icosahedron-green.gif.first-frame.png"
+    },
+    "Images/Fold_Icosahedron_320t.gif": {
+      "src": "site-design/Images/Fold_Icosahedron_320t.gif",
+      "width": 256,
+      "height": 256,
+      "sha256": "8189462dc7e72d2de6fb657500f1970e7ceb7e3ec547f3d9f37918fd95ff9957",
+      "stillSrc": "site-design/Images/Fold_Icosahedron_320t.gif.first-frame.png"
+    },
+    "Images/Mightymatica-logogreen.gif": {
+      "src": "site-design/Images/Mightymatica-logogreen.gif",
+      "width": 246,
+      "height": 275,
+      "sha256": "eaaff1b7cec50825b1ae846b918e94778452c875846593fa8a1b917ed3a85c2d",
+      "stillSrc": "site-design/Images/Mightymatica-logogreen.gif.first-frame.png"
+    },
+    "Images/Horizonline.jpg": {
+      "src": "site-design/Images/Horizonline.jpg",
+      "width": 1237,
+      "height": 8,
+      "sha256": "1089834afc61ff8735d72d04320e197e5fb6f56c89e7f48e0947f3182ed8bc88"
+    },
+    "Images/Flags/great-britain-flag-1.gif": {
+      "src": "site-design/Images/Flags/great-britain-flag-1.gif",
+      "width": 68,
+      "height": 50,
+      "sha256": "852320e266320ce112a3230834846e9eaedd25f5a2c98edb3d268deba978f169",
+      "stillSrc": "site-design/Images/Flags/great-britain-flag-1.gif.first-frame.png"
+    },
+    "Images/Flags/russian-flag-animated.gif": {
+      "src": "site-design/Images/Flags/russian-flag-animated.gif",
+      "width": 68,
+      "height": 50,
+      "sha256": "e192f9e29e0b46b971d76c6c7109c82f8b5d349db4682bf3bbc5f56d91592539",
+      "stillSrc": "site-design/Images/Flags/russian-flag-animated.gif.first-frame.png"
+    }
+  },
+  "logo": "Images/Mightymatica-logogreen.gif",
+  "divider": "Images/Horizonline.jpg",
+  "navigation": [
+    {
+      "id": "home",
+      "label": "Home",
+      "page": "Index.html",
+      "image": "Images/Home.jpg",
+      "hover": "Images/Home-button-over.jpg"
+    },
+    {
+      "id": "calculus",
+      "label": "Calculus",
+      "page": "Calculus.html",
+      "image": "Images/Calculus-button.jpg",
+      "hover": "Images/Calculus-button-over.jpg"
+    },
+    {
+      "id": "books",
+      "label": "Books",
+      "page": "Books.html",
+      "image": "Images/Books-button.jpg",
+      "hover": "Images/Books-button over.jpg"
+    },
+    {
+      "id": "livegeometry",
+      "label": "Live Geometry",
+      "page": "Livegeometry.html",
+      "image": "Images/LiveGeometry-button.jpg",
+      "hover": "Images/LiveGeometry-button-over.jpg"
+    },
+    {
+      "id": "slidingpuzzles",
+      "label": "Sliding Puzzles",
+      "page": "Slidingpuzzles.html",
+      "image": "Images/Slidingpuzzles.jpg",
+      "hover": "Images/Slidingpuzzles-over.jpg"
+    },
+    {
+      "id": "kids",
+      "label": "For Kids",
+      "page": "For kids.html",
+      "image": "Images/Forkids-button.jpg",
+      "hover": "Images/Forkids-button-over.jpg"
+    },
+    {
+      "id": "magicmath",
+      "label": "Magic of Math",
+      "page": "Magicmath.html",
+      "image": "Images/Magicmath-button.jpg",
+      "hover": "Images/Magicmath-button-over.jpg"
+    },
+    {
+      "id": "funnymath",
+      "label": "Funny Math",
+      "page": "Funnylmath.html",
+      "image": "Images/Funny Math-button.jpg",
+      "hover": "Images/Funny Math-button-over.jpg"
+    },
+    {
+      "id": "playmath",
+      "label": "Play Math",
+      "page": "Playmath.html",
+      "image": "Images/Play Math-button.jpg",
+      "hover": "Images/Play Math-button-over.jpg"
+    },
+    {
+      "id": "visualmath",
+      "label": "Visual Math",
+      "page": "Visualmath-n.html",
+      "image": "Images/Visual Math-button.jpg",
+      "hover": "Images/Visual Math-button-over.jpg"
+    },
+    {
+      "id": "mathsat",
+      "label": "Math SAT",
+      "page": "Mathsat.html",
+      "image": "Images/MathSAT-button.jpg",
+      "hover": "Images/MathSAT-button-over.jpg"
+    },
+    {
+      "id": "contact",
+      "label": "Contact",
+      "page": "Contactus.html",
+      "image": "Images/Contactf-button.jpg",
+      "hover": "Images/Contactf-button-over.jpg"
+    }
+  ],
+  "flags": {
+    "en": "Images/Flags/great-britain-flag-1.gif",
+    "ru": "Images/Flags/russian-flag-animated.gif"
+  },
+  "home": {
+    "escher": "Images/Escher-stairs-gif.gif",
+    "polyhedra": [
+      {
+        "image": "Images/Mathgif-Tetrahedron-ongreen.gif",
+        "hover": "Images/Fold_Tetrahedron_320t.gif"
+      },
+      {
+        "image": "Images/Mathgif-Dodecahedron-green.gif",
+        "hover": "Images/Fold_Dodekahedron_320t.gif"
+      },
+      {
+        "image": "Images/Mathgif-Hexahedron-green.gif",
+        "hover": "Images/Fold_Cube_256t.gif"
+      },
+      {
+        "image": "Images/Mathgif-Icosahedron-green.gif",
+        "hover": "Images/Fold_Icosahedron_320t.gif"
+      }
+    ]
+  },
+  "pages": {
+    "Index.html": {
+      "title": "Home",
+      "leadImages": [
+        "Images/Escher-stairs-gif.gif"
+      ],
+      "links": [],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf"
+      ]
+    },
+    "Calculus.html": {
+      "title": "Calculus",
+      "leadImages": [],
+      "links": [
+        {
+          "source": "Movies/Calculus5min.swf",
+          "image": "Images/Calculus5min.jpg",
+          "hover": "Images/Calculus5min-over.jpg"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Dodecaedr-pictures-center.swf",
+        "Movies/Calculus5min.swf"
+      ],
+      "hasLayout": true
+    },
+    "Books.html": {
+      "title": "Books",
+      "leadImages": [],
+      "links": [
+        {
+          "source": "Movies/Mightymatica-1-1.swf",
+          "image": "Images/MMbook-1-1.jpg",
+          "hover": "Images/MMbook-1-1-over.jpg"
+        },
+        {
+          "source": "Movies/Mightymatica-1-2.swf",
+          "image": "Images/MMbook-1-2.jpg",
+          "hover": "Images/MMbook-1-2-over.jpg"
+        },
+        {
+          "source": "Movies/MMGrade-1-3.swf",
+          "image": "Images/MMbook-1-3.jpg",
+          "hover": "Images/MMbook-1-3-over.jpg"
+        },
+        {
+          "source": "Movies/Mightymatica-2-1.swf",
+          "image": "Images/MMbook-2-1.jpg",
+          "hover": "Images/MMbook-2-1-over.jpg"
+        },
+        {
+          "source": "Movies/MM-SAT-101-f.swf",
+          "image": "Images/MMbook-SAT-101.jpg",
+          "hover": "Images/MMbook-SAT-101-over.jpg"
+        },
+        {
+          "source": "Movies/MMCircles.swf",
+          "image": "Images/MMbook-Circles.jpg",
+          "hover": "Images/MMbook-Circles-over.jpg"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Moeb7.swf",
+        "Movies/Mightymatica-1-1.swf",
+        "Movies/Mightymatica-grade1.swf",
+        "Movies/Mightymatica-1-2.swf",
+        "Movies/MMGrade-1-3.swf",
+        "Movies/Mightymatica-2-1.swf",
+        "Movies/MathGrade2-1.swf",
+        "Movies/MM-SAT-101-f.swf",
+        "Movies/MMCircles.swf"
+      ],
+      "hasLayout": true
+    },
+    "Livegeometry.html": {
+      "title": "Live Geometry",
+      "leadImages": [],
+      "links": [
+        {
+          "source": "Movies/Area.swf",
+          "image": "Images/Pictures for flashes/Area.png",
+          "hover": "Images/Pictures for flashes/Area-over.png"
+        },
+        {
+          "source": "Movies/Cubnet3d.swf",
+          "image": "Images/Pictures for flashes/Cubenet.png",
+          "hover": "Images/Pictures for flashes/Cubenet-over.png"
+        },
+        {
+          "source": "Movies/Cube-Nets-2.swf",
+          "image": "Images/Pictures for flashes/Cubenetreplce.png",
+          "hover": "Images/Pictures for flashes/Cubenetreplce - over.png"
+        },
+        {
+          "source": "Movies/Cube-Nets.swf",
+          "image": "Images/Pictures for flashes/Cubenets.png",
+          "hover": "Images/Pictures for flashes/Cubenets-over.png"
+        },
+        {
+          "source": "Movies/Circle.swf",
+          "image": "Images/Pictures for flashes/Area of circle site.jpg",
+          "hover": "Images/Pictures for flashes/Area of circle site-over.jpg"
+        },
+        {
+          "source": "Movies/Pifagor-gl.swf",
+          "image": "Images/Pictures for flashes/Pifagor flp site.jpg",
+          "hover": "Images/Pictures for flashes/Pifagor flp site-over.jpg"
+        },
+        {
+          "source": "Movies/Volumeofball-proof-examples.swf",
+          "image": "Images/Pictures for flashes/Vol of sphere site.jpg",
+          "hover": "Images/Pictures for flashes/Vol of sphere site-over.jpg"
+        },
+        {
+          "source": "Movies/Mediana.swf",
+          "image": "Images/Median.jpg",
+          "hover": "Images/Median-over.jpg"
+        },
+        {
+          "source": "Movies/Insangle.swf",
+          "image": "Images/Insangletheo.jpg",
+          "hover": "Images/Insangletheo-over.jpg"
+        },
+        {
+          "source": "Movies/Bisector.swf",
+          "image": "Images/Bisec.jpg",
+          "hover": "Images/Bisec-over.jpg"
+        },
+        {
+          "source": "Movies/Altitudes.swf",
+          "image": "Images/Altitudes.jpg",
+          "hover": "Images/Altitudes-cover.jpg"
+        },
+        {
+          "source": "Movies/Area of polygon.swf",
+          "image": "Images/Pictures for flashes/Arpolen.jpg",
+          "hover": "Images/Pictures for flashes/Arpolen-over.jpg"
+        },
+        {
+          "source": "Movies/Congruence.swf",
+          "image": "Images/Pictures for flashes/Congen.jpg",
+          "hover": "Images/Pictures for flashes/Congen-over.jpg"
+        },
+        {
+          "source": "Movies/Alltriangles.swf",
+          "image": "Images/Pictures for flashes/Alltriangles-sof.png",
+          "hover": "Images/Pictures for flashes/Alltriangles-sof-over.png"
+        },
+        {
+          "source": "Movies/Trig-cos.swf",
+          "image": "Images/Pictures for flashes/Cossinsum.png",
+          "hover": "Images/Pictures for flashes/Cossinsum-over.png"
+        },
+        {
+          "source": "Movies/Coslaw.swf",
+          "image": "Images/Pictures for flashes/lawofcos.png",
+          "hover": "Images/Pictures for flashes/lawofcos-over.png"
+        },
+        {
+          "source": "Movies/Sinlaw.swf",
+          "image": "Images/Pictures for flashes/lawofsin.png",
+          "hover": "Images/Pictures for flashes/lawofsin-over.png"
+        },
+        {
+          "source": "Movies/Palmandtrig.swf",
+          "image": "Images/Pictures for flashes/Palmandtrig.png",
+          "hover": "Images/Pictures for flashes/Palmandtrig-over.png"
+        },
+        {
+          "source": "Movies/Conic-6x4-f.swf",
+          "image": "Images/Conicsections.jpg",
+          "hover": "Images/Conicsections-over.jpg"
+        },
+        {
+          "source": "Movies/Cubesections.swf",
+          "image": "Images/Pictures for flashes/Cubesections.png",
+          "hover": "Images/Pictures for flashes/Cubesections-over.png"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Octa-8.swf",
+        "Movies/Area.swf",
+        "Movies/Cubnet3d.swf",
+        "Movies/Cube-Nets-2.swf",
+        "Movies/Cube-Nets.swf",
+        "Movies/Circle.swf",
+        "Movies/Pifagor-gl.swf",
+        "Movies/Volumeofball-proof-examples.swf",
+        "Movies/Mediana.swf",
+        "Movies/Insangle.swf",
+        "Movies/Bisector.swf",
+        "Movies/Altitudes.swf",
+        "Movies/Area of polygon.swf",
+        "Movies/Congruence.swf",
+        "Movies/Alltriangles.swf",
+        "Movies/Trig-cos.swf",
+        "Movies/Coslaw.swf",
+        "Movies/Sinlaw.swf",
+        "Movies/Palmandtrig.swf",
+        "Movies/Kleinbottleforsite.swf",
+        "Movies/Kitten.swf",
+        "Movies/Ladder.swf",
+        "Movies/Circincirc.swf",
+        "Movies/Conic-6x4-f.swf",
+        "Movies/Cubesections.swf",
+        "Movies/cubesec6x4-f.swf"
+      ],
+      "hasLayout": true
+    },
+    "Slidingpuzzles.html": {
+      "title": "Sliding Puzzles",
+      "leadImages": [],
+      "links": [
+        {
+          "source": "Movies/Bills-transform.swf",
+          "image": "Images/Pictures for flashes/Nine bills site.jpg",
+          "hover": "Images/Pictures for flashes/Nine bills site-over.jpg"
+        },
+        {
+          "source": "Movies/Sliding-4.swf",
+          "image": "Images/Pictures for flashes/Sliding4.png",
+          "hover": "Images/Pictures for flashes/Sliding4-over.png"
+        },
+        {
+          "source": "Movies/Escher-stairs-game.swf",
+          "image": "Images/Jigsawstairs.jpg",
+          "hover": "Images/Jigsawstairs-over.jpg"
+        },
+        {
+          "source": "Movies/Escher-waterfall-game.swf",
+          "image": "Images/Escher-water.jpg",
+          "hover": "Images/Escher-water-over.jpg"
+        },
+        {
+          "source": "Movies/Escher-lizards-game.swf",
+          "image": "Images/Escher-lizgame.jpg",
+          "hover": "Images/Escher-lizgame-over.jpg"
+        },
+        {
+          "source": "Movies/Escher-stairbig-game.swf",
+          "image": "Images/Escher-stbigame.jpg",
+          "hover": "Images/Escher-stbigame-over.jpg"
+        },
+        {
+          "source": "Movies/Escher-faces-game.swf",
+          "image": "Images/Esch-faces-puzzle.jpg",
+          "hover": "Images/Esch-faces-puzzle-over.jpg"
+        },
+        {
+          "source": "Movies/Escher-hands-game.swf",
+          "image": "Images/Escherhandsforsite.jpg",
+          "hover": "Images/Escherhandsforsite-over.jpg"
+        },
+        {
+          "source": "Movies/Escher-BandF-game.swf",
+          "image": "Images/Escher BandFsite.jpg",
+          "hover": "Images/Escher BandFsite-over.jpg"
+        },
+        {
+          "source": "Movies/Pinoc-game.swf",
+          "image": "Images/Pinoc-game.jpg",
+          "hover": "Images/Pinoc-game-over.jpg"
+        },
+        {
+          "source": "Movies/Snowhite-game.swf",
+          "image": "Images/Snowhite-game.jpg",
+          "hover": "Images/Snowhite-game-over.jpg"
+        },
+        {
+          "source": "Movies/Prosto-game.swf",
+          "image": "Images/Prostogame.jpg",
+          "hover": "Images/Prostogame-over.jpg"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Paradox box.swf",
+        "Movies/Bills-transform.swf",
+        "Movies/Sliding-4.swf",
+        "Movies/Escher-stairs-game.swf",
+        "Movies/Escher-waterfall-game.swf",
+        "Movies/Escher-lizards-game.swf",
+        "Movies/Escher-stairbig-game.swf",
+        "Movies/Escher-faces-game.swf",
+        "Movies/Escher-hands-game.swf",
+        "Movies/Escher-BandF-game.swf",
+        "Movies/Pinoc-game.swf",
+        "Movies/Snowhite-game.swf",
+        "Movies/Prosto-game.swf"
+      ],
+      "hasLayout": true
+    },
+    "For kids.html": {
+      "title": "For Kids",
+      "leadImages": [],
+      "links": [
+        {
+          "source": "Movies/Sharecolor-eng.swf",
+          "image": "Images/Sepcolor.jpg",
+          "hover": "Images/Sepcolor-over.jpg"
+        },
+        {
+          "source": "Movies/Shareform-eng.swf",
+          "image": "Images/Sepshape.jpg",
+          "hover": "Images/Sepshape-over.jpg"
+        },
+        {
+          "source": "Movies/Sharesize-eng.swf",
+          "image": "Images/Sepsize.jpg",
+          "hover": "Images/Sepsize-over.jpg"
+        },
+        {
+          "source": "Movies/Find improper to.swf",
+          "image": "Images/Findimproper.jpg",
+          "hover": "Images/Findimproper-over.jpg"
+        },
+        {
+          "source": "Movies/Findcouplewithline.swf",
+          "image": "Images/Findcoupline.jpg",
+          "hover": "Images/Findcoupline-over.jpg"
+        },
+        {
+          "source": "Movies/Completechain.swf",
+          "image": "Images/Complchain1.jpg",
+          "hover": "Images/Complchain1-over.jpg"
+        },
+        {
+          "source": "Movies/Findmatchandconnect.swf",
+          "image": "Images/Findwline.jpg",
+          "hover": "Images/Findwline-over.jpg"
+        },
+        {
+          "source": "Movies/Findproper.swf",
+          "image": "Images/Findproperfig.jpg",
+          "hover": "Images/Findproperfig-over.jpg"
+        },
+        {
+          "source": "Movies/Put in place.swf",
+          "image": "Images/Makesame.jpg",
+          "hover": "Images/Makesame-over.jpg"
+        },
+        {
+          "source": "Movies/Rippednecklace.swf",
+          "image": "Images/Rippedneckl.jpg",
+          "hover": "Images/Rippedneckl-over.jpg"
+        },
+        {
+          "source": "Movies/Findsamecoupleline.swf",
+          "image": "Images/Findsamewline.jpg",
+          "hover": "Images/Findsamewline-over.jpg"
+        },
+        {
+          "source": "Movies/Mouse-cheese.swf",
+          "image": "Images/Mousecheese.jpg",
+          "hover": "Images/Mousecheese-over.jpg"
+        },
+        {
+          "source": "Movies/Necklace.swf",
+          "image": "Images/Sixbeeds.jpg",
+          "hover": "Images/Sixbeeds-over.jpg"
+        },
+        {
+          "source": "Movies/Mouse-cherry.swf",
+          "image": "Images/Mousecherry.jpg",
+          "hover": "Images/Mousecherry-over.jpg"
+        },
+        {
+          "source": "Movies/FallingFigure.swf",
+          "image": "Images/Fallingfigures.jpg",
+          "hover": "Images/Fallingfigures-over.jpg"
+        },
+        {
+          "source": "Movies/Stones.swf",
+          "image": "Images/Pictures for flashes/Stones.png",
+          "hover": "Images/Pictures for flashes/Stones-over.png"
+        },
+        {
+          "source": "Movies/Mouse-cherry-oppo.swf",
+          "image": "Images/Pictures for flashes/Helpmouse.png",
+          "hover": "Images/Pictures for flashes/Helpmouse-over.png"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Cubeflash-text.swf",
+        "Movies/Sharecolor-eng.swf",
+        "Movies/Shareform-eng.swf",
+        "Movies/Sharesize-eng.swf",
+        "Movies/Find improper to.swf",
+        "Movies/Findcouplewithline.swf",
+        "Movies/Completechain.swf",
+        "Movies/Findmatchandconnect.swf",
+        "Movies/Findproper.swf",
+        "Movies/Put in place.swf",
+        "Movies/Rippednecklace.swf",
+        "Movies/Findsamecoupleline.swf",
+        "Movies/Find and connect.swf",
+        "Movies/Mouse-cheese.swf",
+        "Movies/Necklace.swf",
+        "Movies/Mouse-cherry.swf",
+        "Movies/FallingFigure.swf",
+        "Movies/Mouse-cherry-oppo.swf",
+        "Movies/Stones.swf"
+      ],
+      "hasLayout": true
+    },
+    "Magicmath.html": {
+      "title": "Magic of Math",
+      "leadImages": [],
+      "links": [
+        {
+          "source": "Movies/Mindread.swf",
+          "image": "Images/Pictures for flashes/Mindreadeng.jpg",
+          "hover": "Images/Pictures for flashes/Mindreadeng-over.jpg"
+        },
+        {
+          "source": "Movies/Mistic substr.swf",
+          "image": "Images/Pictures for flashes/Sum Mystery.jpg",
+          "hover": "Images/Pictures for flashes/Sum Mystery-over.jpg"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Escher-stairsbig.swf",
+        "Movies/Mindread.swf",
+        "Movies/Mistic substr.swf"
+      ],
+      "hasLayout": true
+    },
+    "Funnylmath.html": {
+      "title": "Funny Math",
+      "leadImages": [
+        "Images/Mathgif-5.gif"
+      ],
+      "links": [],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Escher-ball.swf",
+        "FLVPlayer_Progressive.swf",
+        "Movies/Funnymathmult.swf"
+      ],
+      "hasLayout": true
+    },
+    "Playmath.html": {
+      "title": "Play Math",
+      "leadImages": [
+        "Images/Forplaymath.gif"
+      ],
+      "links": [
+        {
+          "source": "Mil-perm-2.swf",
+          "image": "Images/Million-perm.jpg",
+          "hover": "Images/Million-perm-over.jpg"
+        },
+        {
+          "source": "Millionaire-Perm-more/millionaire.swf",
+          "image": "Images/Million-perm-more.jpg",
+          "hover": "Images/Million-perm-more-over.jpg"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Mil-perm-2.swf",
+        "Millionaire-Perm-more/millionaire.swf",
+        "Movies/Escher-stairs-game.swf",
+        "Movies/Escher-waterfall-game.swf",
+        "Movies/Escher-lizards-game.swf",
+        "Movies/Escher-stairbig-game.swf",
+        "Movies/Escher-faces-game.swf",
+        "Movies/Escher-hands-game.swf",
+        "Movies/Escher-BandF-game.swf",
+        "Movies/Pinoc-game.swf",
+        "Movies/Prosto-game.swf",
+        "Movies/Snowhite-game.swf"
+      ],
+      "hasLayout": true
+    },
+    "Visualmath-n.html": {
+      "title": "Visual Math",
+      "leadImages": [
+        "Images/Topology-hands.gif",
+        "Images/Waterfall-gif.gif"
+      ],
+      "links": [
+        {
+          "source": "Movies/Serp-carp-intr.swf",
+          "image": "Images/Pictures for flashes/Serpcarpet.png",
+          "hover": "Images/Pictures for flashes/Serpcarpet-over.png"
+        },
+        {
+          "source": "Movies/Burninghouse.swf",
+          "image": "Images/Pictures for flashes/BHen.jpg",
+          "hover": "Images/Pictures for flashes/BHen-over.jpg"
+        },
+        {
+          "source": "Movies/Turtles.swf",
+          "image": "Images/Pictures for flashes/Tutrleen.jpg",
+          "hover": "Images/Pictures for flashes/Tutrleen-over.jpg"
+        },
+        {
+          "source": "Movies/Wisemen.swf",
+          "image": "Images/Pictures for flashes/WM3en.jpg",
+          "hover": "Images/Pictures for flashes/WM3en-over.jpg"
+        },
+        {
+          "source": "Movies/Staruhi-eng.swf",
+          "image": "Images/Staruhieng.jpg",
+          "hover": "Images/Staruhieng-over.jpg"
+        },
+        {
+          "source": "Movies/Byciclist-eng.swf",
+          "image": "Images/Pictures for flashes/Fly.jpg",
+          "hover": "Images/Pictures for flashes/Fly-over.jpg"
+        },
+        {
+          "source": "Movies/Snail-eng.swf",
+          "image": "Images/Pictures for flashes/Snaileng.jpg",
+          "hover": "Images/Pictures for flashes/Snaileng-over.jpg"
+        },
+        {
+          "source": "Movies/Cubeflash-white-eng.swf",
+          "image": "Images/Cubeseng.jpg",
+          "hover": "Images/Cubeseng-over.jpg"
+        },
+        {
+          "source": "Movies/Hunter.swf",
+          "image": "Images/Pictures for flashes/Huntereng.jpg",
+          "hover": "Images/Pictures for flashes/Huntereng-over.jpg"
+        },
+        {
+          "source": "Movies/Bacteria.swf",
+          "image": "Images/Pictures for flashes/Bacteriaeng.jpg",
+          "hover": "Images/Pictures for flashes/Bacteriaeng-over.jpg"
+        },
+        {
+          "source": "Movies/Wineandmilk.swf",
+          "image": "Images/Pictures for flashes/Wandmeng.jpg",
+          "hover": "Images/Pictures for flashes/Wandmeng-over.jpg"
+        },
+        {
+          "source": "Movies/Tetra-colorproblem.swf",
+          "image": "Images/Pictures for flashes/Coloredtetra.jpg",
+          "hover": "Images/Pictures for flashes/Coloredtetra-over.jpg"
+        },
+        {
+          "source": "Movies/Cube-colorproblem.swf",
+          "image": "Images/Pictures for flashes/Coloredcube.jpg",
+          "hover": "Images/Pictures for flashes/Coloredcube-over.jpg"
+        },
+        {
+          "source": "Movies/Recthexprizm-colorproblem.swf",
+          "image": "Images/Pictures for flashes/Coloredprizm.jpg",
+          "hover": "Images/Pictures for flashes/Coloredprizm-over.jpg"
+        },
+        {
+          "source": "Movies/paralele-colorproblem.swf",
+          "image": "Images/Pictures for flashes/Colorparalele-en.jpg",
+          "hover": "Images/Pictures for flashes/Colorparalele-en-over.jpg"
+        },
+        {
+          "source": "Movies/brick-colorproblem.swf",
+          "image": "Images/Pictures for flashes/Colorbrick-en.jpg",
+          "hover": "Images/Pictures for flashes/Colorbrick-en-over.jpg"
+        },
+        {
+          "source": "Movies/Coinstomove.swf",
+          "image": "Images/Pictures for flashes/Minde-1.jpg",
+          "hover": "Images/Pictures for flashes/Minde-1-over.jpg"
+        },
+        {
+          "source": "Movies/Coinsrotate-2c-e.swf",
+          "image": "Images/Pictures for flashes/Minde-2.jpg",
+          "hover": "Images/Pictures for flashes/Minde-2-over.jpg"
+        },
+        {
+          "source": "Movies/Coinrotate-sq-e.swf",
+          "image": "Images/Pictures for flashes/Minde-3.jpg",
+          "hover": "Images/Pictures for flashes/Minde-3-over.jpg"
+        },
+        {
+          "source": "Movies/Coinsrotate-e.swf",
+          "image": "Images/Pictures for flashes/Minde-4.jpg",
+          "hover": "Images/Pictures for flashes/Minde-4-over.jpg"
+        },
+        {
+          "source": "Movies/Wisemen 8.swf",
+          "image": "Images/Pictures for flashes/WM8en.jpg",
+          "hover": "Images/Pictures for flashes/WM8en-over.jpg"
+        },
+        {
+          "source": "Movies/Twocolorplane-eng.swf",
+          "image": "Images/Pictures for flashes/Twocolorsen.jpg",
+          "hover": "Images/Pictures for flashes/Twocolorsen-over.jpg"
+        },
+        {
+          "source": "Movies/Threecolorplane-eng.swf",
+          "image": "Images/Pictures for flashes/Threecolorsen.jpg",
+          "hover": "Images/Pictures for flashes/Threecolorsen-over.jpg"
+        },
+        {
+          "source": "Movies/Twocolorplaneseg-en.swf",
+          "image": "Images/Pictures for flashes/Twocolorsen-seg.jpg",
+          "hover": "Images/Pictures for flashes/Twocolorsen-seg-over.jpg"
+        },
+        {
+          "source": "Movies/Twocoloreqtri-eng.swf",
+          "image": "Images/Pictures for flashes/Twocolorsen-tri.jpg",
+          "hover": "Images/Pictures for flashes/Twocolorsen-tri-over.jpg"
+        },
+        {
+          "source": "Movies/Tatrahedron.swf",
+          "image": "Images/Twotetra.jpg",
+          "hover": "Images/Twotetra-over.jpg"
+        },
+        {
+          "source": "Movies/Hand1000.swf",
+          "image": "Images/Pictures for flashes/Hand1000.jpg",
+          "hover": "Images/Pictures for flashes/Hand1000-over.jpg"
+        },
+        {
+          "source": "Movies/Caterpillar.swf",
+          "image": "Images/Pictures for flashes/Caterpillareng.jpg",
+          "hover": "Images/Pictures for flashes/Caterpillareng-over.jpg"
+        },
+        {
+          "source": "Movies/Grandmaclimbes.swf",
+          "image": "Images/Pictures for flashes/Grandma.jpg",
+          "hover": "Images/Pictures for flashes/Grandma-over.jpg"
+        },
+        {
+          "source": "Movies/Tram.swf",
+          "image": "Images/Holmseng.jpg",
+          "hover": "Images/Holmseng-over.jpg"
+        },
+        {
+          "source": "Movies/Walk around earth.swf",
+          "image": "Images/Pictures for flashes/Walkaroun.jpg",
+          "hover": "Images/Pictures for flashes/Walkaroun-over.jpg"
+        },
+        {
+          "source": "Movies/Cubes-findpair.swf",
+          "image": "Images/Pictures for flashes/Findcubespair.jpg",
+          "hover": "Images/Pictures for flashes/Findcubespair-over.jpg"
+        },
+        {
+          "source": "Movies/Earthandbelt.swf",
+          "image": "Images/Pictures for flashes/Earthbelt-en.png",
+          "hover": "Images/Pictures for flashes/Earthbelt-en-over.png"
+        },
+        {
+          "source": "Movies/Twohourglasses.swf",
+          "image": "Images/Pictures for flashes/Twohourglass.png",
+          "hover": "Images/Pictures for flashes/Twohourglass-over.png"
+        },
+        {
+          "source": "Movies/byufon.swf",
+          "image": "Images/Pictures for flashes/Byufon.jpg",
+          "hover": "Images/Pictures for flashes/Byufon-over.jpg"
+        },
+        {
+          "source": "Movies/Moebius and face.swf",
+          "image": "Images/Pictures for flashes/Moebiusstrip.png",
+          "hover": "Images/Pictures for flashes/Moebiusstrip-over.png"
+        },
+        {
+          "source": "Movies/Algbra trans.swf",
+          "image": "Images/Pictures for flashes/Algebra trans.jpg",
+          "hover": "Images/Pictures for flashes/Algebra trans-over.jpg"
+        },
+        {
+          "source": "Movies/Sum1n.swf",
+          "image": "Images/Pictures for flashes/Sum1n.jpg",
+          "hover": "Images/Pictures for flashes/Sum1n-over.jpg"
+        },
+        {
+          "source": "Movies/Sum2n-1.swf",
+          "image": "Images/Pictures for flashes/Sumodd.jpg",
+          "hover": "Images/Pictures for flashes/Sumodd-over.jpg"
+        },
+        {
+          "source": "Movies/Asqminbsq.swf",
+          "image": "Images/Pictures for flashes/AmBsquare.png",
+          "hover": "Images/Pictures for flashes/AmBsquare-over.png"
+        },
+        {
+          "source": "Movies/Aplusbsquare.swf",
+          "image": "Images/Pictures for flashes/ApBsquare.png",
+          "hover": "Images/Pictures for flashes/ApBsquare-over.png"
+        },
+        {
+          "source": "Movies/Quadratic eq.swf",
+          "image": "Images/Pictures for flashes/Qeq.png",
+          "hover": "Images/Pictures for flashes/Qeq-over.png"
+        },
+        {
+          "source": "Movies/Graphintro.swf",
+          "image": "Images/Pictures for flashes/Graph-video.gif",
+          "hover": "Images/Pictures for flashes/Graph-videoover.gif"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Serp-carp-intr.swf",
+        "Movies/Burninghouse.swf",
+        "Movies/Turtles.swf",
+        "Movies/Wisemen.swf",
+        "Movies/Staruhi-eng.swf",
+        "Movies/Byciclist-eng.swf",
+        "Movies/Snail-eng.swf",
+        "Movies/Cubeflash-white-eng.swf",
+        "Movies/Hunter.swf",
+        "Movies/Bacteria.swf",
+        "Movies/Wineandmilk.swf",
+        "Movies/Tetra-colorproblem.swf",
+        "Movies/Cube-colorproblem.swf",
+        "Movies/Recthexprizm-colorproblem.swf",
+        "Movies/paralele-colorproblem.swf",
+        "Movies/brick-colorproblem.swf",
+        "Movies/Coinstomove.swf",
+        "Movies/Coinsrotate-2c-e.swf",
+        "Movies/Coinrotate-sq-e.swf",
+        "Movies/Coinsrotate-e.swf",
+        "Movies/Wisemen 8.swf",
+        "Movies/Twocolorplane-eng.swf",
+        "Movies/Threecolorplane-eng.swf",
+        "Movies/Twocolorplaneseg-en.swf",
+        "Movies/Twocoloreqtri-eng.swf",
+        "Movies/Tatrahedron.swf",
+        "Movies/Hand1000.swf",
+        "Movies/Caterpillar.swf",
+        "Movies/Grandmaclimbes.swf",
+        "Movies/Tram.swf",
+        "Movies/Walk around earth.swf",
+        "Movies/Earthandbelt.swf",
+        "Movies/Cubes-findpair.swf",
+        "Movies/Twohourglasses.swf",
+        "Movies/byufon.swf",
+        "Movies/byufon-exp.swf",
+        "Movies/Moebius and face.swf",
+        "Movies/Algbra trans.swf",
+        "Movies/Sum1n.swf",
+        "Movies/Sum2n-1.swf",
+        "Movies/Asqminbsq.swf",
+        "Movies/Aplusbsquare.swf",
+        "Movies/Quadratic eq.swf",
+        "Movies/Graphintro.swf"
+      ],
+      "hasLayout": true
+    },
+    "Mathsat.html": {
+      "title": "Math SAT",
+      "leadImages": [
+        "Images/Mathsat.gif"
+      ],
+      "links": [
+        {
+          "source": "Movies/MM-SAT-101-f.swf",
+          "image": "Images/MMbook-SAT-101.jpg",
+          "hover": "Images/MMbook-SAT-101-over.jpg"
+        },
+        {
+          "source": "Movies/Mathbook-SATsubstit.swf",
+          "image": "Images/MMbook-SATsubs.jpg",
+          "hover": "Images/MMbook-SATsubs-over.jpg"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Birdfish-e.swf",
+        "Movies/MM-SAT-101-f.swf",
+        "Movies/Mathbook-SATsubstit.swf"
+      ],
+      "hasLayout": true
+    },
+    "Contactus.html": {
+      "title": "Contact",
+      "leadImages": [],
+      "links": [],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf"
+      ]
+    },
+    "Index-ru.html": {
+      "title": "Index-ru",
+      "leadImages": [
+        "Images/Escher-stairs-gif.gif"
+      ],
+      "links": [],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf"
+      ]
+    },
+    "Visualmath.html": {
+      "title": "Visualmath",
+      "leadImages": [
+        "Images/Waterfall-gif.gif",
+        "Images/Topology-hands.gif"
+      ],
+      "links": [
+        {
+          "source": "Movies/Circle.swf",
+          "image": "Images/Pictures for flashes/Area of circle site.jpg",
+          "hover": "Images/Pictures for flashes/Area of circle site-over.jpg"
+        },
+        {
+          "source": "Movies/Circle-ru.swf",
+          "image": "Images/Pictures for flashes/Area of circle site ru.jpg",
+          "hover": "Images/Pictures for flashes/Area of circle site ru-over.jpg"
+        },
+        {
+          "source": "Movies/Pifagor-gl.swf",
+          "image": "Images/Pictures for flashes/Pifagor flp site.jpg",
+          "hover": "Images/Pictures for flashes/Pifagor flp site-over.jpg"
+        },
+        {
+          "source": "Movies/Pifagoras Theorem - ru.swf",
+          "image": "Images/Pictures for flashes/Pifagor flp site ru.jpg",
+          "hover": "Images/Pictures for flashes/Pifagor flp site ru-over.jpg"
+        },
+        {
+          "source": "Movies/Volumeofball-proof-examples.swf",
+          "image": "Images/Pictures for flashes/Vol of sphere site.jpg",
+          "hover": "Images/Pictures for flashes/Vol of sphere site-over.jpg"
+        },
+        {
+          "source": "Movies/Volumeofball-proof-examples -ru.swf",
+          "image": "Images/Pictures for flashes/Vol of sphere site ru.jpg",
+          "hover": "Images/Pictures for flashes/Vol of sphere site ru-over.jpg"
+        },
+        {
+          "source": "Movies/Mediana.swf",
+          "image": "Images/Median.jpg",
+          "hover": "Images/Median-over.jpg"
+        },
+        {
+          "source": "Movies/Mediana-ru.swf",
+          "image": "Images/Median-ru.jpg",
+          "hover": "Images/Median-ru-over.jpg"
+        },
+        {
+          "source": "Movies/Insangle.swf",
+          "image": "Images/Insangletheo.jpg",
+          "hover": "Images/Insangletheo-over.jpg"
+        },
+        {
+          "source": "Movies/Insangle-ru.swf",
+          "image": "Images/Insangletheo-ru.jpg",
+          "hover": "Images/Insangletheo-ru-over.jpg"
+        },
+        {
+          "source": "Movies/Bisector.swf",
+          "image": "Images/Bisec.jpg",
+          "hover": "Images/Bisec-over.jpg"
+        },
+        {
+          "source": "Movies/Bisector-ru.swf",
+          "image": "Images/Bisectorru.jpg",
+          "hover": "Images/Bisectorru-over.jpg"
+        },
+        {
+          "source": "Movies/Altitudes.swf",
+          "image": "Images/Altitudes.jpg",
+          "hover": "Images/Altitudes-cover.jpg"
+        },
+        {
+          "source": "Movies/Altitudes-ru.swf",
+          "image": "Images/Altitudesru.jpg",
+          "hover": "Images/Altitudesru-over.jpg"
+        },
+        {
+          "source": "Movies/Calculus5min.swf",
+          "image": "Images/Calculus5min.jpg",
+          "hover": "Images/Calculus5min-over.jpg"
+        },
+        {
+          "source": "Movies/Congruence.swf",
+          "image": "Images/Pictures for flashes/Congen.jpg",
+          "hover": "Images/Pictures for flashes/Congen-over.jpg"
+        },
+        {
+          "source": "Movies/Congruence-ru.swf",
+          "image": "Images/Pictures for flashes/Congru.jpg",
+          "hover": "Images/Pictures for flashes/Congru-over.jpg"
+        },
+        {
+          "source": "Movies/Burninghouse.swf",
+          "image": "Images/Pictures for flashes/BHen.jpg",
+          "hover": "Images/Pictures for flashes/BHen-over.jpg"
+        },
+        {
+          "source": "Movies/Burninghouse-ru.swf",
+          "image": "Images/Pictures for flashes/BHru.jpg",
+          "hover": "Images/Pictures for flashes/BHru-over.jpg"
+        },
+        {
+          "source": "Movies/Turtles.swf",
+          "image": "Images/Pictures for flashes/Tutrleen.jpg",
+          "hover": "Images/Pictures for flashes/Tutrleen-over.jpg"
+        },
+        {
+          "source": "Movies/Turtles-ru.swf",
+          "image": "Images/Pictures for flashes/Tutrleru.jpg",
+          "hover": "Images/Pictures for flashes/Tutrleru-over.jpg"
+        },
+        {
+          "source": "Movies/Wisemen.swf",
+          "image": "Images/Pictures for flashes/WM3en.jpg",
+          "hover": "Images/Pictures for flashes/WM3en-over.jpg"
+        },
+        {
+          "source": "Movies/Wisemen-ru.swf",
+          "image": "Images/Pictures for flashes/WM3ru.jpg",
+          "hover": "Images/Pictures for flashes/WM3ru-over.jpg"
+        },
+        {
+          "source": "Movies/Wisemen 8.swf",
+          "image": "Images/Pictures for flashes/WM8en.jpg",
+          "hover": "Images/Pictures for flashes/WM8en-over.jpg"
+        },
+        {
+          "source": "Movies/Wisemen 8-ru.swf",
+          "image": "Images/Pictures for flashes/WM8ru.jpg",
+          "hover": "Images/Pictures for flashes/WM8ru-over.jpg"
+        },
+        {
+          "source": "Movies/Staruhi-eng.swf",
+          "image": "Images/Staruhieng.jpg",
+          "hover": "Images/Staruhieng-over.jpg"
+        },
+        {
+          "source": "Movies/Staruhi.swf",
+          "image": "Images/Staruhiru.jpg",
+          "hover": "Images/Staruhiru-over.jpg"
+        },
+        {
+          "source": "Movies/Byciclist-chi.swf",
+          "image": "Images/Pictures for flashes/Flychi.jpg",
+          "hover": "Images/Pictures for flashes/Flychi-over.jpg"
+        },
+        {
+          "source": "Movies/Byciclist-eng.swf",
+          "image": "Images/Pictures for flashes/Fly.jpg",
+          "hover": "Images/Pictures for flashes/Fly-over.jpg"
+        },
+        {
+          "source": "Movies/Byciclist-ru.swf",
+          "image": "Images/Pictures for flashes/Flyru.jpg",
+          "hover": "Images/Pictures for flashes/Flyru-over.jpg"
+        },
+        {
+          "source": "Movies/Snail-eng.swf",
+          "image": "Images/Pictures for flashes/Snaileng.jpg",
+          "hover": "Images/Pictures for flashes/Snaileng-over.jpg"
+        },
+        {
+          "source": "Movies/Snail.swf",
+          "image": "Images/Pictures for flashes/Snailru.jpg",
+          "hover": "Images/Pictures for flashes/Snailru-over.jpg"
+        },
+        {
+          "source": "Movies/Cubeflash-white-eng.swf",
+          "image": "Images/Cubeseng.jpg",
+          "hover": "Images/Cubeseng-over.jpg"
+        },
+        {
+          "source": "Movies/Cubeflash-white.swf",
+          "image": "Images/Cubesru.jpg",
+          "hover": "Images/Cubesru-oer.jpg"
+        },
+        {
+          "source": "Movies/Hunter.swf",
+          "image": "Images/Pictures for flashes/Huntereng.jpg",
+          "hover": "Images/Pictures for flashes/Huntereng-over.jpg"
+        },
+        {
+          "source": "Movies/Hunter-ru.swf",
+          "image": "Images/Pictures for flashes/Hunterru.jpg",
+          "hover": "Images/Pictures for flashes/Hunterru-over.jpg"
+        },
+        {
+          "source": "Movies/Bacteria.swf",
+          "image": "Images/Pictures for flashes/Bacteriaeng.jpg",
+          "hover": "Images/Pictures for flashes/Bacteriaeng-over.jpg"
+        },
+        {
+          "source": "Movies/Bacteria-ru.swf",
+          "image": "Images/Pictures for flashes/Bacteriaru.jpg",
+          "hover": "Images/Pictures for flashes/Bacteriaru-over.jpg"
+        },
+        {
+          "source": "Movies/Coinstomove.swf",
+          "image": "Images/Pictures for flashes/Minde-1.jpg",
+          "hover": "Images/Pictures for flashes/Minde-1-over.jpg"
+        },
+        {
+          "source": "Movies/Coinstomove-ru.swf",
+          "image": "Images/Pictures for flashes/Mindru-1.jpg",
+          "hover": "Images/Pictures for flashes/Mindru-1-over.jpg"
+        },
+        {
+          "source": "Movies/Coinsrotate-2c-e.swf",
+          "image": "Images/Pictures for flashes/Minde-2.jpg",
+          "hover": "Images/Pictures for flashes/Minde-2-over.jpg"
+        },
+        {
+          "source": "Movies/Coinsrotate-2c.swf",
+          "image": "Images/Pictures for flashes/Mindru-2.jpg",
+          "hover": "Images/Pictures for flashes/Mindru-2-over.jpg"
+        },
+        {
+          "source": "Movies/Coinrotate-sq-e.swf",
+          "image": "Images/Pictures for flashes/Minde-3.jpg",
+          "hover": "Images/Pictures for flashes/Minde-3-over.jpg"
+        },
+        {
+          "source": "Movies/Coinrotate-sq-ru.swf",
+          "image": "Images/Pictures for flashes/Mindru-3.jpg",
+          "hover": "Images/Pictures for flashes/Mindru-3-over.jpg"
+        },
+        {
+          "source": "Movies/Coinsrotate-e.swf",
+          "image": "Images/Pictures for flashes/Minde-4.jpg",
+          "hover": "Images/Pictures for flashes/Minde-4-over.jpg"
+        },
+        {
+          "source": "Movies/Coinsrotate.swf",
+          "image": "Images/Pictures for flashes/Mindru-4.jpg",
+          "hover": "Images/Pictures for flashes/Mindru-4-over.jpg"
+        },
+        {
+          "source": "Movies/Wineandmilk.swf",
+          "image": "Images/Pictures for flashes/Wandmeng.jpg",
+          "hover": "Images/Pictures for flashes/Wandmeng-over.jpg"
+        },
+        {
+          "source": "Movies/Wineandmilk-ru.swf",
+          "image": "Images/Pictures for flashes/Wandmru.jpg",
+          "hover": "Images/Pictures for flashes/Wandmru-over.jpg"
+        },
+        {
+          "source": "Movies/Hand1000.swf",
+          "image": "Images/Pictures for flashes/Hand1000.jpg",
+          "hover": "Images/Pictures for flashes/Hand1000-over.jpg"
+        },
+        {
+          "source": "Movies/Hand1000-ru.swf",
+          "image": "Images/Pictures for flashes/Hand1000ru.jpg",
+          "hover": "Images/Pictures for flashes/Hand1000ru-over.jpg"
+        },
+        {
+          "source": "Movies/Caterpillar.swf",
+          "image": "Images/Pictures for flashes/Caterpillareng.jpg",
+          "hover": "Images/Pictures for flashes/Caterpillareng-over.jpg"
+        },
+        {
+          "source": "Movies/Caterpillar-ru.swf",
+          "image": "Images/Pictures for flashes/Caterpillarru.jpg",
+          "hover": "Images/Pictures for flashes/Caterpillarru-over.jpg"
+        },
+        {
+          "source": "Movies/Grandmaclimbes.swf",
+          "image": "Images/Pictures for flashes/Grandma.jpg",
+          "hover": "Images/Pictures for flashes/Grandma-over.jpg"
+        },
+        {
+          "source": "Movies/Grandmaclimbes-ru.swf",
+          "image": "Images/Pictures for flashes/Grandmaru.jpg",
+          "hover": "Images/Pictures for flashes/Grandmaru-over.jpg"
+        },
+        {
+          "source": "Movies/Tetra-colorproblem.swf",
+          "image": "Images/Pictures for flashes/Coloredtetra.jpg",
+          "hover": "Images/Pictures for flashes/Coloredtetra-over.jpg"
+        },
+        {
+          "source": "Movies/Tetra-colorproblem-ru.swf",
+          "image": "Images/Pictures for flashes/Coloredtetra-ru.jpg",
+          "hover": "Images/Pictures for flashes/Coloredtetra-ru-over.jpg"
+        },
+        {
+          "source": "Movies/Recthexprizm-colorproblem.swf",
+          "image": "Images/Pictures for flashes/Coloredprizm.jpg",
+          "hover": "Images/Pictures for flashes/Coloredprizm-over.jpg"
+        },
+        {
+          "source": "Movies/Recthexprizm-colorproblem-ru.swf",
+          "image": "Images/Pictures for flashes/Coloredprizm-ru.jpg",
+          "hover": "Images/Pictures for flashes/Coloredprizm-ru-over.jpg"
+        },
+        {
+          "source": "Movies/Cube-colorproblem.swf",
+          "image": "Images/Pictures for flashes/Coloredcube.jpg",
+          "hover": "Images/Pictures for flashes/Coloredcube-over.jpg"
+        },
+        {
+          "source": "Movies/Cube-colorproblem-ru.swf",
+          "image": "Images/Pictures for flashes/Coloredcube-ru.jpg",
+          "hover": "Images/Pictures for flashes/Coloredcube-ru-oer.jpg"
+        },
+        {
+          "source": "Movies/paralele-colorproblem.swf",
+          "image": "Images/Pictures for flashes/Colorparalele-en.jpg",
+          "hover": "Images/Pictures for flashes/Colorparalele-en-over.jpg"
+        },
+        {
+          "source": "Movies/paralele-colorproblem-ru.swf",
+          "image": "Images/Pictures for flashes/Colorparalele-ru.jpg",
+          "hover": "Images/Pictures for flashes/Colorparalele-ru-over.jpg"
+        },
+        {
+          "source": "Movies/brick-colorproblem.swf",
+          "image": "Images/Pictures for flashes/Colorbrick-en.jpg",
+          "hover": "Images/Pictures for flashes/Colorbrick-en-over.jpg"
+        },
+        {
+          "source": "Movies/brick-colorproblem-ru.swf",
+          "image": "Images/Pictures for flashes/Colorbrick-ru.jpg",
+          "hover": "Images/Pictures for flashes/Colorbrick-ru-over.jpg"
+        },
+        {
+          "source": "Movies/Tram.swf",
+          "image": "Images/Holmseng.jpg",
+          "hover": "Images/Holmseng-over.jpg"
+        },
+        {
+          "source": "Movies/Tram-ru.swf",
+          "image": "Images/Holms.jpg",
+          "hover": "Images/Holms-over.jpg"
+        },
+        {
+          "source": "Movies/Earthandbelt.swf",
+          "image": "Images/Pictures for flashes/Earthbelt-en.png",
+          "hover": "Images/Pictures for flashes/Earthbelt-en-over.png"
+        },
+        {
+          "source": "Movies/Earthandbelt-ru.swf",
+          "image": "Images/Pictures for flashes/Earthbelt-ru.png",
+          "hover": "Images/Pictures for flashes/Earthbelt-ru-over.png"
+        },
+        {
+          "source": "Movies/Twocolorplane-eng.swf",
+          "image": "Images/Pictures for flashes/Twocolorsen.jpg",
+          "hover": "Images/Pictures for flashes/Twocolorsen-over.jpg"
+        },
+        {
+          "source": "Movies/Twocolorplane.swf",
+          "image": "Images/Pictures for flashes/Twocolorsru.jpg",
+          "hover": "Images/Pictures for flashes/Twocolorsru-over.jpg"
+        },
+        {
+          "source": "Movies/Threecolorplane-eng.swf",
+          "image": "Images/Pictures for flashes/Threecolorsen.jpg",
+          "hover": "Images/Pictures for flashes/Threecolorsen-over.jpg"
+        },
+        {
+          "source": "Movies/Threecolorplane-ru.swf",
+          "image": "Images/Pictures for flashes/Threecolorsru.jpg",
+          "hover": "Images/Pictures for flashes/Threecolorsru-over.jpg"
+        },
+        {
+          "source": "Movies/Twocolorplaneseg-en.swf",
+          "image": "Images/Pictures for flashes/Twocolorsen-seg.jpg",
+          "hover": "Images/Pictures for flashes/Twocolorsen-seg-over.jpg"
+        },
+        {
+          "source": "Movies/Twocolorplaneseg-ru.swf",
+          "image": "Images/Pictures for flashes/Twocolorsru-seg.jpg",
+          "hover": "Images/Pictures for flashes/Twocolorsru-seg-over.jpg"
+        },
+        {
+          "source": "Movies/Twocoloreqtri-eng.swf",
+          "image": "Images/Pictures for flashes/Twocolorsen-tri.jpg",
+          "hover": "Images/Pictures for flashes/Twocolorsen-tri-over.jpg"
+        },
+        {
+          "source": "Movies/Twocoloreqtri-ru.swf",
+          "image": "Images/Pictures for flashes/Twocolorsru-tri.jpg",
+          "hover": "Images/Pictures for flashes/Twocolorsru-tri-over.jpg"
+        },
+        {
+          "source": "Movies/Walk around earth.swf",
+          "image": "Images/Pictures for flashes/Walkaroun.jpg",
+          "hover": "Images/Pictures for flashes/Walkaroun-over.jpg"
+        },
+        {
+          "source": "Movies/Walk around earth-ru.swf",
+          "image": "Images/Pictures for flashes/Walkaroun-ru.jpg",
+          "hover": "Images/Pictures for flashes/Walkaroun-ru-over.jpg"
+        },
+        {
+          "source": "Movies/Tatrahedron.swf",
+          "image": "Images/Twotetra.jpg",
+          "hover": "Images/Twotetra-over.jpg"
+        },
+        {
+          "source": "Movies/Flatland6x4.swf",
+          "image": "Images/Flatland.jpg",
+          "hover": "Images/Flatland-over.jpg"
+        },
+        {
+          "source": "Movies/Kleinbottleforsite.swf",
+          "image": "Images/Kleinbottle.jpg",
+          "hover": "Images/Kleinbottle-over.jpg"
+        },
+        {
+          "source": "Movies/Conic-6x4-f.swf",
+          "image": "Images/Conicsections.jpg",
+          "hover": "Images/Conicsections-over.jpg"
+        },
+        {
+          "source": "Movies/cubesec6x4-f.swf",
+          "image": "Images/Cubesections.jpg",
+          "hover": "Images/Cubesections-over.jpg"
+        },
+        {
+          "source": "Movies/Permutations and comb.swf",
+          "image": "Images/Intro-perandcomb.jpg",
+          "hover": "Images/Intro-perandcomb-over.jpg"
+        },
+        {
+          "source": "Movies/Permutations3f5.swf",
+          "image": "Images/Htocalcperm3f5.jpg",
+          "hover": "Images/Htocalcperm3f5-over.jpg"
+        },
+        {
+          "source": "Movies/Permut -odds in lotery.swf",
+          "image": "Images/Oddslottery.jpg",
+          "hover": "Images/Oddslottery-over.jpg"
+        },
+        {
+          "source": "Movies/Perm-3.swf",
+          "image": "Images/Lotteryodds.jpg",
+          "hover": "Images/Lotteryodds-over.jpg"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Circle.swf",
+        "Movies/Circle-ru.swf",
+        "Movies/Pifagor-gl.swf",
+        "Movies/Pifagoras Theorem - ru.swf",
+        "Movies/Volumeofball-proof-examples.swf",
+        "Movies/Volumeofball-proof-examples -ru.swf",
+        "Movies/Mediana.swf",
+        "Movies/Mediana-ru.swf",
+        "Movies/Insangle.swf",
+        "Movies/Insangle-ru.swf",
+        "Movies/Bisector.swf",
+        "Movies/Bisector-ru.swf",
+        "Movies/Altitudes.swf",
+        "Movies/Altitudes-ru.swf",
+        "Movies/Calculus5min.swf",
+        "Movies/Congruence.swf",
+        "Movies/Congruence-ru.swf",
+        "Movies/Burninghouse.swf",
+        "Movies/Burninghouse-ru.swf",
+        "Movies/Turtles.swf",
+        "Movies/Turtles-ru.swf",
+        "Movies/Wisemen.swf",
+        "Movies/Wisemen-ru.swf",
+        "Movies/Wisemen 8.swf",
+        "Movies/Wisemen 8-ru.swf",
+        "Movies/Staruhi-eng.swf",
+        "Movies/Staruhi.swf",
+        "Movies/Byciclist-chi.swf",
+        "Movies/Byciclist-eng.swf",
+        "Movies/Byciclist-ru.swf",
+        "Movies/Snail-eng.swf",
+        "Movies/Snail.swf",
+        "Movies/Cubeflash-white-eng.swf",
+        "Movies/Cubeflash-white.swf",
+        "Movies/Hunter.swf",
+        "Movies/Hunter-ru.swf",
+        "Movies/Bacteria.swf",
+        "Movies/Bacteria-ru.swf",
+        "Movies/Coinstomove.swf",
+        "Movies/Coinstomove-ru.swf",
+        "Movies/Coinsrotate-2c-e.swf",
+        "Movies/Coinsrotate-2c.swf",
+        "Movies/Coinrotate-sq-e.swf",
+        "Movies/Coinrotate-sq-ru.swf",
+        "Movies/Coinsrotate-e.swf",
+        "Movies/Coinsrotate.swf",
+        "Movies/Wineandmilk.swf",
+        "Movies/Wineandmilk-ru.swf",
+        "Movies/Hand1000.swf",
+        "Movies/Hand1000-ru.swf",
+        "Movies/Caterpillar.swf",
+        "Movies/Caterpillar-ru.swf",
+        "Movies/Grandmaclimbes.swf",
+        "Movies/Grandmaclimbes-ru.swf",
+        "Movies/Tetra-colorproblem.swf",
+        "Movies/Tetra-colorproblem-ru.swf",
+        "Movies/Recthexprizm-colorproblem.swf",
+        "Movies/Recthexprizm-colorproblem-ru.swf",
+        "Movies/Cube-colorproblem.swf",
+        "Movies/Cube-colorproblem-ru.swf",
+        "Movies/paralele-colorproblem.swf",
+        "Movies/paralele-colorproblem-ru.swf",
+        "Movies/brick-colorproblem.swf",
+        "Movies/brick-colorproblem-ru.swf",
+        "Movies/Tram.swf",
+        "Movies/Tram-ru.swf",
+        "Movies/Earthandbelt.swf",
+        "Movies/Earthandbelt-ru.swf",
+        "Movies/Twocolorplane-eng.swf",
+        "Movies/Twocolorplane.swf",
+        "Movies/Threecolorplane-eng.swf",
+        "Movies/Threecolorplane-ru.swf",
+        "Movies/Twocolorplaneseg-en.swf",
+        "Movies/Twocolorplaneseg-ru.swf",
+        "Movies/Twocoloreqtri-eng.swf",
+        "Movies/Twocoloreqtri-ru.swf",
+        "Movies/Walk around earth.swf",
+        "Movies/Walk around earth-ru.swf",
+        "Movies/Tatrahedron.swf",
+        "Movies/Flatland6x4.swf",
+        "Movies/Kleinbottleforsite.swf",
+        "Movies/Kitten.swf",
+        "Movies/Kitten and Ladder.swf",
+        "Movies/Circincirc.swf",
+        "Movies/Conic-6x4-f.swf",
+        "Movies/cubesec6x4-f.swf",
+        "Movies/Cubesections.swf",
+        "Movies/Permutations and comb.swf",
+        "Movies/Permutations3f5.swf",
+        "Movies/Permut -odds in lotery.swf",
+        "Movies/Perm-3.swf"
+      ]
+    },
+    "Programs.html": {
+      "title": "Programs",
+      "leadImages": [],
+      "links": [
+        {
+          "source": "Movies/MMCircles.swf",
+          "image": "Images/MMbook-Circles.jpg",
+          "hover": "Images/MMbook-Circles-over.jpg"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Escher-reptilies.swf",
+        "Movies/MMCircles.swf",
+        "Movies/Mightymatica-grade1.swf"
+      ]
+    },
+    "Calculus-ru.html": {
+      "title": "Calculus-ru",
+      "leadImages": [],
+      "links": [
+        {
+          "source": "Movies/Calculus5min-ru-mod.swf",
+          "hover": "Images/Pictures for flashes/Matanalizru-over.jpg"
+        },
+        {
+          "source": "Movies/Calculus5min-ru-mod.swf",
+          "image": "Images/Pictures for flashes/Matanalizru.jpg",
+          "hover": "Images/Pictures for flashes/Matanalizru-over.jpg"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Calculus5min-ru-mod.swf",
+        "Movies/Dodecaedr-pictures-center.swf",
+        "Movies/Calculus5min.swf"
+      ],
+      "hasLayout": true
+    },
+    "Livegeometry-ru.html": {
+      "title": "Livegeometry-ru",
+      "leadImages": [],
+      "links": [
+        {
+          "source": "Movies/Area-ru.swf",
+          "image": "Images/Pictures for flashes/Arearu.png",
+          "hover": "Images/Pictures for flashes/Arearu-over.png"
+        },
+        {
+          "source": "Movies/Circle-ru.swf",
+          "image": "Images/Pictures for flashes/Area of circle site ru.jpg",
+          "hover": "Images/Pictures for flashes/Area of circle site ru-over.jpg"
+        },
+        {
+          "source": "Movies/Pifagoras Theorem - ru.swf",
+          "image": "Images/Pictures for flashes/Pifagor flp site ru.jpg",
+          "hover": "Images/Pictures for flashes/Pifagor flp site ru-over.jpg"
+        },
+        {
+          "source": "Movies/Volumeofball-proof-examples -ru.swf",
+          "image": "Images/Pictures for flashes/Vol of sphere site ru.jpg",
+          "hover": "Images/Pictures for flashes/Vol of sphere site ru-over.jpg"
+        },
+        {
+          "source": "Movies/Mediana-ru.swf",
+          "image": "Images/Median-ru.jpg",
+          "hover": "Images/Median-ru-over.jpg"
+        },
+        {
+          "source": "Movies/Insangle-ru.swf",
+          "image": "Images/Insangletheo-ru.jpg",
+          "hover": "Images/Insangletheo-ru-over.jpg"
+        },
+        {
+          "source": "Movies/Bisector-ru.swf",
+          "image": "Images/Bisectorru.jpg",
+          "hover": "Images/Bisectorru-over.jpg"
+        },
+        {
+          "source": "Movies/Altitudes-ru.swf",
+          "image": "Images/Altitudesru.jpg",
+          "hover": "Images/Altitudesru-over.jpg"
+        },
+        {
+          "source": "Movies/Area of polygon-ru.swf",
+          "image": "Images/Pictures for flashes/Arpolru.jpg",
+          "hover": "Images/Pictures for flashes/Arpolru-over.jpg"
+        },
+        {
+          "source": "Movies/Congruence-ru.swf",
+          "image": "Images/Pictures for flashes/Congru.jpg",
+          "hover": "Images/Pictures for flashes/Congru-over.jpg"
+        },
+        {
+          "source": "Movies/Alltriangles-ru.swf",
+          "image": "Images/Pictures for flashes/Alltriangles-ru.png",
+          "hover": "Images/Pictures for flashes/Alltriangles-ru-over.png"
+        },
+        {
+          "source": "Movies/Trig-cos-ru.swf",
+          "image": "Images/Pictures for flashes/Cossinsum-ru.png",
+          "hover": "Images/Pictures for flashes/Cossinsumru-over.png"
+        },
+        {
+          "source": "Movies/Coslaw-ru.swf",
+          "image": "Images/Pictures for flashes/lawofcosru.png",
+          "hover": "Images/Pictures for flashes/lawofcosru-over.png"
+        },
+        {
+          "source": "Movies/Sinlaw-ru.swf",
+          "image": "Images/Pictures for flashes/lawofsinru.png",
+          "hover": "Images/Pictures for flashes/lawofsinru-over.png"
+        },
+        {
+          "source": "Movies/Conic-6x4-f.swf",
+          "image": "Images/Conicsections.jpg",
+          "hover": "Images/Conicsections-over.jpg"
+        },
+        {
+          "source": "Movies/Cubesections-ru.swf",
+          "image": "Images/Pictures for flashes/Cubesectionsru.png",
+          "hover": "Images/Pictures for flashes/Cubesectionsru-over.png"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Octa-8.swf",
+        "Movies/Area-ru.swf",
+        "Movies/Circle-ru.swf",
+        "Movies/Pifagoras Theorem - ru.swf",
+        "Movies/Volumeofball-proof-examples -ru.swf",
+        "Movies/Mediana-ru.swf",
+        "Movies/Insangle-ru.swf",
+        "Movies/Bisector-ru.swf",
+        "Movies/Altitudes-ru.swf",
+        "Movies/Area of polygon-ru.swf",
+        "Movies/Congruence-ru.swf",
+        "Movies/Alltriangles-ru.swf",
+        "Movies/Trig-cos-ru.swf",
+        "Movies/Coslaw-ru.swf",
+        "Movies/Sinlaw-ru.swf",
+        "Movies/Kleinbottleforsite.swf",
+        "Movies/Kitten.swf",
+        "Movies/Ladder-ru.swf",
+        "Movies/Circincirc-ru.swf",
+        "Movies/Conic-6x4-f.swf",
+        "Movies/Cubesections-ru.swf",
+        "Movies/cubesec6x4-f.swf",
+        "Movies/Cubesections.swf",
+        "Movies/Perm-3.swf"
+      ],
+      "hasLayout": true
+    },
+    "Slidingpuzzlesru.html": {
+      "title": "Slidingpuzzlesru",
+      "leadImages": [],
+      "links": [
+        {
+          "source": "Movies/Bills-transform-ru.swf",
+          "image": "Images/Pictures for flashes/Nine bills site -ru.jpg",
+          "hover": "Images/Pictures for flashes/Nine bills site-over-ru.jpg"
+        },
+        {
+          "source": "Movies/Escher-stairs-game.swf",
+          "image": "Images/Jigsawstairs.jpg",
+          "hover": "Images/Jigsawstairs-over.jpg"
+        },
+        {
+          "source": "Movies/Escher-waterfall-game.swf",
+          "image": "Images/Escher-water.jpg",
+          "hover": "Images/Escher-water-over.jpg"
+        },
+        {
+          "source": "Movies/Escher-lizards-game.swf",
+          "image": "Images/Escher-lizgame.jpg",
+          "hover": "Images/Escher-lizgame-over.jpg"
+        },
+        {
+          "source": "Movies/Escher-stairbig-game.swf",
+          "image": "Images/Escher-stbigame.jpg",
+          "hover": "Images/Escher-stbigame-over.jpg"
+        },
+        {
+          "source": "Movies/Escher-faces-game.swf",
+          "image": "Images/Esch-faces-puzzle.jpg",
+          "hover": "Images/Esch-faces-puzzle-over.jpg"
+        },
+        {
+          "source": "Movies/Escher-hands-game.swf",
+          "image": "Images/Escherhandsforsite.jpg",
+          "hover": "Images/Escherhandsforsite-over.jpg"
+        },
+        {
+          "source": "Movies/Escher-BandF-game.swf",
+          "image": "Images/Escher BandFsite.jpg",
+          "hover": "Images/Escher BandFsite-over.jpg"
+        },
+        {
+          "source": "Movies/Pinoc-game.swf",
+          "image": "Images/Pinoc-game.jpg",
+          "hover": "Images/Pinoc-game-over.jpg"
+        },
+        {
+          "source": "Movies/Snowhite-game.swf",
+          "image": "Images/Snowhite-game.jpg",
+          "hover": "Images/Snowhite-game-over.jpg"
+        },
+        {
+          "source": "Movies/Prosto-game.swf",
+          "image": "Images/Prostogame.jpg",
+          "hover": "Images/Prostogame-over.jpg"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Paradox box-ru.swf",
+        "Movies/Bills-transform-ru.swf",
+        "Movies/Escher-stairs-game.swf",
+        "Movies/Escher-waterfall-game.swf",
+        "Movies/Escher-lizards-game.swf",
+        "Movies/Escher-stairbig-game.swf",
+        "Movies/Escher-faces-game.swf",
+        "Movies/Escher-hands-game.swf",
+        "Movies/Escher-BandF-game.swf",
+        "Movies/Pinoc-game.swf",
+        "Movies/Snowhite-game.swf",
+        "Movies/Prosto-game.swf"
+      ],
+      "hasLayout": true
+    },
+    "Magicmath-ru.html": {
+      "title": "Magicmath-ru",
+      "leadImages": [],
+      "links": [
+        {
+          "source": "Movies/Mindread-ru.swf",
+          "image": "Images/Pictures for flashes/Mindreadru.jpg",
+          "hover": "Images/Pictures for flashes/Mindreadru-over.jpg"
+        },
+        {
+          "source": "Movies/Mistic substr-ru.swf",
+          "image": "Images/Pictures for flashes/Sum Mystery-ru.jpg",
+          "hover": "Images/Pictures for flashes/Sum Mystery-ru-over.jpg"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Escher-stairsbig.swf",
+        "Movies/Mindread-ru.swf",
+        "Movies/Mistic substr-ru.swf"
+      ],
+      "hasLayout": true
+    },
+    "Visualmath-n-ru.html": {
+      "title": "Visualmath-n-ru",
+      "leadImages": [
+        "Images/Waterfall-gif.gif"
+      ],
+      "links": [
+        {
+          "source": "Movies/Burninghouse-ru.swf",
+          "image": "Images/Pictures for flashes/BHru.jpg",
+          "hover": "Images/Pictures for flashes/BHru-over.jpg"
+        },
+        {
+          "source": "Movies/Turtles-ru.swf",
+          "image": "Images/Pictures for flashes/Tutrleru.jpg",
+          "hover": "Images/Pictures for flashes/Tutrleru-over.jpg"
+        },
+        {
+          "source": "Movies/Wisemen-ru.swf",
+          "image": "Images/Pictures for flashes/WM3ru.jpg",
+          "hover": "Images/Pictures for flashes/WM3ru-over.jpg"
+        },
+        {
+          "source": "Movies/Staruhi.swf",
+          "image": "Images/Staruhiru.jpg",
+          "hover": "Images/Staruhiru-over.jpg"
+        },
+        {
+          "source": "Movies/Snail.swf",
+          "image": "Images/Pictures for flashes/Snailru.jpg",
+          "hover": "Images/Pictures for flashes/Snailru-over.jpg"
+        },
+        {
+          "source": "Movies/Byciclist-ru.swf",
+          "image": "Images/Pictures for flashes/Flyru.jpg",
+          "hover": "Images/Pictures for flashes/Flyru-over.jpg"
+        },
+        {
+          "source": "Movies/Cubeflash-white.swf",
+          "image": "Images/Cubesru.jpg",
+          "hover": "Images/Cubesru-oer.jpg"
+        },
+        {
+          "source": "Movies/Hunter-ru.swf",
+          "image": "Images/Pictures for flashes/Hunterru.jpg",
+          "hover": "Images/Pictures for flashes/Hunterru-over.jpg"
+        },
+        {
+          "source": "Movies/Bacteria-ru.swf",
+          "image": "Images/Pictures for flashes/Bacteriaru.jpg",
+          "hover": "Images/Pictures for flashes/Bacteriaru-over.jpg"
+        },
+        {
+          "source": "Movies/Wisemen 8-ru.swf",
+          "image": "Images/Pictures for flashes/WM8ru.jpg",
+          "hover": "Images/Pictures for flashes/WM8ru-over.jpg"
+        },
+        {
+          "source": "Movies/Coinstomove-ru.swf",
+          "image": "Images/Pictures for flashes/Mindru-1.jpg",
+          "hover": "Images/Pictures for flashes/Mindru-1-over.jpg"
+        },
+        {
+          "source": "Movies/Coinsrotate-2c.swf",
+          "image": "Images/Pictures for flashes/Mindru-2.jpg",
+          "hover": "Images/Pictures for flashes/Mindru-2-over.jpg"
+        },
+        {
+          "source": "Movies/Coinrotate-sq-ru.swf",
+          "image": "Images/Pictures for flashes/Mindru-3.jpg",
+          "hover": "Images/Pictures for flashes/Mindru-3-over.jpg"
+        },
+        {
+          "source": "Movies/Coinsrotate.swf",
+          "image": "Images/Pictures for flashes/Mindru-4.jpg",
+          "hover": "Images/Pictures for flashes/Mindru-4-over.jpg"
+        },
+        {
+          "source": "Movies/Wineandmilk-ru.swf",
+          "image": "Images/Pictures for flashes/Wandmru.jpg",
+          "hover": "Images/Pictures for flashes/Wandmru-over.jpg"
+        },
+        {
+          "source": "Movies/Hand1000-ru.swf",
+          "image": "Images/Pictures for flashes/Hand1000ru.jpg",
+          "hover": "Images/Pictures for flashes/Hand1000ru-over.jpg"
+        },
+        {
+          "source": "Movies/Caterpillar-ru.swf",
+          "image": "Images/Pictures for flashes/Caterpillarru.jpg",
+          "hover": "Images/Pictures for flashes/Caterpillarru-over.jpg"
+        },
+        {
+          "source": "Movies/Grandmaclimbes-ru.swf",
+          "image": "Images/Pictures for flashes/Grandmaru.jpg",
+          "hover": "Images/Pictures for flashes/Grandmaru-over.jpg"
+        },
+        {
+          "source": "Movies/Tram-ru.swf",
+          "image": "Images/Holms.jpg",
+          "hover": "Images/Holms-over.jpg"
+        },
+        {
+          "source": "Movies/Earthandbelt-ru.swf",
+          "image": "Images/Pictures for flashes/Earthbelt-ru.png",
+          "hover": "Images/Pictures for flashes/Earthbelt-ru-over.png"
+        },
+        {
+          "source": "Movies/Tetra-colorproblem-ru.swf",
+          "image": "Images/Pictures for flashes/Coloredtetra-ru.jpg",
+          "hover": "Images/Pictures for flashes/Coloredtetra-ru-over.jpg"
+        },
+        {
+          "source": "Movies/Cube-colorproblem-ru.swf",
+          "image": "Images/Pictures for flashes/Coloredcube-ru.jpg",
+          "hover": "Images/Pictures for flashes/Coloredcube-ru-oer.jpg"
+        },
+        {
+          "source": "Movies/Recthexprizm-colorproblem-ru.swf",
+          "image": "Images/Pictures for flashes/Coloredprizm-ru.jpg",
+          "hover": "Images/Pictures for flashes/Coloredprizm-ru-over.jpg"
+        },
+        {
+          "source": "Movies/paralele-colorproblem-ru.swf",
+          "image": "Images/Pictures for flashes/Colorparalele-ru.jpg",
+          "hover": "Images/Pictures for flashes/Colorparalele-ru-over.jpg"
+        },
+        {
+          "source": "Movies/brick-colorproblem-ru.swf",
+          "image": "Images/Pictures for flashes/Colorbrick-ru.jpg",
+          "hover": "Images/Pictures for flashes/Colorbrick-ru-over.jpg"
+        },
+        {
+          "source": "Movies/Twocolorplane.swf",
+          "image": "Images/Pictures for flashes/Twocolorsru.jpg",
+          "hover": "Images/Pictures for flashes/Twocolorsru-over.jpg"
+        },
+        {
+          "source": "Movies/Threecolorplane-ru.swf",
+          "image": "Images/Pictures for flashes/Threecolorsru.jpg",
+          "hover": "Images/Pictures for flashes/Threecolorsru-over.jpg"
+        },
+        {
+          "source": "Movies/Twocolorplaneseg-ru.swf",
+          "image": "Images/Pictures for flashes/Twocolorsru-seg.jpg",
+          "hover": "Images/Pictures for flashes/Twocolorsru-seg-over.jpg"
+        },
+        {
+          "source": "Movies/Twocoloreqtri-ru.swf",
+          "image": "Images/Pictures for flashes/Twocolorsru-tri.jpg",
+          "hover": "Images/Pictures for flashes/Twocolorsru-tri-over.jpg"
+        },
+        {
+          "source": "Movies/Walk around earth-ru.swf",
+          "image": "Images/Pictures for flashes/Walkaroun-ru.jpg",
+          "hover": "Images/Pictures for flashes/Walkaroun-ru-over.jpg"
+        },
+        {
+          "source": "Movies/Cubes-findpair-ru.swf",
+          "image": "Images/Pictures for flashes/Findcubespair-ru.jpg",
+          "hover": "Images/Pictures for flashes/Findcubespair-ru-over.jpg"
+        },
+        {
+          "source": "Movies/Tatrahedron-ru.swf",
+          "image": "Images/Twotetra-ru.jpg",
+          "hover": "Images/Twotetra-ru-over.jpg"
+        },
+        {
+          "source": "Movies/Twohourglasses-ru.swf",
+          "image": "Images/Pictures for flashes/Twohourglassru.png",
+          "hover": "Images/Pictures for flashes/Twohourglassru-over.png"
+        },
+        {
+          "source": "Movies/byufon-ru.swf",
+          "image": "Images/Pictures for flashes/Byufon-ru.jpg",
+          "hover": "Images/Pictures for flashes/Byufon-ru-over.jpg"
+        },
+        {
+          "source": "Movies/Algbra trans.swf",
+          "image": "Images/Pictures for flashes/Algebra trans.jpg",
+          "hover": "Images/Pictures for flashes/Algebra trans-over.jpg"
+        },
+        {
+          "source": "Movies/Sum1n.swf",
+          "image": "Images/Pictures for flashes/Sum1n.jpg",
+          "hover": "Images/Pictures for flashes/Sum1n-over.jpg"
+        },
+        {
+          "source": "Movies/Sum2n-1.swf",
+          "image": "Images/Pictures for flashes/Sumodd.jpg",
+          "hover": "Images/Pictures for flashes/Sumodd-over.jpg"
+        },
+        {
+          "source": "Movies/Asqminbsq.swf",
+          "image": "Images/Pictures for flashes/AmBsquare.png",
+          "hover": "Images/Pictures for flashes/AmBsquare-over.png"
+        },
+        {
+          "source": "Movies/Aplusbsquare.swf",
+          "image": "Images/Pictures for flashes/ApBsquare.png",
+          "hover": "Images/Pictures for flashes/ApBsquare-over.png"
+        }
+      ],
+      "sourceOrder": [
+        "Images/Mightymaticatext.swf",
+        "Images/Thinkingacademytext.swf",
+        "Movies/Burninghouse-ru.swf",
+        "Movies/Turtles-ru.swf",
+        "Movies/Wisemen-ru.swf",
+        "Movies/Staruhi.swf",
+        "Movies/Snail.swf",
+        "Movies/Byciclist-ru.swf",
+        "Movies/Cubeflash-white.swf",
+        "Movies/Hunter-ru.swf",
+        "Movies/Bacteria-ru.swf",
+        "Movies/Wisemen 8-ru.swf",
+        "Movies/Coinstomove-ru.swf",
+        "Movies/Coinsrotate-2c.swf",
+        "Movies/Coinrotate-sq-ru.swf",
+        "Movies/Coinsrotate.swf",
+        "Movies/Wineandmilk-ru.swf",
+        "Movies/Hand1000-ru.swf",
+        "Movies/Caterpillar-ru.swf",
+        "Movies/Grandmaclimbes-ru.swf",
+        "Movies/Tram-ru.swf",
+        "Movies/Earthandbelt-ru.swf",
+        "Movies/Tetra-colorproblem-ru.swf",
+        "Movies/Cube-colorproblem-ru.swf",
+        "Movies/Recthexprizm-colorproblem-ru.swf",
+        "Movies/paralele-colorproblem-ru.swf",
+        "Movies/brick-colorproblem-ru.swf",
+        "Movies/Twocolorplane.swf",
+        "Movies/Threecolorplane-ru.swf",
+        "Movies/Twocolorplaneseg-ru.swf",
+        "Movies/Twocoloreqtri-ru.swf",
+        "Movies/Walk around earth-ru.swf",
+        "Movies/Cubes-findpair-ru.swf",
+        "Movies/Tatrahedron-ru.swf",
+        "Movies/Twohourglasses-ru.swf",
+        "Movies/byufon-ru.swf",
+        "Movies/byufon-exp-ru.swf",
+        "Movies/Algbra trans.swf",
+        "Movies/Sum1n.swf",
+        "Movies/Sum2n-1.swf",
+        "Movies/Asqminbsq.swf",
+        "Movies/Aplusbsquare.swf"
+      ],
+      "hasLayout": true
+    }
+  },
+  "banners": [
+    {
+      "source": "Images/Mightymaticatext.swf",
+      "label": "MIGHTYMATICA",
+      "width": 400,
+      "height": 200,
+      "status": "source-based-native-glyph-animation"
+    },
+    {
+      "source": "Images/Thinkingacademytext.swf",
+      "label": "THINKING ACADEMY",
+      "width": 400,
+      "height": 200,
+      "status": "source-based-native-glyph-animation"
+    }
+  ],
+  "missing": []
+}

@@ -1,0 +1,11 @@
+.algebra-activity { max-width: 850px; margin-inline: auto; color: #000099; background: #66ffff; font-family: "Times New Roman", Times, serif; }
+.algebra-activity .algebra-diagram { display: block; width: 100%; max-width: 520px; max-height: 460px; margin: 1rem auto; overflow: hidden; }
+.algebra-activity .algebra-diagram { background: #66ffff; border: 0; border-radius: 0; }
+.algebra-diagram text { fill: #000099; font: bold 18px "Times New Roman", Times, serif; text-anchor: middle; dominant-baseline: middle; }
+.algebra-diagram .algebra-dimension, .algebra-diagram .algebra-axis-label text { fill: currentColor; font-size: 15px; }
+.algebra-activity .controls { display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; }
+.algebra-activity .control { display: grid; gap: .5rem; min-width: 130px; flex: 1; }
+.algebra-activity input[type="range"] { width: 100%; min-height: 36px; }
+.algebra-equation { font: bold clamp(1.2rem, 3vw, 1.8rem) / 1.6 "Times New Roman", Times, serif; text-align: center; overflow-wrap: anywhere; padding-block: 1rem; }
+.algebra-activity .activity-status { overflow-wrap: anywhere; min-height: 3em; }
+.algebra-activity button { min-height: 44px; }

@@ -1,0 +1,76 @@
+import type { ActivityMeta } from "../../shared/contracts";
+
+export const manifest: ActivityMeta[] = [
+  {
+    id: "motion-circle-in-circle", title: "Draw different cycloids", titleRu: "Рисуем разные циклоиды",
+    description: "Roll a circle inside or outside another and trace a point on its rim.",
+    descriptionRu: "Катите окружность внутри или снаружи другой, рисуя траекторию точки на ободе.",
+    category: "visual-math", fidelity: "native",
+    thumbnail: "motion/cycloids.svg",
+    sources: ["Movies/Circincirc.swf", "Movies/Circincirc-ru.swf"],
+  },
+  {
+    id: "motion-coin-cluster", title: "Around a cluster of pennies", titleRu: "Вокруг группы монет",
+    description: "A penny rolls around seven fixed pennies. How many times does it turn?",
+    descriptionRu: "Монета катится вокруг семи неподвижных монет. Сколько оборотов она сделает?",
+    category: "visual-math", fidelity: "adaptation",
+    sources: ["Movies/Coinsrotate.swf", "Movies/Coinsrotate-e.swf"],
+  },
+  {
+    id: "motion-two-coins", title: "A penny around a penny", titleRu: "Монета вокруг монеты",
+    description: "Count the turns of a coin rolling around an equal coin.",
+    descriptionRu: "Сколько оборотов сделает монета вокруг такой же монеты?",
+    category: "visual-math", fidelity: "adaptation",
+    sources: ["Movies/Coinsrotate-2c.swf", "Movies/Coinsrotate-2c-e.swf"],
+  },
+  {
+    id: "motion-square-coin", title: "A penny around a square", titleRu: "Монета вокруг квадрата",
+    description: "How much does a rolling coin turn along a square's sides and around its corners?",
+    descriptionRu: "На сколько поворачивается монета вдоль сторон квадрата и при обходе его углов?",
+    category: "visual-math", fidelity: "adaptation",
+    sources: ["Movies/Coinrotate-sq-e.swf", "Movies/Coinrotate-sq-ru.swf"],
+  },
+  {
+    id: "motion-earth-belt", title: "Earth and a belt", titleRu: "Земля и ремень",
+    description: "Add one metre to a belt around Earth. How large is the gap?",
+    descriptionRu: "Удлиним ремень вокруг Земли на метр. Каким станет зазор?",
+    category: "visual-math", fidelity: "adaptation",
+    sources: ["Movies/Earthandbelt.swf", "Movies/Earthandbelt-ru.swf"],
+  },
+  {
+    id: "motion-earth-walk", title: "A walk around Earth", titleRu: "Вокруг Земли",
+    description: "A six-foot traveler circles Earth. Compare the head and feet.",
+    descriptionRu: "Путешественник ростом шесть футов обходит Землю. Сравните пути головы и ног.",
+    category: "visual-math", fidelity: "adaptation",
+    sources: ["Movies/Walk around earth.swf", "Movies/Walk around earth-ru.swf"],
+  },
+  {
+    id: "motion-cyclists", title: "Two cyclists and a fly", titleRu: "Велосипедисты и муха",
+    description: "A fly travels back and forth between two approaching cyclists. How far does it fly before they meet?",
+    descriptionRu: "Муха летает между велосипедистами, едущими навстречу друг другу. Какой путь она пролетит до их встречи?",
+    category: "visual-math", fidelity: "adaptation",
+    sources: ["Movies/Byciclist-eng.swf", "Movies/Byciclist-ru.swf", "Movies/Byciclist-chi.swf"],
+  },
+  {
+    id: "motion-caterpillar", title: "Caterpillar in a cube", titleRu: "Гусеница в кубе",
+    description: "Unfold two faces to find a shortest surface route between opposite corners.",
+    descriptionRu: "Разверните две грани и найдите кратчайший путь между противоположными вершинами.",
+    category: "visual-math", fidelity: "adaptation",
+    sources: ["Movies/Caterpillar.swf", "Movies/Caterpillar-ru.swf"],
+  },
+  {
+    id: "motion-ladder", title: "The sliding ladder", titleRu: "Скользящая лестница",
+    thumbnail: "site-design/Images/Ladder-green1.gif.first-frame.png",
+    description: "Change the ladder length and cat position; trace the cat's path.",
+    descriptionRu: "Меняйте длину лестницы и положение кота, исследуя его траекторию.",
+    category: "visual-math", fidelity: "adaptation",
+    sources: ["Movies/Ladder.swf", "Movies/Ladder-ru.swf"],
+  },
+  {
+    id: "motion-kitten-ladder", title: "Kitten and ladder", titleRu: "Котёнок и лестница",
+    description: "A fixed-length ladder slides. What path does the kitten trace?",
+    descriptionRu: "Лестница скользит. Какую линию описывает котёнок?",
+    category: "visual-math", fidelity: "adaptation",
+    sources: ["Movies/Kitten and Ladder.swf"],
+  },
+];

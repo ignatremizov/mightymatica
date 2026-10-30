@@ -1,0 +1,1380 @@
+{
+  "version": 1,
+  "frameNumbering": "one-based-global",
+  "soundTimebase": 44100,
+  "envelopeLevelMaximum": 32768,
+  "source": "../mightymatica-source-recovery/objects/Mil-perm-2/original/Mil-perm-2.swf",
+  "sourceSha256": "d5a49ef6e23945259546109275bea60ac39fe4eae37fcca79e193d9f65507c7c",
+  "width": 680,
+  "height": 510,
+  "fps": 15,
+  "frameCount": 81,
+  "audioCues": [],
+  "nestedTimelines": [
+    {
+      "spriteId": 267,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 0,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 268,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 0,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 269,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 0,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 270,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 0,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 271,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 0,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 6,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 7,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 106,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 40,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 47,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 15,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 49,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 15,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 54,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 15,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 63,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 86,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 2,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 3,
+          "tagType": 12,
+          "byteLength": 47
+        },
+        {
+          "frame": 23,
+          "tagType": 12,
+          "byteLength": 10
+        },
+        {
+          "frame": 24,
+          "tagType": 12,
+          "byteLength": 47
+        },
+        {
+          "frame": 44,
+          "tagType": 12,
+          "byteLength": 10
+        },
+        {
+          "frame": 45,
+          "tagType": 12,
+          "byteLength": 47
+        },
+        {
+          "frame": 65,
+          "tagType": 12,
+          "byteLength": 10
+        },
+        {
+          "frame": 66,
+          "tagType": 12,
+          "byteLength": 47
+        },
+        {
+          "frame": 86,
+          "tagType": 12,
+          "byteLength": 10
+        }
+      ]
+    },
+    {
+      "spriteId": 67,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 114,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 1,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 14,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 19,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 24,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 29,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 34,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 39,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 44,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 49,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 54,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 59,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 64,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 69,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 74,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 79,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 84,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 89,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 113,
+          "tagType": 12,
+          "byteLength": 15
+        }
+      ]
+    },
+    {
+      "spriteId": 74,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 34,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 80,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 21,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 2,
+          "tagType": 12,
+          "byteLength": 2
+        }
+      ]
+    },
+    {
+      "spriteId": 87,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 26,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 2,
+          "tagType": 12,
+          "byteLength": 2
+        }
+      ]
+    },
+    {
+      "spriteId": 89,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 93,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 94,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 13,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 1,
+          "tagType": 12,
+          "byteLength": 126
+        },
+        {
+          "frame": 13,
+          "tagType": 12,
+          "byteLength": 2
+        }
+      ]
+    },
+    {
+      "spriteId": 96,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 99,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 13,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 1,
+          "tagType": 12,
+          "byteLength": 126
+        },
+        {
+          "frame": 13,
+          "tagType": 12,
+          "byteLength": 2
+        }
+      ]
+    },
+    {
+      "spriteId": 103,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 106,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 10,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 1,
+          "tagType": 12,
+          "byteLength": 126
+        },
+        {
+          "frame": 10,
+          "tagType": 12,
+          "byteLength": 2
+        }
+      ]
+    },
+    {
+      "spriteId": 123,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 59,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 133,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 141,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 143,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 24,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 144,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 28,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 1,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 8,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 18,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 28,
+          "tagType": 12,
+          "byteLength": 2
+        }
+      ]
+    },
+    {
+      "spriteId": 147,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 148,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 28,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 1,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 8,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 18,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 28,
+          "tagType": 12,
+          "byteLength": 2
+        }
+      ]
+    },
+    {
+      "spriteId": 151,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 152,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 28,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 1,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 8,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 18,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 28,
+          "tagType": 12,
+          "byteLength": 2
+        }
+      ]
+    },
+    {
+      "spriteId": 155,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 156,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 28,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 1,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 8,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 18,
+          "tagType": 12,
+          "byteLength": 2
+        },
+        {
+          "frame": 28,
+          "tagType": 12,
+          "byteLength": 2
+        }
+      ]
+    },
+    {
+      "spriteId": 162,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 168,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 169,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 175,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 9,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 2,
+          "tagType": 12,
+          "byteLength": 2
+        }
+      ]
+    },
+    {
+      "spriteId": 183,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 16,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 2,
+          "tagType": 12,
+          "byteLength": 2
+        }
+      ]
+    },
+    {
+      "spriteId": 189,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 196,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 2,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 1,
+          "tagType": 12,
+          "byteLength": 287
+        },
+        {
+          "frame": 2,
+          "tagType": 12,
+          "byteLength": 3052
+        }
+      ]
+    },
+    {
+      "spriteId": 200,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 218,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 40,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": [
+        {
+          "frame": 1,
+          "tagType": 12,
+          "byteLength": 46
+        },
+        {
+          "frame": 23,
+          "tagType": 12,
+          "byteLength": 702
+        },
+        {
+          "frame": 29,
+          "tagType": 12,
+          "byteLength": 1
+        },
+        {
+          "frame": 40,
+          "tagType": 12,
+          "byteLength": 362
+        }
+      ]
+    },
+    {
+      "spriteId": 225,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 5,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 227,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 5,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 228,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 30,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 235,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 236,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 239,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 245,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 10,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 248,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 10,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 260,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 10,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 266,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "26000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    }
+  ],
+  "unsupported": [],
+  "linkageCues": [],
+  "streams": [
+    {
+      "frame": 1,
+      "tagType": 45,
+      "codec": 0,
+      "samplesPerBlock": 0,
+      "headerHex": "26000000"
+    }
+  ],
+  "buttonSoundTags": [],
+  "actionScriptTags": [
+    {
+      "frame": 1,
+      "tagType": 12,
+      "byteLength": 3083
+    },
+    {
+      "frame": 1,
+      "tagType": 59,
+      "byteLength": 315
+    },
+    {
+      "frame": 1,
+      "tagType": 59,
+      "byteLength": 582
+    },
+    {
+      "frame": 1,
+      "tagType": 59,
+      "byteLength": 1029
+    },
+    {
+      "frame": 1,
+      "tagType": 59,
+      "byteLength": 3759
+    },
+    {
+      "frame": 1,
+      "tagType": 59,
+      "byteLength": 646
+    },
+    {
+      "frame": 2,
+      "tagType": 12,
+      "byteLength": 476
+    },
+    {
+      "frame": 3,
+      "tagType": 12,
+      "byteLength": 6523
+    },
+    {
+      "frame": 11,
+      "tagType": 12,
+      "byteLength": 218
+    },
+    {
+      "frame": 25,
+      "tagType": 12,
+      "byteLength": 449
+    },
+    {
+      "frame": 36,
+      "tagType": 12,
+      "byteLength": 247
+    },
+    {
+      "frame": 46,
+      "tagType": 12,
+      "byteLength": 2
+    },
+    {
+      "frame": 47,
+      "tagType": 12,
+      "byteLength": 158
+    },
+    {
+      "frame": 56,
+      "tagType": 12,
+      "byteLength": 2
+    },
+    {
+      "frame": 57,
+      "tagType": 12,
+      "byteLength": 158
+    },
+    {
+      "frame": 67,
+      "tagType": 12,
+      "byteLength": 2
+    },
+    {
+      "frame": 68,
+      "tagType": 12,
+      "byteLength": 112
+    },
+    {
+      "frame": 81,
+      "tagType": 12,
+      "byteLength": 2
+    }
+  ],
+  "audioAssets": [
+    {
+      "soundId": 1,
+      "codec": 2,
+      "sampleRate": 44100,
+      "sampleCount": 1284480,
+      "channels": 2,
+      "seekSamples": 0,
+      "src": "quiz/audio/1.mp3",
+      "sha256": "6d5f452ded29ee15a082ef82176209d07d792a483d5bd2f4aa25046429200e27",
+      "embeddedMp3Sha256": "6d5f452ded29ee15a082ef82176209d07d792a483d5bd2f4aa25046429200e27",
+      "durationSeconds": 29.099908000000692,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 2,
+      "codec": 2,
+      "sampleRate": 44100,
+      "sampleCount": 819072,
+      "channels": 2,
+      "seekSamples": 0,
+      "src": "quiz/audio/2.mp3",
+      "sha256": "55ffb8ebe47c2f93e1cbe927d351b595d5c834d5135d34e1eef961c4b9877ff9",
+      "embeddedMp3Sha256": "55ffb8ebe47c2f93e1cbe927d351b595d5c834d5135d34e1eef961c4b9877ff9",
+      "durationSeconds": 18.546620000000342,
+      "durationMeasurement": "ffprobe-packet-sum"
+    }
+  ],
+  "inventoryOnly": false,
+  "limitations": [
+    "Root cue frames are global; nested cue frames are sprite-local and cannot be flattened without placement/playhead/controller evidence.",
+    "ActionScript audio creation, linkage, stopAll, timers, and dynamic playback are not executed or inferred. Inspect source scripts separately.",
+    "Event sounds continue during source timeline stops. Native pause, visibility, loading, and teardown require explicit player lifecycle handling.",
+    "MP3 seekSamples and decoder padding require decoder/listening review; sample-exact audible alignment is not certified.",
+    "durationSeconds is ffprobe format duration or summed MP3 packet durations, including MPEG padding. Null means unavailable; source sampleCount/sampleRate is separate evidence.",
+    "Empty stream headers are inventoried; nonempty stream audio, non-MP3 codecs, button sounds, and class-linked sounds require separate recovery."
+  ]
+}

@@ -1,0 +1,38 @@
+.coloring-family .diagram { display:block; width:100%; max-height:32rem; background:#ff00cc; border-radius:0; }
+.coloring-family.coloring-solid .diagram { background:#66ffff; }
+.coloring-family:not(.coloring-solid) .diagram circle:not([fill="none"]) { paint-order:stroke; stroke:#fff; stroke-width:2px; }
+.coloring-family svg text { font-family:"Times New Roman",Times,serif; font-size:20px; font-weight:700; fill:#fff; }
+.coloring-family .controls { display:flex; flex-wrap:wrap; align-items:center; gap:.7rem; }
+.coloring-family select,.coloring-family input { max-width:10rem; padding:.5rem; }
+.coloring-family .control { display:flex; flex-direction:column; gap:.3rem; }
+.coloring-family .explanation { min-height:5rem; line-height:1.7; }
+.coloring-family button:focus-visible,.coloring-family select:focus-visible,.coloring-family input:focus-visible { outline:3px solid #f2cf60; outline-offset:3px; }
+.coloring-family:not(.coloring-solid).activity-layout { gap:.75rem; }
+.coloring-family:not(.coloring-solid) .controls { margin:.35rem 0; }
+.coloring-solid.activity-layout { gap:.8rem; }
+.coloring-solid p { margin:0; }
+.coloring-solid .solid-workbench { display:grid; grid-template-columns:minmax(0,1.2fr) minmax(16rem,1fr); align-items:start; gap:1rem; max-width:58rem; width:100%; margin-inline:auto; }
+.coloring-solid .solid-view { min-width:0; }
+.coloring-solid .diagram { width:100%; max-width:28rem; max-height:none; margin-inline:auto; touch-action:none; user-select:none; cursor:grab; }
+.coloring-solid .diagram:active { cursor:grabbing; }
+.coloring-solid .solid-rotation-help { margin-top:.35rem; font-size:.9rem; text-align:center; }
+.coloring-solid .controls { margin:.6rem 0 0; }
+.coloring-solid .solid-rotation { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); }
+.coloring-solid .solid-rotation input { width:100%; max-width:none; min-width:0; padding:0; }
+.coloring-solid .solid-colors { padding-top:.4rem; }
+.coloring-solid .solid-face-controls { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.6rem; }
+.coloring-solid .solid-face-label { padding:.25rem .4rem; border:1px solid #152333; font-weight:bold; }
+.coloring-solid .solid-color-choice { display:flex; align-items:center; gap:.35rem; min-width:0; }
+.coloring-solid .solid-swatch { flex:0 0 1.1rem; height:1.1rem; border:1px solid #152333; }
+.coloring-solid .solid-color-choice select { width:100%; min-width:0; max-width:none; border:1px solid #152333; }
+.coloring-solid .solid-actions { display:flex; flex-wrap:wrap; gap:.6rem 1rem; align-items:end; }
+.coloring-solid .solid-answer { margin:0; align-items:end; }
+.coloring-solid .solid-answer input { width:9rem; max-width:100%; }
+.coloring-solid .solid-actions > button { justify-self:start; width:auto; }
+.coloring-soundtrack { display:flex; flex-wrap:wrap; align-items:center; gap:.6rem; }
+.coloring-lesson > details { margin-block:1rem; }
+@media (max-width:640px) {
+  .coloring-solid .solid-workbench { grid-template-columns:minmax(0,1fr); gap:.6rem; }
+  .coloring-solid .diagram { max-width:23rem; }
+  .coloring-solid .solid-colors { padding-top:0; }
+}

@@ -1,0 +1,106 @@
+{
+  "source": "Movies/Sinlaw-ru.swf",
+  "sourceSha256": "b429a2b62dd6f7a6e640d78e6adcb95e0a487506546a65dacb1b2652dc22ccb3",
+  "width": 550,
+  "height": 400,
+  "fps": 24,
+  "initialFrame": 1,
+  "endFrame": 784,
+  "chapters": [
+    {
+      "id": "chapter-1",
+      "startFrame": 1,
+      "endFrame": 784,
+      "module": "triangles/native/sine-law/ru/chapter-1.mjs"
+    }
+  ],
+  "stops": [
+    {
+      "frame": 18,
+      "kind": "manual"
+    },
+    {
+      "frame": 784,
+      "kind": "manual"
+    }
+  ],
+  "audioAssets": [
+    {
+      "soundId": 7,
+      "codec": 2,
+      "sampleRate": 44100,
+      "sampleCount": 221184,
+      "channels": 2,
+      "seekSamples": 0,
+      "src": "triangles/native/sine-law/ru/7.mp3",
+      "sha256": "849d4fbac93ee78df75e2a81ea3eb6d30ab8abb1d76475ffde4ea63d42407696",
+      "embeddedMp3Sha256": "849d4fbac93ee78df75e2a81ea3eb6d30ab8abb1d76475ffde4ea63d42407696",
+      "durationSeconds": 5.015423999999997,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 14,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 5212,
+      "channels": 1,
+      "seekSamples": 1633,
+      "src": "triangles/native/sine-law/ru/14.mp3",
+      "sha256": "746727041a22c4068861ab1d011e71fa31ecb5a9afd1dab82844b31873bda6cb",
+      "embeddedMp3Sha256": "746727041a22c4068861ab1d011e71fa31ecb5a9afd1dab82844b31873bda6cb",
+      "durationSeconds": 0.7314299999999999,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 17,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 42656,
+      "channels": 1,
+      "seekSamples": 1661,
+      "src": "triangles/native/sine-law/ru/17.mp3",
+      "sha256": "c5184c461734bf5a72fb8f9cbc465e950e2832ecd7fb9af4f33ad74c12a285d9",
+      "embeddedMp3Sha256": "c5184c461734bf5a72fb8f9cbc465e950e2832ecd7fb9af4f33ad74c12a285d9",
+      "durationSeconds": 4.127355000000005,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 75,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 40847,
+      "channels": 1,
+      "seekSamples": 1633,
+      "src": "triangles/native/sine-law/ru/75.mp3",
+      "sha256": "d06286570518b3639ff21c3a769085c992078639a15fba2c3087c97a042a81eb",
+      "embeddedMp3Sha256": "d06286570518b3639ff21c3a769085c992078639a15fba2c3087c97a042a81eb",
+      "durationSeconds": 3.866130000000005,
+      "durationMeasurement": "ffprobe-packet-sum"
+    }
+  ],
+  "audioCues": [
+    {
+      "frame": 19,
+      "soundId": 17,
+      "inPoint44": 0,
+      "outPoint44": 170626,
+      "inPointSeconds": 0,
+      "outPointSeconds": 3.8690702947845805,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 693,
+      "soundId": 75,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    }
+  ],
+  "gates": []
+}

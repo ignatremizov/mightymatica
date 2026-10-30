@@ -1,0 +1,92 @@
+[
+  {
+    "key": "Pinoc1",
+    "src": "films/Pinoc1.mp4",
+    "source": "Movies/Pinoc1.swf",
+    "duration": 15.791667,
+    "audio": true,
+    "title": "Pinocchio · original cartoon",
+    "width": 496,
+    "height": 368
+  },
+  {
+    "key": "Prosto5",
+    "src": "films/Prosto5.mp4",
+    "source": "Movies/Prosto5.swf",
+    "duration": 16.25,
+    "audio": true,
+    "title": "Prosto5 · original cartoon",
+    "width": 496,
+    "height": 368
+  },
+  {
+    "key": "Snowpart-0",
+    "src": "films/Snowpart-0.mp4",
+    "source": "Movies/Snowpart-0.swf",
+    "duration": 4.333333,
+    "audio": true,
+    "title": "Snow White · introduction",
+    "width": 352,
+    "height": 288
+  },
+  {
+    "key": "Snowpart-2",
+    "src": "films/Snowpart-2.mp4",
+    "source": "Movies/Snowpart-2.swf",
+    "duration": 21.25,
+    "audio": true,
+    "title": "Snow White · reward",
+    "width": 496,
+    "height": 368
+  },
+  {
+    "key": "Funnymathmult",
+    "src": "films/Funnymathmult.mp4",
+    "source": "Movies/Funnymathmult.swf",
+    "duration": 134.28,
+    "audio": true,
+    "title": "Funny mathematics · original film",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "key": "Conic-6x4-f",
+    "src": "films/Conic-6x4-f.mp4",
+    "source": "Movies/Conic-6x4-f.swf",
+    "duration": 74.24,
+    "audio": true,
+    "title": "Conic sections · original film",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "key": "cubesec6x4-f",
+    "src": "films/cubesec6x4-f.mp4",
+    "source": "Movies/cubesec6x4-f.swf",
+    "duration": 111.08,
+    "audio": true,
+    "title": "Cube sections · original film",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "key": "Moeb7",
+    "src": "films/Moeb7.mp4",
+    "source": "Movies/Moeb7.swf",
+    "duration": 30.36,
+    "audio": false,
+    "title": "Möbius strip · original film",
+    "width": 640,
+    "height": 480
+  },
+  {
+    "key": "Cubesections",
+    "src": "films/Cubesections.mp4",
+    "source": "Movies/Cubesections.flv",
+    "duration": 111,
+    "audio": true,
+    "title": "Cube sections · external original film",
+    "width": 640,
+    "height": 480
+  }
+]

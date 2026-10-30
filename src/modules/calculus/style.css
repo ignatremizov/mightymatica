@@ -1,0 +1,30 @@
+.calculus { min-width: 0; color: #000; background: #fff; font-family: "Times New Roman", Times, serif; }
+.calculus.calculus-lesson { background: #66ffff; color: #000099; }
+.calculus .calculus-plot { color: #000; background: #fff; border: 0; border-radius: 0; font-family: "Times New Roman", Times, serif; }
+.calculus-lesson .calculus-plot { background: #66ffff; }
+.calculus h3 { color: #000099; font-family: "Times New Roman", Times, serif; }
+.calculus .controls { display: flex; flex-wrap: wrap; gap: 1rem; }
+.calculus .control { flex: 1 1 10rem; display: flex; flex-direction: column; gap: .35rem; }
+.calculus .control input { width: 100%; }
+.calculus-plot { display: block; width: 100%; height: auto; max-height: 34rem; }
+.calculus-inspection { cursor: crosshair; touch-action: pan-y; }
+.calculus .control output { font-variant-numeric: tabular-nums; }
+.calculus .activity-status { overflow-wrap: anywhere; font-variant-numeric: tabular-nums; }
+.calculus h3 { overflow-wrap: anywhere; }
+.calculus-example-navigation { display: flex; flex-wrap: wrap; align-items: center; gap: .75rem; }
+.calculus-example-navigation > span { font-variant-numeric: tabular-nums; }
+.calculus-motion-heading { scroll-margin-top: 1rem; }
+.calculus-motion-heading:focus { outline: 2px solid #009; outline-offset: .25rem; }
+.calculus-formula-readout { display: flex; flex-wrap: wrap; align-items: center; gap: 1rem 2rem; padding-block: .5rem; }
+.calculus-formula { max-width: 100%; overflow-x: auto; padding-block: .4rem; font-size: 1.2em; }
+.calculus-native-lesson > .original-lesson { max-width: none; }
+.calculus-native-lesson .original-lesson__stage { max-width: 760px; margin-inline: auto; }
+.calculus-native-lesson .original-lesson__controls { justify-content: flex-start; }
+.calculus-part-shortcuts {
+  display: flex; flex-wrap: wrap; align-items: center; gap: .6rem;
+  min-width: 0; margin-inline-end: auto;
+}
+.calculus-ignat-note { margin-block: .75rem; }
+.calculus-ignat-note summary { cursor: pointer; }
+.calculus-exploration > h3 { scroll-margin-top: 1rem; }
+.calculus-exploration > h3:focus { outline: 2px solid #009; outline-offset: .25rem; }

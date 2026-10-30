@@ -1,0 +1,2148 @@
+{
+  "version": 1,
+  "frameNumbering": "one-based-global",
+  "soundTimebase": 44100,
+  "envelopeLevelMaximum": 32768,
+  "source": "../mightymatica-archive-2026-08-09/raw-site/Movies/Paradox box.swf",
+  "sourceSha256": "3bbb9fa7e1877575f8d71b1bab430fe6b75a096e4bec87847a8738b7b864c395",
+  "width": 550,
+  "height": 400,
+  "fps": 10,
+  "frameCount": 4122,
+  "audioCues": [
+    {
+      "frame": 1,
+      "soundId": 49,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 91,
+      "soundId": 49,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 139,
+      "soundId": 49,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 175,
+      "soundId": 49,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 221,
+      "soundId": 83,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 14398,
+          "right": 13902,
+          "seconds": 0,
+          "leftGain": 0.43939208984375,
+          "rightGain": 0.42425537109375
+        },
+        {
+          "mark44": 1229831,
+          "left": 14398,
+          "right": 13902,
+          "seconds": 27.88732426303855,
+          "leftGain": 0.43939208984375,
+          "rightGain": 0.42425537109375
+        },
+        {
+          "mark44": 1233731,
+          "left": 0,
+          "right": 0,
+          "seconds": 27.975759637188208,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 567,
+      "soundId": 124,
+      "inPoint44": 0,
+      "outPoint44": 705772,
+      "inPointSeconds": 0,
+      "outPointSeconds": 16.00390022675737,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 14008,
+          "right": 12507,
+          "seconds": 0,
+          "leftGain": 0.427490234375,
+          "rightGain": 0.381683349609375
+        },
+        {
+          "mark44": 701072,
+          "left": 13758,
+          "right": 12507,
+          "seconds": 15.897324263038549,
+          "leftGain": 0.41986083984375,
+          "rightGain": 0.381683349609375
+        },
+        {
+          "mark44": 704172,
+          "left": 0,
+          "right": 0,
+          "seconds": 15.967619047619047,
+          "leftGain": 0,
+          "rightGain": 0
+        },
+        {
+          "mark44": 706972,
+          "left": 0,
+          "right": 0,
+          "seconds": 16.031111111111112,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 943,
+      "soundId": 135,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 0,
+          "right": 0,
+          "seconds": 0,
+          "leftGain": 0,
+          "rightGain": 0
+        },
+        {
+          "mark44": 29100,
+          "left": 0,
+          "right": 0,
+          "seconds": 0.6598639455782312,
+          "leftGain": 0,
+          "rightGain": 0
+        },
+        {
+          "mark44": 32700,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 0.7414965986394558,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 136621,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 3.0979818594104307,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 148121,
+          "left": 0,
+          "right": 0,
+          "seconds": 3.3587528344671203,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 1023,
+      "soundId": 135,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 0,
+          "right": 0,
+          "seconds": 0,
+          "leftGain": 0,
+          "rightGain": 0
+        },
+        {
+          "mark44": 30702,
+          "left": 248,
+          "right": 0,
+          "seconds": 0.6961904761904761,
+          "leftGain": 0.007568359375,
+          "rightGain": 0
+        },
+        {
+          "mark44": 30702,
+          "left": 0,
+          "right": 1241,
+          "seconds": 0.6961904761904761,
+          "leftGain": 0,
+          "rightGain": 0.037872314453125
+        },
+        {
+          "mark44": 32602,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 0.7392743764172336,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 134423,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 3.048140589569161,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 141323,
+          "left": 0,
+          "right": 0,
+          "seconds": 3.2046031746031747,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 1116,
+      "soundId": 135,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 0,
+          "right": 0,
+          "seconds": 0,
+          "leftGain": 0,
+          "rightGain": 0
+        },
+        {
+          "mark44": 27200,
+          "left": 0,
+          "right": 0,
+          "seconds": 0.6167800453514739,
+          "leftGain": 0,
+          "rightGain": 0
+        },
+        {
+          "mark44": 30400,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 0.6893424036281179,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 159728,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 3.6219501133786847,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 166628,
+          "left": 0,
+          "right": 0,
+          "seconds": 3.7784126984126982,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 1228,
+      "soundId": 149,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 7447,
+          "right": 7696,
+          "seconds": 0,
+          "leftGain": 0.227264404296875,
+          "rightGain": 0.23486328125
+        },
+        {
+          "mark44": 136909,
+          "left": 10426,
+          "right": 8688,
+          "seconds": 3.1045124716553287,
+          "leftGain": 0.31817626953125,
+          "rightGain": 0.26513671875
+        },
+        {
+          "mark44": 145009,
+          "left": 10178,
+          "right": 8937,
+          "seconds": 3.288185941043084,
+          "leftGain": 0.31060791015625,
+          "rightGain": 0.272735595703125
+        },
+        {
+          "mark44": 232218,
+          "left": 10426,
+          "right": 10426,
+          "seconds": 5.265714285714286,
+          "leftGain": 0.31817626953125,
+          "rightGain": 0.31817626953125
+        },
+        {
+          "mark44": 235618,
+          "left": 1489,
+          "right": 0,
+          "seconds": 5.34281179138322,
+          "leftGain": 0.045440673828125,
+          "rightGain": 0
+        },
+        {
+          "mark44": 237718,
+          "left": 0,
+          "right": 0,
+          "seconds": 5.390430839002268,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 1398,
+      "soundId": 167,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 7199,
+          "right": 5958,
+          "seconds": 0,
+          "leftGain": 0.219696044921875,
+          "rightGain": 0.18182373046875
+        },
+        {
+          "mark44": 86649,
+          "left": 7696,
+          "right": 8688,
+          "seconds": 1.964829931972789,
+          "leftGain": 0.23486328125,
+          "rightGain": 0.26513671875
+        },
+        {
+          "mark44": 87149,
+          "left": 7696,
+          "right": 8688,
+          "seconds": 1.9761678004535148,
+          "leftGain": 0.23486328125,
+          "rightGain": 0.26513671875
+        },
+        {
+          "mark44": 87949,
+          "left": 7696,
+          "right": 8688,
+          "seconds": 1.9943083900226757,
+          "leftGain": 0.23486328125,
+          "rightGain": 0.26513671875
+        },
+        {
+          "mark44": 92040,
+          "left": 0,
+          "right": 0,
+          "seconds": 2.087074829931973,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 1447,
+      "soundId": 167,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 100,
+          "left": 6951,
+          "right": 5710,
+          "seconds": 0.0022675736961451248,
+          "leftGain": 0.212127685546875,
+          "rightGain": 0.17425537109375
+        },
+        {
+          "mark44": 88140,
+          "left": 6454,
+          "right": 6206,
+          "seconds": 1.9986394557823128,
+          "leftGain": 0.19696044921875,
+          "rightGain": 0.18939208984375
+        },
+        {
+          "mark44": 92441,
+          "left": 0,
+          "right": 0,
+          "seconds": 2.096167800453515,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 1527,
+      "soundId": 49,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 1618,
+      "soundId": 149,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 9185,
+          "right": 6206,
+          "seconds": 0,
+          "leftGain": 0.280303955078125,
+          "rightGain": 0.18939208984375
+        },
+        {
+          "mark44": 100,
+          "left": 9185,
+          "right": 6454,
+          "seconds": 0.0022675736961451248,
+          "leftGain": 0.280303955078125,
+          "rightGain": 0.19696044921875
+        },
+        {
+          "mark44": 174013,
+          "left": 8192,
+          "right": 11916,
+          "seconds": 3.945873015873016,
+          "leftGain": 0.25,
+          "rightGain": 0.3636474609375
+        },
+        {
+          "mark44": 175513,
+          "left": 7944,
+          "right": 11419,
+          "seconds": 3.9798866213151927,
+          "leftGain": 0.242431640625,
+          "rightGain": 0.348480224609375
+        },
+        {
+          "mark44": 176913,
+          "left": 8192,
+          "right": 10178,
+          "seconds": 4.011632653061224,
+          "leftGain": 0.25,
+          "rightGain": 0.31060791015625
+        },
+        {
+          "mark44": 189015,
+          "left": 7944,
+          "right": 10178,
+          "seconds": 4.286054421768707,
+          "leftGain": 0.242431640625,
+          "rightGain": 0.31060791015625
+        },
+        {
+          "mark44": 276323,
+          "left": 8688,
+          "right": 10178,
+          "seconds": 6.265827664399093,
+          "leftGain": 0.26513671875,
+          "rightGain": 0.31060791015625
+        },
+        {
+          "mark44": 283723,
+          "left": 0,
+          "right": 0,
+          "seconds": 6.433628117913832,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 1783,
+      "soundId": 73,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 1852,
+      "soundId": 191,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 0,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 62337,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 1.4135374149659865,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 65037,
+          "left": 0,
+          "right": 0,
+          "seconds": 1.4747619047619047,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 1968,
+      "soundId": 191,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 0,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 55626,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 1.2613605442176872,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 58326,
+          "left": 0,
+          "right": 0,
+          "seconds": 1.3225850340136054,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 2093,
+      "soundId": 191,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 0,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 48823,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 1.1070975056689343,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 51223,
+          "left": 0,
+          "right": 0,
+          "seconds": 1.1615192743764173,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 2148,
+      "soundId": 49,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 2238,
+      "soundId": 49,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 0,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 104144,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 2.3615419501133785,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 106744,
+          "left": 0,
+          "right": 0,
+          "seconds": 2.420498866213152,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    },
+    {
+      "frame": 2337,
+      "soundId": 206,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 2381,
+      "soundId": 219,
+      "inPoint44": 0,
+      "outPoint44": 432462,
+      "inPointSeconds": 0,
+      "outPointSeconds": 9.806394557823129,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 2716,
+      "soundId": 124,
+      "inPoint44": 0,
+      "outPoint44": 706072,
+      "inPointSeconds": 0,
+      "outPointSeconds": 16.010702947845804,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 11506,
+          "right": 11756,
+          "seconds": 0,
+          "leftGain": 0.35113525390625,
+          "rightGain": 0.3587646484375
+        }
+      ]
+    },
+    {
+      "frame": 3198,
+      "soundId": 49,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 3288,
+      "soundId": 49,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 3378,
+      "soundId": 49,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 3491,
+      "soundId": 49,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 3577,
+      "soundId": 49,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 3663,
+      "soundId": 49,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 3749,
+      "soundId": 49,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 3852,
+      "soundId": 83,
+      "inPoint44": 17600,
+      "outPoint44": 646831,
+      "inPointSeconds": 0.39909297052154197,
+      "outPointSeconds": 14.667369614512472,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 0,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 528331,
+          "left": 32268,
+          "right": 32768,
+          "seconds": 11.980294784580499,
+          "leftGain": 0.9847412109375,
+          "rightGain": 1
+        },
+        {
+          "mark44": 630240,
+          "left": 0,
+          "right": 0,
+          "seconds": 14.291156462585034,
+          "leftGain": 0,
+          "rightGain": 0
+        }
+      ]
+    }
+  ],
+  "nestedTimelines": [
+    {
+      "spriteId": 53,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 56,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 63,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 75,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 2,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 79,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 80,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 84,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 86,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 87,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 92,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 94,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 97,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 100,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 117,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 125,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 126,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 127,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 129,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 137,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 141,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 142,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 144,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 146,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 147,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 152,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 160,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 168,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 169,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 170,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 172,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 173,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 189,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 190,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 192,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 193,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 194,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 197,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 200,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 203,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 211,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 216,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 226,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 229,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 232,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 235,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 238,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 240,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 247,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 250,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 255,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 257,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 268,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 271,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 275,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 277,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 279,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 281,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 283,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    }
+  ],
+  "unsupported": [
+    {
+      "kind": "button-sound",
+      "timeline": "root"
+    }
+  ],
+  "linkageCues": [],
+  "streams": [
+    {
+      "frame": 1,
+      "tagType": 45,
+      "codec": 0,
+      "samplesPerBlock": 0,
+      "headerHex": "27000000"
+    }
+  ],
+  "buttonSoundTags": [
+    {
+      "frame": 1,
+      "buttonId": 6,
+      "byteLength": 11
+    },
+    {
+      "frame": 1,
+      "buttonId": 11,
+      "byteLength": 11
+    },
+    {
+      "frame": 1,
+      "buttonId": 15,
+      "byteLength": 40
+    },
+    {
+      "frame": 1,
+      "buttonId": 20,
+      "byteLength": 11
+    },
+    {
+      "frame": 1,
+      "buttonId": 25,
+      "byteLength": 11
+    },
+    {
+      "frame": 1,
+      "buttonId": 30,
+      "byteLength": 11
+    },
+    {
+      "frame": 1,
+      "buttonId": 35,
+      "byteLength": 11
+    },
+    {
+      "frame": 1,
+      "buttonId": 40,
+      "byteLength": 11
+    },
+    {
+      "frame": 1,
+      "buttonId": 46,
+      "byteLength": 11
+    },
+    {
+      "frame": 61,
+      "buttonId": 68,
+      "byteLength": 11
+    },
+    {
+      "frame": 61,
+      "buttonId": 74,
+      "byteLength": 11
+    },
+    {
+      "frame": 500,
+      "buttonId": 106,
+      "byteLength": 11
+    },
+    {
+      "frame": 500,
+      "buttonId": 108,
+      "byteLength": 11
+    }
+  ],
+  "actionScriptTags": [
+    {
+      "frame": 1,
+      "tagType": 82,
+      "byteLength": 2839
+    }
+  ],
+  "audioAssets": [
+    {
+      "soundId": 5,
+      "codec": 2,
+      "sampleRate": 44100,
+      "sampleCount": 221184,
+      "channels": 2,
+      "seekSamples": 0,
+      "src": "reasoning/audio/paradox-en/5.mp3",
+      "sha256": "849d4fbac93ee78df75e2a81ea3eb6d30ab8abb1d76475ffde4ea63d42407696",
+      "embeddedMp3Sha256": "849d4fbac93ee78df75e2a81ea3eb6d30ab8abb1d76475ffde4ea63d42407696",
+      "durationSeconds": 5.015423999999997,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 49,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 40847,
+      "channels": 1,
+      "seekSamples": 1633,
+      "src": "reasoning/audio/paradox-en/49.mp3",
+      "sha256": "d43303632a2823217236295c6851458d660b2aa7783f205480e64602449e9d38",
+      "embeddedMp3Sha256": "d43303632a2823217236295c6851458d660b2aa7783f205480e64602449e9d38",
+      "durationSeconds": 3.866130000000005,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 73,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 5212,
+      "channels": 1,
+      "seekSamples": 1633,
+      "src": "reasoning/audio/paradox-en/73.mp3",
+      "sha256": "9b910b9e38eb45b9512207d30285f2b3f347060ac483c1eb4950f38c5e99cd28",
+      "embeddedMp3Sha256": "9b910b9e38eb45b9512207d30285f2b3f347060ac483c1eb4950f38c5e99cd28",
+      "durationSeconds": 0.7314299999999999,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 83,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 738969,
+      "channels": 1,
+      "seekSamples": 1661,
+      "src": "reasoning/audio/paradox-en/83.mp3",
+      "sha256": "42ea17f59bcc14c083bb65680383d4c9315696c7340f70d6ba3e482b70289992",
+      "embeddedMp3Sha256": "42ea17f59bcc14c083bb65680383d4c9315696c7340f70d6ba3e482b70289992",
+      "durationSeconds": 67.29155999999912,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 124,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 176518,
+      "channels": 1,
+      "seekSamples": 1661,
+      "src": "reasoning/audio/paradox-en/124.mp3",
+      "sha256": "94327535a572c1d4f3e966b96c5b44b5895111a59523025763f6d495af2f039a",
+      "embeddedMp3Sha256": "94327535a572c1d4f3e966b96c5b44b5895111a59523025763f6d495af2f039a",
+      "durationSeconds": 16.24819499999989,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 135,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 96269,
+      "channels": 1,
+      "seekSamples": 1633,
+      "src": "reasoning/audio/paradox-en/135.mp3",
+      "sha256": "cf31f07a6a40781b851683ae64a7c5fd8863bc20487563274cddf2f4aa350967",
+      "embeddedMp3Sha256": "cf31f07a6a40781b851683ae64a7c5fd8863bc20487563274cddf2f4aa350967",
+      "durationSeconds": 8.986139999999997,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 149,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 213294,
+      "channels": 1,
+      "seekSamples": 1661,
+      "src": "reasoning/audio/paradox-en/149.mp3",
+      "sha256": "1ae55562b07051631f741b72b7772315fb0ec9d24693efe957896e81440c1956",
+      "embeddedMp3Sha256": "1ae55562b07051631f741b72b7772315fb0ec9d24693efe957896e81440c1956",
+      "durationSeconds": 19.59187499999984,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 167,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 32873,
+      "channels": 1,
+      "seekSamples": 1633,
+      "src": "reasoning/audio/paradox-en/167.mp3",
+      "sha256": "904d5336bfbfeb66683e2baa319367744da67d0bf3d2738af4a29c64cd38a031",
+      "embeddedMp3Sha256": "904d5336bfbfeb66683e2baa319367744da67d0bf3d2738af4a29c64cd38a031",
+      "durationSeconds": 3.239190000000004,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 191,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 23321,
+      "channels": 1,
+      "seekSamples": 1633,
+      "src": "reasoning/audio/paradox-en/191.mp3",
+      "sha256": "69ea8e1e2a1cc3c870df22547a478ed19cc7ba42c12f94b34a7227707b2b8846",
+      "embeddedMp3Sha256": "69ea8e1e2a1cc3c870df22547a478ed19cc7ba42c12f94b34a7227707b2b8846",
+      "durationSeconds": 2.351025000000002,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 206,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 10093,
+      "channels": 1,
+      "seekSamples": 1633,
+      "src": "reasoning/audio/paradox-en/206.mp3",
+      "sha256": "ba18d2e214fcd7dea5d38fb9a2a2b2174a68d2e3ff9216c436dab718ad29e77c",
+      "embeddedMp3Sha256": "ba18d2e214fcd7dea5d38fb9a2a2b2174a68d2e3ff9216c436dab718ad29e77c",
+      "durationSeconds": 1.1493900000000001,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 219,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 108115,
+      "channels": 1,
+      "seekSamples": 1661,
+      "src": "reasoning/audio/paradox-en/219.mp3",
+      "sha256": "fdacaa5f3da3aaeb512b0e0342e5cff9b1099f08a5c9441359e84a2241fa55e1",
+      "embeddedMp3Sha256": "fdacaa5f3da3aaeb512b0e0342e5cff9b1099f08a5c9441359e84a2241fa55e1",
+      "durationSeconds": 10.031039999999981,
+      "durationMeasurement": "ffprobe-packet-sum"
+    }
+  ],
+  "inventoryOnly": false,
+  "limitations": [
+    "Root cue frames are global; nested cue frames are sprite-local and cannot be flattened without placement/playhead/controller evidence.",
+    "ActionScript audio creation, linkage, stopAll, timers, and dynamic playback are not executed or inferred. Inspect source scripts separately.",
+    "Event sounds continue during source timeline stops. Native pause, visibility, loading, and teardown require explicit player lifecycle handling.",
+    "MP3 seekSamples and decoder padding require decoder/listening review; sample-exact audible alignment is not certified.",
+    "durationSeconds is ffprobe format duration or summed MP3 packet durations, including MPEG padding. Null means unavailable; source sampleCount/sampleRate is separate evidence.",
+    "Empty stream headers are inventoried; nonempty stream audio, non-MP3 codecs, button sounds, and class-linked sounds require separate recovery."
+  ]
+}

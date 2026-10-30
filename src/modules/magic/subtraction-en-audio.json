@@ -1,0 +1,485 @@
+{
+  "version": 1,
+  "frameNumbering": "one-based-global",
+  "soundTimebase": 44100,
+  "envelopeLevelMaximum": 32768,
+  "source": "../mightymatica-source-recovery/objects/Movies/Mistic substr/original/Mistic substr.swf",
+  "sourceSha256": "ae3ae3b972d7124db6a38bc6b30becd4a42523bc2e6ca5820ea0866652f95692",
+  "width": 550,
+  "height": 400,
+  "fps": 24,
+  "frameCount": 965,
+  "audioCues": [
+    {
+      "frame": 8,
+      "soundId": 4,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 133,
+      "soundId": 13,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 276,
+      "soundId": 18,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 452,
+      "soundId": 25,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    },
+    {
+      "frame": 589,
+      "soundId": 28,
+      "inPoint44": 0,
+      "outPoint44": 1659073,
+      "inPointSeconds": 0,
+      "outPointSeconds": 37.62070294784581,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 32768,
+          "right": 32768,
+          "seconds": 0,
+          "leftGain": 1,
+          "rightGain": 1
+        },
+        {
+          "mark44": 471170,
+          "left": 32518,
+          "right": 32768,
+          "seconds": 10.684126984126983,
+          "leftGain": 0.99237060546875,
+          "rightGain": 1
+        },
+        {
+          "mark44": 502124,
+          "left": 2501,
+          "right": 2752,
+          "seconds": 11.386031746031746,
+          "leftGain": 0.076324462890625,
+          "rightGain": 0.083984375
+        }
+      ]
+    },
+    {
+      "frame": 873,
+      "soundId": 37,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": []
+    }
+  ],
+  "nestedTimelines": [
+    {
+      "spriteId": 3,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 6,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 8,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 10,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 12,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 15,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 17,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 20,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 22,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 24,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 27,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 30,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 32,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 34,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 36,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    }
+  ],
+  "unsupported": [],
+  "linkageCues": [],
+  "streams": [
+    {
+      "frame": 1,
+      "tagType": 45,
+      "codec": 0,
+      "samplesPerBlock": 0,
+      "headerHex": "27000000"
+    }
+  ],
+  "buttonSoundTags": [],
+  "actionScriptTags": [
+    {
+      "frame": 1,
+      "tagType": 82,
+      "byteLength": 1225
+    }
+  ],
+  "audioAssets": [
+    {
+      "soundId": 4,
+      "codec": 2,
+      "sampleRate": 44100,
+      "sampleCount": 222336,
+      "channels": 2,
+      "seekSamples": 0,
+      "src": "magic/native/subtraction/en/4.mp3",
+      "sha256": "ae18f562b6401647848a1888ad4b5b3ef4249382d031ac945b16264cc5a2b736",
+      "embeddedMp3Sha256": "ae18f562b6401647848a1888ad4b5b3ef4249382d031ac945b16264cc5a2b736",
+      "durationSeconds": 5.041545999999997,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 13,
+      "codec": 2,
+      "sampleRate": 44100,
+      "sampleCount": 127872,
+      "channels": 2,
+      "seekSamples": 0,
+      "src": "magic/native/subtraction/en/13.mp3",
+      "sha256": "801072ed95dd44dd9d415e3a68e96f37c22d0648f4f639a15c5e17164fa7201e",
+      "embeddedMp3Sha256": "801072ed95dd44dd9d415e3a68e96f37c22d0648f4f639a15c5e17164fa7201e",
+      "durationSeconds": 2.899541999999998,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 18,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 40847,
+      "channels": 1,
+      "seekSamples": 1633,
+      "src": "magic/native/subtraction/en/18.mp3",
+      "sha256": "d43303632a2823217236295c6851458d660b2aa7783f205480e64602449e9d38",
+      "embeddedMp3Sha256": "d43303632a2823217236295c6851458d660b2aa7783f205480e64602449e9d38",
+      "durationSeconds": 3.866130000000005,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 25,
+      "codec": 2,
+      "sampleRate": 44100,
+      "sampleCount": 119808,
+      "channels": 2,
+      "seekSamples": 0,
+      "src": "magic/native/subtraction/en/25.mp3",
+      "sha256": "122888d01ce6ecc98538125a5a68380793b4c03e8ce032a01ec807d302ea4b7d",
+      "embeddedMp3Sha256": "122888d01ce6ecc98538125a5a68380793b4c03e8ce032a01ec807d302ea4b7d",
+      "durationSeconds": 2.716687999999998,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 28,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 414768,
+      "channels": 1,
+      "seekSamples": 1661,
+      "src": "magic/native/subtraction/en/28.mp3",
+      "sha256": "06c5d89745fe01bb20b7ad3dc1bfde1fe44fcba43746c5dd2610af0ea65640e0",
+      "embeddedMp3Sha256": "06c5d89745fe01bb20b7ad3dc1bfde1fe44fcba43746c5dd2610af0ea65640e0",
+      "durationSeconds": 37.87762499999956,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 37,
+      "codec": 2,
+      "sampleRate": 44100,
+      "sampleCount": 255744,
+      "channels": 2,
+      "seekSamples": 0,
+      "src": "magic/native/subtraction/en/37.mp3",
+      "sha256": "f3f5105f224cfbd1d343fedfb7c6c5d62c38e4fee0e3eee4763a619816d71e5d",
+      "embeddedMp3Sha256": "f3f5105f224cfbd1d343fedfb7c6c5d62c38e4fee0e3eee4763a619816d71e5d",
+      "durationSeconds": 5.799083999999996,
+      "durationMeasurement": "ffprobe-packet-sum"
+    }
+  ],
+  "inventoryOnly": false,
+  "limitations": [
+    "Root cue frames are global; nested cue frames are sprite-local and cannot be flattened without placement/playhead/controller evidence.",
+    "ActionScript audio creation, linkage, stopAll, timers, and dynamic playback are not executed or inferred. Inspect source scripts separately.",
+    "Event sounds continue during source timeline stops. Native pause, visibility, loading, and teardown require explicit player lifecycle handling.",
+    "MP3 seekSamples and decoder padding require decoder/listening review; sample-exact audible alignment is not certified.",
+    "durationSeconds is ffprobe format duration or summed MP3 packet durations, including MPEG padding. Null means unavailable; source sampleCount/sampleRate is separate evidence.",
+    "Empty stream headers are inventoried; nonempty stream audio, non-MP3 codecs, button sounds, and class-linked sounds require separate recovery."
+  ]
+}

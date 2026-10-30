@@ -1,0 +1,26 @@
+import type { ActivityMeta } from "../../shared/contracts";
+
+export const manifest: ActivityMeta[] = [
+  {id:"spatial-find-pair",title:"Find the matching cube arrangements",titleRu:"Найдите одинаковые наборы кубиков",description:"Which two eight-cube arrangements are the same after rotation? Four sets to compare.",descriptionRu:"Какие два набора из восьми кубиков совпадут при повороте? Четыре задания для сравнения.",category:"spatial",fidelity:"adaptation",sources:["Movies/Cubes-findpair.swf","Movies/Cubes-findpair-ru.swf"]},
+  {id:"spatial-dodecahedron",title:"Portrait dodecahedron",titleRu:"Додекаэдр с портретами",description:"Portraits decorate the twelve faces of a rotating dodecahedron.",descriptionRu:"Портреты на двенадцати гранях вращающегося додекаэдра.",category:"spatial",fidelity:"adaptation",sources:["Movies/Dodecaedr-pictures-center.swf"],thumbnail:"spatial/dodecahedron/1.png"},
+  {id:"spatial-octahedron",title:"Formula octahedron",titleRu:"Октаэдр с формулами",description:"A rotating octahedron with eight triangular faces.",descriptionRu:"Вращающийся октаэдр с восемью треугольными гранями.",category:"spatial",fidelity:"adaptation",sources:["Movies/Octa-8.swf"]},
+  {id:"spatial-illustrated-cube",title:"Illustrated rotating cube",titleRu:"Куб с иллюстрациями",description:"A rotating cube decorated with illustrations from the original collection.",descriptionRu:"Вращающийся куб с иллюстрациями из исходной коллекции.",category:"spatial",fidelity:"adaptation",sources:["Movies/Cubeflash-text.swf"]},
+  { id:"spatial-net-choice",title:"Which net makes this cube?",titleRu:"Какая развёртка подходит?",
+    description:"Five stages of matching an illustrated net to a cube. Rotate the target, decide, then fold to check.",
+    descriptionRu:"Пять этапов: подберите развёртку к кубу, затем сложите её для проверки.",
+    category:"spatial",fidelity:"adaptation",
+    sources:["Movies/Cube-Nets.swf",...Array.from({length:5},(_,i)=>`Movies/CubeNG-${i+1}.swf`)] },
+  { id:"spatial-net-rearrange",title:"Rearrange the cube net",titleRu:"Соберите развёртку куба",
+    description:"Drag illustrated faces until the net folds into the target cube, across five stages.",
+    descriptionRu:"Меняйте грани местами, чтобы развёртка соответствовала заданному кубу. Пять этапов.",
+    category:"spatial",fidelity:"adaptation",
+    sources:["Movies/Cube-Nets-2.swf",...Array.from({length:5},(_,i)=>`Movies/Cubenetslide-${i+1}.swf`)] },
+  { id:"spatial-eleven-nets",title:"Eleven nets of a cube",titleRu:"Одиннадцать развёрток куба",
+    description:"All eleven cube nets, shown folding into the same solid.",
+    descriptionRu:"Все различные развёртки куба: складывайте и поворачивайте их.",
+    category:"spatial",fidelity:"adaptation",sources:["Movies/Cubnet3d.swf"] },
+  { id:"spatial-calendar-cubes",title:"Two-cube calendar",titleRu:"Календарь из двух кубиков",
+    description:"Which digits belong on two cubes so that they can display every date from 01 to 31?",
+    descriptionRu:"Можно ли показать все даты от 01 до 31 на двух кубиках?",
+    category:"spatial",fidelity:"adaptation",sources:["Movies/Cubeflash-white.swf","Movies/Cubeflash-white-eng.swf"] },
+];

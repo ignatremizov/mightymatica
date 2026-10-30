@@ -1,0 +1,6 @@
+.fractals { font-family: "Times New Roman", Times, serif; color: #000; }
+.fractals .diagram { display: block; width: 100%; max-width: 760px; max-height: 65vh; margin-inline: auto; background: #66ffff; border: 0; border-radius: 0; }
+.fractals .fractals-carpet { max-width: 560px; align-self: center; }
+.fractals .control { display: flex; flex-direction: column; gap: .4rem; min-width: 150px; }
+.fractals input[type="range"] { width: 100%; }
+.fractals select { padding: .5rem; font: inherit; }

@@ -1,0 +1,11 @@
+[
+  { "key": "triangle", "title": ["The enigmatic triangle", "Загадочный треугольник"], "first": 61, "last": 502 },
+  { "key": "egg-eight", "title": ["The disappearing egg", "Исчезающее яйцо"], "first": 504, "last": 936 },
+  { "key": "area-two", "title": ["Are the two areas equal?", "Равны ли две площади?"], "first": 938, "last": 1356 },
+  { "key": "area-four", "title": ["Four pieces, an extra square", "Четыре части и лишний квадрат"], "first": 1358, "last": 1771 },
+  { "key": "chocolate", "title": ["Chocolate out of nothing", "Шоколад из ничего"], "first": 1773, "last": 2378 },
+  { "key": "gnomes", "title": ["The Christmas gnomes", "Новогодние гномы"], "first": 2380, "last": 2684 },
+  { "key": "eggs-nine-ten", "title": ["How many eggs?", "Сколько яиц?"], "first": 2686, "last": 3174 },
+  { "key": "people", "title": ["Which one vanishes?", "Кто исчезает?"], "first": 3176, "last": 3481 },
+  { "key": "equality", "title": ["The enigmatic equality: 64 = 65", "Загадочное равенство: 64 = 65"], "first": 3483, "last": 4121 }
+]

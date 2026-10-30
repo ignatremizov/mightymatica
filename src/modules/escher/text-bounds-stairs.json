@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Escher-stairs-game.swf",
+      "sourceSha256": "c890489a5b2f5dba4d0292b4576ac4048bada7ce850f43013d4084d3dcf45346",
+      "textBounds": {
+        "text36": [
+          -41,
+          319,
+          9372,
+          3337
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Escher-stairs-game.swf",
+      "sourceSha256": "c890489a5b2f5dba4d0292b4576ac4048bada7ce850f43013d4084d3dcf45346",
+      "textBounds": {
+        "text36": [
+          -41,
+          319,
+          9372,
+          3337
+        ]
+      }
+    }
+  }
+}

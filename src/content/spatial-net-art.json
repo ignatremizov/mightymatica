@@ -1,0 +1,1540 @@
+{
+  "Cubenetslide-1": {
+    "T1": {
+      "src": "spatial/nets/cubenetslide-1/t1/DefineSprite_8/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 8,
+      "source": "Movies/Cubenetslide-1.swf",
+      "sourceSha256": "b09bb83dee0152e1aa3c86d123ade0ab8c873863e267e6e86d4cdad4ab27ddf3",
+      "sha256": "ad5fd9d9ef0c790a3d1b2d8a096057c16c500826d6bf090aed84d9aa44167e92"
+    },
+    "T2": {
+      "src": "spatial/nets/cubenetslide-1/t2/DefineSprite_2/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 2,
+      "source": "Movies/Cubenetslide-1.swf",
+      "sourceSha256": "b09bb83dee0152e1aa3c86d123ade0ab8c873863e267e6e86d4cdad4ab27ddf3",
+      "sha256": "fee66addd566911de921c85002852ce0669ca6f2807c7977e28c80c288a0bdd7"
+    },
+    "T3": {
+      "src": "spatial/nets/cubenetslide-1/t3/DefineSprite_4/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 4,
+      "source": "Movies/Cubenetslide-1.swf",
+      "sourceSha256": "b09bb83dee0152e1aa3c86d123ade0ab8c873863e267e6e86d4cdad4ab27ddf3",
+      "sha256": "6d49b90a4bb4c6ee6eb67f928dbe4e39e00f1988152d5fe497c87a852517dcd4"
+    },
+    "T4": {
+      "src": "spatial/nets/cubenetslide-1/t4/DefineSprite_12/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 12,
+      "source": "Movies/Cubenetslide-1.swf",
+      "sourceSha256": "b09bb83dee0152e1aa3c86d123ade0ab8c873863e267e6e86d4cdad4ab27ddf3",
+      "sha256": "8ef1dfd3bad6ab0ddf8de5cd095946e6872c12479f07e7f0dcb18db04d9e7a92"
+    },
+    "T5": {
+      "src": "spatial/nets/cubenetslide-1/t5/DefineSprite_6/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 6,
+      "source": "Movies/Cubenetslide-1.swf",
+      "sourceSha256": "b09bb83dee0152e1aa3c86d123ade0ab8c873863e267e6e86d4cdad4ab27ddf3",
+      "sha256": "e689056e5886080e70812332e2a0c75f9696add4e1e46275f16c3a32b6abadf1"
+    },
+    "T6": {
+      "src": "spatial/nets/cubenetslide-1/t6/DefineSprite_10/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 10,
+      "source": "Movies/Cubenetslide-1.swf",
+      "sourceSha256": "b09bb83dee0152e1aa3c86d123ade0ab8c873863e267e6e86d4cdad4ab27ddf3",
+      "sha256": "76d6fd45352033514e9a17adae9fd555ee5afc2f1aa4075461088499caf1863e"
+    }
+  },
+  "Cubenetslide-2": {
+    "T1": {
+      "src": "spatial/nets/cubenetslide-2/t1/DefineSprite_8/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 8,
+      "source": "Movies/Cubenetslide-2.swf",
+      "sourceSha256": "ffd19fc3d3a6f7e2f2c1581ee6ee437792866f7c69336dd41fba7ccd34e88556",
+      "sha256": "88eb212a6cb10dbe53cf9118f739862ad04ab029d321bdf097bf892db4e6a754"
+    },
+    "T2": {
+      "src": "spatial/nets/cubenetslide-2/t2/DefineSprite_2/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 2,
+      "source": "Movies/Cubenetslide-2.swf",
+      "sourceSha256": "ffd19fc3d3a6f7e2f2c1581ee6ee437792866f7c69336dd41fba7ccd34e88556",
+      "sha256": "33b486d8b8b63c588b87359b44c4a6e9f589b2c001e75386cd3ebc1b36a22d80"
+    },
+    "T3": {
+      "src": "spatial/nets/cubenetslide-2/t3/DefineSprite_4/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 4,
+      "source": "Movies/Cubenetslide-2.swf",
+      "sourceSha256": "ffd19fc3d3a6f7e2f2c1581ee6ee437792866f7c69336dd41fba7ccd34e88556",
+      "sha256": "fe2c9b22c4b33245688a723a13cb50e253205d054d25e38a0990a681afd1950d"
+    },
+    "T4": {
+      "src": "spatial/nets/cubenetslide-2/t4/DefineSprite_12/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 12,
+      "source": "Movies/Cubenetslide-2.swf",
+      "sourceSha256": "ffd19fc3d3a6f7e2f2c1581ee6ee437792866f7c69336dd41fba7ccd34e88556",
+      "sha256": "3542ff92c7a0b6d73294ff662badf13708f96bf6c114542b6f083e25fb81134e"
+    },
+    "T5": {
+      "src": "spatial/nets/cubenetslide-2/t5/DefineSprite_6/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 6,
+      "source": "Movies/Cubenetslide-2.swf",
+      "sourceSha256": "ffd19fc3d3a6f7e2f2c1581ee6ee437792866f7c69336dd41fba7ccd34e88556",
+      "sha256": "0c53a9f2f583df813398e86963e87810b024e55e86b09d5dc756e6bad0bf2018"
+    },
+    "T6": {
+      "src": "spatial/nets/cubenetslide-2/t6/DefineSprite_10/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 10,
+      "source": "Movies/Cubenetslide-2.swf",
+      "sourceSha256": "ffd19fc3d3a6f7e2f2c1581ee6ee437792866f7c69336dd41fba7ccd34e88556",
+      "sha256": "e9211a2164387bef910c3738c9a1339e9e7770aa77a63f447b706feb77dbc9dc"
+    }
+  },
+  "Cubenetslide-3": {
+    "T1": {
+      "src": "spatial/nets/cubenetslide-3/t1/DefineSprite_8/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 8,
+      "source": "Movies/Cubenetslide-3.swf",
+      "sourceSha256": "0393116b6a5a43f19cde9fdf7eba56fe3a8f123a12012dfec302399e1423477c",
+      "sha256": "6d5a5b017b57c167288e4e3dcf9dc74c0f541b646b88b11700c3411caa581d9a"
+    },
+    "T2": {
+      "src": "spatial/nets/cubenetslide-3/t2/DefineSprite_2/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 2,
+      "source": "Movies/Cubenetslide-3.swf",
+      "sourceSha256": "0393116b6a5a43f19cde9fdf7eba56fe3a8f123a12012dfec302399e1423477c",
+      "sha256": "33b486d8b8b63c588b87359b44c4a6e9f589b2c001e75386cd3ebc1b36a22d80"
+    },
+    "T3": {
+      "src": "spatial/nets/cubenetslide-3/t3/DefineSprite_4/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 4,
+      "source": "Movies/Cubenetslide-3.swf",
+      "sourceSha256": "0393116b6a5a43f19cde9fdf7eba56fe3a8f123a12012dfec302399e1423477c",
+      "sha256": "38b1b7e3e5923985f1b4e6d148951046dde2764cf9f4530befe6415eb9f29c28"
+    },
+    "T4": {
+      "src": "spatial/nets/cubenetslide-3/t4/DefineSprite_12/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 12,
+      "source": "Movies/Cubenetslide-3.swf",
+      "sourceSha256": "0393116b6a5a43f19cde9fdf7eba56fe3a8f123a12012dfec302399e1423477c",
+      "sha256": "57340089eb6a23955d3b8083be2d06aec937febab05199c3433669ff43d34284"
+    },
+    "T5": {
+      "src": "spatial/nets/cubenetslide-3/t5/DefineSprite_6/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 6,
+      "source": "Movies/Cubenetslide-3.swf",
+      "sourceSha256": "0393116b6a5a43f19cde9fdf7eba56fe3a8f123a12012dfec302399e1423477c",
+      "sha256": "0c53a9f2f583df813398e86963e87810b024e55e86b09d5dc756e6bad0bf2018"
+    },
+    "T6": {
+      "src": "spatial/nets/cubenetslide-3/t6/DefineSprite_10/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 10,
+      "source": "Movies/Cubenetslide-3.swf",
+      "sourceSha256": "0393116b6a5a43f19cde9fdf7eba56fe3a8f123a12012dfec302399e1423477c",
+      "sha256": "e9211a2164387bef910c3738c9a1339e9e7770aa77a63f447b706feb77dbc9dc"
+    }
+  },
+  "Cubenetslide-4": {
+    "T1": {
+      "src": "spatial/nets/cubenetslide-4/t1/DefineSprite_8/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 8,
+      "source": "Movies/Cubenetslide-4.swf",
+      "sourceSha256": "3cbb9fdf849015154b8cefd083e1b32cfe86819b3ede4049cfabe708e0e6cb9e",
+      "sha256": "120819c4f9d4cf83841486809da2ad7f3fbfebb5078d8c4ade21399af6678d37"
+    },
+    "T2": {
+      "src": "spatial/nets/cubenetslide-4/t2/DefineSprite_2/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 2,
+      "source": "Movies/Cubenetslide-4.swf",
+      "sourceSha256": "3cbb9fdf849015154b8cefd083e1b32cfe86819b3ede4049cfabe708e0e6cb9e",
+      "sha256": "3649776018705ceb99b3ac7bf8079db81887ef972115cd93c6b0f8cd5377105b"
+    },
+    "T3": {
+      "src": "spatial/nets/cubenetslide-4/t3/DefineSprite_4/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 4,
+      "source": "Movies/Cubenetslide-4.swf",
+      "sourceSha256": "3cbb9fdf849015154b8cefd083e1b32cfe86819b3ede4049cfabe708e0e6cb9e",
+      "sha256": "9d2c2e7202ae669709e989164d907858959f9b41d9b79ac16253f170e56efcbf"
+    },
+    "T4": {
+      "src": "spatial/nets/cubenetslide-4/t4/DefineSprite_12/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 12,
+      "source": "Movies/Cubenetslide-4.swf",
+      "sourceSha256": "3cbb9fdf849015154b8cefd083e1b32cfe86819b3ede4049cfabe708e0e6cb9e",
+      "sha256": "1fabf3c0815edbf4038cd4d0f224948c9cf7afd8481c3c7f6c0f176406bb47dd"
+    },
+    "T5": {
+      "src": "spatial/nets/cubenetslide-4/t5/DefineSprite_6/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 6,
+      "source": "Movies/Cubenetslide-4.swf",
+      "sourceSha256": "3cbb9fdf849015154b8cefd083e1b32cfe86819b3ede4049cfabe708e0e6cb9e",
+      "sha256": "fd13cb43cdf257622afbfca69d8c2dfc6766b285806291ccea1bbef8fcfa939d"
+    },
+    "T6": {
+      "src": "spatial/nets/cubenetslide-4/t6/DefineSprite_10/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 10,
+      "source": "Movies/Cubenetslide-4.swf",
+      "sourceSha256": "3cbb9fdf849015154b8cefd083e1b32cfe86819b3ede4049cfabe708e0e6cb9e",
+      "sha256": "c899d490d36d666a0931457f2e0a1d92e66f17b9eb1a4408600e77d10af2b36d"
+    }
+  },
+  "Cubenetslide-5": {
+    "T1": {
+      "src": "spatial/nets/cubenetslide-5/t1/DefineSprite_12/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 12,
+      "source": "Movies/Cubenetslide-5.swf",
+      "sourceSha256": "ccd9135197e202ae7ab5739b976f5aae213cc9b9d47ce4797967a994cdf33334",
+      "sha256": "c6b8fb0bd9a2e51b6d484bfaf0963457e100bda29dad3bedab9a7f31aebb007e"
+    },
+    "T2": {
+      "src": "spatial/nets/cubenetslide-5/t2/DefineSprite_3/1.png",
+      "width": 42,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41.5,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 3,
+      "source": "Movies/Cubenetslide-5.swf",
+      "sourceSha256": "ccd9135197e202ae7ab5739b976f5aae213cc9b9d47ce4797967a994cdf33334",
+      "sha256": "edfeb607073f2ff0980e8795750f518a27c273dc0cfbb2f650c214e8c8153173"
+    },
+    "T3": {
+      "src": "spatial/nets/cubenetslide-5/t3/DefineSprite_6/1.png",
+      "width": 46,
+      "height": 41,
+      "origin": {
+        "x": -22,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 46,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 6,
+      "source": "Movies/Cubenetslide-5.swf",
+      "sourceSha256": "ccd9135197e202ae7ab5739b976f5aae213cc9b9d47ce4797967a994cdf33334",
+      "sha256": "279bfad664a00de450644c0c3c3d0944cc67192be9d0226ec8905fbf819feb1b"
+    },
+    "T4": {
+      "src": "spatial/nets/cubenetslide-5/t4/DefineSprite_18/1.png",
+      "width": 43,
+      "height": 41,
+      "origin": {
+        "x": -22,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 43,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 18,
+      "source": "Movies/Cubenetslide-5.swf",
+      "sourceSha256": "ccd9135197e202ae7ab5739b976f5aae213cc9b9d47ce4797967a994cdf33334",
+      "sha256": "3054ea230b341c38ee1878da4f138c0580984bde5b0d2f1d67b44c5b8d2af9ac"
+    },
+    "T5": {
+      "src": "spatial/nets/cubenetslide-5/t5/DefineSprite_9/1.png",
+      "width": 42,
+      "height": 42,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41.5,
+        "height": 41.5
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 9,
+      "source": "Movies/Cubenetslide-5.swf",
+      "sourceSha256": "ccd9135197e202ae7ab5739b976f5aae213cc9b9d47ce4797967a994cdf33334",
+      "sha256": "9bc983b8f7fa008d4cb5eef6d9cda1b9dd9594ef26f3e75e29925f94a7b8a9ce"
+    },
+    "T6": {
+      "src": "spatial/nets/cubenetslide-5/t6/DefineSprite_15/1.png",
+      "width": 44,
+      "height": 41,
+      "origin": {
+        "x": -23,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 43.5,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 15,
+      "source": "Movies/Cubenetslide-5.swf",
+      "sourceSha256": "ccd9135197e202ae7ab5739b976f5aae213cc9b9d47ce4797967a994cdf33334",
+      "sha256": "4e3ecc97f3d9dbb62d2e969fa972ff0a4a3bb6ef228641ef23ad0b8b0b1ab2a0"
+    }
+  },
+  "CubeNG-1": {
+    "Symbol_10": {
+      "src": "spatial/nets/cubeng-1/symbol-10/DefineSprite_10/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 10,
+      "source": "Movies/CubeNG-1.swf",
+      "sourceSha256": "f730cb52212af4ac94da7dc8267a9b3f994b27ed254944b2a799a268e327dc73",
+      "sha256": "76d6fd45352033514e9a17adae9fd555ee5afc2f1aa4075461088499caf1863e"
+    },
+    "Symbol_12": {
+      "src": "spatial/nets/cubeng-1/symbol-12/DefineSprite_12/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 12,
+      "source": "Movies/CubeNG-1.swf",
+      "sourceSha256": "f730cb52212af4ac94da7dc8267a9b3f994b27ed254944b2a799a268e327dc73",
+      "sha256": "8ef1dfd3bad6ab0ddf8de5cd095946e6872c12479f07e7f0dcb18db04d9e7a92"
+    },
+    "Symbol_2": {
+      "src": "spatial/nets/cubeng-1/symbol-2/DefineSprite_2/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 2,
+      "source": "Movies/CubeNG-1.swf",
+      "sourceSha256": "f730cb52212af4ac94da7dc8267a9b3f994b27ed254944b2a799a268e327dc73",
+      "sha256": "fee66addd566911de921c85002852ce0669ca6f2807c7977e28c80c288a0bdd7"
+    },
+    "Symbol_4": {
+      "src": "spatial/nets/cubeng-1/symbol-4/DefineSprite_4/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 4,
+      "source": "Movies/CubeNG-1.swf",
+      "sourceSha256": "f730cb52212af4ac94da7dc8267a9b3f994b27ed254944b2a799a268e327dc73",
+      "sha256": "6d49b90a4bb4c6ee6eb67f928dbe4e39e00f1988152d5fe497c87a852517dcd4"
+    },
+    "Symbol_6": {
+      "src": "spatial/nets/cubeng-1/symbol-6/DefineSprite_6/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 6,
+      "source": "Movies/CubeNG-1.swf",
+      "sourceSha256": "f730cb52212af4ac94da7dc8267a9b3f994b27ed254944b2a799a268e327dc73",
+      "sha256": "e689056e5886080e70812332e2a0c75f9696add4e1e46275f16c3a32b6abadf1"
+    },
+    "Symbol_8": {
+      "src": "spatial/nets/cubeng-1/symbol-8/DefineSprite_8/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 8,
+      "source": "Movies/CubeNG-1.swf",
+      "sourceSha256": "f730cb52212af4ac94da7dc8267a9b3f994b27ed254944b2a799a268e327dc73",
+      "sha256": "ad5fd9d9ef0c790a3d1b2d8a096057c16c500826d6bf090aed84d9aa44167e92"
+    }
+  },
+  "CubeNG-2": {
+    "Symbol_10": {
+      "src": "spatial/nets/cubeng-2/symbol-10/DefineSprite_10/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 10,
+      "source": "Movies/CubeNG-2.swf",
+      "sourceSha256": "94782377817a496858f420453cb0831011bc7fa47d3319382daa66d9725056b4",
+      "sha256": "e9211a2164387bef910c3738c9a1339e9e7770aa77a63f447b706feb77dbc9dc"
+    },
+    "Symbol_2": {
+      "src": "spatial/nets/cubeng-2/symbol-2/DefineSprite_2/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 2,
+      "source": "Movies/CubeNG-2.swf",
+      "sourceSha256": "94782377817a496858f420453cb0831011bc7fa47d3319382daa66d9725056b4",
+      "sha256": "33b486d8b8b63c588b87359b44c4a6e9f589b2c001e75386cd3ebc1b36a22d80"
+    },
+    "Symbol_4": {
+      "src": "spatial/nets/cubeng-2/symbol-4/DefineSprite_4/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 4,
+      "source": "Movies/CubeNG-2.swf",
+      "sourceSha256": "94782377817a496858f420453cb0831011bc7fa47d3319382daa66d9725056b4",
+      "sha256": "fe2c9b22c4b33245688a723a13cb50e253205d054d25e38a0990a681afd1950d"
+    },
+    "Symbol_6": {
+      "src": "spatial/nets/cubeng-2/symbol-6/DefineSprite_6/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 6,
+      "source": "Movies/CubeNG-2.swf",
+      "sourceSha256": "94782377817a496858f420453cb0831011bc7fa47d3319382daa66d9725056b4",
+      "sha256": "0c53a9f2f583df813398e86963e87810b024e55e86b09d5dc756e6bad0bf2018"
+    },
+    "Symbol_8": {
+      "src": "spatial/nets/cubeng-2/symbol-8/DefineSprite_8/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 8,
+      "source": "Movies/CubeNG-2.swf",
+      "sourceSha256": "94782377817a496858f420453cb0831011bc7fa47d3319382daa66d9725056b4",
+      "sha256": "e9211a2164387bef910c3738c9a1339e9e7770aa77a63f447b706feb77dbc9dc"
+    },
+    "Symbol_9": {
+      "src": "spatial/nets/cubeng-2/symbol-9/DefineSprite_9/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 9,
+      "source": "Movies/CubeNG-2.swf",
+      "sourceSha256": "94782377817a496858f420453cb0831011bc7fa47d3319382daa66d9725056b4",
+      "sha256": "e9211a2164387bef910c3738c9a1339e9e7770aa77a63f447b706feb77dbc9dc"
+    }
+  },
+  "CubeNG-3": {
+    "Symbol_10": {
+      "src": "spatial/nets/cubeng-3/symbol-10/DefineSprite_10/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 10,
+      "source": "Movies/CubeNG-3.swf",
+      "sourceSha256": "2511b5526e825410837da26aa82b8232fde69d7fa1b78ea91252af2437e6df62",
+      "sha256": "57340089eb6a23955d3b8083be2d06aec937febab05199c3433669ff43d34284"
+    },
+    "Symbol_2": {
+      "src": "spatial/nets/cubeng-3/symbol-2/DefineSprite_2/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 2,
+      "source": "Movies/CubeNG-3.swf",
+      "sourceSha256": "2511b5526e825410837da26aa82b8232fde69d7fa1b78ea91252af2437e6df62",
+      "sha256": "33b486d8b8b63c588b87359b44c4a6e9f589b2c001e75386cd3ebc1b36a22d80"
+    },
+    "Symbol_23": {
+      "src": "spatial/nets/cubeng-3/symbol-23/DefineSprite_23/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 23,
+      "source": "Movies/CubeNG-3.swf",
+      "sourceSha256": "2511b5526e825410837da26aa82b8232fde69d7fa1b78ea91252af2437e6df62",
+      "sha256": "5762a4340590cdb7c2c6d8211cfaf0b9c85a58ee3ec78af338defce5c756cea1"
+    },
+    "Symbol_4": {
+      "src": "spatial/nets/cubeng-3/symbol-4/DefineSprite_4/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 4,
+      "source": "Movies/CubeNG-3.swf",
+      "sourceSha256": "2511b5526e825410837da26aa82b8232fde69d7fa1b78ea91252af2437e6df62",
+      "sha256": "38b1b7e3e5923985f1b4e6d148951046dde2764cf9f4530befe6415eb9f29c28"
+    },
+    "Symbol_6": {
+      "src": "spatial/nets/cubeng-3/symbol-6/DefineSprite_6/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 6,
+      "source": "Movies/CubeNG-3.swf",
+      "sourceSha256": "2511b5526e825410837da26aa82b8232fde69d7fa1b78ea91252af2437e6df62",
+      "sha256": "e9211a2164387bef910c3738c9a1339e9e7770aa77a63f447b706feb77dbc9dc"
+    },
+    "Symbol_7": {
+      "src": "spatial/nets/cubeng-3/symbol-7/DefineSprite_7/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 7,
+      "source": "Movies/CubeNG-3.swf",
+      "sourceSha256": "2511b5526e825410837da26aa82b8232fde69d7fa1b78ea91252af2437e6df62",
+      "sha256": "33b486d8b8b63c588b87359b44c4a6e9f589b2c001e75386cd3ebc1b36a22d80"
+    },
+    "Symbol_8": {
+      "src": "spatial/nets/cubeng-3/symbol-8/DefineSprite_8/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 8,
+      "source": "Movies/CubeNG-3.swf",
+      "sourceSha256": "2511b5526e825410837da26aa82b8232fde69d7fa1b78ea91252af2437e6df62",
+      "sha256": "e9211a2164387bef910c3738c9a1339e9e7770aa77a63f447b706feb77dbc9dc"
+    }
+  },
+  "CubeNG-4": {
+    "Symbol_10": {
+      "src": "spatial/nets/cubeng-4/symbol-10/DefineSprite_10/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 10,
+      "source": "Movies/CubeNG-4.swf",
+      "sourceSha256": "7306655d96408f71a5e8218358508fba4be8eecdd8b421c4780ac378bc48ca39",
+      "sha256": "3649776018705ceb99b3ac7bf8079db81887ef972115cd93c6b0f8cd5377105b"
+    },
+    "Symbol_12": {
+      "src": "spatial/nets/cubeng-4/symbol-12/DefineSprite_12/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 12,
+      "source": "Movies/CubeNG-4.swf",
+      "sourceSha256": "7306655d96408f71a5e8218358508fba4be8eecdd8b421c4780ac378bc48ca39",
+      "sha256": "c899d490d36d666a0931457f2e0a1d92e66f17b9eb1a4408600e77d10af2b36d"
+    },
+    "Symbol_14": {
+      "src": "spatial/nets/cubeng-4/symbol-14/DefineSprite_14/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 14,
+      "source": "Movies/CubeNG-4.swf",
+      "sourceSha256": "7306655d96408f71a5e8218358508fba4be8eecdd8b421c4780ac378bc48ca39",
+      "sha256": "9d2c2e7202ae669709e989164d907858959f9b41d9b79ac16253f170e56efcbf"
+    },
+    "Symbol_16": {
+      "src": "spatial/nets/cubeng-4/symbol-16/DefineSprite_16/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 16,
+      "source": "Movies/CubeNG-4.swf",
+      "sourceSha256": "7306655d96408f71a5e8218358508fba4be8eecdd8b421c4780ac378bc48ca39",
+      "sha256": "fd13cb43cdf257622afbfca69d8c2dfc6766b285806291ccea1bbef8fcfa939d"
+    },
+    "Symbol_18": {
+      "src": "spatial/nets/cubeng-4/symbol-18/DefineSprite_18/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 18,
+      "source": "Movies/CubeNG-4.swf",
+      "sourceSha256": "7306655d96408f71a5e8218358508fba4be8eecdd8b421c4780ac378bc48ca39",
+      "sha256": "120819c4f9d4cf83841486809da2ad7f3fbfebb5078d8c4ade21399af6678d37"
+    },
+    "Symbol_20": {
+      "src": "spatial/nets/cubeng-4/symbol-20/DefineSprite_20/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 20,
+      "source": "Movies/CubeNG-4.swf",
+      "sourceSha256": "7306655d96408f71a5e8218358508fba4be8eecdd8b421c4780ac378bc48ca39",
+      "sha256": "1fabf3c0815edbf4038cd4d0f224948c9cf7afd8481c3c7f6c0f176406bb47dd"
+    },
+    "Symbol_26": {
+      "src": "spatial/nets/cubeng-4/symbol-26/DefineSprite_26/1.png",
+      "width": 42,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41.75,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 26,
+      "source": "Movies/CubeNG-4.swf",
+      "sourceSha256": "7306655d96408f71a5e8218358508fba4be8eecdd8b421c4780ac378bc48ca39",
+      "sha256": "04e392564c05e072018e9f07fd620d9b90599d386dc4db8b0f8ec2025314bb54"
+    },
+    "Symbol_28": {
+      "src": "spatial/nets/cubeng-4/symbol-28/DefineSprite_28/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 28,
+      "source": "Movies/CubeNG-4.swf",
+      "sourceSha256": "7306655d96408f71a5e8218358508fba4be8eecdd8b421c4780ac378bc48ca39",
+      "sha256": "9bec0e4f59b053216467c140f8765d3b60d3a7ceda4bf12b3866b9252b4fe32f"
+    },
+    "Symbol_30": {
+      "src": "spatial/nets/cubeng-4/symbol-30/DefineSprite_30/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 30,
+      "source": "Movies/CubeNG-4.swf",
+      "sourceSha256": "7306655d96408f71a5e8218358508fba4be8eecdd8b421c4780ac378bc48ca39",
+      "sha256": "c644394380ccaee47b9ec26be5c9e584b44bea4c1bf14ea03fed5d5377678b04"
+    },
+    "Symbol_32": {
+      "src": "spatial/nets/cubeng-4/symbol-32/DefineSprite_32/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 32,
+      "source": "Movies/CubeNG-4.swf",
+      "sourceSha256": "7306655d96408f71a5e8218358508fba4be8eecdd8b421c4780ac378bc48ca39",
+      "sha256": "3831389d49054e94da46b5fb11ab80c4c6c9d5729ec6a4770c8f2a9f3120a644"
+    }
+  },
+  "CubeNG-5": {
+    "Symbol_11": {
+      "src": "spatial/nets/cubeng-5/symbol-11/DefineSprite_11/1.png",
+      "width": 42,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41.5,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 11,
+      "source": "Movies/CubeNG-5.swf",
+      "sourceSha256": "681bb0dc5fd57dad169c49e6a5729f5256a853fe9b3dea44e8398b5f954fd7ea",
+      "sha256": "edfeb607073f2ff0980e8795750f518a27c273dc0cfbb2f650c214e8c8153173"
+    },
+    "Symbol_14": {
+      "src": "spatial/nets/cubeng-5/symbol-14/DefineSprite_14/1.png",
+      "width": 44,
+      "height": 41,
+      "origin": {
+        "x": -23,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 43.5,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 14,
+      "source": "Movies/CubeNG-5.swf",
+      "sourceSha256": "681bb0dc5fd57dad169c49e6a5729f5256a853fe9b3dea44e8398b5f954fd7ea",
+      "sha256": "4e3ecc97f3d9dbb62d2e969fa972ff0a4a3bb6ef228641ef23ad0b8b0b1ab2a0"
+    },
+    "Symbol_17": {
+      "src": "spatial/nets/cubeng-5/symbol-17/DefineSprite_17/1.png",
+      "width": 46,
+      "height": 41,
+      "origin": {
+        "x": -22,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 46,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 17,
+      "source": "Movies/CubeNG-5.swf",
+      "sourceSha256": "681bb0dc5fd57dad169c49e6a5729f5256a853fe9b3dea44e8398b5f954fd7ea",
+      "sha256": "279bfad664a00de450644c0c3c3d0944cc67192be9d0226ec8905fbf819feb1b"
+    },
+    "Symbol_20": {
+      "src": "spatial/nets/cubeng-5/symbol-20/DefineSprite_20/1.png",
+      "width": 42,
+      "height": 42,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41.5,
+        "height": 41.5
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 20,
+      "source": "Movies/CubeNG-5.swf",
+      "sourceSha256": "681bb0dc5fd57dad169c49e6a5729f5256a853fe9b3dea44e8398b5f954fd7ea",
+      "sha256": "9bc983b8f7fa008d4cb5eef6d9cda1b9dd9594ef26f3e75e29925f94a7b8a9ce"
+    },
+    "Symbol_23": {
+      "src": "spatial/nets/cubeng-5/symbol-23/DefineSprite_23/1.png",
+      "width": 41,
+      "height": 41,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 23,
+      "source": "Movies/CubeNG-5.swf",
+      "sourceSha256": "681bb0dc5fd57dad169c49e6a5729f5256a853fe9b3dea44e8398b5f954fd7ea",
+      "sha256": "c6b8fb0bd9a2e51b6d484bfaf0963457e100bda29dad3bedab9a7f31aebb007e"
+    },
+    "Symbol_26": {
+      "src": "spatial/nets/cubeng-5/symbol-26/DefineSprite_26/1.png",
+      "width": 43,
+      "height": 41,
+      "origin": {
+        "x": -22,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 43,
+        "height": 41
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 26,
+      "source": "Movies/CubeNG-5.swf",
+      "sourceSha256": "681bb0dc5fd57dad169c49e6a5729f5256a853fe9b3dea44e8398b5f954fd7ea",
+      "sha256": "3054ea230b341c38ee1878da4f138c0580984bde5b0d2f1d67b44c5b8d2af9ac"
+    },
+    "Symbol_32": {
+      "src": "spatial/nets/cubeng-5/symbol-32/DefineSprite_32/1.png",
+      "width": 41,
+      "height": 42,
+      "origin": {
+        "x": -20.5,
+        "y": -20.5
+      },
+      "bounds": {
+        "width": 41,
+        "height": 41.65
+      },
+      "faceBounds": {
+        "x": -20,
+        "y": -20,
+        "width": 40,
+        "height": 40
+      },
+      "spriteId": 32,
+      "source": "Movies/CubeNG-5.swf",
+      "sourceSha256": "681bb0dc5fd57dad169c49e6a5729f5256a853fe9b3dea44e8398b5f954fd7ea",
+      "sha256": "67e2be674f36eeccc86f62603ef7a4b1c1979a3218a5758ed4ef0d3d7df39430"
+    }
+  }
+}

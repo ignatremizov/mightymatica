@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Escher-lizards-game.swf",
+      "sourceSha256": "3c9f730283b0bb1b20528e21093e88c0690b974b1930a68de952b86c87a2f4be",
+      "textBounds": {
+        "text35": [
+          -41,
+          319,
+          9372,
+          3337
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Escher-lizards-game.swf",
+      "sourceSha256": "3c9f730283b0bb1b20528e21093e88c0690b974b1930a68de952b86c87a2f4be",
+      "textBounds": {
+        "text35": [
+          -41,
+          319,
+          9372,
+          3337
+        ]
+      }
+    }
+  }
+}

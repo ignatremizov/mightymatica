@@ -1,0 +1,56 @@
+/* Plain controls leave the source-authored stage and artwork in charge. */
+.activity-layout { display: grid; gap: 1.25rem; min-width: 0; }
+.activity-layout > * { min-width: 0; }
+.controls { display: flex; flex-wrap: wrap; align-items: center; gap: .7rem; margin: 1rem 0; }
+.control { display: grid; gap: .4rem; font-size: .85rem; }
+.diagram { display: block; width: 100%; max-height: 70vh; background: transparent; border: 0; border-radius: 0; }
+:where(.activity-stage button:not(.button)) {
+  padding: .5rem .75rem; border: 1px solid #330099; border-radius: 0;
+  color: #00008b; background: #b6ffff; min-height: 40px; line-height: 1.3;
+}
+:where(.activity-stage button:not(.button):hover:not(:disabled)) { background: #8ff; }
+:where(.activity-stage button[aria-pressed="true"]) { border-color: #00008b; background: #99eaff; color: #00008b; }
+:where(.activity-stage button:disabled) { opacity: .5; }
+.activity-stage fieldset { border: 1px solid #330099; padding: .75rem; }
+.activity-stage legend { padding: 0 .4rem; font-weight: 600; font-size: .85rem; }
+.activity-stage label { line-height: 1.5; }
+.activity-stage svg text { user-select: none; }
+.activity-status { margin: .75rem 0; min-height: 1.7em; color: inherit; font-size: 1rem; }
+.explanation { margin-block: .75rem; line-height: 1.5; }
+.activity-note { color: #34386c; font-size: .85rem; line-height: 1.5; }
+.stat-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(115px, 1fr)); gap: .75rem; }
+.stat { padding: .35rem 0; font-size: .95rem; }
+.stat strong { display: block; font-size: 1.25rem; }
+.choice-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: .75rem; }
+.activity-stage input[type="number"] { max-width: 125px; }
+.activity-stage input[type="range"] { max-width: 100%; }
+.activity-stage [role="status"] { overflow-wrap: anywhere; }
+.activity-stage pre { overflow: auto; }
+.original-timeline { width: fit-content; max-width: 100%; margin: 0 auto; }
+.original-timeline > div[role="group"] { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: .5rem; margin-top: .6rem; }
+.original-timeline figcaption { text-align: center; margin-top: .4rem; }
+/* Native playback control, echoing Paradox box's Symbol 64/68 capsule.
+   Keep it in the native controls row: painted source buttons are not DOM targets. */
+.original-timeline button.source-play-control {
+  min-width: 7rem; min-height: 32px; padding: .3rem 1.4rem;
+  border: 1px solid #0099ff; border-radius: 999px;
+  background: radial-gradient(ellipse at center, #33ffff 0%, #0066cc 52%, #000099 100%);
+  color: #fff; font-family: Arial, sans-serif; font-size: .85rem;
+  font-weight: 700; line-height: 1.2; text-transform: uppercase;
+  text-shadow: 0 1px 2px #000066, 0 -1px 2px #000066;
+  cursor: pointer;
+}
+.original-timeline button.source-play-control:hover:not(:disabled) {
+  background: radial-gradient(ellipse at center, #66ffff 0%, #0077dd 52%, #000099 100%);
+}
+.original-timeline button.source-play-control:focus-visible {
+  outline: 3px solid #330099; outline-offset: 3px;
+}
+.original-timeline button.source-play-control:disabled { cursor: default; }
+@media (max-width: 600px) {
+  .activity-stage { font-size: .9rem; }
+  .activity-stage h2 { font-size: 1.5rem; }
+  .activity-stage h3 { font-size: 1.05rem; }
+  .controls { gap: .55rem; }
+  .choice-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}

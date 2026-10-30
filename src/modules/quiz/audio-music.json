@@ -1,0 +1,35 @@
+{
+  "fps": 15,
+  "bindings": {
+    "question": 1,
+    "theme": 2
+  },
+  "audioAssets": [
+    {
+      "soundId": 1,
+      "codec": 2,
+      "sampleRate": 44100,
+      "sampleCount": 1284480,
+      "channels": 2,
+      "seekSamples": 0,
+      "src": "quiz/audio/1.mp3",
+      "sha256": "6d5f452ded29ee15a082ef82176209d07d792a483d5bd2f4aa25046429200e27",
+      "embeddedMp3Sha256": "6d5f452ded29ee15a082ef82176209d07d792a483d5bd2f4aa25046429200e27",
+      "durationSeconds": 29.099908000000692,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 2,
+      "codec": 2,
+      "sampleRate": 44100,
+      "sampleCount": 819072,
+      "channels": 2,
+      "seekSamples": 0,
+      "src": "quiz/audio/2.mp3",
+      "sha256": "55ffb8ebe47c2f93e1cbe927d351b595d5c834d5135d34e1eef961c4b9877ff9",
+      "embeddedMp3Sha256": "55ffb8ebe47c2f93e1cbe927d351b595d5c834d5135d34e1eef961c4b9877ff9",
+      "durationSeconds": 18.546620000000342,
+      "durationMeasurement": "ffprobe-packet-sum"
+    }
+  ]
+}

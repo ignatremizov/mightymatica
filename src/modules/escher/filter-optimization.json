@@ -1,0 +1,44 @@
+[
+  {
+    "key": "BandF",
+    "groups": 1,
+    "sourceSha256": "16c8b419b7915785219101c9d33289bd69c84cbe8ba9c1300b48e990591425d2",
+    "resultSha256": "f5eb64a15b2ae7959312a7a0900ca0b6ae8dd3cb5b6f23cab4593e8d20f24b84"
+  },
+  {
+    "key": "faces",
+    "groups": 61,
+    "sourceSha256": "21dd660ce09756c00cdc1147fa8237531e917e427bd0553b0dee3e932e5dfc57",
+    "resultSha256": "d5f26912104c4b00493f5c34b426bbc4f3e410e3b245424b8bb985bd79ebf2b4"
+  },
+  {
+    "key": "hands",
+    "groups": 1,
+    "sourceSha256": "7b2bbb31b9c7199add99bee837ad402561eaf6220a78a28ee5fdc49f3e1d00a9",
+    "resultSha256": "26bb70e6555086484dc8dd5cef6ebdc3c369991571ae93cd24c1a5eb8d4ec2a7"
+  },
+  {
+    "key": "lizards",
+    "groups": 1,
+    "sourceSha256": "5cb020c90f2b5bc2a4b0225e81c02726ab4a3589132e052f7d39045ea27bcab8",
+    "resultSha256": "af9016cca9517b3ac53b78b12487cc9c675a20cdc28c518eadbaddaf30b7a39b"
+  },
+  {
+    "key": "stairbig",
+    "groups": 1,
+    "sourceSha256": "96065316e286dd8905511c6e737c584353791344378086a2d410976a871266ca",
+    "resultSha256": "79533405da85a3b9db96add3e6ab99ff13bf5d7dfe1a5a6c5b2b45d098e354ef"
+  },
+  {
+    "key": "stairs",
+    "groups": 1,
+    "sourceSha256": "9851106317f5f2e3ae3d3e128dc310d0b377ce3ef7f2cb5002d1c849e874e478",
+    "resultSha256": "85f1708f9ea33b2bcd3b818a446f02609e102f1747a18667028ffa81bb7d2d08"
+  },
+  {
+    "key": "waterfall",
+    "groups": 1,
+    "sourceSha256": "3b667ae851ae89a8538ba8da9259cb73ad0c1a020ca5c1ddbeb2944643697218",
+    "resultSha256": "21fb0125bcd420e0dfefcbfe7ccffbf6b4b7bc76710ffe86decdf99f9727fd88"
+  }
+]

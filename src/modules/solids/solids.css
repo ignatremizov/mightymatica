@@ -1,0 +1,19 @@
+.solids .diagram { display: block; width: 100%; max-height: 480px; background: #66ffff; border-radius: 0; }
+.solids svg text { font-family: "Times New Roman", Times, serif; }
+.solids .controls { flex-wrap: wrap; align-items: center; }
+.solids .control { display: grid; gap: .4rem; }
+.solids .control input[type=range] { width: 100%; min-width: 140px; }
+.solids .solids-tetra-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.2rem; }
+.solids .solids-tetra-grid section { min-width: 0; }
+.solids .activity-status { overflow-wrap: anywhere; }
+.solids .solids-original { display: block; width: 100%; max-width: 650px; height: auto; margin-block: 1rem; }
+.solids .solids-rotate { cursor: grab; touch-action: none; }
+.solids .solids-rotate:active { cursor: grabbing; }
+.solids .sphere-lesson { min-width: 0; }
+.solids .sphere-lesson-followup { display: grid; gap: 1rem; margin-top: 1rem; }
+.solids .sphere-lesson-followup > .button { justify-self: start; }
+.solids .sphere-lesson-followup > details > summary { cursor: pointer; }
+.solids .sphere-lesson-followup h2[tabindex="-1"] { scroll-margin-top: 1rem; }
+.solids .sphere-lesson-followup h2[tabindex="-1"]:focus { outline: 2px solid currentColor; outline-offset: .25rem; }
+.solids .solids-soundtrack { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem; margin-top: 1rem; }
+@media (max-width: 520px) { .solids .solids-tetra-grid { grid-template-columns: 1fr; } }

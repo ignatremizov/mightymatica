@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Escher-waterfall-game.swf",
+      "sourceSha256": "ecf53b3887d06eeebe7ad2d11f8a41a6e9661c5851b7b34621576660f598bce8",
+      "textBounds": {
+        "text35": [
+          -41,
+          319,
+          9372,
+          3337
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Escher-waterfall-game.swf",
+      "sourceSha256": "ecf53b3887d06eeebe7ad2d11f8a41a6e9661c5851b7b34621576660f598bce8",
+      "textBounds": {
+        "text35": [
+          -41,
+          319,
+          9372,
+          3337
+        ]
+      }
+    }
+  }
+}

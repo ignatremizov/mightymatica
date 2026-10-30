@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Escher-BandF-game.swf",
+      "sourceSha256": "a4268a0035f39d7863528443f4dc4c0f86eb1f3240bacc5419bed306c42e90e3",
+      "textBounds": {
+        "text35": [
+          -41,
+          319,
+          9372,
+          3337
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Escher-BandF-game.swf",
+      "sourceSha256": "a4268a0035f39d7863528443f4dc4c0f86eb1f3240bacc5419bed306c42e90e3",
+      "textBounds": {
+        "text35": [
+          -41,
+          319,
+          9372,
+          3337
+        ]
+      }
+    }
+  }
+}

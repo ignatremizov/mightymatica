@@ -1,0 +1,172 @@
+{
+  "bills": {
+    "en": {
+      "width": 700,
+      "height": 400,
+      "fps": 30,
+      "frameCount": 988,
+      "sourceSha256": "8e0ab1a7326ae4f4fa94136078330cbcaa9c6fa68d23a5fc671410b626c8aaee",
+      "audioAssets": [
+        {
+          "soundId": 20,
+          "codec": 2,
+          "sampleRate": 11025,
+          "sampleCount": 397152,
+          "channels": 1,
+          "seekSamples": 1661,
+          "src": "dissections/audio/bills-en/20.mp3",
+          "sha256": "457dcbf226849513476308cc7ade91a5d9df04429b2b4e6f6c1c8870023006ec",
+          "embeddedMp3Sha256": "457dcbf226849513476308cc7ade91a5d9df04429b2b4e6f6c1c8870023006ec",
+          "durationSeconds": 36.258029999999586,
+          "durationMeasurement": "ffprobe-packet-sum"
+        }
+      ],
+      "audioCues": [
+        {
+          "frame": 4,
+          "soundId": 20,
+          "inPoint44": 0,
+          "outPoint44": null,
+          "inPointSeconds": 0,
+          "outPointSeconds": null,
+          "loops": 1,
+          "sync": "event",
+          "envelope": [
+            {
+              "mark44": 0,
+              "left": 32768,
+              "right": 32768,
+              "seconds": 0,
+              "leftGain": 1,
+              "rightGain": 1
+            },
+            {
+              "mark44": 1320906,
+              "left": 32768,
+              "right": 32768,
+              "seconds": 29.952517006802722,
+              "leftGain": 1,
+              "rightGain": 1
+            },
+            {
+              "mark44": 1331106,
+              "left": 32768,
+              "right": 32768,
+              "seconds": 30.183809523809522,
+              "leftGain": 1,
+              "rightGain": 1
+            },
+            {
+              "mark44": 1333306,
+              "left": 32768,
+              "right": 32768,
+              "seconds": 30.233696145124718,
+              "leftGain": 1,
+              "rightGain": 1
+            },
+            {
+              "mark44": 1378906,
+              "left": 32768,
+              "right": 32768,
+              "seconds": 31.267709750566894,
+              "leftGain": 1,
+              "rightGain": 1
+            },
+            {
+              "mark44": 1398206,
+              "left": 0,
+              "right": 0,
+              "seconds": 31.705351473922903,
+              "leftGain": 0,
+              "rightGain": 0
+            }
+          ]
+        }
+      ]
+    },
+    "ru": {
+      "width": 700,
+      "height": 400,
+      "fps": 30,
+      "frameCount": 988,
+      "sourceSha256": "9f88592c3a799fd5410bf9c60c4bc12bb9961cd9fd7d5f67f687597f58c3844e",
+      "audioAssets": [
+        {
+          "soundId": 20,
+          "codec": 2,
+          "sampleRate": 11025,
+          "sampleCount": 397152,
+          "channels": 1,
+          "seekSamples": 1661,
+          "src": "dissections/audio/bills-ru/20.mp3",
+          "sha256": "457dcbf226849513476308cc7ade91a5d9df04429b2b4e6f6c1c8870023006ec",
+          "embeddedMp3Sha256": "457dcbf226849513476308cc7ade91a5d9df04429b2b4e6f6c1c8870023006ec",
+          "durationSeconds": 36.258029999999586,
+          "durationMeasurement": "ffprobe-packet-sum"
+        }
+      ],
+      "audioCues": [
+        {
+          "frame": 4,
+          "soundId": 20,
+          "inPoint44": 0,
+          "outPoint44": null,
+          "inPointSeconds": 0,
+          "outPointSeconds": null,
+          "loops": 1,
+          "sync": "event",
+          "envelope": [
+            {
+              "mark44": 0,
+              "left": 32768,
+              "right": 32768,
+              "seconds": 0,
+              "leftGain": 1,
+              "rightGain": 1
+            },
+            {
+              "mark44": 1320906,
+              "left": 32768,
+              "right": 32768,
+              "seconds": 29.952517006802722,
+              "leftGain": 1,
+              "rightGain": 1
+            },
+            {
+              "mark44": 1331106,
+              "left": 32768,
+              "right": 32768,
+              "seconds": 30.183809523809522,
+              "leftGain": 1,
+              "rightGain": 1
+            },
+            {
+              "mark44": 1333306,
+              "left": 32768,
+              "right": 32768,
+              "seconds": 30.233696145124718,
+              "leftGain": 1,
+              "rightGain": 1
+            },
+            {
+              "mark44": 1378906,
+              "left": 32768,
+              "right": 32768,
+              "seconds": 31.267709750566894,
+              "leftGain": 1,
+              "rightGain": 1
+            },
+            {
+              "mark44": 1398206,
+              "left": 0,
+              "right": 0,
+              "seconds": 31.705351473922903,
+              "leftGain": 0,
+              "rightGain": 0
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

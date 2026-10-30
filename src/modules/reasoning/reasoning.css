@@ -1,0 +1,43 @@
+.reasoning-family { min-width: 0; color: #000; font-family: "Times New Roman", Times, serif; }
+.reasoning-family .reasoning-question { font-size: 1.12rem; line-height: 1.65; max-width: 75ch; }
+.reasoning-family .reasoning-diagram { display: block; width: 100%; max-width: 760px; height: auto; margin-inline: auto; background: #66ffff; border: 0; border-radius: 0; }
+.reasoning-family .reasoning-diagram text { fill: #000; font: bold 16px "Times New Roman", Times, serif; }
+/* These are the native explanatory SVGs, never the preserved Canvas artwork. */
+.reasoning-family .reasoning-diagram [fill="#26374e"],
+.reasoning-family .reasoning-diagram [fill="#172438"] { fill: #66ffff; }
+.reasoning-family .reasoning-diagram [fill="#f7c36c"] { fill: #ffcc00; }
+.reasoning-family .reasoning-diagram [stroke="#f7c36c"] { stroke: #0000cc; }
+.reasoning-family .reasoning-diagram [fill="#ac97e8"] { fill: #ff3399; }
+.reasoning-family .reasoning-diagram [stroke="#ac97e8"] { stroke: #cc0066; }
+.reasoning-family .reasoning-diagram [stroke="#dce5ee"] { stroke: #000; }
+.reasoning-family .reasoning-diagram [fill="#394b66"] { fill: #ffcc99; }
+.reasoning-family .reasoning-diagram [fill="#e8e0ce"] { fill: #fff; }
+.reasoning-kind-hunter .reasoning-diagram { background: #0000ff; }
+.reasoning-kind-hunter .reasoning-diagram text { fill: #fff; }
+.reasoning-kind-hunter .reasoning-diagram [fill="#26374e"] { fill: #0000cc; }
+.reasoning-kind-hunter .reasoning-diagram [stroke="#f7c36c"] { stroke: #ffff00; }
+.reasoning-kind-tram .reasoning-table { background: #000066; color: #fff; }
+.reasoning-family .reasoning-diagram .reasoning-finger-label { font-size: 13px; }
+.reasoning-family .reasoning-range { display: grid; gap: .5rem; width: min(100%, 32rem); }
+.reasoning-family .reasoning-range input { width: 100%; min-height: 36px; accent-color: #0000cc; }
+.reasoning-family .reasoning-river-input { touch-action: none; cursor: ew-resize; }
+.reasoning-family .controls { display: flex; flex-wrap: wrap; gap: .65rem; margin-block: 1rem; }
+.reasoning-family button { min-height: 44px; }
+.reasoning-family .reasoning-table-wrap { overflow-x: auto; }
+.reasoning-family .reasoning-table { width: 100%; max-width: 760px; border-collapse: collapse; }
+.reasoning-family .reasoning-table th, .reasoning-family .reasoning-table td { padding: .75rem; text-align: left; border-bottom: 1px solid #75829866; }
+.reasoning-family .activity-status { font-variant-numeric: tabular-nums; }
+.reasoning-family .reasoning-timeline { overflow: auto; max-width: 100%; }
+.reasoning-family .reasoning-timeline-zoom { max-height: 800px; }
+.reasoning-family .reasoning-timeline-zoom canvas { width: 1100px; max-width: none !important; }
+.reasoning-family figure { margin-inline: 0; }
+.reasoning-family figure [role="group"] { display: flex; flex-wrap: wrap; align-items: center; gap: .6rem; margin-block: .8rem; }
+.reasoning-family figure button { padding: .55rem .8rem; border: 1px solid #0000cc; border-radius: 0; background: #ccffff; color: #000066; cursor: pointer; }
+.reasoning-family figure button:disabled { opacity: .5; cursor: default; }
+.reasoning-family summary { cursor: pointer; padding-block: 1rem; }
+.reasoning-family button:focus-visible, .reasoning-family input:focus-visible { outline: 3px solid #0000cc; outline-offset: 4px; }
+@media (max-width: 480px) {
+  .reasoning-family .reasoning-diagram text { font-size: 19px; }
+  .reasoning-family .reasoning-diagram .reasoning-finger-label { font-size: 14px; }
+  .reasoning-family .reasoning-table th, .reasoning-family .reasoning-table td { padding: .5rem; }
+}

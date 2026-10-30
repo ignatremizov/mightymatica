@@ -1,0 +1,1055 @@
+{
+  "pages": [
+    {
+      "source": "Books.html",
+      "title": "Books",
+      "descriptions": []
+    },
+    {
+      "source": "Calculus-ru.html",
+      "title": "Calculus ru",
+      "descriptions": []
+    },
+    {
+      "source": "Calculus.html",
+      "title": "Calculus",
+      "descriptions": []
+    },
+    {
+      "source": "For kids.html",
+      "title": "For kids",
+      "descriptions": []
+    },
+    {
+      "source": "Funnylmath.html",
+      "title": "Funny Math",
+      "descriptions": []
+    },
+    {
+      "source": "Index-ru.html",
+      "title": "Index ru",
+      "descriptions": []
+    },
+    {
+      "source": "Index.html",
+      "title": "Index",
+      "descriptions": []
+    },
+    {
+      "source": "Livegeometry-ru.html",
+      "title": "Живая Геометрия",
+      "descriptions": [
+        "Mightymatica знакомит с основными фактами Геометрии и объясняет их в живой форме"
+      ]
+    },
+    {
+      "source": "Livegeometry.html",
+      "title": "Live Geometry",
+      "descriptions": [
+        "Mightymatica provides study of Geometry by observing Math objects in visual and interactive presentation."
+      ]
+    },
+    {
+      "source": "Magicmath-ru.html",
+      "title": "Магия Математики",
+      "descriptions": [
+        "Математика помогает понять и объяснить многие явления.",
+        "Даже при помощи простой арифметики мы можем объяснить загадочные и мистические события."
+      ]
+    },
+    {
+      "source": "Magicmath.html",
+      "title": "Magic of Math",
+      "descriptions": [
+        "Mathematics helps to explain and understand a lot of phenomena.",
+        "Even with pure simple arithmetic we can explain some mysteries."
+      ]
+    },
+    {
+      "source": "Mathsat.html",
+      "title": "To pass the SAT math test, you need to solve problems.",
+      "descriptions": [
+        "All students of Mightymatica Thinking Academy passed successfuly and with fun the Math SAT test in 9th grade.",
+        "For Math SAT practicing solve problems from the book:"
+      ]
+    },
+    {
+      "source": "Playmath.html",
+      "title": "Play Math",
+      "descriptions": [
+        "Have fun with Math, learn Math while playing many interesting games:"
+      ]
+    },
+    {
+      "source": "Programs.html",
+      "title": "Mathematical groups",
+      "descriptions": [
+        "This is a book with set of problems from Mathematical Circle"
+      ]
+    },
+    {
+      "source": "Slidingpuzzles.html",
+      "title": "Paradoxes",
+      "descriptions": []
+    },
+    {
+      "source": "Slidingpuzzlesru.html",
+      "title": "Парадоксы",
+      "descriptions": []
+    },
+    {
+      "source": "Visualmath-n-ru.html",
+      "title": "Живая математика",
+      "descriptions": []
+    },
+    {
+      "source": "Visualmath-n.html",
+      "title": "Visual Math",
+      "descriptions": [
+        "Mightymatica provides study of Math by observing Math objects in visual and interactive presentation."
+      ]
+    },
+    {
+      "source": "Visualmath.html",
+      "title": "Visual Math",
+      "descriptions": [
+        "Mightymatica provides study of Math by observing Math objects in visual and interactive presentation."
+      ]
+    },
+    {
+      "source": "index.html",
+      "title": "index",
+      "descriptions": []
+    }
+  ],
+  "credits": [
+    {
+      "name": "Yuri Remizov and original site authors",
+      "role": "Original MightyMatica collection; attribution retained, not a new license grant."
+    },
+    {
+      "name": "M. C. Escher / relevant rights holders",
+      "role": "Referenced third-party artwork; separate rights review required."
+    }
+  ],
+  "media": [
+    {
+      "source": "Images/Million-perm.jpg",
+      "path": "media/catalog/562c600e7a2276459254.jpg",
+      "sha256": "562c600e7a22764592541be149d702e08b2ef23041b67d89e2221d4d3a1ee0e8",
+      "bytes": 168743
+    },
+    {
+      "source": "Images/Million-perm-more.jpg",
+      "path": "media/catalog/081626cb641b3d963074.jpg",
+      "sha256": "081626cb641b3d963074f9790372b18cd65345a41730a9abaee509666cab0565",
+      "bytes": 170620
+    },
+    {
+      "source": "Images/Pictures for flashes/Algebra trans.jpg",
+      "path": "media/catalog/af430fa87e1168478154.jpg",
+      "sha256": "af430fa87e11684781548ed61b18032229fed9f72a774237879b3527acf19a03",
+      "bytes": 53121
+    },
+    {
+      "source": "Images/Pictures for flashes/Alltriangles-ru.png",
+      "path": "media/catalog/55710cb7fffa7fd92798.png",
+      "sha256": "55710cb7fffa7fd92798009cfea9f7be7512df8534385b9c5a67530075df25d1",
+      "bytes": 33944
+    },
+    {
+      "source": "Images/Pictures for flashes/Alltriangles-sof.png",
+      "path": "media/catalog/1a5306085355149cad66.png",
+      "sha256": "1a5306085355149cad66dbd8513af195229f251c87a137ce993a2c5ec82e7530",
+      "bytes": 32693
+    },
+    {
+      "source": "Images/Altitudesru.jpg",
+      "path": "media/catalog/35918cf2424ca307f744.jpg",
+      "sha256": "35918cf2424ca307f744a63aaf5e01d660a0ece53e2a2e506161e1323e547c66",
+      "bytes": 56377
+    },
+    {
+      "source": "Images/Altitudes.jpg",
+      "path": "media/catalog/facb9d80d6ed0ef5856f.jpg",
+      "sha256": "facb9d80d6ed0ef5856f6b8b27231623227a8acacfd36eee9df14e026c533a58",
+      "bytes": 45500
+    },
+    {
+      "source": "Images/Pictures for flashes/ApBsquare.png",
+      "path": "media/catalog/8e372fd7b6d961af4b9b.png",
+      "sha256": "8e372fd7b6d961af4b9b2fa4f9a00131313e3972821844fe7d44fdab91590f26",
+      "bytes": 17579
+    },
+    {
+      "source": "Images/Pictures for flashes/Arpolru.jpg",
+      "path": "media/catalog/a58f36d3f0eedbc75a9e.jpg",
+      "sha256": "a58f36d3f0eedbc75a9e1c4bf833be5bc0d32bb116641c1d2458bc1967994bdd",
+      "bytes": 50631
+    },
+    {
+      "source": "Images/Pictures for flashes/Arpolen.jpg",
+      "path": "media/catalog/67990c8c519e963de411.jpg",
+      "sha256": "67990c8c519e963de4114e706b6b75cbb85c29fd1811aeb96d8fe9528bfb3d72",
+      "bytes": 48670
+    },
+    {
+      "source": "Images/Pictures for flashes/Arearu.png",
+      "path": "media/catalog/8e2ab3f98bf0670a5dd0.png",
+      "sha256": "8e2ab3f98bf0670a5dd0633c6b427b92624e044b157d0ba104a5bca57a883ca2",
+      "bytes": 62831
+    },
+    {
+      "source": "Images/Pictures for flashes/Area.png",
+      "path": "media/catalog/018838c31f5d5bdd02fb.png",
+      "sha256": "018838c31f5d5bdd02fb01e19f764ea72ab9945238fa1306e8b938255316e454",
+      "bytes": 64243
+    },
+    {
+      "source": "Images/Pictures for flashes/AmBsquare.png",
+      "path": "media/catalog/9113f7b7d95b9ca39328.png",
+      "sha256": "9113f7b7d95b9ca3932849efa5d8ef14d7663d5e8220f57d29be35f18e46fad1",
+      "bytes": 16207
+    },
+    {
+      "source": "Images/Pictures for flashes/Bacteriaru.jpg",
+      "path": "media/catalog/622a673b016fd5afad0f.jpg",
+      "sha256": "622a673b016fd5afad0fd4922d12c8b470aee75f917c8b39af9e34c64724c0ee",
+      "bytes": 77032
+    },
+    {
+      "source": "Images/Pictures for flashes/Bacteriaeng.jpg",
+      "path": "media/catalog/b7c8ecaa66cc6bbfd1fa.jpg",
+      "sha256": "b7c8ecaa66cc6bbfd1fa22d906b68f52bf3f27f5b59c5da38859047c3eff2997",
+      "bytes": 82900
+    },
+    {
+      "source": "Images/Pictures for flashes/Nine bills site -ru.jpg",
+      "path": "media/catalog/39e932262f2396877f9d.jpg",
+      "sha256": "39e932262f2396877f9d7a5adcef9bcd1cfae8dd359cbef4678de1662cdb0d3c",
+      "bytes": 126074
+    },
+    {
+      "source": "Images/Bisectorru.jpg",
+      "path": "media/catalog/30ea9be57a533db28188.jpg",
+      "sha256": "30ea9be57a533db28188ed61e335ae08a8b6db2195b677b3a6ffd9717a6054b7",
+      "bytes": 59102
+    },
+    {
+      "source": "Images/Bisec.jpg",
+      "path": "media/catalog/57713dd8c747b7d814d3.jpg",
+      "sha256": "57713dd8c747b7d814d31d526236a22ebb25652f6f6cbb27815578f53599ccfa",
+      "bytes": 46068
+    },
+    {
+      "source": "Images/Pictures for flashes/BHru.jpg",
+      "path": "media/catalog/0f09ea3a3f4dc1fb1246.jpg",
+      "sha256": "0f09ea3a3f4dc1fb12463c82f5718e336ce3fb4cedb24b123a4c54b6fe7c9b67",
+      "bytes": 80674
+    },
+    {
+      "source": "Images/Pictures for flashes/BHen.jpg",
+      "path": "media/catalog/42a5dad140898bae6198.jpg",
+      "sha256": "42a5dad140898bae619896a365f519a7cb7216756f33d58d28fe3ab5b9e06eb7",
+      "bytes": 86783
+    },
+    {
+      "source": "Images/Pictures for flashes/Flychi.jpg",
+      "path": "media/catalog/0a73c5a198eff39f0902.jpg",
+      "sha256": "0a73c5a198eff39f0902a9a79b8b5d8407af925f1a4d133ad7ad7e9f25b72ea1",
+      "bytes": 58997
+    },
+    {
+      "source": "Images/Pictures for flashes/Fly.jpg",
+      "path": "media/catalog/aa841e1cbb4ed79b4e52.jpg",
+      "sha256": "aa841e1cbb4ed79b4e52d52b53213a1e69e42a2a57d8601ae8100bc082f10661",
+      "bytes": 63544
+    },
+    {
+      "source": "Images/Pictures for flashes/Flyru.jpg",
+      "path": "media/catalog/288bc543d0a6cb568154.jpg",
+      "sha256": "288bc543d0a6cb568154584d1f063c028c536c0b8be8f22d31b7908843848be6",
+      "bytes": 61035
+    },
+    {
+      "source": "Images/Pictures for flashes/Matanalizru.jpg",
+      "path": "media/catalog/b2123c6ccff2ad8cff1d.jpg",
+      "sha256": "b2123c6ccff2ad8cff1d38a5838a25c010a6df947d49453fb7b656b859d15f90",
+      "bytes": 70723
+    },
+    {
+      "source": "Images/Calculus5min.jpg",
+      "path": "media/catalog/73be7921e3375d97a51f.jpg",
+      "sha256": "73be7921e3375d97a51f40d935129fce3b1e7f54eb115d023e50ce01904cab92",
+      "bytes": 68729
+    },
+    {
+      "source": "Images/Pictures for flashes/Caterpillarru.jpg",
+      "path": "media/catalog/04d18bcf10deaa090103.jpg",
+      "sha256": "04d18bcf10deaa0901031730a5608b1a48a46801a93b0ad9cf9f38df4b5651ce",
+      "bytes": 68408
+    },
+    {
+      "source": "Images/Pictures for flashes/Caterpillareng.jpg",
+      "path": "media/catalog/6394a47311c094f1c01f.jpg",
+      "sha256": "6394a47311c094f1c01f23eac747995edd32233ce2b310c1e0ad03ae2c7394fe",
+      "bytes": 73747
+    },
+    {
+      "source": "Images/Pictures for flashes/Area of circle site ru.jpg",
+      "path": "media/catalog/15c78791561cd53670db.jpg",
+      "sha256": "15c78791561cd53670db615a73a3214dd4a8e03547f30a014285d37e5006a4be",
+      "bytes": 37871
+    },
+    {
+      "source": "Images/Pictures for flashes/Area of circle site.jpg",
+      "path": "media/catalog/88b60f5cbc76c323d583.jpg",
+      "sha256": "88b60f5cbc76c323d583cba834b7452b8db3fdbff7804c1b38d756f1f90bca34",
+      "bytes": 32325
+    },
+    {
+      "source": "Images/Pictures for flashes/Minde-3.jpg",
+      "path": "media/catalog/a7e0e715397d5b44836f.jpg",
+      "sha256": "a7e0e715397d5b44836fb52cdcb5b9512161be6e36c6ff9381e70996ef4aa2cb",
+      "bytes": 94977
+    },
+    {
+      "source": "Images/Pictures for flashes/Mindru-3.jpg",
+      "path": "media/catalog/2b41fad56ae71bc5bd48.jpg",
+      "sha256": "2b41fad56ae71bc5bd48cca5441058878003c980fbc3f0aa04de4d22f44ef89d",
+      "bytes": 102296
+    },
+    {
+      "source": "Images/Pictures for flashes/Minde-2.jpg",
+      "path": "media/catalog/7aa8a05ddb1b6ceda2c3.jpg",
+      "sha256": "7aa8a05ddb1b6ceda2c3dec5e18ca926d1d7e5076a10bd45bad205593f1e3e87",
+      "bytes": 95128
+    },
+    {
+      "source": "Images/Pictures for flashes/Mindru-2.jpg",
+      "path": "media/catalog/1f9636dc0896c0baa643.jpg",
+      "sha256": "1f9636dc0896c0baa643305b2107576e4285a7f171c234f108097e507e17912f",
+      "bytes": 102264
+    },
+    {
+      "source": "Images/Pictures for flashes/Minde-4.jpg",
+      "path": "media/catalog/13cea9cfc74db1de4b7d.jpg",
+      "sha256": "13cea9cfc74db1de4b7d23529bf27494a87f930dc41fbcb60192f2845801609c",
+      "bytes": 94768
+    },
+    {
+      "source": "Images/Pictures for flashes/Mindru-4.jpg",
+      "path": "media/catalog/242681be7a03bacaf6cf.jpg",
+      "sha256": "242681be7a03bacaf6cf710f31902ae443b8fdedc5c35e7c6df937aee506fb95",
+      "bytes": 102051
+    },
+    {
+      "source": "Images/Pictures for flashes/Mindru-1.jpg",
+      "path": "media/catalog/496855dbf85fdb52539b.jpg",
+      "sha256": "496855dbf85fdb52539b704bb09e6c833f18b5c392d16758f64dc352100efbcc",
+      "bytes": 99474
+    },
+    {
+      "source": "Images/Pictures for flashes/Minde-1.jpg",
+      "path": "media/catalog/f5dc29ab5243d721f72a.jpg",
+      "sha256": "f5dc29ab5243d721f72aead52e86ed4ff8499ff0eab1eddcf027568fc226798b",
+      "bytes": 93495
+    },
+    {
+      "source": "Images/Complchain1.jpg",
+      "path": "media/catalog/2f02ab86e118034b0b93.jpg",
+      "sha256": "2f02ab86e118034b0b930716e805b05ff21a16b7453dacac4f2574dd8a00fc24",
+      "bytes": 54545
+    },
+    {
+      "source": "Images/Pictures for flashes/Congru.jpg",
+      "path": "media/catalog/7609a49748a0843105a5.jpg",
+      "sha256": "7609a49748a0843105a5480830e8019e5f102208cf34d67827fadfe1623e7f5c",
+      "bytes": 31773
+    },
+    {
+      "source": "Images/Pictures for flashes/Congen.jpg",
+      "path": "media/catalog/6fe5ad19102b1d7a8433.jpg",
+      "sha256": "6fe5ad19102b1d7a8433f37a36ee70ea068bd89074236b6253a49ff75ed20971",
+      "bytes": 27595
+    },
+    {
+      "source": "Images/Conicsections.jpg",
+      "path": "media/catalog/3b801bef7e03ced3810a.jpg",
+      "sha256": "3b801bef7e03ced3810a6c27d6854f2ab796a30e69653ed55d64ff47068d3f38",
+      "bytes": 56921
+    },
+    {
+      "source": "Images/Pictures for flashes/lawofcosru.png",
+      "path": "media/catalog/ab290ac0af25af2832d0.png",
+      "sha256": "ab290ac0af25af2832d02c74379fa9e2a64ecfde0d570f54385561337e0de006",
+      "bytes": 42047
+    },
+    {
+      "source": "Images/Pictures for flashes/lawofcos.png",
+      "path": "media/catalog/8bf55c210434dab2e0e9.png",
+      "sha256": "8bf55c210434dab2e0e90b626025c236d8c73d4f4c693dc834ecc03f2835ecea",
+      "bytes": 33300
+    },
+    {
+      "source": "Images/Pictures for flashes/Cubenetreplce.png",
+      "path": "media/catalog/02f8c8cfd860f66aeba5.png",
+      "sha256": "02f8c8cfd860f66aeba5379917ea52da2ab7318f18b7bc0d3627e891210ec652",
+      "bytes": 38623
+    },
+    {
+      "source": "Images/Pictures for flashes/Cubenets.png",
+      "path": "media/catalog/27371340ad96af9274b4.png",
+      "sha256": "27371340ad96af9274b49afa3889c6f90189755e52e933bc13b0bd304c0bdc9b",
+      "bytes": 49192
+    },
+    {
+      "source": "Images/Pictures for flashes/Coloredcube-ru.jpg",
+      "path": "media/catalog/6606205253f5816cdbd3.jpg",
+      "sha256": "6606205253f5816cdbd341e19361d6f9f9bbadf012fd13ca75d638ec67fa2a2d",
+      "bytes": 40161
+    },
+    {
+      "source": "Images/Pictures for flashes/Coloredcube.jpg",
+      "path": "media/catalog/51b1f5e1c6baf94c91fa.jpg",
+      "sha256": "51b1f5e1c6baf94c91fa4bb68cd7004320cc917fe56af1ca61cedc88ebf0b83b",
+      "bytes": 39235
+    },
+    {
+      "source": "Images/Cubeseng.jpg",
+      "path": "media/catalog/5f0bc775be353b96436e.jpg",
+      "sha256": "5f0bc775be353b96436eecdda30edacf4b996918bcdd7126c58a8ce63815af84",
+      "bytes": 73489
+    },
+    {
+      "source": "Images/Cubesru.jpg",
+      "path": "media/catalog/fd25572725f3d70ad677.jpg",
+      "sha256": "fd25572725f3d70ad6776e9d79ea11cc57d35b0885aac94428e16a63176fd4a9",
+      "bytes": 75865
+    },
+    {
+      "source": "Images/Pictures for flashes/Findcubespair-ru.jpg",
+      "path": "media/catalog/ce0a04a65cf5806293dd.jpg",
+      "sha256": "ce0a04a65cf5806293dda524f2fbaa10efd3c3ee72264ea343936635e1e4573c",
+      "bytes": 55584
+    },
+    {
+      "source": "Images/Pictures for flashes/Findcubespair.jpg",
+      "path": "media/catalog/1bbcdf4e50efae7f568f.jpg",
+      "sha256": "1bbcdf4e50efae7f568f6e1a7f01676d2614d1202fb76c64e3e0351de916a16d",
+      "bytes": 78279
+    },
+    {
+      "source": "Images/Pictures for flashes/Cubesectionsru.png",
+      "path": "media/catalog/43dce332e983533baf24.png",
+      "sha256": "43dce332e983533baf24ae740c5b86b337c4778db419adf31817e62d9e46306f",
+      "bytes": 26987
+    },
+    {
+      "source": "Images/Pictures for flashes/Cubesections.png",
+      "path": "media/catalog/15b471e2a438954a4154.png",
+      "sha256": "15b471e2a438954a415428c24b6c7e7c2e36961d10f626a609ed68755a8aee27",
+      "bytes": 43766
+    },
+    {
+      "source": "Images/Pictures for flashes/Cubenet.png",
+      "path": "media/catalog/9e4de8bffdbdebde8774.png",
+      "sha256": "9e4de8bffdbdebde8774c7d83cb10cee2ddbd45fe264ca400fde74035275a5bc",
+      "bytes": 8510
+    },
+    {
+      "source": "Images/Pictures for flashes/Earthbelt-ru.png",
+      "path": "media/catalog/7e3149950d37e2abe97a.png",
+      "sha256": "7e3149950d37e2abe97a1644bdb6c8bf899f8ab864ea744823d3e1249e82ec7a",
+      "bytes": 105583
+    },
+    {
+      "source": "Images/Pictures for flashes/Earthbelt-en.png",
+      "path": "media/catalog/69d1f14023e5b0cef859.png",
+      "sha256": "69d1f14023e5b0cef85992748b70e83a913777fff14d8dfdc2798209c37d880c",
+      "bytes": 96688
+    },
+    {
+      "source": "Images/Escher BandFsite.jpg",
+      "path": "media/catalog/fd8e67b81b603f04d2a3.jpg",
+      "sha256": "fd8e67b81b603f04d2a304dff04a4409b6e4225cff263b4247ab9d9aec28ab33",
+      "bytes": 87018
+    },
+    {
+      "source": "Images/Esch-faces-puzzle.jpg",
+      "path": "media/catalog/8b2dbbdbc8bf3e2505d1.jpg",
+      "sha256": "8b2dbbdbc8bf3e2505d14633bd97ebae98c29531f39a924dbdb99fcb15dc4ba2",
+      "bytes": 58374
+    },
+    {
+      "source": "Images/Escherhandsforsite.jpg",
+      "path": "media/catalog/e10743ceed26371b564b.jpg",
+      "sha256": "e10743ceed26371b564b08496833d90ab4a47ddecbc3a4efb3244f01b2936d80",
+      "bytes": 64757
+    },
+    {
+      "source": "Images/Escher-lizgame.jpg",
+      "path": "media/catalog/d3d9b3ecd8b8b76f7ae6.jpg",
+      "sha256": "d3d9b3ecd8b8b76f7ae6cae216198dfdf892f563e9662b5cccf29bdbaf3163cb",
+      "bytes": 71820
+    },
+    {
+      "source": "Images/Escher-stbigame.jpg",
+      "path": "media/catalog/b603cc5632f870c1a952.jpg",
+      "sha256": "b603cc5632f870c1a9520e0560eb5bcf150fc4e8dbdc0aeb6b3e53c0f7649392",
+      "bytes": 94676
+    },
+    {
+      "source": "Images/Jigsawstairs.jpg",
+      "path": "media/catalog/d4781cc1b812693ee38f.jpg",
+      "sha256": "d4781cc1b812693ee38f8f362f4ec3ec8ab321f7349f07564d8ef2d4134ce2ab",
+      "bytes": 77156
+    },
+    {
+      "source": "Images/Escher-water.jpg",
+      "path": "media/catalog/e5e600840f45795958b3.jpg",
+      "sha256": "e5e600840f45795958b3222d72fc4c51e1b79e43ee1b57108f59a042397d8ec8",
+      "bytes": 69828
+    },
+    {
+      "source": "Images/Fallingfigures.jpg",
+      "path": "media/catalog/ca24a26ea1b8b86a804d.jpg",
+      "sha256": "ca24a26ea1b8b86a804d6008c8030351de0d03ca540267394451c47777472b75",
+      "bytes": 65661
+    },
+    {
+      "source": "Images/Findimproper.jpg",
+      "path": "media/catalog/b6ca5e5d2efc394900f0.jpg",
+      "sha256": "b6ca5e5d2efc394900f08fed3715641422ad4606733d970e1dc48b93ee1e9cc9",
+      "bytes": 85082
+    },
+    {
+      "source": "Images/Findcoupline.jpg",
+      "path": "media/catalog/051c32e380476337364a.jpg",
+      "sha256": "051c32e380476337364a16ef514da973da87c3c5a2f0fd7071a0a24e2e9955d0",
+      "bytes": 62298
+    },
+    {
+      "source": "Images/Findwline.jpg",
+      "path": "media/catalog/63838a93a979e0645f57.jpg",
+      "sha256": "63838a93a979e0645f57ea9b2adf9eb184424b50c98823d69764559bbc930b2a",
+      "bytes": 64131
+    },
+    {
+      "source": "Images/Findproperfig.jpg",
+      "path": "media/catalog/614d94a70677970f9bdb.jpg",
+      "sha256": "614d94a70677970f9bdb468d461326df4ba6e0b582d3ac38102cb8f227673310",
+      "bytes": 53738
+    },
+    {
+      "source": "Images/Findsamewline.jpg",
+      "path": "media/catalog/06cd15f301dfa8fa8134.jpg",
+      "sha256": "06cd15f301dfa8fa81344ef38d7be86287ef48f1caf6d34c0dcbb82b3b6d27ba",
+      "bytes": 70524
+    },
+    {
+      "source": "Images/Pictures for flashes/Grandmaru.jpg",
+      "path": "media/catalog/9a30d95b87e49ce79ccd.jpg",
+      "sha256": "9a30d95b87e49ce79ccdd4c896e0b3a2bede21b2e280afffc9880080eaf3f2f0",
+      "bytes": 125355
+    },
+    {
+      "source": "Images/Pictures for flashes/Grandma.jpg",
+      "path": "media/catalog/4bbeb8b24e6cc9132f89.jpg",
+      "sha256": "4bbeb8b24e6cc9132f89a8f67fcada8381f5848b3b9da2531839e347c633d06d",
+      "bytes": 122298
+    },
+    {
+      "source": "Images/Pictures for flashes/Hand1000ru.jpg",
+      "path": "media/catalog/62e8b8daecdf76148043.jpg",
+      "sha256": "62e8b8daecdf76148043ed9ade5d941df669923178b584ee6e5377533a7e7b53",
+      "bytes": 51160
+    },
+    {
+      "source": "Images/Pictures for flashes/Hand1000.jpg",
+      "path": "media/catalog/d6e9e761cae38ece576b.jpg",
+      "sha256": "d6e9e761cae38ece576bae4690b00700062cfca9d66a347d279e59083d70086e",
+      "bytes": 56821
+    },
+    {
+      "source": "Images/Pictures for flashes/Hunterru.jpg",
+      "path": "media/catalog/ecc351d0d2a9c26b72f4.jpg",
+      "sha256": "ecc351d0d2a9c26b72f4562c122398cde46550d7633a57867fec5788c4824807",
+      "bytes": 58669
+    },
+    {
+      "source": "Images/Pictures for flashes/Huntereng.jpg",
+      "path": "media/catalog/23943c0cade5357889d6.jpg",
+      "sha256": "23943c0cade5357889d6ce56e8347ee3220c444f6f1fc6f887f0d91176bf21d8",
+      "bytes": 38212
+    },
+    {
+      "source": "Images/Insangletheo-ru.jpg",
+      "path": "media/catalog/c1b300a8936e23c79b04.jpg",
+      "sha256": "c1b300a8936e23c79b04ea55070a9eda24a17c92062365f8f90fd2509823c305",
+      "bytes": 133075
+    },
+    {
+      "source": "Images/Insangletheo.jpg",
+      "path": "media/catalog/46e0426503e1c6050a8d.jpg",
+      "sha256": "46e0426503e1c6050a8dabc1f22bb24c2d2130b0cf9f0a13b65f24d46aa814da",
+      "bytes": 50742
+    },
+    {
+      "source": "Images/MMbook-SAT-101.jpg",
+      "path": "media/catalog/83126c83558849656032.jpg",
+      "sha256": "83126c83558849656032bf8382af9cfbc777ba99a6a2e992cc6ac8fb3077a8bf",
+      "bytes": 59152
+    },
+    {
+      "source": "Images/MMbook-Circles.jpg",
+      "path": "media/catalog/7cc047be21f9f9f6b8ac.jpg",
+      "sha256": "7cc047be21f9f9f6b8ac2be858367ef62ae04335b718c5be5195d5da5ae61789",
+      "bytes": 68214
+    },
+    {
+      "source": "Images/MMbook-1-3.jpg",
+      "path": "media/catalog/03edc22bc884bb80f9ff.jpg",
+      "sha256": "03edc22bc884bb80f9ffce657ef09c4f5f9ba1401dc6263ad6d8ba324fcbd784",
+      "bytes": 132408
+    },
+    {
+      "source": "Images/MMbook-SATsubs.jpg",
+      "path": "media/catalog/68e5389e21fb82a57942.jpg",
+      "sha256": "68e5389e21fb82a579429673078897fd4dfbeebaff4d402d53ba690c3b73a977",
+      "bytes": 114977
+    },
+    {
+      "source": "Images/Median-ru.jpg",
+      "path": "media/catalog/1dbf558b966bd97d7c02.jpg",
+      "sha256": "1dbf558b966bd97d7c02972db59d0c9b9a730d3efdd3e6b2d60c8a9175f83cc6",
+      "bytes": 97910
+    },
+    {
+      "source": "Images/Median.jpg",
+      "path": "media/catalog/50da8d47f979f20b9719.jpg",
+      "sha256": "50da8d47f979f20b9719e79f0dba476df5ea97fbe4b2561c9e7d38bce8163390",
+      "bytes": 36155
+    },
+    {
+      "source": "Images/MMbook-1-1.jpg",
+      "path": "media/catalog/2ef5ae3f88d740671ecf.jpg",
+      "sha256": "2ef5ae3f88d740671ecfdb1a48bc39631f62bc67be5742011e788727df2ee84a",
+      "bytes": 136385
+    },
+    {
+      "source": "Images/MMbook-1-2.jpg",
+      "path": "media/catalog/acc749f3cbee2fcbee93.jpg",
+      "sha256": "acc749f3cbee2fcbee93bb5aab97c92e70cdd2eb11c3b909773ab42842cce2ab",
+      "bytes": 140477
+    },
+    {
+      "source": "Images/MMbook-2-1.jpg",
+      "path": "media/catalog/8ea1d79fd0d8d71d1b94.jpg",
+      "sha256": "8ea1d79fd0d8d71d1b941d30a75099a92d7f84e50b5f5164305115f2000437f4",
+      "bytes": 141684
+    },
+    {
+      "source": "Images/Pictures for flashes/Mindreadru.jpg",
+      "path": "media/catalog/00ba90887a90d80bde04.jpg",
+      "sha256": "00ba90887a90d80bde046103c55436b079767829b9521a51b40ac777a80f6395",
+      "bytes": 43961
+    },
+    {
+      "source": "Images/Pictures for flashes/Mindreadeng.jpg",
+      "path": "media/catalog/88909e7ff747b0051231.jpg",
+      "sha256": "88909e7ff747b0051231880e4bef9e4c4e900115f377d0cb1df28c74f55e7065",
+      "bytes": 32932
+    },
+    {
+      "source": "Images/Pictures for flashes/Sum Mystery-ru.jpg",
+      "path": "media/catalog/b499df4d29d69c4d02ac.jpg",
+      "sha256": "b499df4d29d69c4d02acbb451cdf18e2f5a2b73e455e0bc61ce3d49f89fe6fac",
+      "bytes": 34502
+    },
+    {
+      "source": "Images/Pictures for flashes/Sum Mystery.jpg",
+      "path": "media/catalog/2acd5dc3b336873939e9.jpg",
+      "sha256": "2acd5dc3b336873939e9df3d985fc357b2720b9696d29841e95a3c4bf580ccc2",
+      "bytes": 37335
+    },
+    {
+      "source": "Images/Pictures for flashes/Moebiusstrip.png",
+      "path": "media/catalog/4cb7cd9cdfccbb04eb8c.png",
+      "sha256": "4cb7cd9cdfccbb04eb8cf7d00571a2ca1e7ab8b54a87777deab938209b2c2236",
+      "bytes": 186201
+    },
+    {
+      "source": "Images/Mousecheese.jpg",
+      "path": "media/catalog/9c28322082450493b9c8.jpg",
+      "sha256": "9c28322082450493b9c8264dd9510bf097a16961ce3ab1bbe314dd7f4956abb9",
+      "bytes": 118089
+    },
+    {
+      "source": "Images/Pictures for flashes/Helpmouse.png",
+      "path": "media/catalog/d06e8cd39e9c4622a0c6.png",
+      "sha256": "d06e8cd39e9c4622a0c6d6839bc71eaeaa5b4e4bd346a87fb38a046476810562",
+      "bytes": 243622
+    },
+    {
+      "source": "Images/Mousecherry.jpg",
+      "path": "media/catalog/f909a7234e4bcceec8f3.jpg",
+      "sha256": "f909a7234e4bcceec8f389aec9c1815a08f2123d564b2bf3af626c4855f1a9b6",
+      "bytes": 127912
+    },
+    {
+      "source": "Images/Sixbeeds.jpg",
+      "path": "media/catalog/ecf9dd25b2ecc23bb7e8.jpg",
+      "sha256": "ecf9dd25b2ecc23bb7e89aee4413cfd1e411406ccd48f0f14c9b61d6a71ba284",
+      "bytes": 96821
+    },
+    {
+      "source": "Images/Pictures for flashes/Palmandtrig.png",
+      "path": "media/catalog/2d44092bed04013f6ab6.png",
+      "sha256": "2d44092bed04013f6ab6cff4bb927e7fc0c191ce8ec2ee9deee63a05c85d5760",
+      "bytes": 44767
+    },
+    {
+      "source": "Images/Pinoc-game.jpg",
+      "path": "media/catalog/5c8f945de89c1f9086df.jpg",
+      "sha256": "5c8f945de89c1f9086dff60ec627bb80121ae8a3e11fe9be28da13dff449a61f",
+      "bytes": 63560
+    },
+    {
+      "source": "Images/Prostogame.jpg",
+      "path": "media/catalog/2a23fb931b24541e3866.jpg",
+      "sha256": "2a23fb931b24541e38660382bf76c69e3cf57efd8301a0f5843b3877ab551c06",
+      "bytes": 72431
+    },
+    {
+      "source": "Images/Makesame.jpg",
+      "path": "media/catalog/4c4d171db3bc0920d0d0.jpg",
+      "sha256": "4c4d171db3bc0920d0d02cf01f4d62a20f69b25f50748ee1ba2608c9b1000019",
+      "bytes": 62750
+    },
+    {
+      "source": "Images/Pictures for flashes/Qeq.png",
+      "path": "media/catalog/1dd01bd947daf4052ddf.png",
+      "sha256": "1dd01bd947daf4052ddf97ab25fb5ff230997e80b67716e1947d5b523f47bf0d",
+      "bytes": 19292
+    },
+    {
+      "source": "Images/Pictures for flashes/Coloredprizm-ru.jpg",
+      "path": "media/catalog/dc7e4445a23fbb62393e.jpg",
+      "sha256": "dc7e4445a23fbb62393e5e81c29c95feaca3ad8457b82e3299dd46a2b68adb98",
+      "bytes": 40063
+    },
+    {
+      "source": "Images/Pictures for flashes/Coloredprizm.jpg",
+      "path": "media/catalog/6208cefa6feb08d39a9b.jpg",
+      "sha256": "6208cefa6feb08d39a9b0008ab2200bb0f3661642654649c4efbb224354da33d",
+      "bytes": 38949
+    },
+    {
+      "source": "Images/Rippedneckl.jpg",
+      "path": "media/catalog/0d5609f762fe2396b5be.jpg",
+      "sha256": "0d5609f762fe2396b5be177a2419317546a2b6e70d32c97b0f8bb96646860aeb",
+      "bytes": 133658
+    },
+    {
+      "source": "Images/Pictures for flashes/Serpcarpet.png",
+      "path": "media/catalog/09e6cc57d2e3704d6127.png",
+      "sha256": "09e6cc57d2e3704d61272eb3c4c33ab094f4d6f3f12a0c2f9b753b5e858be813",
+      "bytes": 19968
+    },
+    {
+      "source": "Images/Sepcolor.jpg",
+      "path": "media/catalog/c2d7fc3b5c7b0bd654c2.jpg",
+      "sha256": "c2d7fc3b5c7b0bd654c20fa8cce191294d29c156cdedd2cddbec28a81152ec2d",
+      "bytes": 55392
+    },
+    {
+      "source": "Images/Sepshape.jpg",
+      "path": "media/catalog/695a7145fda51c52da93.jpg",
+      "sha256": "695a7145fda51c52da93bee2389f98080bfeb13e293cdd3fe13f0d0c1b6b1a9a",
+      "bytes": 58938
+    },
+    {
+      "source": "Images/Sepsize.jpg",
+      "path": "media/catalog/031d30ec1f8c91a2a3a6.jpg",
+      "sha256": "031d30ec1f8c91a2a3a6be3249929143ef251f6694d764d5eae48b786c87edca",
+      "bytes": 56860
+    },
+    {
+      "source": "Images/Pictures for flashes/lawofsinru.png",
+      "path": "media/catalog/7a140a1514b885f4e17e.png",
+      "sha256": "7a140a1514b885f4e17ebe66d26fd97ea4d54596ef99af53970710f677401f13",
+      "bytes": 30876
+    },
+    {
+      "source": "Images/Pictures for flashes/lawofsin.png",
+      "path": "media/catalog/716b30f61590308955e6.png",
+      "sha256": "716b30f61590308955e69b5319dc2949634a02d1f00137c97d08ed1571f69468",
+      "bytes": 28959
+    },
+    {
+      "source": "Images/Pictures for flashes/Snaileng.jpg",
+      "path": "media/catalog/a3264090f56fe1ed84d3.jpg",
+      "sha256": "a3264090f56fe1ed84d336c6ddcec5651feb4fa4b2da0fc87b60361849d94a65",
+      "bytes": 92821
+    },
+    {
+      "source": "Images/Pictures for flashes/Snailru.jpg",
+      "path": "media/catalog/da7ba09add4bcdca7b75.jpg",
+      "sha256": "da7ba09add4bcdca7b75eb65b543a6ccaf94f954b6bc460ad353f6358322a9f4",
+      "bytes": 85869
+    },
+    {
+      "source": "Images/Snowhite-game.jpg",
+      "path": "media/catalog/30aa8e9a73e6f85696a9.jpg",
+      "sha256": "30aa8e9a73e6f85696a923c0c0d0a3f3cb09800fcedbc95b55935521408ae2ae",
+      "bytes": 65345
+    },
+    {
+      "source": "Images/Staruhieng.jpg",
+      "path": "media/catalog/3a47297d2b87d51ca5f9.jpg",
+      "sha256": "3a47297d2b87d51ca5f953065c5f91ef2b0f96e4b624787831fa4c14e9b95f8b",
+      "bytes": 85179
+    },
+    {
+      "source": "Images/Staruhiru.jpg",
+      "path": "media/catalog/b7112a9827924c82c138.jpg",
+      "sha256": "b7112a9827924c82c138e048a00517510b62172191993e8968c5fae62f712004",
+      "bytes": 81297
+    },
+    {
+      "source": "Images/Pictures for flashes/Stones.png",
+      "path": "media/catalog/81c26c8824082cc6bbdb.png",
+      "sha256": "81c26c8824082cc6bbdbbd0e9972f5fc09a4489dcac8688f90f97088bb818300",
+      "bytes": 73881
+    },
+    {
+      "source": "Images/Pictures for flashes/Sum1n.jpg",
+      "path": "media/catalog/0233f984f94299825dae.jpg",
+      "sha256": "0233f984f94299825daed4f4e66f5962a504f6f513602ec27f498524b51ee934",
+      "bytes": 39732
+    },
+    {
+      "source": "Images/Pictures for flashes/Sumodd.jpg",
+      "path": "media/catalog/45444535a90e86e03dd3.jpg",
+      "sha256": "45444535a90e86e03dd3dcf1df37c900168d404b3c0c7e7a2e415453d850dc07",
+      "bytes": 36393
+    },
+    {
+      "source": "Images/Twotetra-ru.jpg",
+      "path": "media/catalog/c4e9adc416b2cb13aa51.jpg",
+      "sha256": "c4e9adc416b2cb13aa51c50486bed4ed727177288c707e2570f0687532de97f1",
+      "bytes": 37992
+    },
+    {
+      "source": "Images/Twotetra.jpg",
+      "path": "media/catalog/ea974bc5318729e122b2.jpg",
+      "sha256": "ea974bc5318729e122b2c34ec5175407217c58493a337ce630d745d00f20ba11",
+      "bytes": 56384
+    },
+    {
+      "source": "Images/Pictures for flashes/Coloredtetra-ru.jpg",
+      "path": "media/catalog/6e3373cbeec180b6f433.jpg",
+      "sha256": "6e3373cbeec180b6f43321aa066bcfa60612985f2d783cb477f01280bedf9db3",
+      "bytes": 42228
+    },
+    {
+      "source": "Images/Pictures for flashes/Coloredtetra.jpg",
+      "path": "media/catalog/42f7d258042d9ad3b5c0.jpg",
+      "sha256": "42f7d258042d9ad3b5c08f36402b3986ed8156c7091deb9f36e5ff50cd8b4374",
+      "bytes": 42386
+    },
+    {
+      "source": "Images/Pictures for flashes/Threecolorsen.jpg",
+      "path": "media/catalog/294c1b65576c92b9eada.jpg",
+      "sha256": "294c1b65576c92b9eada67cb19341c603f6bf1c4f798224c69a40186a8122319",
+      "bytes": 118663
+    },
+    {
+      "source": "Images/Pictures for flashes/Threecolorsru.jpg",
+      "path": "media/catalog/d719887c6bc5f637eac2.jpg",
+      "sha256": "d719887c6bc5f637eac2f969f86143ed9dc06a2247830bada6e00024d7b0ffd6",
+      "bytes": 113463
+    },
+    {
+      "source": "Images/Holms.jpg",
+      "path": "media/catalog/231f977732277935b6a8.jpg",
+      "sha256": "231f977732277935b6a8f1a48e29b3591778b9b42a70f2f3eb73658e6190ce9f",
+      "bytes": 101471
+    },
+    {
+      "source": "Images/Holmseng.jpg",
+      "path": "media/catalog/96c26a72eb7a74c3b02b.jpg",
+      "sha256": "96c26a72eb7a74c3b02be6bd34cda19bca3f66fd9e25c4008864d577a80b040d",
+      "bytes": 104891
+    },
+    {
+      "source": "Images/Pictures for flashes/Cossinsum-ru.png",
+      "path": "media/catalog/b1beeb02d06687368c7f.png",
+      "sha256": "b1beeb02d06687368c7f2388026e8b76ae11f1067f4c2f7606ee14645cdfe335",
+      "bytes": 32638
+    },
+    {
+      "source": "Images/Pictures for flashes/Cossinsum.png",
+      "path": "media/catalog/d140d70d0e4cc557c736.png",
+      "sha256": "d140d70d0e4cc557c7365ef744149991a4135475df63b1538aefd4c91458466d",
+      "bytes": 33930
+    },
+    {
+      "source": "Images/Pictures for flashes/Tutrleru.jpg",
+      "path": "media/catalog/281e5b7349769ba785a0.jpg",
+      "sha256": "281e5b7349769ba785a0198d52fb275ade121065f0374bf7279f7dad4a24c181",
+      "bytes": 52577
+    },
+    {
+      "source": "Images/Pictures for flashes/Tutrleen.jpg",
+      "path": "media/catalog/1c814a4b49a58ca2e28c.jpg",
+      "sha256": "1c814a4b49a58ca2e28ce6c091f21903bd141839cde7ca4652ca5bcb47d35033",
+      "bytes": 50332
+    },
+    {
+      "source": "Images/Pictures for flashes/Twocolorsen-tri.jpg",
+      "path": "media/catalog/032e337af87e702d9c17.jpg",
+      "sha256": "032e337af87e702d9c1771f327fd7d94ee857e765741505b636c4d4870e9e1fc",
+      "bytes": 136398
+    },
+    {
+      "source": "Images/Pictures for flashes/Twocolorsru-tri.jpg",
+      "path": "media/catalog/fee2662e7c3e43fc9165.jpg",
+      "sha256": "fee2662e7c3e43fc9165cd48dde5824985dbcc984473ee79648b4b09c6c13997",
+      "bytes": 160603
+    },
+    {
+      "source": "Images/Pictures for flashes/Twocolorsen.jpg",
+      "path": "media/catalog/22ed416a6ee71951f7af.jpg",
+      "sha256": "22ed416a6ee71951f7af1ed769861daee44975a33f234f4bdaa97a6a40833405",
+      "bytes": 119512
+    },
+    {
+      "source": "Images/Pictures for flashes/Twocolorsru.jpg",
+      "path": "media/catalog/502c5e4be6c4856c7edd.jpg",
+      "sha256": "502c5e4be6c4856c7edd81aa847bbad02269537ade7c0fffa79fd61e4215ad59",
+      "bytes": 122186
+    },
+    {
+      "source": "Images/Pictures for flashes/Twocolorsen-seg.jpg",
+      "path": "media/catalog/171e8b928d54ac43d3e6.jpg",
+      "sha256": "171e8b928d54ac43d3e6cf4d921478b1e7cedbaf316cc13d931288c0e9cb8454",
+      "bytes": 141846
+    },
+    {
+      "source": "Images/Pictures for flashes/Twocolorsru-seg.jpg",
+      "path": "media/catalog/78b2b089db588ecc982e.jpg",
+      "sha256": "78b2b089db588ecc982e4803e276a96b433382bfe2ec616cbcdfca7210888962",
+      "bytes": 172079
+    },
+    {
+      "source": "Images/Pictures for flashes/Twohourglassru.png",
+      "path": "media/catalog/deb7ea35c4b9db99d054.png",
+      "sha256": "deb7ea35c4b9db99d0540df087ef1cc1b216d4e11852a908d8f207b499229263",
+      "bytes": 26417
+    },
+    {
+      "source": "Images/Pictures for flashes/Twohourglass.png",
+      "path": "media/catalog/4c28f3406a3259f34c3b.png",
+      "sha256": "4c28f3406a3259f34c3b93134c7ed2081239d6c8535090a4c4c3106e9a4d53b8",
+      "bytes": 25899
+    },
+    {
+      "source": "Images/Pictures for flashes/Vol of sphere site ru.jpg",
+      "path": "media/catalog/db91238c58646c71bc2f.jpg",
+      "sha256": "db91238c58646c71bc2f1f96fc8375e849fc613c7a0766852bbe62693cd7e6a1",
+      "bytes": 68077
+    },
+    {
+      "source": "Images/Pictures for flashes/Walkaroun-ru.jpg",
+      "path": "media/catalog/614f61d26921ea8f6a6c.jpg",
+      "sha256": "614f61d26921ea8f6a6c2a0bce89f54bd53926ea566ffb13165a5b2aa296a810",
+      "bytes": 61193
+    },
+    {
+      "source": "Images/Pictures for flashes/Walkaroun.jpg",
+      "path": "media/catalog/d667b0410646a0687052.jpg",
+      "sha256": "d667b0410646a0687052748cc08b30695fdf885feb4671604cf8a33a167e3759",
+      "bytes": 66780
+    },
+    {
+      "source": "Images/Pictures for flashes/Wandmru.jpg",
+      "path": "media/catalog/737a6d1e897c4474106e.jpg",
+      "sha256": "737a6d1e897c4474106efa613e57b2031d27a246fc24f9d470a6c3d82580a47c",
+      "bytes": 75687
+    },
+    {
+      "source": "Images/Pictures for flashes/Wandmeng.jpg",
+      "path": "media/catalog/09083ef4415b1ecdec7b.jpg",
+      "sha256": "09083ef4415b1ecdec7b3f6aa371076b6ad2fc1293eea25f03dc37e7d35590b3",
+      "bytes": 81489
+    },
+    {
+      "source": "Images/Pictures for flashes/WM8ru.jpg",
+      "path": "media/catalog/dbdabcb0a97bae73919c.jpg",
+      "sha256": "dbdabcb0a97bae73919c5423ed421cd29cc3f39db3bca3910787b5e3d01132c0",
+      "bytes": 70907
+    },
+    {
+      "source": "Images/Pictures for flashes/WM8en.jpg",
+      "path": "media/catalog/7d75defbedb772eee643.jpg",
+      "sha256": "7d75defbedb772eee643d3b2144d4ca974d306eb96db195c02b7de95dcd5d090",
+      "bytes": 73107
+    },
+    {
+      "source": "Images/Pictures for flashes/WM3ru.jpg",
+      "path": "media/catalog/00a0975d3977626ce9af.jpg",
+      "sha256": "00a0975d3977626ce9aff644ae4c82309a3653e6db7d2f155c37c5ca4d9d265c",
+      "bytes": 46264
+    },
+    {
+      "source": "Images/Pictures for flashes/WM3en.jpg",
+      "path": "media/catalog/6bf0cdb1086ced2c851b.jpg",
+      "sha256": "6bf0cdb1086ced2c851b9dcc73bf05f92cc74aeb1729b7403773c9ea5cd93aa0",
+      "bytes": 47055
+    },
+    {
+      "source": "Images/Pictures for flashes/Colorbrick-ru.jpg",
+      "path": "media/catalog/d7a92ebe32b9f1141534.jpg",
+      "sha256": "d7a92ebe32b9f1141534e80b7ef5cb0d56e7e651c1fbd55969332fd4e11f5134",
+      "bytes": 43246
+    },
+    {
+      "source": "Images/Pictures for flashes/Colorbrick-en.jpg",
+      "path": "media/catalog/e312dce5ffc405525b8d.jpg",
+      "sha256": "e312dce5ffc405525b8dcc38528e4641b6c914fa80b123a5638cebe07f3c0a32",
+      "bytes": 43822
+    },
+    {
+      "source": "Images/Pictures for flashes/Byufon-ru.jpg",
+      "path": "media/catalog/bef143dc345294d49137.jpg",
+      "sha256": "bef143dc345294d4913789b56893c2b4b09eed179226ea303f8244068ca6c418",
+      "bytes": 86358
+    },
+    {
+      "source": "Images/Pictures for flashes/Byufon.jpg",
+      "path": "media/catalog/51cdf868fd94f42bade0.jpg",
+      "sha256": "51cdf868fd94f42bade044af7b6dde26c4e7015b712c198b5f870fd730ad354d",
+      "bytes": 59500
+    },
+    {
+      "source": "Images/Cubesections.jpg",
+      "path": "media/catalog/a56cb4379631e78a97b0.jpg",
+      "sha256": "a56cb4379631e78a97b03cba82e0cc6f2aad458da10538b5a55eddf5cb7e9b48",
+      "bytes": 57295
+    },
+    {
+      "source": "Images/Pictures for flashes/Colorparalele-ru.jpg",
+      "path": "media/catalog/194a4c0848effc6a8d41.jpg",
+      "sha256": "194a4c0848effc6a8d4109eea4977e96e569d392aa5730cdfe8e42c465018c7d",
+      "bytes": 44713
+    },
+    {
+      "source": "Images/Pictures for flashes/Colorparalele-en.jpg",
+      "path": "media/catalog/c6fd919056c7c2d51171.jpg",
+      "sha256": "c6fd919056c7c2d511714e7aa951f36fdb904542e126be9ba2a5c59247d17ca3",
+      "bytes": 42319
+    }
+  ]
+}

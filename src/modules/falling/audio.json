@@ -1,0 +1,133 @@
+{
+  "falling-figure": {
+    "source": "Movies/FallingFigure.swf",
+    "sourceSha256": "bdbbfee9bac73d8f88f0b065c65f996132eb21b3993d94e72b031861e6f34104",
+    "width": 550,
+    "height": 400,
+    "fps": 24,
+    "initialFrame": 1,
+    "endFrame": 424,
+    "introEnd": 1,
+    "audioAssets": [
+      {
+        "soundId": 101,
+        "codec": 2,
+        "sampleRate": 11025,
+        "sampleCount": 14532,
+        "channels": 1,
+        "seekSamples": 1661,
+        "src": "falling/audio/falling-figure/101.mp3",
+        "sha256": "35034462b0cb96afba56951c691cefb2b39053a1f2317de8090c4f97875433f8",
+        "embeddedMp3Sha256": "35034462b0cb96afba56951c691cefb2b39053a1f2317de8090c4f97875433f8",
+        "durationSeconds": 1.567350000000001,
+        "durationMeasurement": "ffprobe-packet-sum"
+      },
+      {
+        "soundId": 102,
+        "codec": 2,
+        "sampleRate": 11025,
+        "sampleCount": 56623,
+        "channels": 1,
+        "seekSamples": 1661,
+        "src": "falling/audio/falling-figure/102.mp3",
+        "sha256": "478d17655847720afdde291ce23b2506379a84ce2a60916b852992d4a5d9c50d",
+        "embeddedMp3Sha256": "478d17655847720afdde291ce23b2506379a84ce2a60916b852992d4a5d9c50d",
+        "durationSeconds": 5.381235000000007,
+        "durationMeasurement": "ffprobe-packet-sum"
+      }
+    ],
+    "audioCues": [
+      {
+        "frame": 55,
+        "soundId": 101,
+        "inPoint44": 0,
+        "outPoint44": 58128,
+        "inPointSeconds": 0,
+        "outPointSeconds": 1.318095238095238,
+        "loops": 1,
+        "sync": "event",
+        "envelope": []
+      },
+      {
+        "frame": 59,
+        "soundId": 102,
+        "inPoint44": 0,
+        "outPoint44": null,
+        "inPointSeconds": 0,
+        "outPointSeconds": null,
+        "loops": 1,
+        "sync": "event",
+        "envelope": []
+      },
+      {
+        "frame": 150,
+        "soundId": 101,
+        "inPoint44": 0,
+        "outPoint44": 58128,
+        "inPointSeconds": 0,
+        "outPointSeconds": 1.318095238095238,
+        "loops": 1,
+        "sync": "event",
+        "envelope": []
+      },
+      {
+        "frame": 154,
+        "soundId": 102,
+        "inPoint44": 0,
+        "outPoint44": null,
+        "inPointSeconds": 0,
+        "outPointSeconds": null,
+        "loops": 1,
+        "sync": "event",
+        "envelope": []
+      },
+      {
+        "frame": 244,
+        "soundId": 101,
+        "inPoint44": 0,
+        "outPoint44": 58128,
+        "inPointSeconds": 0,
+        "outPointSeconds": 1.318095238095238,
+        "loops": 1,
+        "sync": "event",
+        "envelope": []
+      },
+      {
+        "frame": 248,
+        "soundId": 102,
+        "inPoint44": 0,
+        "outPoint44": null,
+        "inPointSeconds": 0,
+        "outPointSeconds": null,
+        "loops": 1,
+        "sync": "event",
+        "envelope": []
+      },
+      {
+        "frame": 338,
+        "soundId": 101,
+        "inPoint44": 0,
+        "outPoint44": 58128,
+        "inPointSeconds": 0,
+        "outPointSeconds": 1.318095238095238,
+        "loops": 1,
+        "sync": "event",
+        "envelope": []
+      },
+      {
+        "frame": 342,
+        "soundId": 102,
+        "inPoint44": 0,
+        "outPoint44": null,
+        "inPointSeconds": 0,
+        "outPointSeconds": null,
+        "loops": 1,
+        "sync": "event",
+        "envelope": []
+      }
+    ],
+    "externalMusic": [],
+    "fireworks": [],
+    "nestedCueCount": 0
+  }
+}

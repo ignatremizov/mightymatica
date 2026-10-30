@@ -1,0 +1,27 @@
+.magic { max-width: 64rem; margin-inline: auto; background: #66ffff; color: #000; padding: clamp(.75rem, 3vw, 2rem); font-family: "Times New Roman", Times, serif; }
+.magic-mindread { background: #000; color: #fff; font-family: "Arial Rounded MT Bold", Arial, sans-serif; }
+.magic-mindread .activity-status, .magic-mindread .explanation { color: #fff; background: transparent; }
+.magic-subtraction, .magic-hourglasses { font-size: 1.15rem; }
+.magic .explanation, .magic .activity-status { border-radius: 0; background: transparent; }
+.magic-equations { font-family: "Times New Roman", Times, serif; font-weight: bold; text-align: center; color: #0000cc; }
+.magic li { margin-block: .7rem; }
+.magic-chart { display: grid; grid-template-columns: repeat(10, minmax(0, 1fr)); gap: .25rem; }
+.magic-chart > div { display: flex; justify-content: space-between; align-items: center; gap: .25rem; padding: .35rem; }
+.magic-chart span { font-size: .8rem; opacity: .8; }
+.magic-chart strong { font-size: 1.4rem; }
+.magic-ball { display: block; width: 8rem; height: 8rem; border: 2px solid #a7adff; border-radius: 50%; margin: 1.5rem auto; font-size: 4rem; color: white; background: radial-gradient(circle at 35% 25%, #7875be, #282044 70%); cursor: pointer; }
+.magic-ball:disabled { opacity: 1; cursor: default; }
+.magic-ball:focus-visible { outline: 3px solid currentColor; outline-offset: 5px; }
+.magic-equations { font-size: clamp(1.3rem, 4vw, 2.5rem); min-height: 3rem; font-variant-numeric: tabular-nums; }
+.magic-glasses { display: flex; justify-content: center; gap: clamp(1rem, 5vw, 4rem); }
+.magic-glasses > div { display: flex; flex-direction: column; align-items: center; min-width: 0; }
+.magic-glasses svg { width: min(30vw, 10rem); }
+.magic input { max-width: 10rem; font-size: 1.2rem; }
+.magic-maze { display: block; width: 100%; max-height: 70vh; border-radius: 0; border: 1px solid #000; touch-action: none; }
+.magic-maze:focus-visible { outline: 3px solid #d99c4b; outline-offset: 4px; }
+.magic-dpad { display: flex; justify-content: center; gap: .6rem; margin-block: 1rem; }
+.magic-dpad button { width: 3.5rem; height: 3.5rem; font-size: 1.5rem; touch-action: none; user-select: none; }
+@media (max-width: 600px) {
+  .magic-chart { grid-template-columns: repeat(5, minmax(0, 1fr)); }
+  .magic-chart > div { padding: .3rem; }
+}

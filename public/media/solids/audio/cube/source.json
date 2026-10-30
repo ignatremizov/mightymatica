@@ -1,0 +1,13 @@
+{
+  "source": "raw-site/Movies/Swinger-Singers.mp3",
+  "sourceController": "Cubesections_fla.MainTimeline.frame1/musicStart (English and Russian)",
+  "literalRequest": "Swinger-Singers.mp3",
+  "src": "solids/audio/cube/Swinger-Singers.mp3",
+  "sha256": "5005dd06796c938a249cf32433abac35dc6c4fead8befb504a58c943501415e3",
+  "durationSeconds": 183.066122,
+  "channels": 2,
+  "gain": 0.4,
+  "pan": 0,
+  "repeat": "SOUND_COMPLETE calls musicStart",
+  "contentClassification": "Original soundtrack; no narration claim"
+}

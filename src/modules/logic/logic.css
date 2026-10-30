@@ -1,0 +1,18 @@
+.logic-activity { color: #000066; font-family: "Times New Roman", serif; }
+.logic-activity .logic-coins { width: 100%; max-width: 620px; margin-inline: auto; display: block; background: #66ffff; border: 0; border-radius: 0; }
+.logic-activity .logic-coins text { font: bold 18px "Times New Roman", serif; }
+.logic-activity .logic-train { display: grid; grid-template-columns: repeat(auto-fit, minmax(74px, 1fr)); gap: 10px; padding: 22px 10px; border-block: 3px solid currentColor; }
+.logic-activity .logic-passenger { display: grid; justify-items: center; gap: 8px; padding: 12px 4px; border-inline-end: 1px solid currentColor; border-radius: 0; }
+.logic-activity .logic-passenger > span { font-size: 42px; line-height: 1; }
+.logic-activity .control { display: flex; align-items: center; flex-wrap: wrap; gap: 12px; }
+.logic-activity select { padding: 8px 14px; font: inherit; }
+.logic-activity button[aria-pressed="true"] { outline: 3px solid currentColor; outline-offset: 3px; }
+.logic-activity .logic-recovered-board { display: block; width: 100%; max-width: 900px; margin-inline: auto; border: 0; border-radius: 0; }
+.logic-activity .logic-recovered-board, .logic-activity .logic-coins { touch-action: none; }
+.logic-activity .logic-board-choice { cursor: pointer; }
+.logic-activity .logic-board-choice[aria-disabled="true"] { cursor: default; }
+.logic-activity .logic-board-choice:focus-visible { outline: 3px solid #000066; outline-offset: 3px; }
+.logic-activity .logic-board-choice[aria-pressed="true"] > .logic-hit-region { stroke: #000066; stroke-width: 3px; stroke-dasharray: 5 3; }
+.logic-activity .logic-companion { margin: 0 auto; width: 100%; max-width: 680px; }
+.logic-activity .logic-companion img { width: 100%; height: auto; display: block; border: 0; border-radius: 0; }
+.logic-activity .logic-companion figcaption { margin-block: 10px; font-size: .9rem; }

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Escher-hands-game.swf",
+      "sourceSha256": "a92bfe203089bd0428b57ed0170a274130935d355e029db853e6bf4728cb87fc",
+      "textBounds": {
+        "text35": [
+          -41,
+          319,
+          9372,
+          3337
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Escher-hands-game.swf",
+      "sourceSha256": "a92bfe203089bd0428b57ed0170a274130935d355e029db853e6bf4728cb87fc",
+      "textBounds": {
+        "text35": [
+          -41,
+          319,
+          9372,
+          3337
+        ]
+      }
+    }
+  }
+}

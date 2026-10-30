@@ -1,0 +1,314 @@
+{
+  "quiz-permutations": {
+    "source": "setup.xml",
+    "title": "Permutations",
+    "questions": [
+      {
+        "question": "How many 6 digit numbers can be formed from the six digits 2, 3, 5, 6, 7 and 9 (No repetitions)",
+        "originalAnswer": 3,
+        "choices": [
+          "60",
+          "90",
+          "120",
+          "720"
+        ]
+      },
+      {
+        "question": "How many 3 digit numbers can be formed from the six digits 2, 3, 5, 6, 7 and 9, less than 400 (No repetitions)",
+        "originalAnswer": 1,
+        "choices": [
+          "20",
+          "40",
+          "60",
+          "80"
+        ]
+      },
+      {
+        "question": "How many 3 digit EVEN numbers can be formed from the six digits 2, 3, 5, 6, 7 and 9 (No repetitions)",
+        "originalAnswer": 3,
+        "choices": [
+          "12",
+          "18",
+          "24",
+          "40"
+        ]
+      },
+      {
+        "question": "How many 3 digit ODD numbers can be formed from the six digits 2, 3, 5, 6, 7 and 9 (No repetitions)",
+        "originalAnswer": 2,
+        "choices": [
+          "20",
+          "40",
+          "80",
+          "120"
+        ]
+      },
+      {
+        "question": "How many 3 digit numbers can be formed from the six digits 2, 3, 5, 6, 7 and 9 and to be multiple of 5 (No repetitions)",
+        "originalAnswer": 3,
+        "choices": [
+          "6",
+          "8",
+          "12",
+          "20"
+        ]
+      },
+      {
+        "question": "In how many ways can 3 boys and 2 girls sit in a row if the boys and girls are to sit alternating?",
+        "originalAnswer": 0,
+        "choices": [
+          "12",
+          "18",
+          "20",
+          "24"
+        ]
+      },
+      {
+        "question": "In how many ways can they sit in a row if just the girls are to sit next to each other?",
+        "originalAnswer": 2,
+        "choices": [
+          "12",
+          "24",
+          "48",
+          "60"
+        ]
+      },
+      {
+        "question": "Walt Disney was afraid all his life of",
+        "originalAnswer": 1,
+        "choices": [
+          "Elephants",
+          "Mice",
+          "Tigers",
+          "Crocodiles"
+        ]
+      },
+      {
+        "question": "In how many ways can 5 boys and 4 girls be arranged in a line so that there will be a boy at the beginning and at the end?",
+        "originalAnswer": 2,
+        "choices": [
+          "3!*7!/5!",
+          "5!*7!/6!",
+          "5!*7!/3!",
+          "3!*7!/5!"
+        ]
+      },
+      {
+        "question": "How many different signals, each consisting of 8 flags hung in a vertical line, can be formed from 4 identical red flags, 2 identical blue flags and 2 identical green flags?",
+        "originalAnswer": 3,
+        "choices": [
+          "120",
+          "180",
+          "210",
+          "420"
+        ]
+      },
+      {
+        "question": "In how many ways can 3 Americans, 4 Frenchmen, 4 Danes and 2 Italians be seated at around table so that those of the same nationality sit together?",
+        "originalAnswer": 1,
+        "choices": [
+          "13!",
+          "3! * 3! * 4! * 4! * 2",
+          "13 C 4",
+          "No such number"
+        ]
+      },
+      {
+        "question": "Suppose an urn contains 8 balls. Find the number of ordered samples of size 3 with replacement",
+        "originalAnswer": 3,
+        "choices": [
+          "8!/ (5! * 3!)",
+          "56",
+          "8 C 3",
+          "544"
+        ]
+      },
+      {
+        "question": " In how many of ways can 5 balls be placed in 4 tins if any number of balls can be placed in any tin?",
+        "originalAnswer": 2,
+        "choices": [
+          "5 C 4",
+          "5 in power of 4",
+          "4 in power of 5",
+          "5 in power of 5"
+        ]
+      },
+      {
+        "question": " In how many ways can 3 boys and 2 girls be selected from a group of 6 boys and 5 girls?",
+        "originalAnswer": 3,
+        "choices": [
+          "20",
+          "50",
+          "100",
+          "200"
+        ]
+      },
+      {
+        "question": "How many distinct permutations can be formed from all the letters of the word: unusual?",
+        "originalAnswer": 3,
+        "choices": [
+          "120",
+          "210",
+          "420",
+          "840"
+        ]
+      }
+    ]
+  },
+  "quiz-permutations-more": {
+    "source": "Millionaire-Perm-more/setup.xml",
+    "title": "Permutations test",
+    "questions": [
+      {
+        "question": "3 doors to room-In how many ways can we enter and leave the room",
+        "originalAnswer": 2,
+        "choices": [
+          "3",
+          "6",
+          "9",
+          "12"
+        ]
+      },
+      {
+        "question": "3 doors to room-In how many ways can we enter one door and leave the room from another",
+        "originalAnswer": 1,
+        "choices": [
+          "3",
+          "6",
+          "9",
+          "12"
+        ]
+      },
+      {
+        "question": "How many possible combinations can a 3-digit safe code have?",
+        "originalAnswer": 3,
+        "choices": [
+          "3 in power 10",
+          "9 P 3",
+          "9 in power 3",
+          "10 in power 3"
+        ]
+      },
+      {
+        "question": " Goodwin has 3 different colored pants and 2 different colored shirts. In how many ways can he choose a pair of pants and a shirt?",
+        "originalAnswer": 2,
+        "choices": [
+          "3",
+          "5",
+          "6",
+          "12"
+        ]
+      },
+      {
+        "question": " How many different 5-letter words can be formed from the word ORANGE using each letter only once?",
+        "originalAnswer": 3,
+        "choices": [
+          "6 P 6",
+          "6 C 6",
+          "6 in power of 5",
+          "6 P 5"
+        ]
+      },
+      {
+        "question": "How many different six-digit numbers can be formed using all of the following digits: 3, 3, 4, 4, 4, 5",
+        "originalAnswer": 3,
+        "choices": [
+          "20",
+          "30",
+          "36",
+          "60"
+        ]
+      },
+      {
+        "question": "How many different figures in Tetris",
+        "originalAnswer": 2,
+        "choices": [
+          "5",
+          "6",
+          "7",
+          "8"
+        ]
+      },
+      {
+        "question": "How many different strings of letters can be made by reordering the letters of the word SUCCESS?",
+        "originalAnswer": 1,
+        "choices": [
+          "30",
+          "420",
+          "40",
+          "60"
+        ]
+      },
+      {
+        "question": "In how many ways can a party of 7 persons arrange themselves around a circular table?",
+        "originalAnswer": 3,
+        "choices": [
+          "7!",
+          "7 P 7",
+          "7 C 7",
+          "720"
+        ]
+      },
+      {
+        "question": "How many different signals, each consisting of 6 flags hung in a vertical line, can be formed from 4 identical red flags and 2 identical blue flags?",
+        "originalAnswer": 3,
+        "choices": [
+          "6",
+          "6!",
+          "6 C 6",
+          "15"
+        ]
+      },
+      {
+        "question": "In how many ways can 3 Americans, 4 Frenchmen, 4 Danes and 2 Italians be seated in a row so that those of the same nationality sit together?",
+        "originalAnswer": 1,
+        "choices": [
+          "13!",
+          "4! * 3! * 4! * 4! * 2",
+          "13 C 4",
+          "No such number"
+        ]
+      },
+      {
+        "question": "Suppose an urn contains 8 balls. Find the number of ordered samples of size 3 without replacement",
+        "originalAnswer": 3,
+        "choices": [
+          "8!/ (5! * 3!)",
+          "56",
+          "8 C 3",
+          "All abover"
+        ]
+      },
+      {
+        "question": "In how many ways can the letters of the word GOSSAMERE be rearranged such that all S’s and M’s appear in the middle?",
+        "originalAnswer": 3,
+        "choices": [
+          "9!/(2!*2!)",
+          "7 P 6 / (2!*2!)",
+          "(7 P 6) * (3 P 3)",
+          "(6 P 6)/2! * (3 P 3)/2!"
+        ]
+      },
+      {
+        "question": "What type of wood is Pinocchio made from",
+        "originalAnswer": 3,
+        "choices": [
+          "Redwood",
+          "Woodpecker",
+          "Woodcock",
+          "Firewood"
+        ]
+      },
+      {
+        "question": "How many distinct permutations can be formed from all the letters of each word: sociological?",
+        "originalAnswer": 3,
+        "choices": [
+          "12!",
+          "8!",
+          "12 P 6",
+          "9979200"
+        ]
+      }
+    ]
+  }
+}

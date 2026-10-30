@@ -1,0 +1,2599 @@
+[
+  {
+    "source": "Movies/MM-SAT-101-f.swf",
+    "key": "MM-SAT-101-f",
+    "pages": [
+      {
+        "label": "Mightymatica-book-sat",
+        "originalFile": "Mightymatica-book-sat.jpg",
+        "image": "books/MM-SAT-101-f/page-001.jpg",
+        "sha256": "66df948e3d9f915e3afcb20e64278ba2d9e7656f649071e72d85d6fa7df3c672",
+        "texts": []
+      },
+      {
+        "label": "SAT-001",
+        "originalFile": "SAT-001.jpg",
+        "image": "books/MM-SAT-101-f/page-002.jpg",
+        "sha256": "096ceca15e49948091d020def58e70569b50e3bfc1bd37e6847436d4193df75c",
+        "texts": []
+      },
+      {
+        "label": "SAT-002",
+        "originalFile": "SAT-002.jpg",
+        "image": "books/MM-SAT-101-f/page-003.jpg",
+        "sha256": "de8325c2acafedd698711a21122c74f9fda51ec13c99640be0b9f77938b3c0df",
+        "texts": []
+      },
+      {
+        "label": "SAT-003",
+        "originalFile": "SAT-003.jpg",
+        "image": "books/MM-SAT-101-f/page-004.jpg",
+        "sha256": "6966bc92c7a03bca9190c1144bc58ee596a4238fe0293f328dcea1f45a2d21f5",
+        "texts": []
+      },
+      {
+        "label": "SAT-004",
+        "originalFile": "SAT-004.jpg",
+        "image": "books/MM-SAT-101-f/page-005.jpg",
+        "sha256": "aa3740d093213550303892048aed01dec75fab1f9d20a83d114b81d428935a28",
+        "texts": []
+      },
+      {
+        "label": "SAT-005",
+        "originalFile": "SAT-005.jpg",
+        "image": "books/MM-SAT-101-f/page-006.jpg",
+        "sha256": "2bea52e4f10a61e1e4add8a2d3f3fdd5f3f2a90baa6001f4d151d3a7ebd9e9e1",
+        "texts": []
+      },
+      {
+        "label": "SAT-006",
+        "originalFile": "SAT-006.jpg",
+        "image": "books/MM-SAT-101-f/page-007.jpg",
+        "sha256": "a1f7f7a40bc7060fbd0637334bf12560ddf3f7a4610784a977a8207a04b0d089",
+        "texts": []
+      },
+      {
+        "label": "SAT-007",
+        "originalFile": "SAT-007.jpg",
+        "image": "books/MM-SAT-101-f/page-008.jpg",
+        "sha256": "0cf8065cefc2d92c11c5208b945baa4a97e89b4a3765415d6e2e1b4bcdc32b1e",
+        "texts": []
+      },
+      {
+        "label": "SAT-008",
+        "originalFile": "SAT-008.jpg",
+        "image": "books/MM-SAT-101-f/page-009.jpg",
+        "sha256": "9339e22ed7a8188f77be19a0c1ff4d4de9f2bc214f3929a186d7209d48109b6a",
+        "texts": []
+      },
+      {
+        "label": "SAT-009",
+        "originalFile": "SAT-009.jpg",
+        "image": "books/MM-SAT-101-f/page-010.jpg",
+        "sha256": "d47a4f1802aa301c95045449ba1edca1147c40a0291f6c01b2d4d893f66372b7",
+        "texts": []
+      },
+      {
+        "label": "SAT-010",
+        "originalFile": "SAT-010.jpg",
+        "image": "books/MM-SAT-101-f/page-011.jpg",
+        "sha256": "afcce484a4c7a704136fbbd8453ae75292805a099f42efe1693ef04079cceacd",
+        "texts": []
+      },
+      {
+        "label": "SAT-011",
+        "originalFile": "SAT-011.jpg",
+        "image": "books/MM-SAT-101-f/page-012.jpg",
+        "sha256": "18675fd1652cbb73db9d77c2db8ce8c9b2e78f602d3f489dca3c5ba2ced9537b",
+        "texts": []
+      },
+      {
+        "label": "SAT-012",
+        "originalFile": "SAT-012.jpg",
+        "image": "books/MM-SAT-101-f/page-013.jpg",
+        "sha256": "e04a3d594d7426eaa69df78fb779647a22e83429fcbff935a1fd583328f1af44",
+        "texts": []
+      },
+      {
+        "label": "SAT-013",
+        "originalFile": "SAT-013.jpg",
+        "image": "books/MM-SAT-101-f/page-014.jpg",
+        "sha256": "6737544d42dcd620143e651952698706df1a3efb8ab2bf799e01259143a0e09e",
+        "texts": []
+      },
+      {
+        "label": "SAT-014",
+        "originalFile": "SAT-014.jpg",
+        "image": "books/MM-SAT-101-f/page-015.jpg",
+        "sha256": "67f48da2226602795bc36353f10de83df28c9ed776c4a8777676c23210d76932",
+        "texts": []
+      },
+      {
+        "label": "SAT-015",
+        "originalFile": "SAT-015.jpg",
+        "image": "books/MM-SAT-101-f/page-016.jpg",
+        "sha256": "cb83664f9857bfd693d087fe7156fba3b6ef5ec2fcb266d929d7920322659b8d",
+        "texts": []
+      },
+      {
+        "label": "SAT-016",
+        "originalFile": "SAT-016.jpg",
+        "image": "books/MM-SAT-101-f/page-017.jpg",
+        "sha256": "5a0c5fce6f80812023b1476ee30dbf7e96500257d50f106905e9fdf28e70fe80",
+        "texts": []
+      },
+      {
+        "label": "SAT-017",
+        "originalFile": "SAT-017.jpg",
+        "image": "books/MM-SAT-101-f/page-018.jpg",
+        "sha256": "afd4c9a575ef96d12ceb250ee80665861c6b440cb5d55c2cc7dcddd915fab9a6",
+        "texts": []
+      },
+      {
+        "label": "SAT-018",
+        "originalFile": "SAT-018.jpg",
+        "image": "books/MM-SAT-101-f/page-019.jpg",
+        "sha256": "8889da5b2b701003998dae9f1a08ee0e03240042648b196fa1677d20355b7990",
+        "texts": []
+      },
+      {
+        "label": "SAT-019",
+        "originalFile": "SAT-019.jpg",
+        "image": "books/MM-SAT-101-f/page-020.jpg",
+        "sha256": "ef9d8e3668f5ef64c7f4b344440f48f0b6cf8d1229ffeec4623e016d99c60dcf",
+        "texts": []
+      },
+      {
+        "label": "SAT-020",
+        "originalFile": "SAT-020.jpg",
+        "image": "books/MM-SAT-101-f/page-021.jpg",
+        "sha256": "531b549248b86c647850adb8481b71db99b44252e5a23715bfa00f2e475e2d45",
+        "texts": []
+      },
+      {
+        "label": "SAT-021",
+        "originalFile": "SAT-021.jpg",
+        "image": "books/MM-SAT-101-f/page-022.jpg",
+        "sha256": "5a4369d9c66dfd4d643c7cc6efce2536dc82bf692d13182389ff0cebe1277ae6",
+        "texts": []
+      },
+      {
+        "label": "SAT-022",
+        "originalFile": "SAT-022.jpg",
+        "image": "books/MM-SAT-101-f/page-023.jpg",
+        "sha256": "6f6d24e889367c5617cad83cdb16cc56613d08cc646e120fee70101d9fc8fb74",
+        "texts": []
+      },
+      {
+        "label": "SAT-023",
+        "originalFile": "SAT-023.jpg",
+        "image": "books/MM-SAT-101-f/page-024.jpg",
+        "sha256": "ce818d36253dda3017fda0c9c35d607d74118b362d315ddbf0d34188e6348061",
+        "texts": []
+      },
+      {
+        "label": "SAT-024",
+        "originalFile": "SAT-024.jpg",
+        "image": "books/MM-SAT-101-f/page-025.jpg",
+        "sha256": "45ad976e5878ebdcb31a090d879d9f6d254cb1e92d96f330bb280a29e0ff03f4",
+        "texts": []
+      },
+      {
+        "label": "SAT-025",
+        "originalFile": "SAT-025.jpg",
+        "image": "books/MM-SAT-101-f/page-026.jpg",
+        "sha256": "e59c480001b7c646486e449f4ae00e5a4e51615c2f2ed9c37c9683260ca0cbe4",
+        "texts": []
+      },
+      {
+        "label": "SAT-026",
+        "originalFile": "SAT-026.jpg",
+        "image": "books/MM-SAT-101-f/page-027.jpg",
+        "sha256": "cdecacef8a8b56dba4a36aa4b5ceff92cba346e013520e8f6d03d3640dcc3977",
+        "texts": []
+      },
+      {
+        "label": "SAT-027",
+        "originalFile": "SAT-027.jpg",
+        "image": "books/MM-SAT-101-f/page-028.jpg",
+        "sha256": "f4d14f8f89103955442e2172d556cf0c663a97ece2107832bcd580ba72bc555b",
+        "texts": []
+      }
+    ],
+    "swfSha256": "db34ca65acafec621c0ecc7bf3425a3040de1448c308340997b41927c14b1950"
+  },
+  {
+    "source": "Movies/MMCircles.swf",
+    "key": "MMCircles",
+    "pages": [
+      {
+        "label": "Mightymatica-Mcircles",
+        "originalFile": "Mightymatica-Mcircles.jpg",
+        "image": "books/MMCircles/page-001.jpg",
+        "sha256": "98a25644509f8700d915a42155866abeb0ca428c65ac72b2ddf591e207c8967b",
+        "texts": []
+      },
+      {
+        "label": "P-001",
+        "originalFile": "P-001.jpg",
+        "image": "books/MMCircles/page-002.jpg",
+        "sha256": "ee6a76ea3fc0cc5a320497cfc7233ddc4ff548c0dcc13ac1ab81c749c8f2d946",
+        "texts": []
+      },
+      {
+        "label": "P-002",
+        "originalFile": "P-002.jpg",
+        "image": "books/MMCircles/page-003.jpg",
+        "sha256": "9227d93d2247a91c1bb627412c0f3b7aae03f457512f592ce3ed95748fd1bd15",
+        "texts": []
+      },
+      {
+        "label": "P-003",
+        "originalFile": "P-003.jpg",
+        "image": "books/MMCircles/page-004.jpg",
+        "sha256": "299f46e4241e0ecccba87741df9906e89e067660a5a683167f71b3022fe3ba8d",
+        "texts": []
+      },
+      {
+        "label": "P-004",
+        "originalFile": "P-004.jpg",
+        "image": "books/MMCircles/page-005.jpg",
+        "sha256": "050c8a914ede533c5a51100648b4fe62f6dab570c2972cb0eafb6e897fdb2baa",
+        "texts": []
+      },
+      {
+        "label": "P-005",
+        "originalFile": "P-005.jpg",
+        "image": "books/MMCircles/page-006.jpg",
+        "sha256": "dd01f60026cb166041925aa240e1b9df75d84d852240ff37f26c4af6578c49a6",
+        "texts": []
+      },
+      {
+        "label": "P-006",
+        "originalFile": "P-006.jpg",
+        "image": "books/MMCircles/page-007.jpg",
+        "sha256": "088eeef9e45c1c1e1c66115b84ed65d40782e30c474526c4e13ccec0d2a5c98a",
+        "texts": []
+      },
+      {
+        "label": "P-007",
+        "originalFile": "P-007.jpg",
+        "image": "books/MMCircles/page-008.jpg",
+        "sha256": "3221bb7dc0186b61b72f80556b542cde53606e7edac202efc68ac0745afe02c9",
+        "texts": []
+      },
+      {
+        "label": "P-008",
+        "originalFile": "P-008.jpg",
+        "image": "books/MMCircles/page-009.jpg",
+        "sha256": "5b405da719b13aa9b26986d120e72baf4fc19715dcb53e49bca0fd3c8c8e1a79",
+        "texts": []
+      },
+      {
+        "label": "P-009",
+        "originalFile": "P-009.jpg",
+        "image": "books/MMCircles/page-010.jpg",
+        "sha256": "28f2ba6d62ed28503eeca2633925674400cb645a8887e0d338463f7c0e8f3c0a",
+        "texts": []
+      },
+      {
+        "label": "P-010",
+        "originalFile": "P-010.jpg",
+        "image": "books/MMCircles/page-011.jpg",
+        "sha256": "31c1aa5e5383b5eb91981ee9f958fc48d5567a8d5acb9db9ca1a74fdaa8e5eb1",
+        "texts": []
+      },
+      {
+        "label": "P-011",
+        "originalFile": "P-011.jpg",
+        "image": "books/MMCircles/page-012.jpg",
+        "sha256": "6d1ec87a074dcfcad57816ca88967100b309073e75f6527b68da9c6e4764690d",
+        "texts": []
+      },
+      {
+        "label": "P-012",
+        "originalFile": "P-012.jpg",
+        "image": "books/MMCircles/page-013.jpg",
+        "sha256": "f687f3e7291a5cbee0d5cc1f394703ad04ade12ca21e1566ab34b1380eb4d8d7",
+        "texts": []
+      },
+      {
+        "label": "P-013",
+        "originalFile": "P-013.jpg",
+        "image": "books/MMCircles/page-014.jpg",
+        "sha256": "f86a218244c73c7d3b0e493fee7529140df7747ce4a85828571e44d283ee09c6",
+        "texts": []
+      },
+      {
+        "label": "P-014",
+        "originalFile": "P-014.jpg",
+        "image": "books/MMCircles/page-015.jpg",
+        "sha256": "771d8917a51982c8ae7f01cb88ee13f6ec27c559c89ec8ca3b5ee95047a77e0c",
+        "texts": []
+      },
+      {
+        "label": "P-015",
+        "originalFile": "P-015.jpg",
+        "image": "books/MMCircles/page-016.jpg",
+        "sha256": "160732297a80d32ebca0e8410814aec92fa058fa540601e242e7822f3508d383",
+        "texts": []
+      },
+      {
+        "label": "P-016",
+        "originalFile": "P-016.jpg",
+        "image": "books/MMCircles/page-017.jpg",
+        "sha256": "28552dc83f59043ea37c93494f6cf6791417abc38569b4250301ab01c8747585",
+        "texts": []
+      },
+      {
+        "label": "P-017",
+        "originalFile": "P-017.jpg",
+        "image": "books/MMCircles/page-018.jpg",
+        "sha256": "ac7f6c5776a122cf053a8a4ed1f80da8a30d78f97f0b8d3673127c7e483ec24c",
+        "texts": []
+      },
+      {
+        "label": "P-018",
+        "originalFile": "P-018.jpg",
+        "image": "books/MMCircles/page-019.jpg",
+        "sha256": "dbc55129da8785cc8ee4aa30ca050bc9aa1683f599683152acc1d1fa332eeb4a",
+        "texts": []
+      },
+      {
+        "label": "P-019",
+        "originalFile": "P-019.jpg",
+        "image": "books/MMCircles/page-020.jpg",
+        "sha256": "d07126a9dadf83de4d634345c867234672fa04615c2f4b53d1d54faf5a3b93ff",
+        "texts": []
+      },
+      {
+        "label": "P-020",
+        "originalFile": "P-020.jpg",
+        "image": "books/MMCircles/page-021.jpg",
+        "sha256": "ae862d6433298512c82b1c67a433974c0de5cca9b2691319862513f7ec722794",
+        "texts": []
+      },
+      {
+        "label": "P-021",
+        "originalFile": "P-021.jpg",
+        "image": "books/MMCircles/page-022.jpg",
+        "sha256": "8922d4f6051d5be2b63cc14b9330a7313bb513fcf9111c2182c32014676ac4f9",
+        "texts": []
+      },
+      {
+        "label": "P-022",
+        "originalFile": "P-022.jpg",
+        "image": "books/MMCircles/page-023.jpg",
+        "sha256": "fc790d6c6042e15b3ef43420c50a5a20fff915bb44cfb04315c9f448d0ebfb69",
+        "texts": []
+      },
+      {
+        "label": "P-023",
+        "originalFile": "P-023.jpg",
+        "image": "books/MMCircles/page-024.jpg",
+        "sha256": "d1e80467440ef285c7e94b259cf897e192c63f629f8e42b3e506d54f095f8dcd",
+        "texts": []
+      },
+      {
+        "label": "P-024",
+        "originalFile": "P-024.jpg",
+        "image": "books/MMCircles/page-025.jpg",
+        "sha256": "a23cfe1f7584af1d314b679659f0d5f3f7a6aede3dcae211b8e398fcdec06055",
+        "texts": []
+      },
+      {
+        "label": "P-025",
+        "originalFile": "P-025.jpg",
+        "image": "books/MMCircles/page-026.jpg",
+        "sha256": "87029e3201a2548f7340d28c8325c587404dcd7d302f9bd466ce9b52e38366b8",
+        "texts": []
+      },
+      {
+        "label": "P-026",
+        "originalFile": "P-026.jpg",
+        "image": "books/MMCircles/page-027.jpg",
+        "sha256": "09811d7647bcbda5d8df3ee24b86f91382d4d2f2cee87fa084992294339d5f51",
+        "texts": []
+      },
+      {
+        "label": "P-027",
+        "originalFile": "P-027.jpg",
+        "image": "books/MMCircles/page-028.jpg",
+        "sha256": "dc32dd034d79319272d236defe44251b0b10c530782551186bcae965313347ca",
+        "texts": []
+      }
+    ],
+    "swfSha256": "aff6d9549d9dec2cad1c6ca3d059fef41b312279a1aa48094de2f79ceddd224d"
+  },
+  {
+    "source": "Movies/MMGrade-1-3.swf",
+    "key": "MMGrade-1-3",
+    "pages": [
+      {
+        "label": "Mightymatica-book-1-3",
+        "originalFile": "Mightymatica-book-1-3.jpg",
+        "image": "books/MMGrade-1-3/page-001.jpg",
+        "sha256": "2a7cda26edc45f6b856501f40508c090018ae7c44373e1ab30318d9264ac5d31",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-001",
+        "originalFile": "Pet_1-3-001.jpg",
+        "image": "books/MMGrade-1-3/page-002.jpg",
+        "sha256": "1c82fbba18f1e8154985d730fd3878f77bf372100834ac5422634d00ddc1c685",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-002",
+        "originalFile": "Pet_1-3-002.jpg",
+        "image": "books/MMGrade-1-3/page-003.jpg",
+        "sha256": "91c817d1f5f76370ff9f931428e6c1a67301cb60698061451db1d14e4c34af98",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-003",
+        "originalFile": "Pet_1-3-003.jpg",
+        "image": "books/MMGrade-1-3/page-004.jpg",
+        "sha256": "284db4c904a2cd012d710290c19d0c6abc800b9aa162f187fdc1ebff2e045692",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-004",
+        "originalFile": "Pet_1-3-004.jpg",
+        "image": "books/MMGrade-1-3/page-005.jpg",
+        "sha256": "abb4ca4b49f7d3f6af4db6ed2fa258192e67ab0a903a0787dfda55f9946d1ffb",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-005",
+        "originalFile": "Pet_1-3-005.jpg",
+        "image": "books/MMGrade-1-3/page-006.jpg",
+        "sha256": "6ec99d159accb58a0d17c285dce4defa1ecdbe9db779200d6e2c9962a0b6e6bb",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-006",
+        "originalFile": "Pet_1-3-006.jpg",
+        "image": "books/MMGrade-1-3/page-007.jpg",
+        "sha256": "554927d28ffd0637a7fbc401dc81f26d337f29162d92a37bd7f73abcd8bc0f12",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-007",
+        "originalFile": "Pet_1-3-007.jpg",
+        "image": "books/MMGrade-1-3/page-008.jpg",
+        "sha256": "ab5fa35a5d60dc1792240bbae3454bf5f19ed8d5a8c2e90ec1daab70fb802283",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-008",
+        "originalFile": "Pet_1-3-008.jpg",
+        "image": "books/MMGrade-1-3/page-009.jpg",
+        "sha256": "e11fd90bf26b070b108c16c90237ddbf460113e158f322629a115ea6afd4229c",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-009",
+        "originalFile": "Pet_1-3-009.jpg",
+        "image": "books/MMGrade-1-3/page-010.jpg",
+        "sha256": "12f1ceab4d346e734272df7a7a0ad8e7adeb44071e4817b893be11d9e6a43009",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0010",
+        "originalFile": "Pet_1-3-0010.jpg",
+        "image": "books/MMGrade-1-3/page-011.jpg",
+        "sha256": "b6d47703929162f6676e56546bf5edae0ae7c36e31f1f841a54ec14ffe25bba3",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0011",
+        "originalFile": "Pet_1-3-0011.jpg",
+        "image": "books/MMGrade-1-3/page-012.jpg",
+        "sha256": "1dad5f216a8569bc038904484ed9495d19f814b4ca8e056661a99c5768626dc4",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0012",
+        "originalFile": "Pet_1-3-0012.jpg",
+        "image": "books/MMGrade-1-3/page-013.jpg",
+        "sha256": "e97e89848eabccd66e837c2d4b1be0f77e3403252d99b671484c6e033c72cdfc",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0013",
+        "originalFile": "Pet_1-3-0013.jpg",
+        "image": "books/MMGrade-1-3/page-014.jpg",
+        "sha256": "97c7fb59f237eb173c39dbc8db9477b17a7ffd91485cffe4091b3439f53b5663",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0014",
+        "originalFile": "Pet_1-3-0014.jpg",
+        "image": "books/MMGrade-1-3/page-015.jpg",
+        "sha256": "056fbba3386d9cfdb2a8dea73a8d70f26822d89ce26dbf5564039a663f4667ab",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0015",
+        "originalFile": "Pet_1-3-0015.jpg",
+        "image": "books/MMGrade-1-3/page-016.jpg",
+        "sha256": "d3f3fa0b2c5e29104c860babc0cd8a6f1ce6af758df37228bb44ee3a1698f25d",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0016",
+        "originalFile": "Pet_1-3-0016.jpg",
+        "image": "books/MMGrade-1-3/page-017.jpg",
+        "sha256": "9c777b5600d87e11cc5b249e30083a29a78be30b763e5b333f5b44ec1f4c16d3",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0017",
+        "originalFile": "Pet_1-3-0017.jpg",
+        "image": "books/MMGrade-1-3/page-018.jpg",
+        "sha256": "45477b2b53775cb7b27165f546eb742760d809e63afc2d76098c5fdd810c9e9d",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0018",
+        "originalFile": "Pet_1-3-0018.jpg",
+        "image": "books/MMGrade-1-3/page-019.jpg",
+        "sha256": "6717d8e073783c15815cd4ef7a1c4e0ec92e4937560c3d67ff167ff4504cc935",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0019",
+        "originalFile": "Pet_1-3-0019.jpg",
+        "image": "books/MMGrade-1-3/page-020.jpg",
+        "sha256": "73a83fb03ac383c99e53f4fbed3e9413f30e3df4f5ba9383ba04ad05a68d72fb",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0020",
+        "originalFile": "Pet_1-3-0020.jpg",
+        "image": "books/MMGrade-1-3/page-021.jpg",
+        "sha256": "9c71ae8c6590b25e48b16d7a8ebce85f48ed156dafbce293b840b91a16c33e9c",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0021",
+        "originalFile": "Pet_1-3-0021.jpg",
+        "image": "books/MMGrade-1-3/page-022.jpg",
+        "sha256": "a2c6608ed4e3c4a6bea50ac4babbf4171a66204fe4d3a56a420f807576b540c2",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0022",
+        "originalFile": "Pet_1-3-0022.jpg",
+        "image": "books/MMGrade-1-3/page-023.jpg",
+        "sha256": "f20539e032d7c54f08ceafcd57730db6335804b275d301ffd5b74fe19fb6cfd4",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0023",
+        "originalFile": "Pet_1-3-0023.jpg",
+        "image": "books/MMGrade-1-3/page-024.jpg",
+        "sha256": "5731245320713fee45cceb5e1e6b70e44be0582292abb98e3b79aaacd2f82e30",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0024",
+        "originalFile": "Pet_1-3-0024.jpg",
+        "image": "books/MMGrade-1-3/page-025.jpg",
+        "sha256": "1255f8b5d516458728058dca79f3c6a22b3bab2b3256b67519208629c81377ef",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0025",
+        "originalFile": "Pet_1-3-0025.jpg",
+        "image": "books/MMGrade-1-3/page-026.jpg",
+        "sha256": "8cb03fed6c88614e74cd7c6a390ef656ca08ede83a4aa7f8531ed3dcc150e465",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0026",
+        "originalFile": "Pet_1-3-0026.jpg",
+        "image": "books/MMGrade-1-3/page-027.jpg",
+        "sha256": "9f2b1f0c56e6e3a211d92c2ab92fbf7902fdd2a522846c83b9be1f87a8bd87a6",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0027",
+        "originalFile": "Pet_1-3-0027.jpg",
+        "image": "books/MMGrade-1-3/page-028.jpg",
+        "sha256": "5ae73b835952b37f5666542e2e238e4b4386284ba934be59f740453a78c8e6ce",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0028",
+        "originalFile": "Pet_1-3-0028.jpg",
+        "image": "books/MMGrade-1-3/page-029.jpg",
+        "sha256": "29615e9523812840932334e0991428adb1c6693d3317b502a7d971416753f5ba",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0029",
+        "originalFile": "Pet_1-3-0029.jpg",
+        "image": "books/MMGrade-1-3/page-030.jpg",
+        "sha256": "a2554a2a632e23e0679de36063198909f89ef0235237bec6a8254b176456fc72",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0030",
+        "originalFile": "Pet_1-3-0030.jpg",
+        "image": "books/MMGrade-1-3/page-031.jpg",
+        "sha256": "fd32d3affcf7d31a4724a565ff28f27b8ddf4d17320c2e35b7a6088d79d437a2",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0031",
+        "originalFile": "Pet_1-3-0031.jpg",
+        "image": "books/MMGrade-1-3/page-032.jpg",
+        "sha256": "5e3c3275b7f3e2de204fff24352d8eb283c1ee192b28dfb7f565b2dff5d33cf5",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0032",
+        "originalFile": "Pet_1-3-0032.jpg",
+        "image": "books/MMGrade-1-3/page-033.jpg",
+        "sha256": "ea0e6a659de1d4f6fc691fe2625ae767364318aa25ffce756ed68ecffbab30ec",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0033",
+        "originalFile": "Pet_1-3-0033.jpg",
+        "image": "books/MMGrade-1-3/page-034.jpg",
+        "sha256": "b5c9b0144b7bc61f1f63cda7763372468a0b7320320abaa3b42992c349de0ab8",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0034",
+        "originalFile": "Pet_1-3-0034.jpg",
+        "image": "books/MMGrade-1-3/page-035.jpg",
+        "sha256": "1893720b9385b0e377421c60511b125f5f1d64c25ad4be55dcc07f4ab54e4188",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0035",
+        "originalFile": "Pet_1-3-0035.jpg",
+        "image": "books/MMGrade-1-3/page-036.jpg",
+        "sha256": "14387957938c026d86d1493e42f856deb0898386ec9feed0505e2725779a833c",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0036",
+        "originalFile": "Pet_1-3-0036.jpg",
+        "image": "books/MMGrade-1-3/page-037.jpg",
+        "sha256": "9b4f85e72abb05eea6e1ea72d8870d651758973e11fe1733e5e37b62e7a0290b",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0037",
+        "originalFile": "Pet_1-3-0037.jpg",
+        "image": "books/MMGrade-1-3/page-038.jpg",
+        "sha256": "9783f133a24c7f88b5d1db1341a295bef6b858a00ba58668c1b87605374d9414",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0038",
+        "originalFile": "Pet_1-3-0038.jpg",
+        "image": "books/MMGrade-1-3/page-039.jpg",
+        "sha256": "8631d6abf8b9cc7fac43835549435d87412c2b6316042f98356fa9e59c7d602e",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0039",
+        "originalFile": "Pet_1-3-0039.jpg",
+        "image": "books/MMGrade-1-3/page-040.jpg",
+        "sha256": "7b768290b29cdab075430d972cf88d2f434f2769080331d7dbdf63d083cabe11",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0040",
+        "originalFile": "Pet_1-3-0040.jpg",
+        "image": "books/MMGrade-1-3/page-041.jpg",
+        "sha256": "e011266d4d60dacf3e1713e45c5292a9246f5ce0fa0594f7bfafb0f0c2ee3ca4",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0041",
+        "originalFile": "Pet_1-3-0041.jpg",
+        "image": "books/MMGrade-1-3/page-042.jpg",
+        "sha256": "2cebb74a4ab1771ef93f5151fd59f99ce52045ab75c3ac5b8bbc8768fae90785",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0042",
+        "originalFile": "Pet_1-3-0042.jpg",
+        "image": "books/MMGrade-1-3/page-043.jpg",
+        "sha256": "367ea2eb7fafd109d32c99b8fe907fe6ec231157d9e930dfa545aacb05ed62a6",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0043",
+        "originalFile": "Pet_1-3-0043.jpg",
+        "image": "books/MMGrade-1-3/page-044.jpg",
+        "sha256": "766e382148eeafcf2dea5b39bd0ab874f42d8993e3fa8e6661fd47c4b53fd046",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0044",
+        "originalFile": "Pet_1-3-0044.jpg",
+        "image": "books/MMGrade-1-3/page-045.jpg",
+        "sha256": "d1f57e81fbff7df09db6b4b6ee6aaa0d4ab9816298a4a6a25479d87fe885a32b",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0045",
+        "originalFile": "Pet_1-3-0045.jpg",
+        "image": "books/MMGrade-1-3/page-046.jpg",
+        "sha256": "c3f40a1e951b363f9e4fc51390cbd0071e30fcb73e5956e393f21493239c8d09",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0046",
+        "originalFile": "Pet_1-3-0046.jpg",
+        "image": "books/MMGrade-1-3/page-047.jpg",
+        "sha256": "12f6348468b4d5b7f822d42f5252e15571a422f865982642afe9d490568b86b9",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0047",
+        "originalFile": "Pet_1-3-0047.jpg",
+        "image": "books/MMGrade-1-3/page-048.jpg",
+        "sha256": "f84dfbd4270aed1887e4d42d872a59cd1dcd8164a94bbedf5beae53cc0a0620d",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0048",
+        "originalFile": "Pet_1-3-0048.jpg",
+        "image": "books/MMGrade-1-3/page-049.jpg",
+        "sha256": "ecfe15b25fce84bf40dc467a1f88ec0524ca3ccd16b74fc98fa90a0f49dd2181",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0049",
+        "originalFile": "Pet_1-3-0049.jpg",
+        "image": "books/MMGrade-1-3/page-050.jpg",
+        "sha256": "be4b968ff3abdd8da15b52b24cb66a646f48bf28bf0084b67903344155b8868b",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0050",
+        "originalFile": "Pet_1-3-0050.jpg",
+        "image": "books/MMGrade-1-3/page-051.jpg",
+        "sha256": "5e7ee9ea9906df663bbb58d7a137374f537e6c5d073c0a0f04e6f07ba8dc9d2b",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0051",
+        "originalFile": "Pet_1-3-0051.jpg",
+        "image": "books/MMGrade-1-3/page-052.jpg",
+        "sha256": "a3e600448473ecc6d0639be861774a6db183452dc1f6eb9b6125213fd773d2a1",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0052",
+        "originalFile": "Pet_1-3-0052.jpg",
+        "image": "books/MMGrade-1-3/page-053.jpg",
+        "sha256": "bc2029a05d5b486e7aa9b99c2a49d0b5e7ed134f56d02e715152c412094c2051",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0053",
+        "originalFile": "Pet_1-3-0053.jpg",
+        "image": "books/MMGrade-1-3/page-054.jpg",
+        "sha256": "25f284e522378b11bbf2b17256c18a1a8c31272185d26e107ea75a286b16671c",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0054",
+        "originalFile": "Pet_1-3-0054.jpg",
+        "image": "books/MMGrade-1-3/page-055.jpg",
+        "sha256": "367fb97fd7d975955ce103c9fab80f4502f8da7dc077326d2ed7b17fa7649987",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0055",
+        "originalFile": "Pet_1-3-0055.jpg",
+        "image": "books/MMGrade-1-3/page-056.jpg",
+        "sha256": "f46a175e37d38fd1a445823da182e6f8fd22b9b9d95fd3316ef2976a48b49dfd",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0056",
+        "originalFile": "Pet_1-3-0056.jpg",
+        "image": "books/MMGrade-1-3/page-057.jpg",
+        "sha256": "7ce69244b74f04520ab61a70d4a97ae9b032f1bf1e6e67a7ad96baa7d3efae4a",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0057",
+        "originalFile": "Pet_1-3-0057.jpg",
+        "image": "books/MMGrade-1-3/page-058.jpg",
+        "sha256": "c92b7bd96f4fb3784f6438758bcc31bb2396e3bb25036965048a2c78eaf33f02",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0058",
+        "originalFile": "Pet_1-3-0058.jpg",
+        "image": "books/MMGrade-1-3/page-059.jpg",
+        "sha256": "e6ee0c65a1d88281d68d04e9e53bb26ef2583be97c6acafaec27f82fcd618a06",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0059",
+        "originalFile": "Pet_1-3-0059.jpg",
+        "image": "books/MMGrade-1-3/page-060.jpg",
+        "sha256": "7ef891ebbd5e0fd8b73f2dc2d9f617ebe5c429a5a3f31edab117762a23332d4c",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0060",
+        "originalFile": "Pet_1-3-0060.jpg",
+        "image": "books/MMGrade-1-3/page-061.jpg",
+        "sha256": "de152d73d5dbd6b69c90894fdc1159cb94ccc492d779ef095cae27b9472694ea",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0061",
+        "originalFile": "Pet_1-3-0061.jpg",
+        "image": "books/MMGrade-1-3/page-062.jpg",
+        "sha256": "0897e7625b871c39984cedc8af6fa706b54588901d0a35daba85075b92f80a1a",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0062",
+        "originalFile": "Pet_1-3-0062.jpg",
+        "image": "books/MMGrade-1-3/page-063.jpg",
+        "sha256": "fe6b5490fd9f21308283d7c5f58df79edecfb023e4dbadecb238d8d8dfe7ea1a",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0063",
+        "originalFile": "Pet_1-3-0063.jpg",
+        "image": "books/MMGrade-1-3/page-064.jpg",
+        "sha256": "6b9b9cd124997cc6fbe753dda12e78fb25d59cb2e704854ac4ee2f698317cb95",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0064",
+        "originalFile": "Pet_1-3-0064.jpg",
+        "image": "books/MMGrade-1-3/page-065.jpg",
+        "sha256": "c343f090e8d3df4e0e3167cb98debc410858682d0f454595da1d50561641d73a",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0065",
+        "originalFile": "Pet_1-3-0065.jpg",
+        "image": "books/MMGrade-1-3/page-066.jpg",
+        "sha256": "47f2b9591d5b3877a22f6140edeb55940a4823c2c2c4f0dc348d3ced9825fdd2",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0066",
+        "originalFile": "Pet_1-3-0066.jpg",
+        "image": "books/MMGrade-1-3/page-067.jpg",
+        "sha256": "4ad01efbeeb0fca27d224287356e37669eedad6f2d5c98727fb0242f648a8432",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0067",
+        "originalFile": "Pet_1-3-0067.jpg",
+        "image": "books/MMGrade-1-3/page-068.jpg",
+        "sha256": "2e5ee57f4d59068f91e860a24a1c76f96ee4c30fb8b8330e2b34948aec882f97",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0068",
+        "originalFile": "Pet_1-3-0068.jpg",
+        "image": "books/MMGrade-1-3/page-069.jpg",
+        "sha256": "14fb7f91888626d8ef07f5d410ea7b1bd682000f75fb7a7e6bcfea2bfc5fbd83",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0069",
+        "originalFile": "Pet_1-3-0069.jpg",
+        "image": "books/MMGrade-1-3/page-070.jpg",
+        "sha256": "fcc0d5b38c74b6c6a0aeb156f47f951bd3f137861401d1eaa483e91088d94f0a",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0070",
+        "originalFile": "Pet_1-3-0070.jpg",
+        "image": "books/MMGrade-1-3/page-071.jpg",
+        "sha256": "93eec8f2666622cdf61c6326d60d38de8df12cb23fbfbe0ceda159d1a427f667",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0071",
+        "originalFile": "Pet_1-3-0071.jpg",
+        "image": "books/MMGrade-1-3/page-072.jpg",
+        "sha256": "d6b96b463dc02e0e059c9c79dd007a2ce66b4e6cd51aa6f8f0f240d0913b336f",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0072",
+        "originalFile": "Pet_1-3-0072.jpg",
+        "image": "books/MMGrade-1-3/page-073.jpg",
+        "sha256": "97e64ab6f43c7dc8c46c3f44f9ddac2590f4b675c83aa509eb77e00043920d52",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0073",
+        "originalFile": "Pet_1-3-0073.jpg",
+        "image": "books/MMGrade-1-3/page-074.jpg",
+        "sha256": "da36899f45125410218eb35cf734e7d50ad99442f806a5c310c48cfd3e7dfd8e",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0074",
+        "originalFile": "Pet_1-3-0074.jpg",
+        "image": "books/MMGrade-1-3/page-075.jpg",
+        "sha256": "e1c9c09221881b20c663e520a64bc4c73ffb7ec26ab72b795036210b27fe7acc",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0075",
+        "originalFile": "Pet_1-3-0075.jpg",
+        "image": "books/MMGrade-1-3/page-076.jpg",
+        "sha256": "c88723cad421c78a571423f2778510088da2119b5a8ed4013d1fa6352bd19a49",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0076",
+        "originalFile": "Pet_1-3-0076.jpg",
+        "image": "books/MMGrade-1-3/page-077.jpg",
+        "sha256": "29164eb6eb7d85e12acc568549e58abb68847bfda03116eca7cae9af00a8445c",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0077",
+        "originalFile": "Pet_1-3-0077.jpg",
+        "image": "books/MMGrade-1-3/page-078.jpg",
+        "sha256": "036e35fe388c6692cb16770eb7f10aa6ea66fa8ca8b1180584c973b9b67980ea",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0078",
+        "originalFile": "Pet_1-3-0078.jpg",
+        "image": "books/MMGrade-1-3/page-079.jpg",
+        "sha256": "6e061025ca26d3f617b5bcb9fa7304ecd5dd32629e68b54205b99fdc0acf00dc",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0079",
+        "originalFile": "Pet_1-3-0079.jpg",
+        "image": "books/MMGrade-1-3/page-080.jpg",
+        "sha256": "a7de2036722c40d00b526025af963adfa674a95856185d7793459d093a457120",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0080",
+        "originalFile": "Pet_1-3-0080.jpg",
+        "image": "books/MMGrade-1-3/page-081.jpg",
+        "sha256": "858d4fb56293f913f0c8d50ebeb1d2e8a671a7acbdc9460e670c903d6e48e69a",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0081",
+        "originalFile": "Pet_1-3-0081.jpg",
+        "image": "books/MMGrade-1-3/page-082.jpg",
+        "sha256": "8acb65ee84f0492940d58cc8116ca0ea3c81c96b649bfb36bbf12ca0228b7b98",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0082",
+        "originalFile": "Pet_1-3-0082.jpg",
+        "image": "books/MMGrade-1-3/page-083.jpg",
+        "sha256": "4be502c075d3ad46ea0f01d35d22cb9a483ddd98925e6dd75bca924cf0d040c9",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0083",
+        "originalFile": "Pet_1-3-0083.jpg",
+        "image": "books/MMGrade-1-3/page-084.jpg",
+        "sha256": "cb34b0040cb5e2f25f3770a9babe081f3fb619d1053ca7f1fa6e442e1fd34e31",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0084",
+        "originalFile": "Pet_1-3-0084.jpg",
+        "image": "books/MMGrade-1-3/page-085.jpg",
+        "sha256": "905630da37f2a8ff8f0d97c720adc73a7b67b081c95dfb5d0ed17a0826b87790",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0085",
+        "originalFile": "Pet_1-3-0085.jpg",
+        "image": "books/MMGrade-1-3/page-086.jpg",
+        "sha256": "420c539fe25ff3d3a3228eee872d43fb34930a7970f9a5491415c521399d3572",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0086",
+        "originalFile": "Pet_1-3-0086.jpg",
+        "image": "books/MMGrade-1-3/page-087.jpg",
+        "sha256": "00615f85ae4cbc28be65d0da91cc057108384997297ead570117b935c3664a32",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0087",
+        "originalFile": "Pet_1-3-0087.jpg",
+        "image": "books/MMGrade-1-3/page-088.jpg",
+        "sha256": "a569a92e2453c0cac3a62df66190df10e9a6537ced67b3b4ec566f23c118ddd3",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0088",
+        "originalFile": "Pet_1-3-0088.jpg",
+        "image": "books/MMGrade-1-3/page-089.jpg",
+        "sha256": "3d3b7bf959cb5afb7dd5e6b5af774acf013b5608aad471b6cb58343dc0906e43",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0089",
+        "originalFile": "Pet_1-3-0089.jpg",
+        "image": "books/MMGrade-1-3/page-090.jpg",
+        "sha256": "a70386e3ef7199d019674b04a5980d9ba1ce4b185fb11d7e578e2476f46ea7da",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0090",
+        "originalFile": "Pet_1-3-0090.jpg",
+        "image": "books/MMGrade-1-3/page-091.jpg",
+        "sha256": "5bc107d089c8b32e43dc0a72c1e9645da29ba48a47b208cffce4a6cdf4773f4d",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-3-0091",
+        "originalFile": "Pet_1-3-0091.jpg",
+        "image": "books/MMGrade-1-3/page-092.jpg",
+        "sha256": "e7b2adcb31aa0698eea8d6ac87a268f065f45bdcbff8cac275c901cfc9d566df",
+        "texts": []
+      }
+    ],
+    "swfSha256": "27b8b7b26864d79425b51d924bd06b92845f70b209f6b6e6fe8d8478e949ef20"
+  },
+  {
+    "source": "Movies/Mathbook-SATsubstit.swf",
+    "key": "Mathbook-SATsubstit",
+    "pages": [
+      {
+        "label": "Mightymatica-book-substitution",
+        "originalFile": "Mightymatica-book-substitution.jpg",
+        "image": "books/Mathbook-SATsubstit/page-001.jpg",
+        "sha256": "b5b8c74ca72ae5616647a8c4b2303618317bcb32d47c2de38f33e665be416268",
+        "texts": []
+      },
+      {
+        "label": "SAT MATH Bible-13_001",
+        "originalFile": "SAT MATH Bible-13_001.swf",
+        "image": "books/Mathbook-SATsubstit/page-002/3.png",
+        "sha256": "158e2badb1d2214728380532167974a8792396243897c64a709500bf166d7293",
+        "texts": []
+      },
+      {
+        "label": "SAT MATH Bible-14_001",
+        "originalFile": "SAT MATH Bible-14_001.swf",
+        "image": "books/Mathbook-SATsubstit/page-003/3.png",
+        "sha256": "c19bb64e139a9be09557c23c04819aeedf6ae1a3507432323ec86ee8af1c438e",
+        "texts": []
+      },
+      {
+        "label": "SAT MATH Bible-15_001",
+        "originalFile": "SAT MATH Bible-15_001.swf",
+        "image": "books/Mathbook-SATsubstit/page-004/3.png",
+        "sha256": "5242c50ca8a4cfea7e59f7d13172d1ea74282dcab4a5f06ebce99036408fc237",
+        "texts": []
+      },
+      {
+        "label": "SAT MATH Bible-20_001",
+        "originalFile": "SAT MATH Bible-20_001.swf",
+        "image": "books/Mathbook-SATsubstit/page-005/3.png",
+        "sha256": "7ebbb8f0a777fd742f67f4872a2e61be383b063a32ae4782d81af834c3c8bb71",
+        "texts": []
+      }
+    ],
+    "swfSha256": "449472b33f5569796dfaf3918a1bf8e4b23a574d019f297229d157af7974e09c"
+  },
+  {
+    "source": "Movies/Mightymatica-1-1.swf",
+    "key": "Mightymatica-1-1",
+    "pages": [
+      {
+        "label": "Mightymatica-book-1-1",
+        "originalFile": "Mightymatica-book-1-1.jpg",
+        "image": "books/Mightymatica-1-1/page-001.jpg",
+        "sha256": "b753e22f4544c1b023c77d4a5b6fc6885a736e367b65336829dc7223fc4cbc37",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-2",
+        "originalFile": "Pet_1-1-2.jpg",
+        "image": "books/Mightymatica-1-1/page-002.jpg",
+        "sha256": "fe1a2449a3b32618e173b398a51e550fc796970efe1ae07331e00a7a2a07b849",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-3",
+        "originalFile": "Pet_1-1-3.jpg",
+        "image": "books/Mightymatica-1-1/page-003.jpg",
+        "sha256": "e0a4a4a41cad9148c306ceb832963a06d9e1167e903bbb0bad7ae5b41a508d14",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-4",
+        "originalFile": "Pet_1-1-4.jpg",
+        "image": "books/Mightymatica-1-1/page-004.jpg",
+        "sha256": "928f11f6e52d9b2c12305fba75a571aafeedb685c5cd823b48b6643ab0b64086",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-5",
+        "originalFile": "Pet_1-1-5.jpg",
+        "image": "books/Mightymatica-1-1/page-005.jpg",
+        "sha256": "d85446124967ef7ee23199931a528fef5a8b20d882502b6e9668c140ca169855",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-6",
+        "originalFile": "Pet_1-1-6.jpg",
+        "image": "books/Mightymatica-1-1/page-006.jpg",
+        "sha256": "02e59dadab42835d68871f8c8bbfb84af9813861b80178580f9dbe4576025842",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-7",
+        "originalFile": "Pet_1-1-7.jpg",
+        "image": "books/Mightymatica-1-1/page-007.jpg",
+        "sha256": "3690623ed5a00e7269aab704e3d4553395dbf7bfd3b29a9af9f223394e4bdda9",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-8",
+        "originalFile": "Pet_1-1-8.jpg",
+        "image": "books/Mightymatica-1-1/page-008.jpg",
+        "sha256": "0cc0a06fd50004660483e22b1771c3b3e8c9a7d105e3416c1945a36deffca27f",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-9",
+        "originalFile": "Pet_1-1-9.jpg",
+        "image": "books/Mightymatica-1-1/page-009.jpg",
+        "sha256": "63bd4d4ace3050562efb30a8cd9d89d1dbb933fe1eae6d7f1d6519f4596fb66a",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-10",
+        "originalFile": "Pet_1-1-10.jpg",
+        "image": "books/Mightymatica-1-1/page-010.jpg",
+        "sha256": "3dba794926576df146351fb68ce2a06920579b860f284759f7228e9de242d3ba",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-11",
+        "originalFile": "Pet_1-1-11.jpg",
+        "image": "books/Mightymatica-1-1/page-011.jpg",
+        "sha256": "0e40422d229a2b4da97e792ae95c83dbefd6a2301db97e9e3cbeaa394462b4e6",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-12",
+        "originalFile": "Pet_1-1-12.jpg",
+        "image": "books/Mightymatica-1-1/page-012.jpg",
+        "sha256": "1989681e197cb6e17d15f5d1b5deaa96ebef9308e6b6ea054359d337ede7e830",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-13",
+        "originalFile": "Pet_1-1-13.jpg",
+        "image": "books/Mightymatica-1-1/page-013.jpg",
+        "sha256": "bbcc5d65f8ad0067b704c8b4e8d9ecc20ecbcda9ab49b81016d1731d82a0da8e",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-14",
+        "originalFile": "Pet_1-1-14.jpg",
+        "image": "books/Mightymatica-1-1/page-014.jpg",
+        "sha256": "356b11878c29a04d80270a63841933395e133efcc365bfd45df275609151c624",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-15",
+        "originalFile": "Pet_1-1-15.jpg",
+        "image": "books/Mightymatica-1-1/page-015.jpg",
+        "sha256": "15184e0b0c2c88933619b0d8fdb45327ebb6e439b5267775af291796ab67692e",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-16",
+        "originalFile": "Pet_1-1-16.jpg",
+        "image": "books/Mightymatica-1-1/page-016.jpg",
+        "sha256": "032bae0b5ab4288abbd6edde4f45124cba638bed3ac8219434565c45e4c01e72",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-17",
+        "originalFile": "Pet_1-1-17.jpg",
+        "image": "books/Mightymatica-1-1/page-017.jpg",
+        "sha256": "eb0dddecc02d4e1091f2e753343584b7db407fe89c65548476a2688d01ecd3f6",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-18",
+        "originalFile": "Pet_1-1-18.jpg",
+        "image": "books/Mightymatica-1-1/page-018.jpg",
+        "sha256": "ddaeeeccdad2639bce774b04a892034e928e71f53bac674ef39001b6413823eb",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-19",
+        "originalFile": "Pet_1-1-19.jpg",
+        "image": "books/Mightymatica-1-1/page-019.jpg",
+        "sha256": "e6468b6016430e25f7929d70ab8316a558c76a1d9bd81f36d099898153944120",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-20",
+        "originalFile": "Pet_1-1-20.jpg",
+        "image": "books/Mightymatica-1-1/page-020.jpg",
+        "sha256": "74d555dfc0a2430c19cdc15ff187e45f9257d130030f030795073128712e7e56",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-21",
+        "originalFile": "Pet_1-1-21.jpg",
+        "image": "books/Mightymatica-1-1/page-021.jpg",
+        "sha256": "2ecb20caa6af28543ed7508631cec4f7881e2bab4ccef6fe51b325b80be2b288",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-22",
+        "originalFile": "Pet_1-1-22.jpg",
+        "image": "books/Mightymatica-1-1/page-022.jpg",
+        "sha256": "db433c2b8da18274ef2475d55cc1889a0461e10de7c3f8b58be5faadcf786cba",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-23",
+        "originalFile": "Pet_1-1-23.jpg",
+        "image": "books/Mightymatica-1-1/page-023.jpg",
+        "sha256": "ec8899a84352f151df3db4e7aa21d11333b56119b8e7364ce559951a4373ba05",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-24",
+        "originalFile": "Pet_1-1-24.jpg",
+        "image": "books/Mightymatica-1-1/page-024.jpg",
+        "sha256": "fd3445740b8bdd874b8fdd73e950927e8f23460d01781829904ec03e552590fd",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-25",
+        "originalFile": "Pet_1-1-25.jpg",
+        "image": "books/Mightymatica-1-1/page-025.jpg",
+        "sha256": "967081b763727d87098fbd0a4937ef3b922555df513dfb11df7f2fe05fe9035f",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-26",
+        "originalFile": "Pet_1-1-26.jpg",
+        "image": "books/Mightymatica-1-1/page-026.jpg",
+        "sha256": "6cd39e6a5a8dfd57017e7223433cf578b874d3305f0e15e83aa705e79bbabd27",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-27",
+        "originalFile": "Pet_1-1-27.jpg",
+        "image": "books/Mightymatica-1-1/page-027.jpg",
+        "sha256": "80ca5d56b461cecdc4c5cede0f28c5acfd6f8e01b4c2b540ec46c7af6d742d57",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-28",
+        "originalFile": "Pet_1-1-28.jpg",
+        "image": "books/Mightymatica-1-1/page-028.jpg",
+        "sha256": "0b9458f488b2b016e15c3a10c465d811fa167d40f701d95b5ff54e6d49308ebc",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-29",
+        "originalFile": "Pet_1-1-29.jpg",
+        "image": "books/Mightymatica-1-1/page-029.jpg",
+        "sha256": "cacb656af7bc5b21d10e37494025108a15ecffc6c100f0e1f6c1488d04b90a90",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-30",
+        "originalFile": "Pet_1-1-30.jpg",
+        "image": "books/Mightymatica-1-1/page-030.jpg",
+        "sha256": "1da12ea303ce570deec5a41a9ac72779ae96a074f3b01a81785ed45750717b82",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-31",
+        "originalFile": "Pet_1-1-31.jpg",
+        "image": "books/Mightymatica-1-1/page-031.jpg",
+        "sha256": "0d7efd45f13ce495c75d70c91273e3e72f82916107bff8d7430d73d61636725d",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-32",
+        "originalFile": "Pet_1-1-32.jpg",
+        "image": "books/Mightymatica-1-1/page-032.jpg",
+        "sha256": "517fff4ae91091101fc119a724114628a40d7eb113fc20ecd79c219aaff8d6d6",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-33",
+        "originalFile": "Pet_1-1-33.jpg",
+        "image": "books/Mightymatica-1-1/page-033.jpg",
+        "sha256": "767eb21a24144c657069397ff3e596854a72c105a19cdc673c56f9f1fab12771",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-34",
+        "originalFile": "Pet_1-1-34.jpg",
+        "image": "books/Mightymatica-1-1/page-034.jpg",
+        "sha256": "b0176791c28e104b1a0af6592acaa406a495a1aaaf086e2020fd3a6520d0b237",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-35",
+        "originalFile": "Pet_1-1-35.jpg",
+        "image": "books/Mightymatica-1-1/page-035.jpg",
+        "sha256": "61e71387be662703868eed6fe492e8aaf51b54486c89197dff7f45a3da586400",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-36",
+        "originalFile": "Pet_1-1-36.jpg",
+        "image": "books/Mightymatica-1-1/page-036.jpg",
+        "sha256": "0b4b49a16c3d6dd836591a0f143faf3c1eacc5420243b81b860a2e0db0037d99",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-37",
+        "originalFile": "Pet_1-1-37.jpg",
+        "image": "books/Mightymatica-1-1/page-037.jpg",
+        "sha256": "abdfee1258c96caec4c29ede06ac2e896a364c1691934850b4d425177a3670b2",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-38",
+        "originalFile": "Pet_1-1-38.jpg",
+        "image": "books/Mightymatica-1-1/page-038.jpg",
+        "sha256": "0d51f83e0cfd6200fca6664813f336e83e00db2d4859d1d8ece07c73c25de5f0",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-39",
+        "originalFile": "Pet_1-1-39.jpg",
+        "image": "books/Mightymatica-1-1/page-039.jpg",
+        "sha256": "e23387b758ace2b8983aa697e4d397099ae376d439d494846f6570f38b69fcdc",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-40",
+        "originalFile": "Pet_1-1-40.jpg",
+        "image": "books/Mightymatica-1-1/page-040.jpg",
+        "sha256": "9acf0c48164aaeeeef514eed7aa06d888169af03c02eac97b9686814eea25f9e",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-41",
+        "originalFile": "Pet_1-1-41.jpg",
+        "image": "books/Mightymatica-1-1/page-041.jpg",
+        "sha256": "7203bd26dcd5048b97d6ab448b0838cbf10f03a742c6955c49da20ff40424e76",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-42",
+        "originalFile": "Pet_1-1-42.jpg",
+        "image": "books/Mightymatica-1-1/page-042.jpg",
+        "sha256": "8b979e889d59ab2adab2dc9ea82a0e22e815995f11e2e45882e7f91ce1692a16",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-43",
+        "originalFile": "Pet_1-1-43.jpg",
+        "image": "books/Mightymatica-1-1/page-043.jpg",
+        "sha256": "c1ef3ed067e5d1c9fd94bf132f56cc1795db4969468f4f51cab10f57de2f4bf9",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-44",
+        "originalFile": "Pet_1-1-44.jpg",
+        "image": "books/Mightymatica-1-1/page-044.jpg",
+        "sha256": "2a6ebae53e0dcb814785c88c5ab11147c99e6d2cd5e51f5eb2b3d097e1932b61",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-45",
+        "originalFile": "Pet_1-1-45.jpg",
+        "image": "books/Mightymatica-1-1/page-045.jpg",
+        "sha256": "3465deb465eff95fca812b8c46dfcfbab89913b6f37d9ba13ee4b88236bb378d",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-46",
+        "originalFile": "Pet_1-1-46.jpg",
+        "image": "books/Mightymatica-1-1/page-046.jpg",
+        "sha256": "82625689b9fb6408cf58c445666cfad87308e2bb821d64daf569d49e26853a9f",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-47",
+        "originalFile": "Pet_1-1-47.jpg",
+        "image": "books/Mightymatica-1-1/page-047.jpg",
+        "sha256": "1cd4279687ef753f08fe51c8e195d05b810a27b5098af6d5802c1e6313e691ff",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-48",
+        "originalFile": "Pet_1-1-48.jpg",
+        "image": "books/Mightymatica-1-1/page-048.jpg",
+        "sha256": "fa2ae812b9e5eca8830a18faae5b23f9be567ecc41e03bb038d73b6156be268d",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-49",
+        "originalFile": "Pet_1-1-49.jpg",
+        "image": "books/Mightymatica-1-1/page-049.jpg",
+        "sha256": "da61ea7c790f8d23fae6f21746cd9659d0b4ae653e7bcb3cef5056368a783a58",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-50",
+        "originalFile": "Pet_1-1-50.jpg",
+        "image": "books/Mightymatica-1-1/page-050.jpg",
+        "sha256": "c35cb82cecfc876d9421b03139863807c44fc287ec44278219e2a968cfe8af95",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-51",
+        "originalFile": "Pet_1-1-51.jpg",
+        "image": "books/Mightymatica-1-1/page-051.jpg",
+        "sha256": "5c875830b2095741765bb6bcf1836be24989561c46c000213082a03243606109",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-52",
+        "originalFile": "Pet_1-1-52.jpg",
+        "image": "books/Mightymatica-1-1/page-052.jpg",
+        "sha256": "c58957eae17c0b250437454b9f3e316e2872d313928152fc2d2dc5ac844e0ff7",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-53",
+        "originalFile": "Pet_1-1-53.jpg",
+        "image": "books/Mightymatica-1-1/page-053.jpg",
+        "sha256": "fb493c513dc6e680c931e0160112c367ff25799a6b1feda6e653d4e5b8e49948",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-54",
+        "originalFile": "Pet_1-1-54.jpg",
+        "image": "books/Mightymatica-1-1/page-054.jpg",
+        "sha256": "a24b18a80e9857c36bd2c9538cb600630aa237d6402c42d8d19f9ca8391a22a4",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-55",
+        "originalFile": "Pet_1-1-55.jpg",
+        "image": "books/Mightymatica-1-1/page-055.jpg",
+        "sha256": "75a0e6123d3b5a7ad2b36f50d69fcaf396b33b75e9ed68229f0f717101183558",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-56",
+        "originalFile": "Pet_1-1-56.jpg",
+        "image": "books/Mightymatica-1-1/page-056.jpg",
+        "sha256": "9d8dd272d001d48271c259c061498a838280fc270e04c9f9923e99eaf5b4c32e",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-57",
+        "originalFile": "Pet_1-1-57.jpg",
+        "image": "books/Mightymatica-1-1/page-057.jpg",
+        "sha256": "518736f7bcb1f09c656a2b5d000938efb515ededea52b4f562f72ff356015096",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-58",
+        "originalFile": "Pet_1-1-58.jpg",
+        "image": "books/Mightymatica-1-1/page-058.jpg",
+        "sha256": "dbf07a2502af1d0816ae9070f14d14ee2fb06bca89caf82860087efc9e11cdd3",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-59",
+        "originalFile": "Pet_1-1-59.jpg",
+        "image": "books/Mightymatica-1-1/page-059.jpg",
+        "sha256": "72e8eba6e5284a26edcfc8e601f56bac0c0587662867ffb3ea948051c1ac0aa2",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-60",
+        "originalFile": "Pet_1-1-60.jpg",
+        "image": "books/Mightymatica-1-1/page-060.jpg",
+        "sha256": "4c08c9152a1af2dfdc4ad184a95529d01090e0af381836b0b23c938b04a844dd",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-61",
+        "originalFile": "Pet_1-1-61.jpg",
+        "image": "books/Mightymatica-1-1/page-061.jpg",
+        "sha256": "c4c4dc8f73ca7e97e23ee0846d320dd7ce67ed8a1c438de30a046666c87c67db",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-62",
+        "originalFile": "Pet_1-1-62.jpg",
+        "image": "books/Mightymatica-1-1/page-062.jpg",
+        "sha256": "fb4c94dfad4842d20f39eb416331c9d598e51c462c6e779b0fd4e83a9a1bb5cb",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-63",
+        "originalFile": "Pet_1-1-63.jpg",
+        "image": "books/Mightymatica-1-1/page-063.jpg",
+        "sha256": "0adfb289d713a439d2736fa953c4d3791d1867ae022042bce117ea95a92131f0",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-64",
+        "originalFile": "Pet_1-1-64.jpg",
+        "image": "books/Mightymatica-1-1/page-064.jpg",
+        "sha256": "fb6d7e60dc2aff18827859ee65925770f4ca478d877a32593954e7da5f5bc111",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-1-65",
+        "originalFile": "Pet_1-1-65.jpg",
+        "image": "books/Mightymatica-1-1/page-065.jpg",
+        "sha256": "35779ba4f1b3f8e8cb33f2fe337fbd05a093519a76aac02d724651e1ca40f86e",
+        "texts": []
+      }
+    ],
+    "swfSha256": "ea4b751373c8bd38e35067e57ac293b7dbdd0b51cd38c075db0d1009015a645f"
+  },
+  {
+    "source": "Movies/Mightymatica-1-2.swf",
+    "key": "Mightymatica-1-2",
+    "pages": [
+      {
+        "label": "Mightymatica-book-1-2",
+        "originalFile": "Mightymatica-book-1-2.jpg",
+        "image": "books/Mightymatica-1-2/page-001.jpg",
+        "sha256": "38e7836a6d776aaf2226031e3a827329f0984e8e049b39d7d5e0133305d6989c",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-001",
+        "originalFile": "Pet_1-2-001.jpg",
+        "image": "books/Mightymatica-1-2/page-002.jpg",
+        "sha256": "00058bac6ee2806fd29a04e9295d8b12dca00a02e3de18f95a34a088e08d4544",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-002",
+        "originalFile": "Pet_1-2-002.jpg",
+        "image": "books/Mightymatica-1-2/page-003.jpg",
+        "sha256": "a1eeda3e8a3e41a9dbf5cbfab97e2e51b0f1dc0e31eb3de8d931f64b26ad5cc8",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-003",
+        "originalFile": "Pet_1-2-003.jpg",
+        "image": "books/Mightymatica-1-2/page-004.jpg",
+        "sha256": "40696cf6bde5ff0df8678ce7389e2cc16b85c24fe0ef24e83c7d546bab252e61",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-004",
+        "originalFile": "Pet_1-2-004.jpg",
+        "image": "books/Mightymatica-1-2/page-005.jpg",
+        "sha256": "21ac6991600f303887d0d8b38f5631d31d6961de03e4ab088dfdbe47fe7ebdf9",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-005",
+        "originalFile": "Pet_1-2-005.jpg",
+        "image": "books/Mightymatica-1-2/page-006.jpg",
+        "sha256": "34badcc89593719098fdfb9b98e2a91671d9b99a679055521295c971202de54f",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-006",
+        "originalFile": "Pet_1-2-006.jpg",
+        "image": "books/Mightymatica-1-2/page-007.jpg",
+        "sha256": "f5aaaa4a8ea8ad4cccd7909fad9c8c8d2bfeef59edc53f2dcfd5bf10999f53af",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-007",
+        "originalFile": "Pet_1-2-007.jpg",
+        "image": "books/Mightymatica-1-2/page-008.jpg",
+        "sha256": "c353999e7b4004b89955bddccc3a02308fad32b0c77ddc83482ddd5160e96b24",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-008",
+        "originalFile": "Pet_1-2-008.jpg",
+        "image": "books/Mightymatica-1-2/page-009.jpg",
+        "sha256": "330a024dbb108588dc149bf05b0e65ca7b55607a33e64493a7f2760c8b1a563b",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-009",
+        "originalFile": "Pet_1-2-009.jpg",
+        "image": "books/Mightymatica-1-2/page-010.jpg",
+        "sha256": "75ac94913f36c5ca53e2e52f743d735ccded1d2accde353b17e910626aff4cb3",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-010",
+        "originalFile": "Pet_1-2-010.jpg",
+        "image": "books/Mightymatica-1-2/page-011.jpg",
+        "sha256": "fb4164f7dcaec420ad7bc8591bc4636087ea2d1e8f853876199c167c86fb1400",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-011",
+        "originalFile": "Pet_1-2-011.jpg",
+        "image": "books/Mightymatica-1-2/page-012.jpg",
+        "sha256": "917f6fd1e5e5ca1dab95786de5d90ff4ba1919a3f8dd08f46527a051cfadfb1b",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-012",
+        "originalFile": "Pet_1-2-012.jpg",
+        "image": "books/Mightymatica-1-2/page-013.jpg",
+        "sha256": "eac29accce58befb60d1ec48e9b301e42ea3a86ca5e13584b56385575b5a317c",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-013",
+        "originalFile": "Pet_1-2-013.jpg",
+        "image": "books/Mightymatica-1-2/page-014.jpg",
+        "sha256": "31743882665dbac12eb3f6cb1db9e81226b1004cd03d1e7b037a1796f4ff12e0",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-014",
+        "originalFile": "Pet_1-2-014.jpg",
+        "image": "books/Mightymatica-1-2/page-015.jpg",
+        "sha256": "b6ba2bdb9181c20f8717786649eb9a25b580e3fff41a922e7df1a3d287392f91",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-015",
+        "originalFile": "Pet_1-2-015.jpg",
+        "image": "books/Mightymatica-1-2/page-016.jpg",
+        "sha256": "0907294a9ef5a8c76833ffddf94df69bafc0edc5af7c21282fa747efcc39c4c8",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-016",
+        "originalFile": "Pet_1-2-016.jpg",
+        "image": "books/Mightymatica-1-2/page-017.jpg",
+        "sha256": "e82ed14c926a03e25a8c7d382b93a130d5891cc8efc1a6b78e2270b6dc18c56c",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-017",
+        "originalFile": "Pet_1-2-017.jpg",
+        "image": "books/Mightymatica-1-2/page-018.jpg",
+        "sha256": "f037d0c3c10be8920a2b4368a1a1921a98699518c9245283a49c960096061567",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-018",
+        "originalFile": "Pet_1-2-018.jpg",
+        "image": "books/Mightymatica-1-2/page-019.jpg",
+        "sha256": "86a64e41bd9667545108dd1f301460fb7a43b777ee0f3f580b9b80a7dea19cf7",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-019",
+        "originalFile": "Pet_1-2-019.jpg",
+        "image": "books/Mightymatica-1-2/page-020.jpg",
+        "sha256": "2189459a6ed3b8a7ed74748d04a6cccabab8658f318e86f45f58e4ff945ea83c",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-020",
+        "originalFile": "Pet_1-2-020.jpg",
+        "image": "books/Mightymatica-1-2/page-021.jpg",
+        "sha256": "a65d1658a22d478f7c32fe38f96d8c7b83f817fc350bc06586718d5fa7b9391d",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-021",
+        "originalFile": "Pet_1-2-021.jpg",
+        "image": "books/Mightymatica-1-2/page-022.jpg",
+        "sha256": "d35d06c5c8926b297b6469b2aa7e24c7ab77a70abf6a5c6ec2a82447ddee86f1",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-022",
+        "originalFile": "Pet_1-2-022.jpg",
+        "image": "books/Mightymatica-1-2/page-023.jpg",
+        "sha256": "cd391aae726d49c28fdf2213011563a838a7e38b8a55b8bfbd55ea63d0d0d70f",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-023",
+        "originalFile": "Pet_1-2-023.jpg",
+        "image": "books/Mightymatica-1-2/page-024.jpg",
+        "sha256": "f4ee29b31b369ca8be0d669b7af6f13a07651c99209e493d535507e5396b7344",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-024",
+        "originalFile": "Pet_1-2-024.jpg",
+        "image": "books/Mightymatica-1-2/page-025.jpg",
+        "sha256": "1855103d0186e29766802cd1f8574694c1b366012e74862d81e4ab7dabb0b437",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-025",
+        "originalFile": "Pet_1-2-025.jpg",
+        "image": "books/Mightymatica-1-2/page-026.jpg",
+        "sha256": "75a3ff7971bad3a83b47749a1b46bb28c32fe8cc573a8022adad365df496d5c4",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-026",
+        "originalFile": "Pet_1-2-026.jpg",
+        "image": "books/Mightymatica-1-2/page-027.jpg",
+        "sha256": "5e884b6353bc18ec56a263bf58eb806e5357487aec3c6e5e1422349fa5a0634c",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-027",
+        "originalFile": "Pet_1-2-027.jpg",
+        "image": "books/Mightymatica-1-2/page-028.jpg",
+        "sha256": "1d7ddb8045369c51aa9b8f5208f25a4f75503c26174172b7892a3f963b6d7135",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-028",
+        "originalFile": "Pet_1-2-028.jpg",
+        "image": "books/Mightymatica-1-2/page-029.jpg",
+        "sha256": "585b39d31af1d6017affa143fdeb35b0bd8b0d32bd649dfd08e216b2fc3ea567",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-029",
+        "originalFile": "Pet_1-2-029.jpg",
+        "image": "books/Mightymatica-1-2/page-030.jpg",
+        "sha256": "1f49318e88fb4c270f99ad8b0400d826f37d12a3e70bc4b048bb2c17db7785a1",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-030",
+        "originalFile": "Pet_1-2-030.jpg",
+        "image": "books/Mightymatica-1-2/page-031.jpg",
+        "sha256": "980e4e11386a8ab74b5e8b5939962b31630b52e6f5669de352b848945c1a9f8c",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-031",
+        "originalFile": "Pet_1-2-031.jpg",
+        "image": "books/Mightymatica-1-2/page-032.jpg",
+        "sha256": "85e6d754714ffc86e835e6d14f0c4794f0bb59cc1ee6e11698018068ed472938",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-032",
+        "originalFile": "Pet_1-2-032.jpg",
+        "image": "books/Mightymatica-1-2/page-033.jpg",
+        "sha256": "de25c938e278a1262aab60d467559ec58d8285d6a1463d1c62c2bf66b4cb5b6a",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-033",
+        "originalFile": "Pet_1-2-033.jpg",
+        "image": "books/Mightymatica-1-2/page-034.jpg",
+        "sha256": "051409ff7b92981dea77affedd719bf787cafe4cd2a87c852184d5a6684c00da",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-034",
+        "originalFile": "Pet_1-2-034.jpg",
+        "image": "books/Mightymatica-1-2/page-035.jpg",
+        "sha256": "cb8ace3acb67816423bc4027bc7fda4eef9453df11fd5961e411dd5570daa4b6",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-035",
+        "originalFile": "Pet_1-2-035.jpg",
+        "image": "books/Mightymatica-1-2/page-036.jpg",
+        "sha256": "d027d7ac6c6c369e58be20c56316222186207301bb546f06fe7d52681ca775f5",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-036",
+        "originalFile": "Pet_1-2-036.jpg",
+        "image": "books/Mightymatica-1-2/page-037.jpg",
+        "sha256": "7563d9c0aed5905aedb80f9e355b90a7294cca520db247ef4b8b1fd8dbc40d90",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-037",
+        "originalFile": "Pet_1-2-037.jpg",
+        "image": "books/Mightymatica-1-2/page-038.jpg",
+        "sha256": "d88e44cec02d24f4c8bdf0b60bdf06840e3185719ea54c1c3681d14d4960dd36",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-038",
+        "originalFile": "Pet_1-2-038.jpg",
+        "image": "books/Mightymatica-1-2/page-039.jpg",
+        "sha256": "8c3f9696c6ab437c4c7f67692cb877afb2e4192ea05afe09acfcae360bd86da3",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-039",
+        "originalFile": "Pet_1-2-039.jpg",
+        "image": "books/Mightymatica-1-2/page-040.jpg",
+        "sha256": "1924791fef86c171deb0901141ae636b7463ff86d4d3c9932948f8f5e75c1343",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-040",
+        "originalFile": "Pet_1-2-040.jpg",
+        "image": "books/Mightymatica-1-2/page-041.jpg",
+        "sha256": "1b65557d08756d1302e686ec315913029bf700768af64c94e0531ee043745277",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-041",
+        "originalFile": "Pet_1-2-041.jpg",
+        "image": "books/Mightymatica-1-2/page-042.jpg",
+        "sha256": "0208c965b23ac70879a78f74eaeead983a7f1ef2e4e467f2024c1e50bf775c00",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-042",
+        "originalFile": "Pet_1-2-042.jpg",
+        "image": "books/Mightymatica-1-2/page-043.jpg",
+        "sha256": "2d542051b0b0f1be8724725af1e675e4b7b42a9b1be2d286131a3b094abf67e5",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-043",
+        "originalFile": "Pet_1-2-043.jpg",
+        "image": "books/Mightymatica-1-2/page-044.jpg",
+        "sha256": "b0f06819f67a0c93f0af67b709994639687a1c6bedc69ef576728d54e8e04f94",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-044",
+        "originalFile": "Pet_1-2-044.jpg",
+        "image": "books/Mightymatica-1-2/page-045.jpg",
+        "sha256": "b7a0d5e0ae51c708ec4b524bc0f256e2b5c99d372cb392eb23d2dbf81f3d8f5b",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-045",
+        "originalFile": "Pet_1-2-045.jpg",
+        "image": "books/Mightymatica-1-2/page-046.jpg",
+        "sha256": "7707d69192c40805037f4379390dec1971aaafd9ac0d4107dfca54a8e50fa904",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-046",
+        "originalFile": "Pet_1-2-046.jpg",
+        "image": "books/Mightymatica-1-2/page-047.jpg",
+        "sha256": "a24eaff16efc1fc6b4677bbb14482bda47671723ec502fbc0df7d2ef0fff116e",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-047",
+        "originalFile": "Pet_1-2-047.jpg",
+        "image": "books/Mightymatica-1-2/page-048.jpg",
+        "sha256": "7c4bfd16ce09b062318274006f706fcf9744639ec3b4c148db5e96381d2b32d4",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-048",
+        "originalFile": "Pet_1-2-048.jpg",
+        "image": "books/Mightymatica-1-2/page-049.jpg",
+        "sha256": "f4337ff3dbe6974e488975fe238fa37d8a29d7b146f35bb188fdb41f9cc8385a",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-049",
+        "originalFile": "Pet_1-2-049.jpg",
+        "image": "books/Mightymatica-1-2/page-050.jpg",
+        "sha256": "d273d9a332829ae50fc5b6a3a1d7f7afcf8f04f67450423010e33d2b94a31f32",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-050",
+        "originalFile": "Pet_1-2-050.jpg",
+        "image": "books/Mightymatica-1-2/page-051.jpg",
+        "sha256": "5664d6fc30960ec287dc4ca9463a72b88d4f45641cb4852609c7266ad049e166",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-051",
+        "originalFile": "Pet_1-2-051.jpg",
+        "image": "books/Mightymatica-1-2/page-052.jpg",
+        "sha256": "fca040769aa49bd533a63e9efec2bfbc0c14acd81f3adad25eda704a5dba96e4",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-052",
+        "originalFile": "Pet_1-2-052.jpg",
+        "image": "books/Mightymatica-1-2/page-053.jpg",
+        "sha256": "bed48270fa840ee46e2b16f2660a614aa8434317cb1650e5b69beece36acd774",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-053",
+        "originalFile": "Pet_1-2-053.jpg",
+        "image": "books/Mightymatica-1-2/page-054.jpg",
+        "sha256": "0a19319f2847b6cca93dbb7ca21cce8652109455758633cccd6e186a3ae70cf9",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-054",
+        "originalFile": "Pet_1-2-054.jpg",
+        "image": "books/Mightymatica-1-2/page-055.jpg",
+        "sha256": "7e8f875e0bfceb45208b0134f6eef55bf23a98adf8af33244f2ddb50329802e0",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-055",
+        "originalFile": "Pet_1-2-055.jpg",
+        "image": "books/Mightymatica-1-2/page-056.jpg",
+        "sha256": "fa598739d130538ca59d02617c852484188b189a73cb18296a8abad9bad23b3d",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-056",
+        "originalFile": "Pet_1-2-056.jpg",
+        "image": "books/Mightymatica-1-2/page-057.jpg",
+        "sha256": "6de50f5206c05c11f14cb53220ab0850c5cba9845376ae0b88d16765decef493",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-057",
+        "originalFile": "Pet_1-2-057.jpg",
+        "image": "books/Mightymatica-1-2/page-058.jpg",
+        "sha256": "cd3afb36ad085ee01294f4bb4c10261ce17fe65d632a9ae9c15f75b8e7c9e6bb",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-058",
+        "originalFile": "Pet_1-2-058.jpg",
+        "image": "books/Mightymatica-1-2/page-059.jpg",
+        "sha256": "3de77553afae34ba9bca91bcfa5a5d4828841292f6e301c850cba33279232e65",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-059",
+        "originalFile": "Pet_1-2-059.jpg",
+        "image": "books/Mightymatica-1-2/page-060.jpg",
+        "sha256": "4eabb948b67f68176a3d0c807876077543e93282b69bf74ce11ddfc91e2d9ff0",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-060",
+        "originalFile": "Pet_1-2-060.jpg",
+        "image": "books/Mightymatica-1-2/page-061.jpg",
+        "sha256": "db5e8eed12bba99cb40ca9d82202d7ef93011aa4336926ff5fb79accd56f9626",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-061",
+        "originalFile": "Pet_1-2-061.jpg",
+        "image": "books/Mightymatica-1-2/page-062.jpg",
+        "sha256": "ca5ef0b37395146723ba3bf035ec36f80515d9c3c8fa42baab93ada26f794a97",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-062",
+        "originalFile": "Pet_1-2-062.jpg",
+        "image": "books/Mightymatica-1-2/page-063.jpg",
+        "sha256": "3e929cd69fdad0f3ba73836d8f86441c7c3382ba67e81de5cf96863cc42d080b",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-063",
+        "originalFile": "Pet_1-2-063.jpg",
+        "image": "books/Mightymatica-1-2/page-064.jpg",
+        "sha256": "9aa282b660a2d47475c21ec1889d7e5e8d2ae8709cc294ec47e0aa32924b72da",
+        "texts": []
+      },
+      {
+        "label": "Pet_1-2-064",
+        "originalFile": "Pet_1-2-064.jpg",
+        "image": "books/Mightymatica-1-2/page-065.jpg",
+        "sha256": "4057ac077bf6db2ce0d97ce726b52dbf518e2359cc1612da5e9e2c9b6470674b",
+        "texts": []
+      }
+    ],
+    "swfSha256": "c51d3cb6df45b16acac3ddff7bd350b6813d0039105d9309a32df44ed4394b06"
+  },
+  {
+    "source": "Movies/Mightymatica-2-1.swf",
+    "key": "Mightymatica-2-1",
+    "pages": [
+      {
+        "label": "Mightymatica-book-2-1",
+        "originalFile": "Mightymatica-book-2-1.jpg",
+        "image": "books/Mightymatica-2-1/page-001.jpg",
+        "sha256": "ddad111f001838044bc94f3ec3f5b997798642f10dfdc2693122c1840fcc156e",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-1",
+        "originalFile": "Lp-2-1-1.jpg",
+        "image": "books/Mightymatica-2-1/page-002.jpg",
+        "sha256": "5f328751631fad5aabf5777701319f29d344f485b0b12c61569376d912dc9f32",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-2",
+        "originalFile": "Lp-2-1-2.jpg",
+        "image": "books/Mightymatica-2-1/page-003.jpg",
+        "sha256": "6bd120d4a7302db88ac6431faa983b082db4eb00056e955670fc3c5434aead04",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-3",
+        "originalFile": "Lp-2-1-3.jpg",
+        "image": "books/Mightymatica-2-1/page-004.jpg",
+        "sha256": "4fe7c89877b35809445e989bc0d2a91b7e021d40d64d596c38ef90fa3a12e605",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-4",
+        "originalFile": "Lp-2-1-4.jpg",
+        "image": "books/Mightymatica-2-1/page-005.jpg",
+        "sha256": "28ea6ea1916c52122d431d337c983a1b2eaacdeb24bae7103545fa4e536a30b7",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-5",
+        "originalFile": "Lp-2-1-5.jpg",
+        "image": "books/Mightymatica-2-1/page-006.jpg",
+        "sha256": "21865f5ad8e6eb6ccc0a2762afba9ea86c282a42e93b70a4038b5f324917c094",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-6",
+        "originalFile": "Lp-2-1-6.jpg",
+        "image": "books/Mightymatica-2-1/page-007.jpg",
+        "sha256": "044dfc47261b70c258354e19077ab78f85f030e2d405d6b9577d4c7374d953d5",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-7",
+        "originalFile": "Lp-2-1-7.jpg",
+        "image": "books/Mightymatica-2-1/page-008.jpg",
+        "sha256": "4bba7651ab1388a642349f95a80fbf68ff8892c136346e404390e46076ccd2a7",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-8",
+        "originalFile": "Lp-2-1-8.jpg",
+        "image": "books/Mightymatica-2-1/page-009.jpg",
+        "sha256": "044dbe08e8555b9ce931a35b9513c1bca6493efeab4306d95e6adc4b006efc12",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-9",
+        "originalFile": "Lp-2-1-9.jpg",
+        "image": "books/Mightymatica-2-1/page-010.jpg",
+        "sha256": "c1cffeb79ff406998bf6770ecedc5f4d8894a95d9efb5ecf63c710f519d093bb",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-10",
+        "originalFile": "Lp-2-1-10.jpg",
+        "image": "books/Mightymatica-2-1/page-011.jpg",
+        "sha256": "dd99b4eb6669b1040380a6709032d6e72f48843d9701acef5a658c218228b27c",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-11",
+        "originalFile": "Lp-2-1-11.jpg",
+        "image": "books/Mightymatica-2-1/page-012.jpg",
+        "sha256": "658e163275fdf1e662e4f4661157d6c50b724ec5ea1f19f6f40d8bae777ea810",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-12",
+        "originalFile": "Lp-2-1-12.jpg",
+        "image": "books/Mightymatica-2-1/page-013.jpg",
+        "sha256": "eebf0bd985436b4dfb9d9b978208e0db646a0f02fdd23aa5e9f4c72601dd99d9",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-13",
+        "originalFile": "Lp-2-1-13.jpg",
+        "image": "books/Mightymatica-2-1/page-014.jpg",
+        "sha256": "efb48b7fe4b778bd1e938cbb3595c6a4da990fb81d0df1fcc7f76fdc6e248bc3",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-14",
+        "originalFile": "Lp-2-1-14.jpg",
+        "image": "books/Mightymatica-2-1/page-015.jpg",
+        "sha256": "7dcad29396449b81afb34c9266301e79bda229b5a19c84754554a689b0c060a7",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-15",
+        "originalFile": "Lp-2-1-15.jpg",
+        "image": "books/Mightymatica-2-1/page-016.jpg",
+        "sha256": "dc3cbb87508986ad01e16212dd9e8833fb4e88db5fd1065f1d92de32cccff078",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-16",
+        "originalFile": "Lp-2-1-16.jpg",
+        "image": "books/Mightymatica-2-1/page-017.jpg",
+        "sha256": "df8443c0ad389c3ef7955202dbdb029fe4ec1d4747e64f893c46019b77470b42",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-17",
+        "originalFile": "Lp-2-1-17.jpg",
+        "image": "books/Mightymatica-2-1/page-018.jpg",
+        "sha256": "1068bdd904a0235fea51f4c05f8f3f5f9421ed263ab7a159326d8f02ece2362d",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-18",
+        "originalFile": "Lp-2-1-18.jpg",
+        "image": "books/Mightymatica-2-1/page-019.jpg",
+        "sha256": "bfe668910e559e87659850f24e3f326fb66b781606eeea35f920e628ad11d72a",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-19",
+        "originalFile": "Lp-2-1-19.jpg",
+        "image": "books/Mightymatica-2-1/page-020.jpg",
+        "sha256": "34890758aa45f1575d2ef80220bf7c69ceaf410f62d7c616029c13edd09545a7",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-20",
+        "originalFile": "Lp-2-1-20.jpg",
+        "image": "books/Mightymatica-2-1/page-021.jpg",
+        "sha256": "5bb154b3de40715f954214ca3861f6bbca447ca857b68ac308ff6cf74b963f84",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-21",
+        "originalFile": "Lp-2-1-21.jpg",
+        "image": "books/Mightymatica-2-1/page-022.jpg",
+        "sha256": "04b3eaba60c909887eac3d0ea944b3803b3c6f9e309eb1c140ff1dd70f7a357c",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-22",
+        "originalFile": "Lp-2-1-22.jpg",
+        "image": "books/Mightymatica-2-1/page-023.jpg",
+        "sha256": "088a0d9062cb6b56a81ab13d24d73c677833ce2584133be92fbefbe0bbfcd01d",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-23",
+        "originalFile": "Lp-2-1-23.jpg",
+        "image": "books/Mightymatica-2-1/page-024.jpg",
+        "sha256": "b2abe5c82e0c1a01d1e2b85be3aca023f92962f9d1c0fe77102b42deda9c32a1",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-24",
+        "originalFile": "Lp-2-1-24.jpg",
+        "image": "books/Mightymatica-2-1/page-025.jpg",
+        "sha256": "e9f4856f6d77ac279161925f0a1c3145b602df350362d698bafff9b750d2a2d0",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-25",
+        "originalFile": "Lp-2-1-25.jpg",
+        "image": "books/Mightymatica-2-1/page-026.jpg",
+        "sha256": "a646e339d3c84db31a8876b8997989cdb5ea2cbdd290d5b0ae653c238992a7d9",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-26",
+        "originalFile": "Lp-2-1-26.jpg",
+        "image": "books/Mightymatica-2-1/page-027.jpg",
+        "sha256": "98027a55fc11c22d6ec093f0d25feac1f85aff9eb2b4ba135e32281f942d86d6",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-27",
+        "originalFile": "Lp-2-1-27.jpg",
+        "image": "books/Mightymatica-2-1/page-028.jpg",
+        "sha256": "85e750aeaed5c6035fb09e25734ff7ac82162059f7249e32a7d4e2fd660d084f",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-28",
+        "originalFile": "Lp-2-1-28.jpg",
+        "image": "books/Mightymatica-2-1/page-029.jpg",
+        "sha256": "f9353b78dcd32237ceed66678650e8c5b4e2a6dd6c3de0a66650d939118dfa3d",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-29",
+        "originalFile": "Lp-2-1-29.jpg",
+        "image": "books/Mightymatica-2-1/page-030.jpg",
+        "sha256": "4987751857dcb25cedd118d421d5b0435a5bf394ec11021d70dc88a81b6341c6",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-30",
+        "originalFile": "Lp-2-1-30.jpg",
+        "image": "books/Mightymatica-2-1/page-031.jpg",
+        "sha256": "a76c7f319ff8e8e75947e488e4a5564397db2abeff4c8c700cc59a542c817275",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-31",
+        "originalFile": "Lp-2-1-31.jpg",
+        "image": "books/Mightymatica-2-1/page-032.jpg",
+        "sha256": "cbd362c2498085f625a4c0ba9de6d93a61105f9c8906641e8b24e5c03798848a",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-32",
+        "originalFile": "Lp-2-1-32.jpg",
+        "image": "books/Mightymatica-2-1/page-033.jpg",
+        "sha256": "682542aa58e835686dbcaf73ea944b9602c28f18c032dcd95e2f643ba0f2e7bd",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-33",
+        "originalFile": "Lp-2-1-33.jpg",
+        "image": "books/Mightymatica-2-1/page-034.jpg",
+        "sha256": "b0704479bce2565dbc1d3557d444b54469cd8a583075d5dd3aff21b57ccffe75",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-34",
+        "originalFile": "Lp-2-1-34.jpg",
+        "image": "books/Mightymatica-2-1/page-035.jpg",
+        "sha256": "4d6a8bce0cd032cf28b1468a5d6e7f171d10b1dc4d0679006f92c3398a3bebd8",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-35",
+        "originalFile": "Lp-2-1-35.jpg",
+        "image": "books/Mightymatica-2-1/page-036.jpg",
+        "sha256": "11caeda5a66719be48eb491a8e01f6fb8ee42e0dd50eebecbe5d295b8fddd3f3",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-36",
+        "originalFile": "Lp-2-1-36.jpg",
+        "image": "books/Mightymatica-2-1/page-037.jpg",
+        "sha256": "b040bcecb9514856411edb62c8e70a61086cd66d02802e2c5ed3a372033e04ee",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-37",
+        "originalFile": "Lp-2-1-37.jpg",
+        "image": "books/Mightymatica-2-1/page-038.jpg",
+        "sha256": "ad954e87b32900419eb74a860cff16ddd2dba71c0c02aeb64c9f983799cd510d",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-38",
+        "originalFile": "Lp-2-1-38.jpg",
+        "image": "books/Mightymatica-2-1/page-039.jpg",
+        "sha256": "5a7a2402be4e54fd95ebb66466b09ccb9165158af03828ea6b273e83d30bd444",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-39",
+        "originalFile": "Lp-2-1-39.jpg",
+        "image": "books/Mightymatica-2-1/page-040.jpg",
+        "sha256": "cf0ea3873339bafee8a3f53f61cd9c1966efe79039e9921f3b08c78fc16517de",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-40",
+        "originalFile": "Lp-2-1-40.jpg",
+        "image": "books/Mightymatica-2-1/page-041.jpg",
+        "sha256": "c3cdb8646af69e9facc237b93c6be61f7271db16393819a7622e89a92c832649",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-41",
+        "originalFile": "Lp-2-1-41.jpg",
+        "image": "books/Mightymatica-2-1/page-042.jpg",
+        "sha256": "fdce5341fd64f3c6e564c0269c8843f766f0410701b0168993040b62ab1ab81a",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-42",
+        "originalFile": "Lp-2-1-42.jpg",
+        "image": "books/Mightymatica-2-1/page-043.jpg",
+        "sha256": "d8b6d9dd10163291db2e11b906cbca2cfb2b4f2bdf642e3c6de53f58be6f35b6",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-43",
+        "originalFile": "Lp-2-1-43.jpg",
+        "image": "books/Mightymatica-2-1/page-044.jpg",
+        "sha256": "ab6bbafc960ba2163a2b7b431cb98a10a296fa2e32c9d8e1d8f1d6b44f7df9b4",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-44",
+        "originalFile": "Lp-2-1-44.jpg",
+        "image": "books/Mightymatica-2-1/page-045.jpg",
+        "sha256": "dc1a2a54256c16864adf88f06df68cd6274b2aebcf706c9b7ea89031d6fb0160",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-45",
+        "originalFile": "Lp-2-1-45.jpg",
+        "image": "books/Mightymatica-2-1/page-046.jpg",
+        "sha256": "00d807a693030e51810d5890f135d6f648ec85da88f3274b7808cb1b9fff1c67",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-46",
+        "originalFile": "Lp-2-1-46.jpg",
+        "image": "books/Mightymatica-2-1/page-047.jpg",
+        "sha256": "76310a40969136ae5f28ee51bde3378a31394386d693f7f21d6b0837d3e969dd",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-47",
+        "originalFile": "Lp-2-1-47.jpg",
+        "image": "books/Mightymatica-2-1/page-048.jpg",
+        "sha256": "5c874a0a221c9bb5c9755dd064acdbd1606f15ff9fbfc7e8a18aee7b10385d61",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-48",
+        "originalFile": "Lp-2-1-48.jpg",
+        "image": "books/Mightymatica-2-1/page-049.jpg",
+        "sha256": "0493fe008b60406c3f375ba18357d90fadbea80e6eb40b65360828a02fd957e5",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-49",
+        "originalFile": "Lp-2-1-49.jpg",
+        "image": "books/Mightymatica-2-1/page-050.jpg",
+        "sha256": "b1e59ddbce91e18f8601fdb7477fcb34077f56668f8c8ef356424d85389add38",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-50",
+        "originalFile": "Lp-2-1-50.jpg",
+        "image": "books/Mightymatica-2-1/page-051.jpg",
+        "sha256": "9a3fc9b9fdc91741ab659b6a15989b06856a22ec56f7ec0adec09489fa27c96e",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-51",
+        "originalFile": "Lp-2-1-51.jpg",
+        "image": "books/Mightymatica-2-1/page-052.jpg",
+        "sha256": "174e50e9fca95cd36aac7903e49b0ffac2201c74d5c6cac46a9513f9f39668a4",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-52",
+        "originalFile": "Lp-2-1-52.jpg",
+        "image": "books/Mightymatica-2-1/page-053.jpg",
+        "sha256": "085bf55d55c6179aedc9b9ac1d53c13c50cb0eeb4530b1a7b65ba50dba025caa",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-53",
+        "originalFile": "Lp-2-1-53.jpg",
+        "image": "books/Mightymatica-2-1/page-054.jpg",
+        "sha256": "3a448c77e1913dd5e354e8fcdf951c97414813d69d65881de1e8d03601daa9b8",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-54",
+        "originalFile": "Lp-2-1-54.jpg",
+        "image": "books/Mightymatica-2-1/page-055.jpg",
+        "sha256": "dfe5521632938f88de1ae6e84dccd1147883a121a786b35c6a498f10ce8f6b5f",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-55",
+        "originalFile": "Lp-2-1-55.jpg",
+        "image": "books/Mightymatica-2-1/page-056.jpg",
+        "sha256": "46d7bc6bfe4c26966b6fea28935e9efb350384ecf0f45bad1480249b6bbb5a80",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-56",
+        "originalFile": "Lp-2-1-56.jpg",
+        "image": "books/Mightymatica-2-1/page-057.jpg",
+        "sha256": "831c66dade75e3ab616df25f8cc2010fb96de2d27eaec4fc3d304c3aab11804c",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-57",
+        "originalFile": "Lp-2-1-57.jpg",
+        "image": "books/Mightymatica-2-1/page-058.jpg",
+        "sha256": "d6edc25decb1efa4ae1facf8a6efe291770befecc386d299f91757b6b21960f3",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-58",
+        "originalFile": "Lp-2-1-58.jpg",
+        "image": "books/Mightymatica-2-1/page-059.jpg",
+        "sha256": "10c31df607f69fd2dc4ea58ae67776917c2d617e53a47e40f42a3271f1dd9e2e",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-59",
+        "originalFile": "Lp-2-1-59.jpg",
+        "image": "books/Mightymatica-2-1/page-060.jpg",
+        "sha256": "da50c7beae0c7bc79447a60faef79a7849a9c6aa84d2fadee55c7406ac10bd3f",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-60",
+        "originalFile": "Lp-2-1-60.jpg",
+        "image": "books/Mightymatica-2-1/page-061.jpg",
+        "sha256": "fb8a2736352feede304a84a68d405accb93c38e494403a8994950f2b70ee2964",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-61",
+        "originalFile": "Lp-2-1-61.jpg",
+        "image": "books/Mightymatica-2-1/page-062.jpg",
+        "sha256": "e30901184513facdd1a7a6c75bf03cad1ff9869aed9aef34a6ff7f87f1f32df0",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-62",
+        "originalFile": "Lp-2-1-62.jpg",
+        "image": "books/Mightymatica-2-1/page-063.jpg",
+        "sha256": "4074f811cf3b5c867d4ef164e1c0ac5878eb7f87a098512eb558edd355481337",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-63",
+        "originalFile": "Lp-2-1-63.jpg",
+        "image": "books/Mightymatica-2-1/page-064.jpg",
+        "sha256": "f427f86ea3f1d194219c3080d692e05d4a04b525dab37db3faa5a0a3d0a9f3ac",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-64",
+        "originalFile": "Lp-2-1-64.jpg",
+        "image": "books/Mightymatica-2-1/page-065.jpg",
+        "sha256": "da9937373d3b641337e60b3fe7cd5e0693537ef489cc740ab58e18f9f73a9302",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-65",
+        "originalFile": "Lp-2-1-65.jpg",
+        "image": "books/Mightymatica-2-1/page-066.jpg",
+        "sha256": "054dcef9ea0955bb503fdb29296fdab51fcd16cffcb60fcba878b5610535a382",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-66",
+        "originalFile": "Lp-2-1-66.jpg",
+        "image": "books/Mightymatica-2-1/page-067.jpg",
+        "sha256": "c82d54094aeeae01c86e9a45c16b2d94c4d46a3aef2ae5c803ac2c119da24b5f",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-67",
+        "originalFile": "Lp-2-1-67.jpg",
+        "image": "books/Mightymatica-2-1/page-068.jpg",
+        "sha256": "96f375096a1e93ecbe72b03c3a1c7a4ca078cfe3cdf57ec04c1f082035b6a954",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-68",
+        "originalFile": "Lp-2-1-68.jpg",
+        "image": "books/Mightymatica-2-1/page-069.jpg",
+        "sha256": "5dc5aa88e0a94f50987b7c9716fbdb7cd59acf26629d7fb85c5e124483ec474c",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-69",
+        "originalFile": "Lp-2-1-69.jpg",
+        "image": "books/Mightymatica-2-1/page-070.jpg",
+        "sha256": "5f4eec91a083f04ee27be17132f98b259086d7f0ccba0cd1723ef19ec7623bc0",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-70",
+        "originalFile": "Lp-2-1-70.jpg",
+        "image": "books/Mightymatica-2-1/page-071.jpg",
+        "sha256": "2865bfbeb1c5fd2ef6c8368366d56628b2f56fe3cec2c1c7466dbea4683235c9",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-71",
+        "originalFile": "Lp-2-1-71.jpg",
+        "image": "books/Mightymatica-2-1/page-072.jpg",
+        "sha256": "580f6adc876a20179a7e088d3c0966841a915e6838f3d27337d700568a704d42",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-72",
+        "originalFile": "Lp-2-1-72.jpg",
+        "image": "books/Mightymatica-2-1/page-073.jpg",
+        "sha256": "b954d324377a8cba0202bea263fc68e6c56d65d69715f8460ad49ce5a2e21a5e",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-73",
+        "originalFile": "Lp-2-1-73.jpg",
+        "image": "books/Mightymatica-2-1/page-074.jpg",
+        "sha256": "5de7e72f4e4932b3fc36dac962b70ed345a156dbc79ac90ff878ce8d2513e65e",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-74",
+        "originalFile": "Lp-2-1-74.jpg",
+        "image": "books/Mightymatica-2-1/page-075.jpg",
+        "sha256": "8c7890b5dd73c386f04feb0a61bb5ef0c87cb4c8d372e3a890f46b0fc45a16fc",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-75",
+        "originalFile": "Lp-2-1-75.jpg",
+        "image": "books/Mightymatica-2-1/page-076.jpg",
+        "sha256": "944224d4b8508fc24709f07e424a2356d515e60e947a71c8a1306812dd183fed",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-76",
+        "originalFile": "Lp-2-1-76.jpg",
+        "image": "books/Mightymatica-2-1/page-077.jpg",
+        "sha256": "0b5cad0f2b3aba6188d1876ec7e6db8f64970f1fa3d37faafb90d5167deb7c01",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-77",
+        "originalFile": "Lp-2-1-77.jpg",
+        "image": "books/Mightymatica-2-1/page-078.jpg",
+        "sha256": "092d6c2149db5a9e8a16b6773f6692bcc33a81a1a0d492ff938c19d9f3b2a135",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-78",
+        "originalFile": "Lp-2-1-78.jpg",
+        "image": "books/Mightymatica-2-1/page-079.jpg",
+        "sha256": "d7b1588ec265f5bf2e56c6df607bed129b300f51287ed692794355c595f8973a",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-79",
+        "originalFile": "Lp-2-1-79.jpg",
+        "image": "books/Mightymatica-2-1/page-080.jpg",
+        "sha256": "d01a0e4f2411ca59af0774ed1218e5257834f8d254d23dca4083071a99f4d291",
+        "texts": []
+      },
+      {
+        "label": "Lp-2-1-80",
+        "originalFile": "Lp-2-1-80.jpg",
+        "image": "books/Mightymatica-2-1/page-081.jpg",
+        "sha256": "39611d9008a4966d5f9789bec3d010a366f534f04d903319c391e38629a7e578",
+        "texts": []
+      }
+    ],
+    "swfSha256": "5a7b17cfe3af46733b04f72f1e158f980598b1f1044fffcf17725303aec2e67c"
+  }
+]

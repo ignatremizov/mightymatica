@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Escher-faces-game.swf",
+      "sourceSha256": "962aece1fc008ddf24d10a2490ecfb3fa2236533bb0594de1d0218978b6ee880",
+      "textBounds": {
+        "text38": [
+          -41,
+          319,
+          9372,
+          3337
+        ],
+        "text47": [
+          30,
+          319,
+          9754,
+          1359
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Escher-faces-game.swf",
+      "sourceSha256": "962aece1fc008ddf24d10a2490ecfb3fa2236533bb0594de1d0218978b6ee880",
+      "textBounds": {
+        "text38": [
+          -41,
+          319,
+          9372,
+          3337
+        ],
+        "text47": [
+          30,
+          319,
+          9754,
+          1359
+        ]
+      }
+    }
+  }
+}

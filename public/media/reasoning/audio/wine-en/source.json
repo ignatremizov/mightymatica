@@ -1,0 +1,532 @@
+{
+  "version": 1,
+  "frameNumbering": "one-based-global",
+  "soundTimebase": 44100,
+  "envelopeLevelMaximum": 32768,
+  "source": "../mightymatica-archive-2026-08-09/raw-site/Movies/Wineandmilk.swf",
+  "sourceSha256": "f090507ed4748560f4fbad947796bb36236674db6d4af01ea54eec235c6b6549",
+  "width": 550,
+  "height": 400,
+  "fps": 24,
+  "frameCount": 1239,
+  "audioCues": [
+    {
+      "frame": 7,
+      "soundId": 24,
+      "inPoint44": 0,
+      "outPoint44": 112462,
+      "inPointSeconds": 0,
+      "outPointSeconds": 2.55015873015873,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 13157,
+          "right": 19611,
+          "seconds": 0,
+          "leftGain": 0.401519775390625,
+          "rightGain": 0.598480224609375
+        },
+        {
+          "mark44": 0,
+          "left": 20852,
+          "right": 22590,
+          "seconds": 0,
+          "leftGain": 0.6363525390625,
+          "rightGain": 0.68939208984375
+        }
+      ]
+    },
+    {
+      "frame": 125,
+      "soundId": 25,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 20852,
+          "right": 21845,
+          "seconds": 0,
+          "leftGain": 0.6363525390625,
+          "rightGain": 0.666656494140625
+        }
+      ]
+    },
+    {
+      "frame": 293,
+      "soundId": 28,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 14008,
+          "right": 13758,
+          "seconds": 0,
+          "leftGain": 0.427490234375,
+          "rightGain": 0.41986083984375
+        }
+      ]
+    },
+    {
+      "frame": 343,
+      "soundId": 31,
+      "inPoint44": 0,
+      "outPoint44": 150061,
+      "inPointSeconds": 0,
+      "outPointSeconds": 3.4027437641723357,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 19611,
+          "right": 19611,
+          "seconds": 0,
+          "leftGain": 0.598480224609375,
+          "rightGain": 0.598480224609375
+        }
+      ]
+    },
+    {
+      "frame": 504,
+      "soundId": 28,
+      "inPoint44": 0,
+      "outPoint44": null,
+      "inPointSeconds": 0,
+      "outPointSeconds": null,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 12007,
+          "right": 12507,
+          "seconds": 0,
+          "leftGain": 0.366424560546875,
+          "rightGain": 0.381683349609375
+        }
+      ]
+    },
+    {
+      "frame": 547,
+      "soundId": 32,
+      "inPoint44": 0,
+      "outPoint44": 162963,
+      "inPointSeconds": 0,
+      "outPointSeconds": 3.6953061224489794,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 20356,
+          "right": 19859,
+          "seconds": 0,
+          "leftGain": 0.6212158203125,
+          "rightGain": 0.606048583984375
+        }
+      ]
+    },
+    {
+      "frame": 648,
+      "soundId": 35,
+      "inPoint44": 0,
+      "outPoint44": 129237,
+      "inPointSeconds": 0,
+      "outPointSeconds": 2.930544217687075,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 19859,
+          "right": 19611,
+          "seconds": 0,
+          "leftGain": 0.606048583984375,
+          "rightGain": 0.598480224609375
+        }
+      ]
+    },
+    {
+      "frame": 759,
+      "soundId": 38,
+      "inPoint44": 0,
+      "outPoint44": 192516,
+      "inPointSeconds": 0,
+      "outPointSeconds": 4.365442176870748,
+      "loops": 1,
+      "sync": "event",
+      "envelope": [
+        {
+          "mark44": 0,
+          "left": 20356,
+          "right": 19859,
+          "seconds": 0,
+          "leftGain": 0.6212158203125,
+          "rightGain": 0.606048583984375
+        }
+      ]
+    }
+  ],
+  "nestedTimelines": [
+    {
+      "spriteId": 6,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 23,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 2,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 27,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 30,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 34,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 37,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 40,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 50,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 52,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    },
+    {
+      "spriteId": 54,
+      "frameNumbering": "one-based-sprite-local",
+      "frameCount": 1,
+      "audioCues": [],
+      "linkageCues": [],
+      "streams": [
+        {
+          "frame": 1,
+          "tagType": 45,
+          "codec": 0,
+          "samplesPerBlock": 0,
+          "headerHex": "27000000"
+        }
+      ],
+      "buttonSoundTags": [],
+      "actionScriptTags": []
+    }
+  ],
+  "unsupported": [
+    {
+      "kind": "button-sound",
+      "timeline": "root"
+    }
+  ],
+  "linkageCues": [],
+  "streams": [
+    {
+      "frame": 1,
+      "tagType": 45,
+      "codec": 0,
+      "samplesPerBlock": 0,
+      "headerHex": "27000000"
+    }
+  ],
+  "buttonSoundTags": [
+    {
+      "frame": 1,
+      "buttonId": 17,
+      "byteLength": 36
+    },
+    {
+      "frame": 1,
+      "buttonId": 22,
+      "byteLength": 36
+    },
+    {
+      "frame": 940,
+      "buttonId": 48,
+      "byteLength": 11
+    }
+  ],
+  "actionScriptTags": [
+    {
+      "frame": 1,
+      "tagType": 82,
+      "byteLength": 1029
+    }
+  ],
+  "audioAssets": [
+    {
+      "soundId": 16,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 87171,
+      "channels": 1,
+      "seekSamples": 1661,
+      "src": "reasoning/audio/wine-en/16.mp3",
+      "sha256": "a8e386bd9c550e551f5eaf3ecf985c67107c3b18f8e2b3d1db4bab08cbf284e7",
+      "embeddedMp3Sha256": "a8e386bd9c550e551f5eaf3ecf985c67107c3b18f8e2b3d1db4bab08cbf284e7",
+      "durationSeconds": 8.15022000000001,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 24,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 28115,
+      "channels": 1,
+      "seekSamples": 1661,
+      "src": "reasoning/audio/wine-en/24.mp3",
+      "sha256": "e78c38b74f2e867a56cef8e6316cd2baf0ebe9cf357c6b4bf84cecdb23c970bd",
+      "embeddedMp3Sha256": "e78c38b74f2e867a56cef8e6316cd2baf0ebe9cf357c6b4bf84cecdb23c970bd",
+      "durationSeconds": 2.716740000000003,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 25,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 26327,
+      "channels": 1,
+      "seekSamples": 1661,
+      "src": "reasoning/audio/wine-en/25.mp3",
+      "sha256": "c51aed34427111de95e5fd5dcb2458412804934e32e5f35fa0489f5f57f29f3e",
+      "embeddedMp3Sha256": "c51aed34427111de95e5fd5dcb2458412804934e32e5f35fa0489f5f57f29f3e",
+      "durationSeconds": 2.6122500000000026,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 28,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 10093,
+      "channels": 1,
+      "seekSamples": 1633,
+      "src": "reasoning/audio/wine-en/28.mp3",
+      "sha256": "174d2d5492c8a79f887e91c7614d0c592dbef5b38fd9c0026917a5a97d386627",
+      "embeddedMp3Sha256": "174d2d5492c8a79f887e91c7614d0c592dbef5b38fd9c0026917a5a97d386627",
+      "durationSeconds": 1.1493900000000001,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 31,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 37515,
+      "channels": 1,
+      "seekSamples": 1661,
+      "src": "reasoning/audio/wine-en/31.mp3",
+      "sha256": "e94ad2b1af89e952145547dd1c14fe3627b88759c081ea16367efd6dff545d83",
+      "embeddedMp3Sha256": "e94ad2b1af89e952145547dd1c14fe3627b88759c081ea16367efd6dff545d83",
+      "durationSeconds": 3.6571500000000046,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 32,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 40740,
+      "channels": 1,
+      "seekSamples": 1661,
+      "src": "reasoning/audio/wine-en/32.mp3",
+      "sha256": "69e163d522c850cbcf3230dfba9fc7d0905767d3ea47db2acad554f97214d680",
+      "embeddedMp3Sha256": "69e163d522c850cbcf3230dfba9fc7d0905767d3ea47db2acad554f97214d680",
+      "durationSeconds": 3.918375000000005,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 35,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 32309,
+      "channels": 1,
+      "seekSamples": 1661,
+      "src": "reasoning/audio/wine-en/35.mp3",
+      "sha256": "f3f90e546254878654a1e99712cfcc2a6dc34909082cd770590c2c5a71805231",
+      "embeddedMp3Sha256": "f3f90e546254878654a1e99712cfcc2a6dc34909082cd770590c2c5a71805231",
+      "durationSeconds": 3.1869450000000037,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 38,
+      "codec": 2,
+      "sampleRate": 11025,
+      "sampleCount": 48129,
+      "channels": 1,
+      "seekSamples": 1661,
+      "src": "reasoning/audio/wine-en/38.mp3",
+      "sha256": "91f3cfa7dad6389e5c1934d5457f3af6c9d25143ddafacf7f12d74878e436e6b",
+      "embeddedMp3Sha256": "91f3cfa7dad6389e5c1934d5457f3af6c9d25143ddafacf7f12d74878e436e6b",
+      "durationSeconds": 4.597560000000006,
+      "durationMeasurement": "ffprobe-packet-sum"
+    },
+    {
+      "soundId": 47,
+      "codec": 2,
+      "sampleRate": 44100,
+      "sampleCount": 221184,
+      "channels": 2,
+      "seekSamples": 0,
+      "src": "reasoning/audio/wine-en/47.mp3",
+      "sha256": "849d4fbac93ee78df75e2a81ea3eb6d30ab8abb1d76475ffde4ea63d42407696",
+      "embeddedMp3Sha256": "849d4fbac93ee78df75e2a81ea3eb6d30ab8abb1d76475ffde4ea63d42407696",
+      "durationSeconds": 5.015423999999997,
+      "durationMeasurement": "ffprobe-packet-sum"
+    }
+  ],
+  "inventoryOnly": false,
+  "limitations": [
+    "Root cue frames are global; nested cue frames are sprite-local and cannot be flattened without placement/playhead/controller evidence.",
+    "ActionScript audio creation, linkage, stopAll, timers, and dynamic playback are not executed or inferred. Inspect source scripts separately.",
+    "Event sounds continue during source timeline stops. Native pause, visibility, loading, and teardown require explicit player lifecycle handling.",
+    "MP3 seekSamples and decoder padding require decoder/listening review; sample-exact audible alignment is not certified.",
+    "durationSeconds is ffprobe format duration or summed MP3 packet durations, including MPEG padding. Null means unavailable; source sampleCount/sampleRate is separate evidence.",
+    "Empty stream headers are inventoried; nonempty stream audio, non-MP3 codecs, button sounds, and class-linked sounds require separate recovery."
+  ]
+}

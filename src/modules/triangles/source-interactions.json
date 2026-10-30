@@ -1,0 +1,826 @@
+{
+  "altitudes:en": {
+    "source": "Movies/Altitudes.swf",
+    "continuation": [
+      {
+        "id": "bNext",
+        "firstFrame": 801,
+        "lastFrame": 809,
+        "resumeFrames": [
+          804
+        ],
+        "rect": {
+          "x": 414.8,
+          "y": 284.45,
+          "width": 110.0,
+          "height": 29.0
+        }
+      },
+      {
+        "id": "bNext1",
+        "firstFrame": 909,
+        "lastFrame": 911,
+        "resumeFrames": [
+          909,
+          910
+        ],
+        "rect": {
+          "x": 414.6,
+          "y": 342.7,
+          "width": 110.0,
+          "height": 29.0
+        }
+      }
+    ],
+    "vertices": [
+      {
+        "label": "A",
+        "x": 83.05,
+        "y": 354.0,
+        "color": "#ff00cc",
+        "sourceFootprint": {
+          "x": 52.06106,
+          "y": 346.0,
+          "width": 38.99143,
+          "height": 30.36095
+        },
+        "labelOffset": {
+          "x": -30.98894,
+          "y": 22.36095,
+          "size": 20.70566
+        }
+      },
+      {
+        "label": "B",
+        "x": 365.0,
+        "y": 350.0,
+        "color": "#00ff33",
+        "sourceFootprint": {
+          "x": 357.0,
+          "y": 342.0,
+          "width": 36.39033,
+          "height": 30.50306
+        },
+        "labelOffset": {
+          "x": 11.22082,
+          "y": 22.50306,
+          "size": 21.76446
+        }
+      },
+      {
+        "label": "C",
+        "x": 227.0,
+        "y": 145.0,
+        "color": "#0033ff",
+        "sourceFootprint": {
+          "x": 219.0,
+          "y": 116.84031,
+          "width": 40.03939,
+          "height": 36.15945
+        },
+        "labelOffset": {
+          "x": 15.53964,
+          "y": -9.35998,
+          "size": 21.21968
+        }
+      }
+    ]
+  },
+  "altitudes:ru": {
+    "source": "Movies/Altitudes-ru.swf",
+    "continuation": [
+      {
+        "id": "bNext",
+        "firstFrame": 804,
+        "lastFrame": 809,
+        "resumeFrames": [
+          804
+        ],
+        "rect": {
+          "x": 414.8,
+          "y": 284.45,
+          "width": 110.0,
+          "height": 29.0
+        }
+      },
+      {
+        "id": "bNext1",
+        "firstFrame": 934,
+        "lastFrame": 936,
+        "resumeFrames": [
+          934,
+          935
+        ],
+        "rect": {
+          "x": 414.6,
+          "y": 342.7,
+          "width": 110.0,
+          "height": 29.0
+        }
+      },
+      {
+        "id": "bNext1",
+        "firstFrame": 934,
+        "lastFrame": 936,
+        "resumeFrames": [
+          934,
+          935
+        ],
+        "rect": {
+          "x": 414.6,
+          "y": 342.7,
+          "width": 110.0,
+          "height": 29.0
+        }
+      },
+      {
+        "id": "bNext",
+        "firstFrame": 1977,
+        "lastFrame": 1982,
+        "resumeFrames": [
+          1977
+        ],
+        "rect": {
+          "x": 413.35,
+          "y": 284.45,
+          "width": 110.0,
+          "height": 29.0
+        }
+      }
+    ],
+    "vertices": [
+      {
+        "label": "A",
+        "x": 114.0,
+        "y": 261.95,
+        "color": "#ff00cc",
+        "sourceFootprint": {
+          "x": 89.11933,
+          "y": 253.95,
+          "width": 32.88316,
+          "height": 31.29753
+        },
+        "labelOffset": {
+          "x": -24.88067,
+          "y": 23.29753,
+          "size": 23.35973
+        }
+      },
+      {
+        "label": "B",
+        "x": 292.0,
+        "y": 200.0,
+        "color": "#00ff33",
+        "sourceFootprint": {
+          "x": 284.0,
+          "y": 192.0,
+          "width": 40.49296,
+          "height": 22.81063
+        },
+        "labelOffset": {
+          "x": 12.14392,
+          "y": 14.81063,
+          "size": 24.55424
+        }
+      },
+      {
+        "label": "C",
+        "x": 154.0,
+        "y": 91.0,
+        "color": "#0033ff",
+        "sourceFootprint": {
+          "x": 146.0,
+          "y": 64.06029,
+          "width": 38.97941,
+          "height": 34.93947
+        },
+        "labelOffset": {
+          "x": 11.4397,
+          "y": -4.82005,
+          "size": 23.93963
+        }
+      }
+    ]
+  },
+  "bisectors:en": {
+    "source": "Movies/Bisector.swf",
+    "continuation": [
+      {
+        "id": "bNext1",
+        "firstFrame": 532,
+        "lastFrame": 534,
+        "resumeFrames": [
+          532,
+          533
+        ],
+        "rect": {
+          "x": 414.6,
+          "y": 342.7,
+          "width": 110.0,
+          "height": 29.0
+        }
+      },
+      {
+        "id": "bNext",
+        "firstFrame": 1557,
+        "lastFrame": 1561,
+        "resumeFrames": [
+          1557
+        ],
+        "rect": {
+          "x": 448.95,
+          "y": 298.33058,
+          "width": 84.00055,
+          "height": 24.2652
+        }
+      }
+    ],
+    "vertices": [
+      {
+        "label": "A",
+        "x": 100.8,
+        "y": 318.45,
+        "color": "#ff00cc",
+        "sourceFootprint": {
+          "x": 76.81703,
+          "y": 310.45,
+          "width": 31.98546,
+          "height": 31.96095
+        },
+        "labelOffset": {
+          "x": -23.98297,
+          "y": 23.96095,
+          "size": 20.21778
+        }
+      },
+      {
+        "label": "B",
+        "x": 375.0,
+        "y": 302.45,
+        "color": "#00ff33",
+        "sourceFootprint": {
+          "x": 367.0,
+          "y": 294.45,
+          "width": 35.4057,
+          "height": 29.62099
+        },
+        "labelOffset": {
+          "x": 10.23619,
+          "y": 21.62099,
+          "size": 21.25163
+        }
+      },
+      {
+        "label": "C",
+        "x": 210.05,
+        "y": 112.05,
+        "color": "#0033ff",
+        "sourceFootprint": {
+          "x": 202.05,
+          "y": 84.3903,
+          "width": 38.03942,
+          "height": 35.65946
+        },
+        "labelOffset": {
+          "x": 13.53967,
+          "y": -8.85999,
+          "size": 20.71968
+        }
+      }
+    ]
+  },
+  "bisectors:ru": {
+    "source": "Movies/Bisector-ru.swf",
+    "continuation": [
+      {
+        "id": "bNext1",
+        "firstFrame": 659,
+        "lastFrame": 661,
+        "resumeFrames": [
+          659,
+          660
+        ],
+        "rect": {
+          "x": 414.6,
+          "y": 342.7,
+          "width": 110.0,
+          "height": 29.0
+        }
+      },
+      {
+        "id": "bNext",
+        "firstFrame": 1684,
+        "lastFrame": 1688,
+        "resumeFrames": [
+          1684
+        ],
+        "rect": {
+          "x": 448.95,
+          "y": 298.33058,
+          "width": 84.00055,
+          "height": 24.2652
+        }
+      }
+    ],
+    "vertices": [
+      {
+        "label": "A",
+        "x": 100.8,
+        "y": 318.45,
+        "color": "#ff00cc",
+        "sourceFootprint": {
+          "x": 76.81703,
+          "y": 310.45,
+          "width": 31.98546,
+          "height": 31.96095
+        },
+        "labelOffset": {
+          "x": -23.98297,
+          "y": 23.96095,
+          "size": 19.55426
+        }
+      },
+      {
+        "label": "B",
+        "x": 375.0,
+        "y": 302.45,
+        "color": "#00ff33",
+        "sourceFootprint": {
+          "x": 367.0,
+          "y": 294.45,
+          "width": 35.4057,
+          "height": 29.62099
+        },
+        "labelOffset": {
+          "x": 10.23619,
+          "y": 21.62099,
+          "size": 20.55418
+        }
+      },
+      {
+        "label": "C",
+        "x": 210.05,
+        "y": 112.05,
+        "color": "#0033ff",
+        "sourceFootprint": {
+          "x": 202.05,
+          "y": 84.3903,
+          "width": 38.03942,
+          "height": 35.65946
+        },
+        "labelOffset": {
+          "x": 13.53967,
+          "y": -8.85999,
+          "size": 20.03969
+        }
+      }
+    ]
+  },
+  "congruence:en": {
+    "source": "Movies/Congruence.swf",
+    "continuation": [],
+    "vertices": []
+  },
+  "congruence:ru": {
+    "source": "Movies/Congruence-ru.swf",
+    "continuation": [],
+    "vertices": []
+  },
+  "cosine-law:en": {
+    "source": "Movies/Coslaw.swf",
+    "continuation": [],
+    "vertices": []
+  },
+  "cosine-law:ru": {
+    "source": "Movies/Coslaw-ru.swf",
+    "continuation": [],
+    "vertices": []
+  },
+  "false-proof:en": {
+    "source": "Movies/Alltriangles.swf",
+    "continuation": [],
+    "vertices": []
+  },
+  "false-proof:ru": {
+    "source": "Movies/Alltriangles-ru.swf",
+    "continuation": [],
+    "vertices": []
+  },
+  "inscribed-angle:en": {
+    "source": "Movies/Insangle.swf",
+    "continuation": [
+      {
+        "id": "bProof1",
+        "firstFrame": 268,
+        "lastFrame": 281,
+        "resumeFrames": [
+          268
+        ],
+        "rect": {
+          "x": 12.0,
+          "y": 338.0,
+          "width": 93.0,
+          "height": 24.0
+        }
+      },
+      {
+        "id": "bNext",
+        "firstFrame": 566,
+        "lastFrame": 573,
+        "resumeFrames": [
+          566
+        ],
+        "rect": {
+          "x": 8.0,
+          "y": 354.0,
+          "width": 110.0,
+          "height": 29.0
+        }
+      },
+      {
+        "id": "bNext2",
+        "firstFrame": 926,
+        "lastFrame": 933,
+        "resumeFrames": [
+          926
+        ],
+        "rect": {
+          "x": 8.35,
+          "y": 347.85,
+          "width": 110.0,
+          "height": 29.0
+        }
+      },
+      {
+        "id": "bNext2",
+        "firstFrame": 1388,
+        "lastFrame": 1394,
+        "resumeFrames": [
+          1388
+        ],
+        "rect": {
+          "x": 8.35,
+          "y": 347.85,
+          "width": 110.0,
+          "height": 29.0
+        }
+      }
+    ],
+    "vertices": []
+  },
+  "inscribed-angle:ru": {
+    "source": "Movies/Insangle-ru.swf",
+    "continuation": [
+      {
+        "id": "bProof1",
+        "firstFrame": 377,
+        "lastFrame": 391,
+        "resumeFrames": [
+          377
+        ],
+        "rect": {
+          "x": 12.0,
+          "y": 338.0,
+          "width": 94.8,
+          "height": 24.0
+        }
+      },
+      {
+        "id": "bNext",
+        "firstFrame": 675,
+        "lastFrame": 682,
+        "resumeFrames": [
+          675
+        ],
+        "rect": {
+          "x": 8.0,
+          "y": 354.0,
+          "width": 110.0,
+          "height": 29.0
+        }
+      },
+      {
+        "id": "bNext2",
+        "firstFrame": 1163,
+        "lastFrame": 1214,
+        "resumeFrames": [
+          1163
+        ],
+        "rect": {
+          "x": 8.35,
+          "y": 347.85,
+          "width": 110.0,
+          "height": 29.0
+        }
+      },
+      {
+        "id": "bNext2",
+        "firstFrame": 1831,
+        "lastFrame": 1839,
+        "resumeFrames": [
+          1831
+        ],
+        "rect": {
+          "x": 8.35,
+          "y": 347.85,
+          "width": 110.0,
+          "height": 29.0
+        }
+      }
+    ],
+    "vertices": []
+  },
+  "medians:en": {
+    "source": "Movies/Mediana.swf",
+    "continuation": [
+      {
+        "id": "bNext",
+        "firstFrame": 408,
+        "lastFrame": 432,
+        "resumeFrames": [
+          408
+        ],
+        "rect": {
+          "x": 414.8,
+          "y": 284.45,
+          "width": 110.0,
+          "height": 29.0
+        }
+      },
+      {
+        "id": "bNext1",
+        "firstFrame": 532,
+        "lastFrame": 534,
+        "resumeFrames": [
+          532,
+          533
+        ],
+        "rect": {
+          "x": 414.6,
+          "y": 342.7,
+          "width": 110.0,
+          "height": 29.0
+        }
+      },
+      {
+        "id": "bNext",
+        "firstFrame": 1375,
+        "lastFrame": 1382,
+        "resumeFrames": [
+          1375
+        ],
+        "rect": {
+          "x": 433.0,
+          "y": 298.33058,
+          "width": 84.00055,
+          "height": 24.2652
+        }
+      },
+      {
+        "id": "bNext",
+        "firstFrame": 1972,
+        "lastFrame": 1983,
+        "resumeFrames": [
+          1972
+        ],
+        "rect": {
+          "x": 413.35,
+          "y": 284.45,
+          "width": 110.0,
+          "height": 29.0
+        }
+      }
+    ],
+    "vertices": [
+      {
+        "label": "A",
+        "x": 392.0,
+        "y": 309.05,
+        "color": "#ff00cc",
+        "sourceFootprint": {
+          "x": 384.0,
+          "y": 301.05,
+          "width": 16.00249,
+          "height": 15.99998
+        }
+      },
+      {
+        "label": "B",
+        "x": 96.0,
+        "y": 309.45,
+        "color": "#00ff33",
+        "sourceFootprint": {
+          "x": 88.0,
+          "y": 301.45,
+          "width": 16.00026,
+          "height": 16.00026
+        }
+      },
+      {
+        "label": "C",
+        "x": 210.05,
+        "y": 112.05,
+        "color": "#0033ff",
+        "sourceFootprint": {
+          "x": 202.05,
+          "y": 104.05,
+          "width": 15.99976,
+          "height": 15.99976
+        }
+      }
+    ]
+  },
+  "medians:ru": {
+    "source": "Movies/Mediana-ru.swf",
+    "continuation": [
+      {
+        "id": "bNext",
+        "firstFrame": 408,
+        "lastFrame": 432,
+        "resumeFrames": [
+          408
+        ],
+        "rect": {
+          "x": 414.8,
+          "y": 284.45,
+          "width": 110.0,
+          "height": 29.0
+        }
+      },
+      {
+        "id": "bNext1",
+        "firstFrame": 549,
+        "lastFrame": 551,
+        "resumeFrames": [
+          549,
+          550
+        ],
+        "rect": {
+          "x": 414.6,
+          "y": 342.7,
+          "width": 110.0,
+          "height": 29.0
+        }
+      },
+      {
+        "id": "bNext",
+        "firstFrame": 1392,
+        "lastFrame": 1399,
+        "resumeFrames": [
+          1392
+        ],
+        "rect": {
+          "x": 433.0,
+          "y": 298.33058,
+          "width": 84.00055,
+          "height": 24.2652
+        }
+      },
+      {
+        "id": "bNext",
+        "firstFrame": 1995,
+        "lastFrame": 2000,
+        "resumeFrames": [
+          1995
+        ],
+        "rect": {
+          "x": 413.35,
+          "y": 284.45,
+          "width": 110.0,
+          "height": 29.0
+        }
+      }
+    ],
+    "vertices": [
+      {
+        "label": "A",
+        "x": 392.0,
+        "y": 309.05,
+        "color": "#ff00cc",
+        "sourceFootprint": {
+          "x": 384.0,
+          "y": 301.05,
+          "width": 16.00249,
+          "height": 15.99998
+        }
+      },
+      {
+        "label": "B",
+        "x": 96.0,
+        "y": 309.45,
+        "color": "#00ff33",
+        "sourceFootprint": {
+          "x": 88.0,
+          "y": 301.45,
+          "width": 16.00026,
+          "height": 16.00026
+        }
+      },
+      {
+        "label": "C",
+        "x": 210.05,
+        "y": 112.05,
+        "color": "#0033ff",
+        "sourceFootprint": {
+          "x": 202.05,
+          "y": 104.05,
+          "width": 15.99976,
+          "height": 15.99976
+        }
+      }
+    ]
+  },
+  "palm-trig:en": {
+    "source": "Movies/Palmandtrig.swf",
+    "continuation": [],
+    "vertices": []
+  },
+  "pythagoras:en": {
+    "source": "Movies/Pifagor-gl.swf",
+    "continuation": [
+      {
+        "id": "bNext",
+        "firstFrame": 1292,
+        "lastFrame": 1300,
+        "resumeFrames": [
+          1292
+        ],
+        "rect": {
+          "x": 438.0,
+          "y": 320.93058,
+          "width": 84.00055,
+          "height": 24.2652
+        }
+      },
+      {
+        "id": "bNext",
+        "firstFrame": 2044,
+        "lastFrame": 2054,
+        "resumeFrames": [
+          2044
+        ],
+        "rect": {
+          "x": 434.55,
+          "y": 351.93058,
+          "width": 84.00055,
+          "height": 24.2652
+        }
+      }
+    ],
+    "vertices": []
+  },
+  "pythagoras:ru": {
+    "source": "Movies/Pifagoras Theorem - ru.swf",
+    "continuation": [
+      {
+        "id": "bNext",
+        "firstFrame": 1292,
+        "lastFrame": 1300,
+        "resumeFrames": [
+          1292
+        ],
+        "rect": {
+          "x": 438.0,
+          "y": 320.93058,
+          "width": 84.00055,
+          "height": 24.2652
+        }
+      },
+      {
+        "id": "bNext",
+        "firstFrame": 2044,
+        "lastFrame": 2054,
+        "resumeFrames": [
+          2044
+        ],
+        "rect": {
+          "x": 434.55,
+          "y": 351.93058,
+          "width": 84.00055,
+          "height": 24.2652
+        }
+      }
+    ],
+    "vertices": []
+  },
+  "sine-law:en": {
+    "source": "Movies/Sinlaw.swf",
+    "continuation": [],
+    "vertices": []
+  },
+  "sine-law:ru": {
+    "source": "Movies/Sinlaw-ru.swf",
+    "continuation": [],
+    "vertices": []
+  },
+  "trig-addition:en": {
+    "source": "Movies/Trig-cos.swf",
+    "continuation": [],
+    "vertices": []
+  },
+  "trig-addition:ru": {
+    "source": "Movies/Trig-cos-ru.swf",
+    "continuation": [],
+    "vertices": []
+  }
+}

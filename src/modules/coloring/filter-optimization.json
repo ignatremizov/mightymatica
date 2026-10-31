@@ -1,0 +1,82 @@
+[
+  {
+    "key": "cube",
+    "language": "en",
+    "painter": "cube-en",
+    "groups": 2253,
+    "sourceSha256": "f406a9763ee1232abb09d6fad1d0cd63faa85661f64df811a16e2035a216e36d",
+    "resultSha256": "dd77fd3c0d6d9488a3231f849e49dc0c0b454cbf26ade907dea6286c10ab4e37"
+  },
+  {
+    "key": "cube",
+    "language": "ru",
+    "painter": "cube-ru",
+    "groups": 2252,
+    "sourceSha256": "6b2d9d960b1dbe6685b18809c1e76aa5123ec289590eb50815fdafc0ed049bb1",
+    "resultSha256": "f08ec9cc403fe38ef2065a15ad9a3e0912a78772c51baa7b2f540fe0215a750d"
+  },
+  {
+    "key": "two-plane",
+    "language": "en",
+    "painter": "Twocolorplane-eng",
+    "groups": 599,
+    "sourceSha256": "f3344807275d9078e11e6453659c3d7dd98eba2876d1c5f7ea630588d2548bc9",
+    "resultSha256": "9996de8ead81f8bbbc4ca1cd42cbea3996c38fe0f1fcc6822d0981216cf0a35b"
+  },
+  {
+    "key": "two-plane",
+    "language": "ru",
+    "painter": "Twocolorplane",
+    "groups": 599,
+    "sourceSha256": "c8b4c943975d182134632b636949d037455c5392f89160e9d7901a2276384808",
+    "resultSha256": "347e6dc47743cd17eb77d3cfa0281d7850709d52559f6d8e7bb5d7a438b65842"
+  },
+  {
+    "key": "segment",
+    "language": "en",
+    "painter": "Twocolorplaneseg-en",
+    "groups": 918,
+    "sourceSha256": "5ed63659ddb9f9266ccf6190210a2406ee2d6934217f435a6d4f7a5f0e423b2e",
+    "resultSha256": "f46b10b1058e89d630028aebce68f3af948880f630202ba036f59efdd2f00b5a"
+  },
+  {
+    "key": "segment",
+    "language": "ru",
+    "painter": "Twocolorplaneseg-ru",
+    "groups": 918,
+    "sourceSha256": "f563d20310196f0ff761f89d2e3074d2eeac44897f12248d364561db618e738d",
+    "resultSha256": "dc48b1cf63bc1041d13d42f569bba304c67d0f59859ddc2f4aa3740dca2313c7"
+  },
+  {
+    "key": "equilateral",
+    "language": "en",
+    "painter": "Twocoloreqtri-eng",
+    "groups": 1739,
+    "sourceSha256": "fa4f433dde63a33e4e5ea3948fc0149c0be5f5530c7c54379a9b702ff0a3f3c0",
+    "resultSha256": "48a9106ace90fcdaa2867cf9ceb6f50f6b1a3e72fa6eb2c583a9599c91445376"
+  },
+  {
+    "key": "equilateral",
+    "language": "ru",
+    "painter": "Twocoloreqtri-ru",
+    "groups": 1739,
+    "sourceSha256": "52b19d9a03faae3d734d9446926ccac164e86993007e9018b5e3269ed9c427e7",
+    "resultSha256": "d49b965dfc6355227dd3d15650f1ecb2f66968d8921b42466db2bdb779e4f5f8"
+  },
+  {
+    "key": "three-plane",
+    "language": "en",
+    "painter": "Threecolorplane-eng",
+    "groups": 1663,
+    "sourceSha256": "8c318e471b1b9e0f59adff0d12f4ffa008b623965c39f5d6767f49334ced0f58",
+    "resultSha256": "78600d4cbab43b0bda2f322b49c814e5bd22b2238b282786bb07552043c84ff0"
+  },
+  {
+    "key": "three-plane",
+    "language": "ru",
+    "painter": "Threecolorplane-ru",
+    "groups": 1663,
+    "sourceSha256": "9b72f48848e73673984012535908f6faa3565458293b6859d2548ba68ddce7a4",
+    "resultSha256": "5816c9e8332938227b46fc845570ba5242c958a4640ff1846e36e76755ce2873"
+  }
+]

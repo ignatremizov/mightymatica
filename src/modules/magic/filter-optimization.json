@@ -1,0 +1,34 @@
+[
+  {
+    "key": "subtraction",
+    "locale": "en",
+    "part": "lesson",
+    "groups": 1,
+    "sourceSha256": "ef4a9cc572b7636fd520b7869f76f68735225fcbeefd8875d4320ec636bc5c6b",
+    "resultSha256": "c8155b1bd20069500ef4d6287d2f3994cb8bba064e21786d652cd1e717c6ad3b"
+  },
+  {
+    "key": "subtraction",
+    "locale": "ru",
+    "part": "lesson",
+    "groups": 1,
+    "sourceSha256": "2b840a26c903337e4dbe31ad2d354492c0471ca1264edd03d7582e683414e16c",
+    "resultSha256": "3e78381c7f0279d114f4f8fa332fe9e49329f26cbf1b40c2c39247d65b8988d0"
+  },
+  {
+    "key": "hourglasses",
+    "locale": "en",
+    "part": "question",
+    "groups": 1145,
+    "sourceSha256": "5c67bef1ea78d182256160f886b8dcb90741f43e1321c998e4e06d901582b0e8",
+    "resultSha256": "24fec577a76be11c061bf742ced9ef33bd9eb8c370793a1edcabdd7bbff0ccd8"
+  },
+  {
+    "key": "hourglasses",
+    "locale": "ru",
+    "part": "question",
+    "groups": 1145,
+    "sourceSha256": "4a94e1b9e31d28ed3fb9df8d2b5458af50ec9009d471d824e814f8d0ce31e8ac",
+    "resultSha256": "79b12c1f70ebf8cd741dc27339c4e5e9665b363dd001e8d8954c6cf1c3f2c400"
+  }
+]

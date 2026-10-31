@@ -1,5 +1,29 @@
 # Magic arithmetic restoration
 
+## Painted hourglass Hint control (2026-10-31)
+
+The hourglass Hint at frame 765 now leaves the original painted button visible,
+using a transparent semantic hit area instead of drawing a second HINT label
+over it. Bounds come from each language's source DefineButton2 Hit artwork and
+XFL placement, not the previous approximate replacement rectangle. English
+symbol 38 and Russian symbol 37 share the recovered Hit envelope but retain
+their own source hashes in `source-controls.json`.
+
+The existing root-play continuation, frame-766 button sound, final solution
+stop and optional simulator unlock are unchanged. No source Play/Pause control
+was demonstrated for either hourglasses or subtraction, so no native transport
+sprite or subtraction interaction was added or patched.
+
+Reproduce this family's geometry with
+`node scripts/algebra-coloring-magic-playback-control.mjs --recover-controls`.
+Recovery reads the preservation tree without modifying or exporting it. The
+script's painter-patching mode deliberately excludes magic. The existing
+focused hourglass-gate and subtraction-timer tests passed. Main owns integrated
+type-check/build; no browser or listening verification was performed.
+Manual acceptance: both localized hourglass lessons stop at the question,
+their single painted Hint supports keyboard/touch, and selecting it starts the
+solution and source button sound once; restart hides exploration as before.
+
 ## Source-stage presentation review
 
 All six activities were reviewed against the recovered XFL `DOMDocument.xml`
@@ -223,3 +247,49 @@ and releasing Shift before releasing a movement key cannot leave that key stuck.
 Arrow keys and direct pointer destinations are unchanged. This was checked by
 source inspection; manually check WASD with Caps Lock and changing Shift while
 holding a direction, alongside pause, blur, and touch controls.
+## Rendering/performance review (2026-10-31)
+
+All six activities were reviewed: Mouse and cheese, Mouse collects cherries,
+Mouse shares cherries, Mind-reading ball, Mysterious subtraction and Two
+hourglasses. The three mouse games already update bounded mouse/cat SVG refs
+per tick rather than rerendering every wall and target through React; React
+snapshots change only on count/status/used-target transitions. Movement,
+collision, feedback, source levels and pause behavior remain unchanged.
+The ball uses event-driven DOM/SVG with a finite owned audio envelope; no
+generated Canvas filter pipeline was found there.
+
+The EN/RU subtraction lessons and hourglass question painters now cache verified
+static-text shadows at source density using cropped layers bounded to 24
+entries/2 million pixels. This replaces 2,292 filter blocks across four painters.
+Both hourglass hint painters have no authored filter placements and remain
+byte-identical. Generic FFDec filter-library definitions are not mistaken for
+active scene calls. After rewriting, none of the six magic painters retain an
+authored direct glow/shadow/blur placement.
+
+Exact bounds and source hashes are in `subtraction-text-bounds.json` and
+`hourglasses-text-bounds.json`, recovered separately from `Movies/Mistic substr.swf`,
+`Movies/Mistic substr-ru.swf`, `Movies/Twohourglasses.swf`, and
+`Movies/Twohourglasses-ru.swf`. No original shadow was removed. The hourglass
+HINT gate, subtraction's twenty half-second examples, narration, source timing,
+questions and metadata remain unchanged.
+
+After raw regeneration:
+
+```sh
+node src/modules/magic/optimize-painters.mjs --apply --recover
+```
+
+The tool validates preserved-source hashes, backs up existing painters under
+`.cache/magic-filter-originals/`, syntax-checks candidates, deeply compares
+metadata/export names, checks idempotence and refuses concurrent painter edits.
+`filter-optimization.json` retains before/after hashes and changed block counts.
+Bounds recovery never executes SWF or ActionScript. The original sources remain
+read-only. All four changed candidates passed these checks; the combined focused
+logic/magic/quiz run passed 27 tests. No browser, FPS or pixel-parity verification,
+audio listening, service, full suite, build or integrated compiler was run.
+
+Manual acceptance remains: both language text/shadows throughout the two
+lessons, HINT stop and explicit continuation, the final subtraction examples,
+restart/unmount, and mouse/cat movement and count/status feedback on all three
+games. Existing lifecycle wording elsewhere in this historical document does
+not imply that this rendering-only pass changed background playback policy.

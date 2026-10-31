@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Pinoc-game.swf",
+      "sourceSha256": "2da876eacb0fc5ebbd0b68d04f5eb4851233fd133157e40a298469f5fdefd494",
+      "textBounds": {
+        "text35": [
+          27,
+          296,
+          9261,
+          4717
+        ],
+        "text40": [
+          38,
+          296,
+          11604,
+          3038
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Pinoc-game.swf",
+      "sourceSha256": "2da876eacb0fc5ebbd0b68d04f5eb4851233fd133157e40a298469f5fdefd494",
+      "textBounds": {
+        "text35": [
+          27,
+          296,
+          9261,
+          4717
+        ],
+        "text40": [
+          38,
+          296,
+          11604,
+          3038
+        ]
+      }
+    }
+  }
+}

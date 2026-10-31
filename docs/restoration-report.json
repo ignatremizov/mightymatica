@@ -10,10 +10,10 @@
     "Images/Thinkingacademytext.swf",
     "Scripts/expressInstall.swf"
   ],
-  "nativeDrawingModules": 186,
+  "nativeDrawingModules": 188,
   "nativeDrawingAdapters": 1,
-  "totalArtifactBytes": 832772206,
-  "entryGzipBytes": 136310,
+  "totalArtifactBytes": 793428129,
+  "entryGzipBytes": 136291,
   "fidelityNote": "Source representation is not a claim of complete animation, narration, interaction, or accessibility parity.",
   "sources": [
     {

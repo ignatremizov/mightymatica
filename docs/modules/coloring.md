@@ -1,5 +1,90 @@
 # Coloring restoration
 
+## Painted plane controls (2026-10-31)
+
+All four plane proofs in both source languages now expose the original initial
+Play artwork as a transparent semantic target. Source `pp_5` is symbol 22 for
+two-plane / segment / equilateral and symbol 23 for three-plane, placed only at
+global frame 1. The reviewed two-frame painter follows the shared transport's
+Play/Pause choice; the source artwork does not alternate with timeline parity.
+
+The existing Hint action at frame 26 now uses the actual localized button's
+Hit geometry with `sourceArtwork: true`, retaining its label for keyboard and
+assistive-technology use without painting a duplicate label over the original.
+The generic transport remains blocked at 26. Hint still uses the same source
+button sound and jumps to 321, or 347 for the three-color proof; opening the
+lesson or pressing Play does not reveal the proof. Cube and the four separate
+solid-coloring adaptations are unchanged by this control pass.
+
+`source-controls.json` records each original source hash and control placement.
+Recovery uses the read-only FFDec tag-model XML where original XFL folders are
+empty, including root ShowFrame/placement/removal order, DefineButton2 Hit
+records, affine matrices and source shape/text bounds. Other variants use
+their actual XFL, not copied cross-language geometry. Recovered AS handlers
+verify both `go` / `halt` and Hint targets. Reproduce metadata with
+`node scripts/algebra-coloring-magic-playback-control.mjs --recover-controls`;
+after raw painter regeneration, use its `--apply` mode. Painter rewrites preserve
+existing optimizations and have hash-addressed backups, syntax validation,
+metadata/export comparison, idempotence and concurrent-edit checks.
+
+Focused checks cover source transport selection, the absence of a source
+transport route through frame 26, retained source button/audio assets and the
+existing cube answer/timer gates. No browser, server or listening verification
+was run; Main owns integrated compiler/build checks. Manual acceptance: all
+eight localized plane lessons' initial painted Play, their painted Hint after
+the question, pause/restart, no early proof via the generic toolbar, narrow
+layout, keyboard focus and unchanged source artwork/shadows.
+
+## Static-text rendering cost review (2026-10-31)
+
+Reviewed all nine activities. Cube and the four plane proofs use ten generated
+native painters (English/Russian); the other four solids use bounded SVG geometry
+in `SolidActivity.tsx` and `SourceSoundtrack.tsx`. No interaction, answer gate,
+narration timing, degree readout, face color or sound preference changed.
+
+`src/modules/coloring/optimize-painters.mjs --recover-bounds` recovers static
+DefineText bounds from the ten corresponding read-only `objects/Movies/<name>/
+original/<name>.swf` binaries in the source-recovery archive. Five
+`text-bounds-*.json` files record exact source names and SHA-256 hashes.
+Both languages use their actual distinct source; there is no substituted variant.
+The optimizer rewrites existing painters, not source exports. It backs up originals
+under `.cache/coloring-filter-originals`, checks candidate syntax, deep-compares
+metadata and exports, and checks the target hash before replacing it.
+
+| Activity | Native source objects, English / Russian | Cached static-text filter groups |
+| --- | --- | --- |
+| coloring-cube | Cube-colorproblem / Cube-colorproblem-ru | 2253 / 2252 |
+| coloring-two-plane | Twocolorplane-eng / Twocolorplane | 599 / 599 |
+| coloring-segment | Twocolorplaneseg-en / Twocolorplaneseg-ru | 918 / 918 |
+| coloring-equilateral | Twocoloreqtri-eng / Twocoloreqtri-ru | 1739 / 1739 |
+| coloring-three-plane | Threecolorplane-eng / Threecolorplane-ru | 1663 / 1663 |
+| coloring-hexagonal-prism | Recthexprizm-colorproblem / Recthexprizm-colorproblem-ru | No generated painter; unchanged SVG |
+| coloring-tetrahedron | Tetra-colorproblem / Tetra-colorproblem-ru | No generated painter; unchanged SVG |
+| coloring-brick | brick-colorproblem / brick-colorproblem-ru | No generated painter; unchanged SVG |
+| coloring-right-prism | paralele-colorproblem / paralele-colorproblem-ru | No generated painter; unchanged SVG |
+
+The 14,343 rewritten filter placements retain authored glow/shadow parameters,
+using the shared verified-text crop and source-density cache (24 entries / 2 MP).
+The handwritten `public/media/coloring/native/cube-stage.mjs` remains unchanged:
+SHA-256 `2a6fb2fca45dd80bb32b15d907ce8e864a26026e944e6691b4e99fc0e7621232`.
+The optimizer's temporary metadata-import candidate resolves that adapter by
+absolute file URL; the delivered painter retains its existing relative import.
+
+Remaining cost: each cube painter still has 263 direct authored bevel call sites,
+including `sprite106`'s filtered `text88`. Bevel is not supported by the reviewed
+static-text rewrite. Remaining cube drop-shadow paths can also include non-text
+artwork. These are deliberately preserved, not removed for speed. The other eight
+painters have no remaining direct `Filters.*` calls after rewriting. A future
+re-export must rerun this optimizer; no external recovery pipeline was modified.
+
+Validation: candidate syntax and metadata/export checks passed for all ten
+painters; a second optimizer run made no changes. The four focused suites
+`coloring`, `coloring-lessons`, `spatial-rules`, and `octahedron-projection`
+passed all 19 tests. No browser automation, FPS measurement, audio listening,
+full-resolution raster baseline or pixel-parity claim was made.
+Manual follow-up: inspect both language versions' question and proof captions,
+cube counting/quarter-turn scenes and preserved bevels; check rotation and sound.
+
 ## Interactive source-audio restoration (current primary experience)
 
 All nine activities / eighteen original language objects contain source audio.

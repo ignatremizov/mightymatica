@@ -85,3 +85,75 @@ and build; no browser, server, full suite or listening test was run by this slic
 Manual acceptance: four original lessons' Play/Pause/Sound/Restart; background
 tab suspension; both manual teaching stops; all six quadratic chapters; optional
 experiments after completion; EN/RU language notice; mobile stage/controls.
+
+## Rendering performance review (2026-10-31)
+
+All six activities were reviewed: square of a sum, difference of squares,
+transformations and quadratic use the four native painters; integer and odd sums
+use event-driven SVG with at most 110 cells and no animation loop. The first
+three painters contain filter implementation helpers but no placed filter
+effects, so they are unchanged.
+
+Quadratic contained 1,610 repeated full-stage shadow groups around verified
+static text. These now use the reviewed source-density crop and bounded filter
+cache, retaining the authored shadows. Its 50 remaining blue-glow call sites
+surround the composite `sprite37` in animated `sprite38`, not a verified static
+text wrapper. They deliberately retain the original full-stage drawing path;
+this is a remaining performance cost, not a claim of complete filter elimination.
+
+`quadratic-text-bounds.json` is recovered from
+`Movies/Quadratic eq.swf` (SHA-256
+`c7cf28afa587d386160f9e6ecd332d590ea3398dcbf6c07cdeb0035e3b57f1fa`).
+Both language entries honestly reference that same English original because
+both shell locales use the same native lesson. Regenerate bounds with the
+shared recovery script using this original for both `--en` and `--ru`, then run:
+
+```sh
+node src/modules/algebra/optimize-quadratic.mjs --apply
+```
+
+The optimizer verifies source provenance, saves hash-named originals under
+`.cache/algebra-filter-originals`, syntax-checks the candidate, compares metadata
+and export contracts deeply, checks repeat-application idempotence, and rejects
+concurrent painter changes before replacement. It does not change lesson frames,
+stops, narration, answer behavior, or chapter navigation.
+
+Focused checks across algebra and calculus passed 27 tests, with one opt-in
+actual-painter dispatch diagnostic skipped, and zero failures. No browser FPS,
+pixel parity, sound synchronization, or visual acceptance is claimed. User
+acceptance should check quadratic text/shadows throughout six chapters,
+Play/Pause/Restart and the initial Begin gate.
+
+## Painted source controls (2026-10-31)
+
+Transformations' `pp_14` / symbol 41 is now a semantic transparent Play/Pause
+target on global frames 481–1710. Quadratic's `pp_2` / symbol 63 is active only
+on source frames 36–2693. Both are verified two-frame `go` / `halt` controls:
+the native painter selects Play or Pause from the shared player state instead
+of alternating with frame parity. The generic Begin / Make R overlay is
+suppressed wherever the authored transport exists; original teaching stops
+and completion frames remain unchanged.
+
+Quadratic's six painted chapter buttons now invoke the same navigation path
+as the retained HTML chapter shortcuts. Recovered `frame37` handlers and
+`shoot1`–`shoot6` prove targets 37/851/1058/1312/1646/2646. These chapter
+gestures start the selected chapter, can restart the currently selected one,
+hide completed-lesson exploration, and preserve the user's sound setting.
+They do not create a new answer/quiz route.
+
+`source-controls.json` records source hashes and the recovered XFL Hit-state
+geometry. `scripts/algebra-coloring-magic-playback-control.mjs --recover-controls`
+reproduces it without modifying the preservation tree. After raw painter
+regeneration, `--apply` on that script reapplies only the reviewed transport
+sprite selection. It makes hash-addressed backups under
+`.cache/algebra-coloring-playback-originals`, checks candidate syntax,
+metadata/export equality, repeat-application idempotence and concurrent edits.
+Existing text/filter caches and audio metadata are preserved.
+
+Focused playback-patch and family rule/gate checks passed; Main owns integrated
+type-check/build. No browser or listening verification was performed.
+Manual acceptance: click the original Play at 481 / 36; pause/resume from both
+painted control and toolbar; inspect all six painted/HTML chapter jumps with
+sound muted, including repeating the current chapter; restart and leave the
+activity; check narrow layout and both UI locales. Button hover/down effects
+remain separate un-restored source behavior.

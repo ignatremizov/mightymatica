@@ -4,6 +4,7 @@ import { t } from "../../shared/contracts";
 import OriginalLessonPlayer from "../../shared/OriginalLessonPlayer";
 import { coloringLessons, isColoringLesson } from "./lessons";
 import { coloringHintFrame, coloringHintSound } from "./lessonRules";
+import sourceControls from "./source-controls.json";
 
 // Cube geometry/alpha animation lives in its owned native drawing adapter.
 // An overlay callback asks the shared transport to redraw during Timer holds.
@@ -15,6 +16,7 @@ export default function ColoringLesson({ activityId, locale, reducedMotion, expl
   const [wrong, setWrong] = useState(false);
   if (!isColoringLesson(activityId)) return null;
   const cube = activityId === "coloring-cube";
+  const controls = cube ? undefined : sourceControls.find(row => row.key === `${activityId}:${locale}`);
   const question = cube
     ? t(locale, "A cube has six differently colored faces. How many different colorings are there, counting rotated copies as one?", "Все шесть граней куба окрашены в разные цвета. Сколько различных раскрасок, если повёрнутые копии считать одной?")
     : activityId === "coloring-segment"
@@ -30,13 +32,14 @@ export default function ColoringLesson({ activityId, locale, reducedMotion, expl
       soundId: answer === 30 ? 36 : 25,
     })) }
     : { 26: [{ label: t(locale, "Hint", "Подсказка"), targetFrame: coloringHintFrame(activityId),
-      soundId: coloringHintSound(activityId, locale) }] };
+      soundId: coloringHintSound(activityId, locale), hotspot: controls?.actionHotspots.bHint }] };
   return <section className="coloring-family coloring-lesson">
     <p>{question}</p>
     <OriginalLessonPlayer
       lesson={coloringLessons[activityId][locale]}
       locale={locale} reducedMotion={reducedMotion} label={question}
       blockedStopFrames={cube ? [1] : [26]}
+      playbackHotspots={controls?.playbackHotspots}
       stopActions={actions}
       onAction={(_frame, index) => { if (cube) setWrong(index !== 2); }}
       drawOverlay={cube ? redrawHeldCube : undefined}

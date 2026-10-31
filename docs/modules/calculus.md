@@ -195,3 +195,25 @@ Manual acceptance remains necessary for the reported title transitions and
 shadows, NEXT and answer hit alignment, both locales, completion-only exploration,
 example navigation, and MathML layout at narrow widths. No browser or listening
 verification is claimed.
+## Rendering performance review (2026-10-31)
+
+Reviewed all eleven activities: the function chooser and nine individual
+function graphs are event-driven SVG, with bounded sampling rather than an
+animation loop. Pointer inspection resamples curves on React updates, but no
+unbounded or full-stage pixel-filter work was found in these graph tools.
+The slope/accumulation exploration likewise uses bounded SVG samples.
+
+The English and Russian native lesson's three chapter painters each already
+contain source-density static-text filter cropping/caching, three Float64
+scratch-buffer sites, and bounded root-frame dispatch. Reapplying
+`patchCalculusFilters` in memory to all six painters returned zero new groups,
+no refreshed helper, and byte-identical source. No Calculus painter or lesson
+code was changed by this review. Native menu and answer hit regions, transport
+state, graph-coordinate transforms, the +C note and MathML remain untouched.
+
+Focused algebra/calculus rules, lesson-gate, filter-buffer and frame-dispatch
+checks: 27 passed, zero failed, one opt-in actual-painter dispatch diagnostic
+skipped. No integrated build/typecheck, browser automation, full-resolution
+benchmark, audio listening or pixel-parity claim was made. Remaining animation
+and vector painting costs should be assessed with the centrally coordinated
+diagnostics before broadening any rewrite beyond verified static text.

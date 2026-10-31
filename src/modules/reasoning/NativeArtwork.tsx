@@ -5,6 +5,7 @@ import timelines from "./native-timelines.json";
 import { reasoningQuestions } from "./questionGate";
 import audio from "./lesson-audio.json";
 import { reasoningSegment } from "./lessonFlow";
+import { reasoningSourceControls } from "./sourceControls";
 
 // MainTimeline's explicit bHint stop and final stop, not sampled checkpoints.
 const hintStops: Record<string, number> = { burninghouse: 515, turtles: 722, wine: 940 };
@@ -13,6 +14,7 @@ export function NativeArtwork({ family, locale, reducedMotion, label, phase = "s
   phase?: "intro" | "question" | "wrong" | "solution";
   onComplete?: () => void; onRestart?: () => void;
 }) {
+  const controls = reasoningSourceControls(family, locale);
   const lesson = useMemo(() => {
     const data = timelines[family as keyof typeof timelines][locale];
     const source = audio[family as keyof typeof audio][locale];
@@ -28,10 +30,14 @@ export function NativeArtwork({ family, locale, reducedMotion, label, phase = "s
       : phase === "wrong" ? question.solutionFrame - 1 : end;
     const hint = hintStops[family];
     return reasoningSegment(source, data.module, startFrame, endFrame, data.fps,
-      hint ? [{ frame: hint, kind: "manual" }] : []);
-  }, [family, locale, phase]);
+      [
+        ...(controls.stopHotspots?.[startFrame] ? [{ frame: startFrame, kind: "manual" as const }] : []),
+        ...(hint ? [{ frame: hint, kind: "manual" as const }] : []),
+      ]);
+  }, [family, locale, phase, controls]);
   const hint = hintStops[family];
   return <OriginalLessonPlayer lesson={lesson} locale={locale} reducedMotion={reducedMotion}
     label={label} onComplete={onComplete} onRestart={onRestart}
+    playbackHotspots={controls.playbackHotspots} stopHotspots={controls.stopHotspots}
     stopLabels={hint ? { [hint]: locale === "ru" ? "Показать подсказку" : "Show hint" } : {}} />;
 }

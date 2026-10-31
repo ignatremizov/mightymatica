@@ -1,4 +1,4 @@
-# Alpha publication and rollback
+# Pre-release publication and rollback
 
 The owner authorized public-alpha publication on 2026-10-30. The independent
 source repository is `ignatremizov/mightymatica`. This document records the
@@ -110,3 +110,33 @@ notes in `docs/modules/` distinguish those remaining tasks.
 These checks did not include browser automation or an independent claim of
 visual parity. The owner accepted the current UI for sharing; further UI/UX
 refinements and documented fidelity gaps can follow the alpha.
+
+## Update verification, 2026-10-31
+
+The owner authorized committing and publishing the current restoration update.
+The restoration remains beta/pre-release; the separate portfolio remains alpha.
+This update restores the original five-phase cube-sections sequence, connects
+painted lesson controls, keeps hints in the current presentation, and reduces
+repeated native text/filter work without removing the authored effects.
+
+- `npm run check` passed TypeScript verification and 266 tests, with one
+  explicitly opt-in renderer proof skipped.
+- `npm run build` passed all source-coverage, native-only, public-base and
+  eager-transfer gates: 143 activities in 20 families and 203 content objects.
+- The portfolio passed TypeScript verification, all 252 tests, and its
+  production loading and transfer gates.
+- Both dependency audits, including development dependencies, reported zero
+  known vulnerabilities.
+- The combined Pages artifact contains 3,193 files totaling 795,990,276 bytes,
+  below the conservative 1 GB gate. An isolated build preserved the running
+  local preview.
+- The refreshed LGPL corresponding-source package has 186 readable baselines
+  and 499 supporting files. All baseline, final-module, support-file and split
+  archive hashes, archive integrity and archive paths were verified.
+- DNS and the Pages HTTPS certificate were already configured; no DNS changes
+  were needed.
+
+These are build and source checks, not new browser, listening or pixel-parity
+certification. Public deployment and HTTP delivery are verified after pushing.
+The previous published MightyMatica revision
+`382efbdd72a6a62540abcaeadd662ec70113f2fd` remains a rollback target.

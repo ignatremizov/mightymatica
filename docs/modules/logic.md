@@ -1,5 +1,115 @@
 # Logical toys: restoration scope
 
+## In-place Wisemen Hint continuation (2026-10-31)
+
+The Wisemen story and optional hint now form one lesson with two drawing
+chapters, one Canvas, one audio owner and one toolbar. At frame 1097 the player
+pauses at the original question, rather than reporting completion. Clicking
+the original Hint continues at 1098 in the same player; it does not mount a
+second copy or scroll elsewhere. This applies to both activities and languages.
+Sound choice persists, and Restart returns the entire lesson to its initial
+Play stop. The duplicate below-picture Hint/Reset controls were removed.
+
+`wisemenSequence.ts` composes the already recovered contiguous chapters and
+preserves all original audio events, deduplicating shared sound definitions.
+No drawing or audio asset was regenerated. Focused regressions cover initial
+Play, a non-bypassable question pause, explicit in-place continuation, final
+completion, restart and source-audio preservation.
+
+All 15 focused lesson/logic/clock tests, TypeScript and production build/native
+checks passed. The local preview entry and 25 changed runtime bundles were
+hash-checked over localhost and Tailscale; native media is unchanged. Manually
+check Hint in place, Sound-off persistence, and full Restart in both languages.
+No browser automation or publication was performed.
+
+## Original Wisemen playback controls (2026-10-31)
+
+Both Wisemen activities now use transparent hit targets over their original
+painted Play/Pause controls in English and Russian. This removes the additional
+in-picture Play button at the initial stop. The source two-state `pp` sprites
+follow playback state rather than looping through Play and Stop with the story.
+The supplementary toolbar remains available.
+At the question, the original painted Hint button continues the optional
+two-person hint in the same player, as described above.
+
+`scripts/recover-reasoning-logic-controls.py` verifies source hashes and recovers
+the authored frame spans and both nested Hit-state matrices into
+`src/modules/logic/source-controls.json`. The source-specific playback patch
+changes only the four story painters; original narration, story timing,
+question boundary and optional two-person hints are unchanged.
+Regeneration runs recovery and `reasoning-logic-playback-control.mjs --apply logic`
+after the existing performance optimizers. Pre-patch painters are retained
+under `.cache/source-controls-originals/`.
+
+Manual checks: click the original Play button in both activities and languages,
+pause/resume from the same control and toolbar, restart, and confirm that the
+question and optional hint still occur at their original boundaries. No browser
+or listening certification is claimed.
+
+The preceding control-audit integration passed TypeScript, 264 tests (one opt-in diagnostic
+skipped), production build and native-loading checks. Local preview delivery was
+hash-checked; no publication occurred. Independent source review found the
+otherwise inert completion Hint, now wired as described above, and no remaining
+confirmed regression in this repair.
+
+## Nested static-text follow-up (2026-10-31)
+
+The Russian eight-wise-men story now fuses 330 outer filter blocks around the
+verified static text wrappers `sprite79` and the separately approved `sprite83`.
+The hint painter has no qualifying outer blocks and remains unchanged.
+Original wrappers, existing shape/composite caches, filter order and authored
+shadow parameters remain. The complete chain follows the approved source-density
+policy; exact DPR>1 mixed-density pixel equivalence is not claimed.
+Source verification, backup hashes, wrapper counts, reproduction and focused
+checks are recorded in [the nested-filter review](../reviews/nested-filter-optimization.md)
+and its JSON companion. No browser/FPS or audio verification was performed.
+
+## Rendering/performance review (2026-10-31)
+
+All seven activities were reviewed. Complete the chain, Beads on a rope,
+Ripped necklaces and Count the stones use recovered static board images plus
+bounded SVG/DOM interaction updates, not per-frame Canvas pixel filters.
+The coin pyramid is event-driven SVG. Their rendering and feedback were left
+unchanged. Stones' memory cover, retry, reveal, level boundaries and all 29
+questions were specifically retained; no progression or clock changes were made.
+
+The two Wisemen lessons had repeated full-stage shadow work on unchanged static
+text. Eight native painters (EN/RU story/hint for each lesson) now use the reviewed
+source-density cropped text-filter cache, with a 24-entry/2-million-pixel bound
+and disposal through each painter's existing lifecycle. Exact static-text bounds
+come from the four distinct original binaries, not inferred glyph dimensions:
+`Movies/Wisemen.swf`, `Movies/Wisemen-ru.swf`, `Movies/Wisemen 8.swf`,
+and `Movies/Wisemen 8-ru.swf`. Their hashes and recovered bounds are in
+`wisemen-text-bounds.json` and `wisemen-eight-text-bounds.json`.
+The rewrite replaced 4,272 verified static-text filter blocks without removing
+authored shadows or modifying questions, narration, source frame metadata or gates.
+
+One remaining hotspot is explicit: the Russian eight-person story has 330
+outer shadow placements on `sprite79`, which itself filters `text78`. The current
+shared rewrite deliberately excludes nested filtered wrappers; these outer
+full-stage operations remain unchanged pending separately reviewed support.
+All other Wisemen painters have no remaining authored filter calls outside the
+generic FFDec filter library.
+
+Repeat after raw painter regeneration:
+
+```sh
+node src/modules/logic/optimize-painters.mjs --apply --recover
+```
+
+The family tool verifies source hashes, backs up current painters under
+`.cache/logic-filter-originals/`, checks candidate syntax, compares metadata and
+export names deeply, checks rewrite idempotence and refuses concurrent edits.
+`filter-optimization.json` records before/after hashes and rewrite counts.
+The underlying SWFs and both preservation archives are read-only.
+
+Verification: eight candidate syntax/metadata/export/idempotence checks passed.
+The combined focused logic/magic/quiz run passed 27 tests. No browser automation,
+FPS benchmark, audio listening or pixel-parity claim was made. Main owns
+integrated checks and serialized profiling. Manual acceptance should compare
+text/shadows during both language stories and hints, question stops and restart,
+then exercise Stones' covered/retry/reveal flow unchanged.
+
 Presentation review: all seven source DOMDocuments use `#66ffff`. Recovered
 board/story artwork is displayed with square, unframed edges; coins use an aqua
 stage and Times New Roman labels rather than a generic neutral diagram surface.
@@ -76,15 +186,15 @@ The legacy static extractor does not interpolate tweens or execute AVM3.
 Both Wisemen activities now use native Canvas audiovisual lessons, not the
 previous seven-picture slideshow. Four distinct original language sources are
 preserved: `Wisemen`, `Wisemen-ru`, `Wisemen 8`, and `Wisemen 8-ru`.
-Each has a finite narrative chapter ending exactly at the source question
-(global frame 1097), plus a separately mounted optional hint chapter
-(1098–1140 for three wisemen; 1098–1137 for eight). Generic Play cannot cross
-that question into the hint. The RU eight-person source has 1176 root frames,
+Each has a narrative drawing chapter ending exactly at the source question
+(global frame 1097), followed by an optional hint chapter in the same player
+(1098–1140 for three wisemen; 1098–1137 for eight). Playback waits at the question
+until the user explicitly activates Hint or the transport. The RU eight-person source has 1176 root frames,
 but its source script stops at 1137; the unreachable tail is not published.
 
 `WisemenLesson.tsx` composes `OriginalLessonPlayer` with
 `wisemen-lessons.json`. The shared player owns explicit play/pause, original
-event-audio overlap/envelopes/loops, loading/error recovery, hidden-tab suspension,
+event-audio overlap/envelopes/loops, loading/error recovery, background playback,
 reduced-motion pause, restart and disposal. No visible source frame counters or
 seek controls are added. The explanatory question and optional corrected
 reasoning/simulator appear only after narrative completion; no new source quiz
@@ -126,9 +236,9 @@ offer replay. Static companions, rectangular half-necklace erase masks,
 approximate drag anchoring, and native Canvas playback still require visual review;
 these do not establish full authored-animation parity.
 
-Wisemen story playback stops at the original question; the hint chapter
-is unavailable until the explicit Two-person hint is opened. Closing
-the hint returns to the story. The optional simulator/reasoning check lives
+Wisemen story playback pauses at the original question; the hint chapter
+starts only after explicit continuation and stays in the same player. Restart
+returns to the initial story. The optional simulator/reasoning check lives
 under “Explore the reasoning,” not as a mandatory source quiz. The eight-person
 simulator starts with eight dirty faces; reset restores that configuration and
 restarts the story. The public announcement remains before any washing stops.
@@ -234,9 +344,10 @@ project guidance were also reviewed. No source artifact was changed.
 9. Start Stones, wait for the cover, answer incorrectly then correctly. Verify
    correct reveal/next-board and level-end behavior, reset during each phase,
    untimed practice, image-loading readiness, hidden-tab pause and EN/RU copy.
-10. Browse/play Wisemen up to the question without opening the hint; confirm the
-    hint chapter is not exposed. Open/close the hint, use optional reasoning,
-    and reset after playback, hints and simulator changes.
+10. Play Wisemen up to the question without activating Hint; confirm playback
+    waits. Activate Hint and confirm it continues in the same player with the
+    same sound preference. Use optional reasoning, then restart after playback,
+    hints and simulator changes.
 11. Enable toy sound, complete/retry/reset stages, and listen for the original
     prompt, move and completion events. Verify hidden tabs and navigation stop
     the recordings. Audio synchronization and drawing fidelity still require

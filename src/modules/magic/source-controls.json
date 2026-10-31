@@ -1,0 +1,40 @@
+[
+  {
+    "family": "magic",
+    "key": "hourglasses:en",
+    "source": "Movies/Twohourglasses.swf",
+    "sourceSha256": "82ed2e4ef486edb4c55d7cbcaf940d1cd6f37c8e275e9d6a5e5324bcaeb15490",
+    "sprite": null,
+    "sourceClass": null,
+    "playbackHotspots": [],
+    "actionHotspots": {
+      "bHint": {
+        "sourceArtwork": true,
+        "x": 409.1,
+        "y": 347.7,
+        "width": 128.95,
+        "height": 43.85
+      }
+    },
+    "navigationMenus": []
+  },
+  {
+    "family": "magic",
+    "key": "hourglasses:ru",
+    "source": "Movies/Twohourglasses-ru.swf",
+    "sourceSha256": "a20559b143e52b493405ba2a11e767f095691eb4b4be5192f4b825529c918f19",
+    "sprite": null,
+    "sourceClass": null,
+    "playbackHotspots": [],
+    "actionHotspots": {
+      "bHint": {
+        "sourceArtwork": true,
+        "x": 409.1,
+        "y": 347.7,
+        "width": 128.95,
+        "height": 43.85
+      }
+    },
+    "navigationMenus": []
+  }
+]

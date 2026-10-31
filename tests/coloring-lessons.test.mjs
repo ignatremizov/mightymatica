@@ -48,6 +48,18 @@ test("cube quarter-turn narration retains the complete chained Timer hold", asyn
   }
 });
 
+test("plane source Play controls never remain active at the gated Hint question", async () => {
+  const controls = await recovery("source-controls");
+  assert.equal(controls.length, 8, "all four plane lessons in both source languages");
+  for (const source of controls) {
+    assert.ok(source.playbackHotspots.length);
+    assert.ok(source.playbackHotspots.every(hit => hit.firstFrame === 1 && hit.lastFrame < 26),
+      `${source.key}: source Play must not become a second route into the proof`);
+    assert.equal(source.actionHotspots.bHint.sourceArtwork, true,
+      `${source.key}: the existing Hint action owns the painted button`);
+  }
+});
+
 test("every coloring soundtrack is the exact recovered payload and every button cue has an asset", async () => {
   const sources = [
     ["cube-audio-en", 36], ["cube-audio-ru", 36],

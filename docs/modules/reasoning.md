@@ -1,5 +1,233 @@
 # Visual reasoning restoration
 
+## Original painted playback controls (2026-10-31)
+
+The hand-counting lesson's painted Play button now starts playback. The same
+missing hit targets were restored for the other source `pp` controls, including
+both Paradox Box transport variants in Russian. Source Play/Pause sprites now
+reflect transport state instead of alternating with animation time.
+Burning house and Turtles retain their initial explicit Play stops; those
+buttons and all three source Hint stops have transparent semantic hit targets.
+
+Source hashes, exact authored spans and nested Hit-state matrices are recovered
+by `scripts/recover-reasoning-logic-controls.py` into `source-controls.json`.
+Only the 16 painters with reviewed two-state controls receive the mechanical
+playback patch; other artwork, existing filter caches, narration and frame
+metadata remain unchanged. Source and native question branches remain separate:
+painted transport cannot leave the current bounded branch or bypass an answer.
+The toolbar remains an alternative control path.
+
+Regeneration reapplies `reasoning-logic-playback-control.mjs --apply reasoning`
+after existing optimizations. Original painters are backed up under
+`.cache/source-controls-originals/`. The Calculus XML reader's optional extra
+button support preserves byte-equivalent default Calculus recovery output.
+
+Manual checks: original Play/Pause and keyboard focus in both languages,
+question/wrong/retry/correct branches, all three hints, restart and background
+audio. Recovery, syntax and control-state tests do not establish browser pixel
+alignment or listening fidelity.
+
+Final integrated checks passed: TypeScript, 264 tests with one opt-in diagnostic
+skipped, and the production build/native-loading gates. The updated local preview
+entry, bundles and changed painters match their build hashes over localhost and
+Tailscale. No browser automation, publication or listening verification was done.
+
+## Tram animated-shadow fix (2026-10-31)
+
+Both speakers' original shadows were still filtering the full display-resolution
+stage on every frame. `optimize-tram.mjs --apply` now crops those effects to the
+source-verified character bounds while keeping their independent animation clocks.
+It covers all five original character sequences per locale: one 50-frame sequence
+and four 49-frame sequences, with 2,742 root shadow placements in each source.
+
+The bounded proof is shared with Earth-and-belt, through separate source-specific
+adapters. It unions every pose with the original SWF ShapeBounds, quadratic
+control hulls and conservative round NORMAL stroke expansion. Tram's original
+fractional 0.4-width strokes are included. Unknown children, masks, effects,
+blends, loop lengths and unsupported root transforms are rejected. Embedded
+bitmap fills retain the previously verified immutable decoded-image lifetime.
+
+Every frame, ratio and time argument is forwarded unchanged and included in
+cache identity. This does not freeze the speakers, alter dialogue pacing or
+change question/wrong/retry/correct routes or audio. Each renderer owns one
+additional four-entry / 262,144-pixel cache, disposed before image cleanup.
+Filtered layers use the established authored-density policy, not an assertion
+of exact full-DPR pixel equivalence.
+
+All 108 English and 100 Russian original artwork functions—including text,
+fonts, buttons, shapes, images and sprites—remain byte-identical to their
+immediate pre-fix versions. The generated optimization record retains exact
+source hashes, all pose bounds and before/after painter hashes; originals are
+in `.cache/tram-animated-originals/`. Recovery reapplies the fix after static and
+nested-text optimization.
+
+[The focused diagnostic](../reviews/tram-animation-performance.json) compares
+twelve consecutive fresh-clock frames at 1520 × 1105 using actual filter
+arithmetic and inert vector/image I/O. Median redraw costs changed from
+492.685 to 5.002 ms (EN) and 470.956 to 4.465 ms (RU); full-stage reads changed
+from 120 to zero per window. A first uncached draw still reached about 54–55 ms.
+These are not browser FPS, rasterization, listening or pixel-parity measurements.
+The older collection-wide report used 550 × 400 for Tram and is historical.
+
+Checks: 23 focused cache/Earth/Tram tests passed; both full 1,371-frame sources
+executed through the tiny inert Canvas; syntax, metadata/export preservation,
+artwork equality and repeat-idempotence passed. Independent read-only review
+found no concrete regression. Manual acceptance still needs both languages'
+introductory dialogue, animated limbs/heads/shadows, answer/retry branches,
+Pause/Restart and background audio. Hard-refresh to load changed native modules.
+
+Final integration: TypeScript and the production build/loading checks passed.
+The complete test run passed 253 tests, with one opt-in diagnostic skipped.
+Both Tram and Earth optimizers revalidated their existing results without
+changes. Only the two built Tram modules were refreshed in the composed local
+preview; their localhost and Tailscale responses match the final hashes.
+Both application entry files and preview services are unchanged. Nothing was
+committed, pushed or published; a later release must refresh the corresponding
+source package for the changed drawing modules and shared proof tooling.
+
+## Source-bound embedded-bitmap follow-up (2026-10-31)
+
+This supersedes Hunter's bitmap exclusion in the earlier static review. The
+shared patcher now accepts only its exact closed source grammar: literal
+clip path, balanced save/clip/restore, two constant transforms, immutable
+embedded image decoded before renderer return, repeated pattern and fixed
+fill rectangle. Both original binaries verify `shape28` bounds
+`[0,0,1660,1643]`. Raw image helpers must match the same grammar; image aliases,
+mutation, unknown escape paths, external/undecoded images and arbitrary clips
+remain rejected.
+
+The static family pass adds 1,220 cached outer shadow blocks per Hunter locale.
+It also adds 256 cached outer glow blocks per Paradox locale: `sprite193` wraps
+`shape177`, whose binary bounds are `[0,0,1180,760]`. That leaf matches the same
+closed bitmap grammar, with a literal rectangular clip, constant 20× image
+transform and constant image-edge correction. No broader helper was needed.
+Existing nested patches remain intact, and the nested optimizer was not rerun.
+Stroked shapes and animated Tram artwork remain excluded. No teaching sequence,
+audio, question gate or effect parameter changed. Hashed backups, source
+verification, candidate syntax, deep metadata/export comparisons, concurrency
+and immediate repeat-idempotence guards apply. Main owns final profiling;
+this follow-up does not claim browser FPS, pixel parity or audio verification.
+
+## Source-bound static-composite follow-up (2026-10-31)
+
+Reviewed all 22 mapped painters after the text-only pass, covering all ten direct
+lessons and all nine Paradox selections. New `drawing-bounds-<key>.json` evidence
+was recovered from each original binary using the reviewed static shape/text
+importer. Source hashes match both `native-timelines.json` and the preserved
+text-only evidence; every shared text rectangle is checked for equality.
+
+`node src/modules/reasoning/optimize-static-painters.mjs --recover` recovers this
+evidence and the banknote evidence without executing drawing code. `--apply`
+checks the existing painters; `--verify` repeats the check without writing.
+The family guard excludes **all stroked shape leaves**, avoiding any assumption
+that a transformed ShapeBounds encloses arbitrary anisotropically scaled strokes.
+Only the shared helper's reviewed solid-vector/placement-only grammar can qualify.
+New changes, if eligible on regeneration, require hashed backups, candidate syntax,
+deep-equal metadata/exports, idempotence and a concurrent-edit hash guard.
+
+This review found **zero additional eligible static groups** and changed no media
+bytes. Hunter's `shape28`, wrapped by `sprite29`, is clipped bitmap-pattern artwork
+using image color transformation and Canvas transforms, not a plain solid vector.
+It is deliberately rejected. Animated Tram artwork, stroke-bearing shapes and
+nested-filter wrappers are also outside this pass; no authored effect was removed.
+`static-filter-optimization.json` records all 22 before/after hashes, zero added
+groups and per-painter excluded stroke symbols. Nested-filter work is a separate
+coordinated follow-up and may supersede residual counts in the earlier review.
+
+`export-native.mjs` now runs static evidence recovery/application after its existing
+text optimization. It does not add nested-filter support. Shared cache/importer
+tests passed 14/14 and focused reasoning rule/audio/gate tests passed 11/11.
+All 24 mapped static checks repeated with zero changes; both new/updated scripts
+passed syntax checks. No recovery export, browser, dense benchmark or build ran.
+
+## Nested static-text follow-up (2026-10-31)
+
+The subsequently reviewed one-frame, single-text-child rewrite now removes the
+outer nested-text filter limitation described below. It fuses 118 Snail blocks,
+109 Tram blocks and 490 Paradox blocks per locale. Qualified wrappers are
+Snail `sprite31`, Tram EN `sprite79` / RU `sprite71`, and Paradox `sprite240`.
+Their inner filtered text is painted directly with the composed placement,
+then filtered in original inner-before-outer order at source density. The
+original wrapper functions and existing static/shape caches remain unchanged.
+
+Animated Tram artwork and Paradox's non-text chocolate glow are not flattened;
+Hunter's bitmap-derived artwork also remains unchanged. No filters are removed,
+and question gates, hints, audio, timings and all nine Paradox crops are retained.
+This follows the approved source-density policy, not universal exact parity
+with the earlier mixed-density DPR>1 path.
+
+See [the nested-filter review](../reviews/nested-filter-optimization.md) and
+its JSON companion for source hashes, actual-source leaf bounds verification,
+wrapper counts, baseline backups, result hashes, reproduction and checks.
+Four focused nested-filter tests pass, including tiny actual-filter arithmetic
+probes for order, transparent intermediate composition, stage edges and
+fractional placement. Browser/font pixel parity, FPS and listening were not
+verified; no dense benchmark or integrated build was run by this pass.
+
+## Source-text filter performance pass (2026-10-31)
+
+Reviewed all 19 activities and all 22 English/Russian native painters. The ten
+direct lessons are burninghouse, grandma, hunter, snail, staruhi, tram, turtles,
+wine, bacteria and hand. The nine Paradox selections remain triangle, egg-eight,
+area-two, area-four, chocolate, gnomes, eggs-nine-ten, people and equality;
+they share the two Paradox painters and retain their existing scene bounds.
+
+Recovered exact static DefineText bounds from each of the 22 preserved source
+SWFs, with SHA-256 matching `native-timelines.json`. The bounds live in
+`src/modules/reasoning/text-bounds-*.json`; reproduce them and the two banknote
+bounds with `node src/modules/reasoning/recover-text-bounds.mjs`. This reads
+source data only and never executes ActionScript or regenerates artwork.
+
+Applied the reviewed source-density, bounded static-text filter cache directly
+to 20 existing minified painters. It retains the original text vectors, authored
+shadow/glow parameters, placement matrices and color transforms. Each timeline
+owns its cache and disposes it with the renderer. No question, hint, narration,
+timing, crop, playback or React component changed.
+
+| Painter | Cached filter groups EN / RU |
+| --- | --- |
+| Paradox (all nine selections) | 2483 / 2483 |
+| Burninghouse | 572 / 572 |
+| Grandma | 1679 / 1679 |
+| Hunter | 2925 / 3036 |
+| Snail | 177 / 177 |
+| Staruhi | 1114 / 281 |
+| Tram | 1918 / 1237 |
+| Turtles | unchanged / unchanged |
+| Wine and milk | 2480 / 2480 |
+| Bacteria | 512 / 506 |
+| Hand | 430 / 430 |
+
+The 27,171 groups are generated source locations, not simultaneous per-frame
+operations. Turtles has no authored filter placements: its eight filter calls
+are internal filter-library implementations, so neither painter changed.
+
+`node src/modules/reasoning/optimize-painters.mjs --apply` reproduces the rewrite
+for this family and dissections. It verifies source hashes, makes content-hashed
+family-owned backups before replacement, checks candidate syntax, deep-compares
+metadata and exports, checks idempotence, and refuses concurrent painter edits.
+`filter-optimization.json` records each original backup and before/after hashes.
+`--verify` checks current source evidence and idempotence without writing.
+
+Remaining original full-canvas filter sites are deliberately retained. Per
+locale, Hunter has 1220 shadows on shape wrapper `sprite29`; Paradox has 256
+glows on shape wrapper `sprite193` and 490 outer shadows on `sprite240`; Snail
+has 118 outer shadows on `sprite31`; Tram has 2851 shadows across
+`sprite17/45/57/59/71/79`. The first five Tram wrappers contain 49/50-frame
+animated artwork. `sprite79`, Snail's `sprite31` and Paradox's `sprite240`
+contain static text with an already cached inner filter; safely flattening their
+outer filters requires separately reviewed nested-filter support. No authored
+shadows were removed and no vector/animated artwork was flattened.
+
+Validation: all 20 replacements passed syntax, metadata/export and idempotence
+checks; the unchanged Turtles variants passed the explicit no-placement check.
+The three focused reasoning test files passed all 11 tests. No browser, server,
+full suite, integrated compiler/build, full-density baseline benchmark, audio
+listening, pixel-parity or FPS verification was performed. Useful manual checks
+are all seven question → wrong → retry → solution paths, all three hint holds,
+all nine Paradox crops, and bilingual text/shadows during playback and replay.
+Actual-filter CPU/pixel probes are coordinated separately by Main.
+
 ## Interactive source-audio extension (2026-10-30)
 
 The current primary experience for all 19 activities is now a native interactive

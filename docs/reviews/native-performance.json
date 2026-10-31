@@ -1,0 +1,2682 @@
+{
+  "version": 1,
+  "baselineCommit": "382efbdd72a6a62540abcaeadd662ec70113f2fd",
+  "probeSha256": "f6a77cf1bfffa10bfa2e44abb630aad78e259f5ac21cf34cf3d5eaf3fd024760",
+  "complete": true,
+  "method": "Serialized actual drawing/filter JavaScript, real transparent pixel arrays and inert Canvas vector/image boundaries. Not browser FPS, audio or pixel fidelity.",
+  "width": 1520,
+  "height": 1105,
+  "samples": [
+    {
+      "family": "triangles",
+      "label": "Pythagoras EN",
+      "module": "triangles/native/pythagoras/en/chapter-1.mjs",
+      "frames": [
+        2194,
+        2218
+      ],
+      "beforeSha256": "39e2f430a640393e6694c69983e856efd83905be2ef0083c33823db603756ff0",
+      "afterSha256": "6e8251f81821f8f1d9731ce66fab36d3e311846e1b9b580d1f45d796cbc20b55",
+      "before": {
+        "module": ".cache/native-performance-baselines/39e2f430a640393e6694c69983e856efd83905be2ef0083c33823db603756ff0.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 2,
+        "totalMilliseconds": 3672.56,
+        "warmMedianMilliseconds": 702.588,
+        "warmMaxMilliseconds": 706.685,
+        "warmFullCanvasReads": 50,
+        "warmReadPixels": 83980000,
+        "samples": [
+          {
+            "frame": 2194,
+            "repeat": 0,
+            "milliseconds": 846.478,
+            "canvases": 15,
+            "calls": 5699,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          },
+          {
+            "frame": 2194,
+            "repeat": 1,
+            "milliseconds": 706.685,
+            "canvases": 15,
+            "calls": 5699,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          },
+          {
+            "frame": 2194,
+            "repeat": 2,
+            "milliseconds": 702.588,
+            "canvases": 15,
+            "calls": 5699,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          },
+          {
+            "frame": 2218,
+            "repeat": 0,
+            "milliseconds": 471.145,
+            "canvases": 10,
+            "calls": 5746,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 2218,
+            "repeat": 1,
+            "milliseconds": 471.985,
+            "canvases": 10,
+            "calls": 5746,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 2218,
+            "repeat": 2,
+            "milliseconds": 473.606,
+            "canvases": 10,
+            "calls": 5746,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/triangles/native/pythagoras/en/chapter-1.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 2,
+        "totalMilliseconds": 133.97,
+        "warmMedianMilliseconds": 0.501,
+        "warmMaxMilliseconds": 0.581,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 2194,
+            "repeat": 0,
+            "milliseconds": 117.142,
+            "canvases": 15,
+            "calls": 5699,
+            "reads": 15,
+            "readPixels": 89455,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2194,
+            "repeat": 1,
+            "milliseconds": 0.581,
+            "canvases": 0,
+            "calls": 2423,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2194,
+            "repeat": 2,
+            "milliseconds": 0.501,
+            "canvases": 0,
+            "calls": 2423,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2218,
+            "repeat": 0,
+            "milliseconds": 15.177,
+            "canvases": 10,
+            "calls": 5746,
+            "reads": 10,
+            "readPixels": 606310,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2218,
+            "repeat": 1,
+            "milliseconds": 0.32,
+            "canvases": 0,
+            "calls": 2579,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2218,
+            "repeat": 2,
+            "milliseconds": 0.198,
+            "canvases": 0,
+            "calls": 2579,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "triangles",
+      "label": "Pythagoras RU",
+      "module": "triangles/native/pythagoras/ru/chapter-1.mjs",
+      "frames": [
+        2194,
+        2391
+      ],
+      "beforeSha256": "b9b44eac6b4d65126777ae9820ea9604af9c39a17b40c0cb0a8cd41577e25b42",
+      "afterSha256": "73c4ba4c711fb3689cef3c9e372d6f460b1aa82d724c62a43c5985fa5f59c7e4",
+      "before": {
+        "module": ".cache/native-performance-baselines/b9b44eac6b4d65126777ae9820ea9604af9c39a17b40c0cb0a8cd41577e25b42.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 2,
+        "totalMilliseconds": 3641.29,
+        "warmMedianMilliseconds": 674.311,
+        "warmMaxMilliseconds": 686.186,
+        "warmFullCanvasReads": 50,
+        "warmReadPixels": 83980000,
+        "samples": [
+          {
+            "frame": 2194,
+            "repeat": 0,
+            "milliseconds": 839.75,
+            "canvases": 15,
+            "calls": 6069,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          },
+          {
+            "frame": 2194,
+            "repeat": 1,
+            "milliseconds": 686.186,
+            "canvases": 15,
+            "calls": 6069,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          },
+          {
+            "frame": 2194,
+            "repeat": 2,
+            "milliseconds": 674.311,
+            "canvases": 15,
+            "calls": 6069,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          },
+          {
+            "frame": 2391,
+            "repeat": 0,
+            "milliseconds": 460.469,
+            "canvases": 10,
+            "calls": 5708,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 2391,
+            "repeat": 1,
+            "milliseconds": 458.036,
+            "canvases": 10,
+            "calls": 5708,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 2391,
+            "repeat": 2,
+            "milliseconds": 522.463,
+            "canvases": 10,
+            "calls": 5708,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/triangles/native/pythagoras/ru/chapter-1.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 2,
+        "totalMilliseconds": 104.85,
+        "warmMedianMilliseconds": 0.501,
+        "warmMaxMilliseconds": 0.53,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 2194,
+            "repeat": 0,
+            "milliseconds": 89.666,
+            "canvases": 15,
+            "calls": 6069,
+            "reads": 15,
+            "readPixels": 82105,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2194,
+            "repeat": 1,
+            "milliseconds": 0.53,
+            "canvases": 0,
+            "calls": 2349,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2194,
+            "repeat": 2,
+            "milliseconds": 0.501,
+            "canvases": 0,
+            "calls": 2349,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2391,
+            "repeat": 0,
+            "milliseconds": 13.538,
+            "canvases": 10,
+            "calls": 5708,
+            "reads": 10,
+            "readPixels": 542925,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2391,
+            "repeat": 1,
+            "milliseconds": 0.357,
+            "canvases": 0,
+            "calls": 2497,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2391,
+            "repeat": 2,
+            "milliseconds": 0.221,
+            "canvases": 0,
+            "calls": 2497,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "calculus",
+      "label": "Calculus question",
+      "module": "calculus/native/en/chapter-1.mjs",
+      "frames": [
+        1568
+      ],
+      "beforeSha256": "464913b86b6bbf733388d235e9854cfcfd2e9adc5d2c2afbbfcb31866f5b7b50",
+      "afterSha256": "464913b86b6bbf733388d235e9854cfcfd2e9adc5d2c2afbbfcb31866f5b7b50",
+      "before": {
+        "module": ".cache/native-performance-baselines/464913b86b6bbf733388d235e9854cfcfd2e9adc5d2c2afbbfcb31866f5b7b50.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 26.33,
+        "warmMedianMilliseconds": 1.053,
+        "warmMaxMilliseconds": 1.053,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 1568,
+            "repeat": 0,
+            "milliseconds": 24.544,
+            "canvases": 30,
+            "calls": 8027,
+            "reads": 30,
+            "readPixels": 715520,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 1568,
+            "repeat": 1,
+            "milliseconds": 1.053,
+            "canvases": 0,
+            "calls": 5284,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 1568,
+            "repeat": 2,
+            "milliseconds": 0.712,
+            "canvases": 0,
+            "calls": 5284,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/calculus/native/en/chapter-1.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 22.03,
+        "warmMedianMilliseconds": 1.119,
+        "warmMaxMilliseconds": 1.119,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 1568,
+            "repeat": 0,
+            "milliseconds": 20.048,
+            "canvases": 30,
+            "calls": 8027,
+            "reads": 30,
+            "readPixels": 715520,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 1568,
+            "repeat": 1,
+            "milliseconds": 1.119,
+            "canvases": 0,
+            "calls": 5284,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 1568,
+            "repeat": 2,
+            "milliseconds": 0.838,
+            "canvases": 0,
+            "calls": 5284,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "algebra",
+      "label": "Quadratic formula",
+      "module": "algebra/native/quadratic/timeline.mjs",
+      "frames": [
+        2421
+      ],
+      "beforeSha256": "e2e745579ffb3c8f9cda11d622239ef23be5c856cfb987eaf25c94cc79299eea",
+      "afterSha256": "47ab2349393cceca18ddda91f69537a4cf06133c607727b96aa5d32ad3d0dfb8",
+      "before": {
+        "module": ".cache/native-performance-baselines/e2e745579ffb3c8f9cda11d622239ef23be5c856cfb987eaf25c94cc79299eea.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 925.92,
+        "warmMedianMilliseconds": 228.424,
+        "warmMaxMilliseconds": 228.424,
+        "warmFullCanvasReads": 10,
+        "warmReadPixels": 16796000,
+        "samples": [
+          {
+            "frame": 2421,
+            "repeat": 0,
+            "milliseconds": 471.626,
+            "canvases": 5,
+            "calls": 3076,
+            "reads": 5,
+            "readPixels": 8398000,
+            "fullCanvasReads": 5
+          },
+          {
+            "frame": 2421,
+            "repeat": 1,
+            "milliseconds": 225.818,
+            "canvases": 5,
+            "calls": 3076,
+            "reads": 5,
+            "readPixels": 8398000,
+            "fullCanvasReads": 5
+          },
+          {
+            "frame": 2421,
+            "repeat": 2,
+            "milliseconds": 228.424,
+            "canvases": 5,
+            "calls": 3076,
+            "reads": 5,
+            "readPixels": 8398000,
+            "fullCanvasReads": 5
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/algebra/native/quadratic/timeline.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 185.61,
+        "warmMedianMilliseconds": 0.703,
+        "warmMaxMilliseconds": 0.703,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 2421,
+            "repeat": 0,
+            "milliseconds": 184.272,
+            "canvases": 5,
+            "calls": 3076,
+            "reads": 5,
+            "readPixels": 134100,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2421,
+            "repeat": 1,
+            "milliseconds": 0.703,
+            "canvases": 0,
+            "calls": 2541,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2421,
+            "repeat": 2,
+            "milliseconds": 0.613,
+            "canvases": 0,
+            "calls": 2541,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "measurement",
+      "label": "Area",
+      "module": "measurement/native/area/en/timeline.mjs",
+      "frames": [
+        2361
+      ],
+      "beforeSha256": "a42d463be67858baed1e1052b55452d4d0cf5c0a036af29558eff615183520d5",
+      "afterSha256": "ed303de0fff713d2314df3081946578b3e6d7a54d0c97d65b278fd67ec1cbf16",
+      "before": {
+        "module": ".cache/native-performance-baselines/a42d463be67858baed1e1052b55452d4d0cf5c0a036af29558eff615183520d5.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 4393.57,
+        "warmMedianMilliseconds": 1392.462,
+        "warmMaxMilliseconds": 1392.462,
+        "warmFullCanvasReads": 60,
+        "warmReadPixels": 100776000,
+        "samples": [
+          {
+            "frame": 2361,
+            "repeat": 0,
+            "milliseconds": 1630.017,
+            "canvases": 30,
+            "calls": 6166,
+            "reads": 30,
+            "readPixels": 50388000,
+            "fullCanvasReads": 30
+          },
+          {
+            "frame": 2361,
+            "repeat": 1,
+            "milliseconds": 1392.462,
+            "canvases": 30,
+            "calls": 6166,
+            "reads": 30,
+            "readPixels": 50388000,
+            "fullCanvasReads": 30
+          },
+          {
+            "frame": 2361,
+            "repeat": 2,
+            "milliseconds": 1371.044,
+            "canvases": 30,
+            "calls": 6166,
+            "reads": 30,
+            "readPixels": 50388000,
+            "fullCanvasReads": 30
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/measurement/native/area/en/timeline.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 86.63,
+        "warmMedianMilliseconds": 0.288,
+        "warmMaxMilliseconds": 0.288,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 2361,
+            "repeat": 0,
+            "milliseconds": 86.156,
+            "canvases": 30,
+            "calls": 6166,
+            "reads": 30,
+            "readPixels": 1170950,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2361,
+            "repeat": 1,
+            "milliseconds": 0.288,
+            "canvases": 0,
+            "calls": 601,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2361,
+            "repeat": 2,
+            "milliseconds": 0.167,
+            "canvases": 0,
+            "calls": 601,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "measurement",
+      "label": "Polygon",
+      "module": "measurement/native/polygon/en/timeline.mjs",
+      "frames": [
+        705
+      ],
+      "beforeSha256": "8d917a7dc5c8a041cadc136658b437b7947a175454dc503d4a5058178d1a7d20",
+      "afterSha256": "8fead82cb54db60fc0dec4a05e5d338a3e5b987d320fa0e6d51e97945dc4de54",
+      "before": {
+        "module": ".cache/native-performance-baselines/8d917a7dc5c8a041cadc136658b437b7947a175454dc503d4a5058178d1a7d20.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 2311.37,
+        "warmMedianMilliseconds": 743.928,
+        "warmMaxMilliseconds": 743.928,
+        "warmFullCanvasReads": 30,
+        "warmReadPixels": 50388000,
+        "samples": [
+          {
+            "frame": 705,
+            "repeat": 0,
+            "milliseconds": 845.384,
+            "canvases": 15,
+            "calls": 4943,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          },
+          {
+            "frame": 705,
+            "repeat": 1,
+            "milliseconds": 722.018,
+            "canvases": 15,
+            "calls": 4943,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          },
+          {
+            "frame": 705,
+            "repeat": 2,
+            "milliseconds": 743.928,
+            "canvases": 15,
+            "calls": 4943,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/measurement/native/polygon/en/timeline.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 54.73,
+        "warmMedianMilliseconds": 0.527,
+        "warmMaxMilliseconds": 0.527,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 705,
+            "repeat": 0,
+            "milliseconds": 53.657,
+            "canvases": 15,
+            "calls": 4943,
+            "reads": 15,
+            "readPixels": 426050,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 705,
+            "repeat": 1,
+            "milliseconds": 0.527,
+            "canvases": 0,
+            "calls": 2715,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 705,
+            "repeat": 2,
+            "milliseconds": 0.521,
+            "canvases": 0,
+            "calls": 2715,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "measurement",
+      "label": "Circle",
+      "module": "measurement/native/circle/en/timeline.mjs",
+      "frames": [
+        1604
+      ],
+      "beforeSha256": "e24cdea120d58f9cc36b1e9b8d9e7b32f48367e03f38954973f665f7f99d9dab",
+      "afterSha256": "ab760950f34447fdab7e7706285d463adbc47d5741b6e32d9c726579fa7cbc74",
+      "before": {
+        "module": ".cache/native-performance-baselines/e24cdea120d58f9cc36b1e9b8d9e7b32f48367e03f38954973f665f7f99d9dab.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 1588.58,
+        "warmMedianMilliseconds": 503.29,
+        "warmMaxMilliseconds": 503.29,
+        "warmFullCanvasReads": 20,
+        "warmReadPixels": 33592000,
+        "samples": [
+          {
+            "frame": 1604,
+            "repeat": 0,
+            "milliseconds": 611.285,
+            "canvases": 10,
+            "calls": 3176,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 1604,
+            "repeat": 1,
+            "milliseconds": 503.29,
+            "canvases": 10,
+            "calls": 3176,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 1604,
+            "repeat": 2,
+            "milliseconds": 473.968,
+            "canvases": 10,
+            "calls": 3176,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/measurement/native/circle/en/timeline.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 90.21,
+        "warmMedianMilliseconds": 0.573,
+        "warmMaxMilliseconds": 0.573,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 1604,
+            "repeat": 0,
+            "milliseconds": 89.138,
+            "canvases": 10,
+            "calls": 3176,
+            "reads": 10,
+            "readPixels": 360360,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 1604,
+            "repeat": 1,
+            "milliseconds": 0.573,
+            "canvases": 0,
+            "calls": 2444,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 1604,
+            "repeat": 2,
+            "milliseconds": 0.483,
+            "canvases": 0,
+            "calls": 2444,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "solids",
+      "label": "Sphere proof",
+      "module": "solids/sphere-lesson/en/proof.mjs",
+      "frames": [
+        1383
+      ],
+      "beforeSha256": "d6263aef921cf8417159fc8e75e33c1b6a821cd6691775817633c668ea01cda3",
+      "afterSha256": "78db8566d343f768b68fa5eae241e761ab823f565bf61ed4e5a376bd12bf8986",
+      "before": {
+        "module": ".cache/native-performance-baselines/d6263aef921cf8417159fc8e75e33c1b6a821cd6691775817633c668ea01cda3.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 2746.5,
+        "warmMedianMilliseconds": 875.642,
+        "warmMaxMilliseconds": 875.642,
+        "warmFullCanvasReads": 30,
+        "warmReadPixels": 50388000,
+        "samples": [
+          {
+            "frame": 1383,
+            "repeat": 0,
+            "milliseconds": 1020.696,
+            "canvases": 15,
+            "calls": 884,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          },
+          {
+            "frame": 1383,
+            "repeat": 1,
+            "milliseconds": 875.642,
+            "canvases": 15,
+            "calls": 884,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          },
+          {
+            "frame": 1383,
+            "repeat": 2,
+            "milliseconds": 850.121,
+            "canvases": 15,
+            "calls": 884,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/solids/sphere-lesson/en/proof.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 90.75,
+        "warmMedianMilliseconds": 0.348,
+        "warmMaxMilliseconds": 0.348,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 1383,
+            "repeat": 0,
+            "milliseconds": 90.039,
+            "canvases": 15,
+            "calls": 884,
+            "reads": 15,
+            "readPixels": 18840,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 1383,
+            "repeat": 1,
+            "milliseconds": 0.348,
+            "canvases": 0,
+            "calls": 644,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 1383,
+            "repeat": 2,
+            "milliseconds": 0.343,
+            "canvases": 0,
+            "calls": 644,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "solids",
+      "label": "Sphere examples",
+      "module": "solids/sphere-lesson/en/examples.mjs",
+      "frames": [
+        3991
+      ],
+      "beforeSha256": "d941e657772a44050e89ace11b91732015711af44c3bd81bf5a9833389dafa98",
+      "afterSha256": "de5ba04aa095f639de8ab09c0957a4fb14dacc2bc1f04bde705eb0693c6220c2",
+      "before": {
+        "module": ".cache/native-performance-baselines/d941e657772a44050e89ace11b91732015711af44c3bd81bf5a9833389dafa98.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 3725.66,
+        "warmMedianMilliseconds": 1224.008,
+        "warmMaxMilliseconds": 1224.008,
+        "warmFullCanvasReads": 50,
+        "warmReadPixels": 83980004,
+        "samples": [
+          {
+            "frame": 3991,
+            "repeat": 0,
+            "milliseconds": 1314.906,
+            "canvases": 27,
+            "calls": 1756,
+            "reads": 27,
+            "readPixels": 41990002,
+            "fullCanvasReads": 25
+          },
+          {
+            "frame": 3991,
+            "repeat": 1,
+            "milliseconds": 1186.703,
+            "canvases": 27,
+            "calls": 1756,
+            "reads": 27,
+            "readPixels": 41990002,
+            "fullCanvasReads": 25
+          },
+          {
+            "frame": 3991,
+            "repeat": 2,
+            "milliseconds": 1224.008,
+            "canvases": 27,
+            "calls": 1756,
+            "reads": 27,
+            "readPixels": 41990002,
+            "fullCanvasReads": 25
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/solids/sphere-lesson/en/examples.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 49.59,
+        "warmMedianMilliseconds": 0.207,
+        "warmMaxMilliseconds": 0.207,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 4,
+        "samples": [
+          {
+            "frame": 3991,
+            "repeat": 0,
+            "milliseconds": 49.237,
+            "canvases": 27,
+            "calls": 1756,
+            "reads": 27,
+            "readPixels": 359132,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 3991,
+            "repeat": 1,
+            "milliseconds": 0.207,
+            "canvases": 2,
+            "calls": 177,
+            "reads": 2,
+            "readPixels": 2,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 3991,
+            "repeat": 2,
+            "milliseconds": 0.127,
+            "canvases": 2,
+            "calls": 177,
+            "reads": 2,
+            "readPixels": 2,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "solids",
+      "label": "Sphere ending",
+      "module": "solids/sphere-lesson/en/ending.mjs",
+      "frames": [
+        4888
+      ],
+      "beforeSha256": "bad65fc5ebe646863c280d801922d9f310a7af0cd87b911a3a3888c075d5415e",
+      "afterSha256": "1c92e8b2401e0a730347105ad65c1c05c1258afaeb8161cf6037aa9ccf9f41a9",
+      "before": {
+        "module": ".cache/native-performance-baselines/bad65fc5ebe646863c280d801922d9f310a7af0cd87b911a3a3888c075d5415e.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 5450.73,
+        "warmMedianMilliseconds": 1844.017,
+        "warmMaxMilliseconds": 1844.017,
+        "warmFullCanvasReads": 70,
+        "warmReadPixels": 117572000,
+        "samples": [
+          {
+            "frame": 4888,
+            "repeat": 0,
+            "milliseconds": 1832.784,
+            "canvases": 35,
+            "calls": 7736,
+            "reads": 35,
+            "readPixels": 58786000,
+            "fullCanvasReads": 35
+          },
+          {
+            "frame": 4888,
+            "repeat": 1,
+            "milliseconds": 1773.865,
+            "canvases": 35,
+            "calls": 7736,
+            "reads": 35,
+            "readPixels": 58786000,
+            "fullCanvasReads": 35
+          },
+          {
+            "frame": 4888,
+            "repeat": 2,
+            "milliseconds": 1844.017,
+            "canvases": 35,
+            "calls": 7736,
+            "reads": 35,
+            "readPixels": 58786000,
+            "fullCanvasReads": 35
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/solids/sphere-lesson/en/ending.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 64.91,
+        "warmMedianMilliseconds": 0.673,
+        "warmMaxMilliseconds": 0.673,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 4888,
+            "repeat": 0,
+            "milliseconds": 63.632,
+            "canvases": 35,
+            "calls": 7736,
+            "reads": 35,
+            "readPixels": 1128120,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 4888,
+            "repeat": 1,
+            "milliseconds": 0.673,
+            "canvases": 0,
+            "calls": 2693,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 4888,
+            "repeat": 2,
+            "milliseconds": 0.57,
+            "canvases": 0,
+            "calls": 2693,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "coloring",
+      "label": "Cube counting",
+      "module": "coloring/native/cube-en/timeline.mjs",
+      "frames": [
+        91
+      ],
+      "beforeSha256": "f406a9763ee1232abb09d6fad1d0cd63faa85661f64df811a16e2035a216e36d",
+      "afterSha256": "dd77fd3c0d6d9488a3231f849e49dc0c0b454cbf26ade907dea6286c10ab4e37",
+      "before": {
+        "module": ".cache/native-performance-baselines/f406a9763ee1232abb09d6fad1d0cd63faa85661f64df811a16e2035a216e36d.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 826.78,
+        "warmMedianMilliseconds": 268.522,
+        "warmMaxMilliseconds": 268.522,
+        "warmFullCanvasReads": 10,
+        "warmReadPixels": 16796000,
+        "samples": [
+          {
+            "frame": 91,
+            "repeat": 0,
+            "milliseconds": 307.783,
+            "canvases": 5,
+            "calls": 864,
+            "reads": 5,
+            "readPixels": 8398000,
+            "fullCanvasReads": 5
+          },
+          {
+            "frame": 91,
+            "repeat": 1,
+            "milliseconds": 250.41,
+            "canvases": 5,
+            "calls": 864,
+            "reads": 5,
+            "readPixels": 8398000,
+            "fullCanvasReads": 5
+          },
+          {
+            "frame": 91,
+            "repeat": 2,
+            "milliseconds": 268.522,
+            "canvases": 5,
+            "calls": 864,
+            "reads": 5,
+            "readPixels": 8398000,
+            "fullCanvasReads": 5
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/coloring/native/cube-en/timeline.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 10.54,
+        "warmMedianMilliseconds": 0.123,
+        "warmMaxMilliseconds": 0.123,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 91,
+            "repeat": 0,
+            "milliseconds": 10.35,
+            "canvases": 5,
+            "calls": 864,
+            "reads": 5,
+            "readPixels": 134015,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 91,
+            "repeat": 1,
+            "milliseconds": 0.123,
+            "canvases": 0,
+            "calls": 51,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 91,
+            "repeat": 2,
+            "milliseconds": 0.048,
+            "canvases": 0,
+            "calls": 51,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "coloring",
+      "label": "Plane proof",
+      "module": "coloring/native/Twocolorplaneseg-en/timeline.mjs",
+      "frames": [
+        321
+      ],
+      "beforeSha256": "5ed63659ddb9f9266ccf6190210a2406ee2d6934217f435a6d4f7a5f0e423b2e",
+      "afterSha256": "f46b10b1058e89d630028aebce68f3af948880f630202ba036f59efdd2f00b5a",
+      "before": {
+        "module": ".cache/native-performance-baselines/5ed63659ddb9f9266ccf6190210a2406ee2d6934217f435a6d4f7a5f0e423b2e.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 1592.81,
+        "warmMedianMilliseconds": 543.574,
+        "warmMaxMilliseconds": 543.574,
+        "warmFullCanvasReads": 20,
+        "warmReadPixels": 33592000,
+        "samples": [
+          {
+            "frame": 321,
+            "repeat": 0,
+            "milliseconds": 552.711,
+            "canvases": 10,
+            "calls": 10664,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 321,
+            "repeat": 1,
+            "milliseconds": 496.489,
+            "canvases": 10,
+            "calls": 10664,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 321,
+            "repeat": 2,
+            "milliseconds": 543.574,
+            "canvases": 10,
+            "calls": 10664,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/coloring/native/Twocolorplaneseg-en/timeline.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 42,
+        "warmMedianMilliseconds": 2.198,
+        "warmMaxMilliseconds": 2.198,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 321,
+            "repeat": 0,
+            "milliseconds": 37.719,
+            "canvases": 10,
+            "calls": 10664,
+            "reads": 10,
+            "readPixels": 444090,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 321,
+            "repeat": 1,
+            "milliseconds": 2.059,
+            "canvases": 0,
+            "calls": 7667,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 321,
+            "repeat": 2,
+            "milliseconds": 2.198,
+            "canvases": 0,
+            "calls": 7667,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "logic",
+      "label": "Eight wisemen RU",
+      "module": "logic/native/wisemen-eight-ru-story.mjs",
+      "frames": [
+        628
+      ],
+      "beforeSha256": "6d413b38a1dadd82954273fa9bc6f8d6c1ceeac9b4cd25962aa69cea99f6a394",
+      "afterSha256": "bece3aa91b85b9273447cb9e01bc4f82d96fbd5035e5b54ca0776ab6862be471",
+      "before": {
+        "module": ".cache/native-performance-baselines/6d413b38a1dadd82954273fa9bc6f8d6c1ceeac9b4cd25962aa69cea99f6a394.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 1626.66,
+        "warmMedianMilliseconds": 539.351,
+        "warmMaxMilliseconds": 539.351,
+        "warmFullCanvasReads": 20,
+        "warmReadPixels": 33592002,
+        "samples": [
+          {
+            "frame": 628,
+            "repeat": 0,
+            "milliseconds": 579.516,
+            "canvases": 11,
+            "calls": 2079,
+            "reads": 11,
+            "readPixels": 16796001,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 628,
+            "repeat": 1,
+            "milliseconds": 539.351,
+            "canvases": 11,
+            "calls": 2079,
+            "reads": 11,
+            "readPixels": 16796001,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 628,
+            "repeat": 2,
+            "milliseconds": 507.751,
+            "canvases": 11,
+            "calls": 2079,
+            "reads": 11,
+            "readPixels": 16796001,
+            "fullCanvasReads": 10
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/logic/native/wisemen-eight-ru-story.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 60.93,
+        "warmMedianMilliseconds": 0.437,
+        "warmMaxMilliseconds": 0.437,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 2,
+        "samples": [
+          {
+            "frame": 628,
+            "repeat": 0,
+            "milliseconds": 60.057,
+            "canvases": 10,
+            "calls": 2078,
+            "reads": 11,
+            "readPixels": 589571,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 628,
+            "repeat": 1,
+            "milliseconds": 0.437,
+            "canvases": 1,
+            "calls": 582,
+            "reads": 1,
+            "readPixels": 1,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 628,
+            "repeat": 2,
+            "milliseconds": 0.405,
+            "canvases": 1,
+            "calls": 582,
+            "reads": 1,
+            "readPixels": 1,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "magic",
+      "label": "1089",
+      "module": "magic/native/subtraction/en/lesson.mjs",
+      "frames": [
+        777
+      ],
+      "beforeSha256": "ef4a9cc572b7636fd520b7869f76f68735225fcbeefd8875d4320ec636bc5c6b",
+      "afterSha256": "c8155b1bd20069500ef4d6287d2f3994cb8bba064e21786d652cd1e717c6ad3b",
+      "before": {
+        "module": ".cache/native-performance-baselines/ef4a9cc572b7636fd520b7869f76f68735225fcbeefd8875d4320ec636bc5c6b.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 44.98,
+        "warmMedianMilliseconds": 0.584,
+        "warmMaxMilliseconds": 0.584,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 777,
+            "repeat": 0,
+            "milliseconds": 43.845,
+            "canvases": 0,
+            "calls": 5092,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 777,
+            "repeat": 1,
+            "milliseconds": 0.584,
+            "canvases": 0,
+            "calls": 5092,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 777,
+            "repeat": 2,
+            "milliseconds": 0.529,
+            "canvases": 0,
+            "calls": 5092,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/magic/native/subtraction/en/lesson.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 43.44,
+        "warmMedianMilliseconds": 0.789,
+        "warmMaxMilliseconds": 0.789,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 777,
+            "repeat": 0,
+            "milliseconds": 41.874,
+            "canvases": 0,
+            "calls": 5092,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 777,
+            "repeat": 1,
+            "milliseconds": 0.752,
+            "canvases": 0,
+            "calls": 5092,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 777,
+            "repeat": 2,
+            "milliseconds": 0.789,
+            "canvases": 0,
+            "calls": 5092,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "kids",
+      "label": "Color sorting",
+      "module": "kids/audio/kids-share-color/lesson.mjs",
+      "frames": [
+        360
+      ],
+      "beforeSha256": "43aebd5f22076c9da3087e2238a2aa294be4f70f718d1b336b216f002a24edf7",
+      "afterSha256": "3f443b271e99361fa579e81db2ec278d3e99ef150b6369edb33a6fa9ca7a09c1",
+      "before": {
+        "module": ".cache/native-performance-baselines/43aebd5f22076c9da3087e2238a2aa294be4f70f718d1b336b216f002a24edf7.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 861.65,
+        "warmMedianMilliseconds": 269.298,
+        "warmMaxMilliseconds": 269.298,
+        "warmFullCanvasReads": 10,
+        "warmReadPixels": 16796002,
+        "samples": [
+          {
+            "frame": 360,
+            "repeat": 0,
+            "milliseconds": 346.266,
+            "canvases": 6,
+            "calls": 1109,
+            "reads": 6,
+            "readPixels": 8398001,
+            "fullCanvasReads": 5
+          },
+          {
+            "frame": 360,
+            "repeat": 1,
+            "milliseconds": 246.036,
+            "canvases": 6,
+            "calls": 1109,
+            "reads": 6,
+            "readPixels": 8398001,
+            "fullCanvasReads": 5
+          },
+          {
+            "frame": 360,
+            "repeat": 2,
+            "milliseconds": 269.298,
+            "canvases": 6,
+            "calls": 1109,
+            "reads": 6,
+            "readPixels": 8398001,
+            "fullCanvasReads": 5
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/kids/audio/kids-share-color/lesson.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 39.87,
+        "warmMedianMilliseconds": 0.305,
+        "warmMaxMilliseconds": 0.305,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 2,
+        "samples": [
+          {
+            "frame": 360,
+            "repeat": 0,
+            "milliseconds": 39.31,
+            "canvases": 6,
+            "calls": 1109,
+            "reads": 6,
+            "readPixels": 425251,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 360,
+            "repeat": 1,
+            "milliseconds": 0.305,
+            "canvases": 1,
+            "calls": 434,
+            "reads": 1,
+            "readPixels": 1,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 360,
+            "repeat": 2,
+            "milliseconds": 0.228,
+            "canvases": 1,
+            "calls": 434,
+            "reads": 1,
+            "readPixels": 1,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "kids",
+      "label": "Missing picture ending",
+      "module": "kids/audio/kids-find-proper/lesson.mjs",
+      "frames": [
+        2150
+      ],
+      "beforeSha256": "cdc4d3bc82e0307a25fa581463cfcf8db183fcd80ee1e914914e1894431864e2",
+      "afterSha256": "4b57afa02586010149ca6abc0a8a13227323e56498cc7169de9c3b1082d0178a",
+      "before": {
+        "module": ".cache/native-performance-baselines/cdc4d3bc82e0307a25fa581463cfcf8db183fcd80ee1e914914e1894431864e2.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 2447.31,
+        "warmMedianMilliseconds": 786.714,
+        "warmMaxMilliseconds": 786.714,
+        "warmFullCanvasReads": 30,
+        "warmReadPixels": 50388000,
+        "samples": [
+          {
+            "frame": 2150,
+            "repeat": 0,
+            "milliseconds": 938.814,
+            "canvases": 15,
+            "calls": 1435,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          },
+          {
+            "frame": 2150,
+            "repeat": 1,
+            "milliseconds": 786.714,
+            "canvases": 15,
+            "calls": 1435,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          },
+          {
+            "frame": 2150,
+            "repeat": 2,
+            "milliseconds": 721.721,
+            "canvases": 15,
+            "calls": 1435,
+            "reads": 15,
+            "readPixels": 25194000,
+            "fullCanvasReads": 15
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/kids/audio/kids-find-proper/lesson.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 57.47,
+        "warmMedianMilliseconds": 0.503,
+        "warmMaxMilliseconds": 0.503,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 2150,
+            "repeat": 0,
+            "milliseconds": 56.577,
+            "canvases": 5,
+            "calls": 1419,
+            "reads": 5,
+            "readPixels": 199410,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2150,
+            "repeat": 1,
+            "milliseconds": 0.503,
+            "canvases": 0,
+            "calls": 1205,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 2150,
+            "repeat": 2,
+            "milliseconds": 0.364,
+            "canvases": 0,
+            "calls": 1205,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "falling",
+      "label": "Falling Figure completion",
+      "module": "falling/audio/falling-figure/completion.mjs",
+      "frames": [
+        170
+      ],
+      "beforeSha256": "bf602dfa046dcc51202e32f164efa66f5b63d72d39e658177c226138890fef6f",
+      "afterSha256": "8bde77204fe0698d8e9920cb94458207b217a8046f4ec9dd1d75cb39a94d7a42",
+      "before": {
+        "module": ".cache/native-performance-baselines/bf602dfa046dcc51202e32f164efa66f5b63d72d39e658177c226138890fef6f.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 2879.37,
+        "warmMedianMilliseconds": 916.504,
+        "warmMaxMilliseconds": 916.504,
+        "warmFullCanvasReads": 40,
+        "warmReadPixels": 67184000,
+        "samples": [
+          {
+            "frame": 170,
+            "repeat": 0,
+            "milliseconds": 1062.156,
+            "canvases": 18,
+            "calls": 1194,
+            "reads": 20,
+            "readPixels": 33592000,
+            "fullCanvasReads": 20
+          },
+          {
+            "frame": 170,
+            "repeat": 1,
+            "milliseconds": 900.651,
+            "canvases": 18,
+            "calls": 1194,
+            "reads": 20,
+            "readPixels": 33592000,
+            "fullCanvasReads": 20
+          },
+          {
+            "frame": 170,
+            "repeat": 2,
+            "milliseconds": 916.504,
+            "canvases": 18,
+            "calls": 1194,
+            "reads": 20,
+            "readPixels": 33592000,
+            "fullCanvasReads": 20
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/falling/audio/falling-figure/completion.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 17,
+        "warmMedianMilliseconds": 0.305,
+        "warmMaxMilliseconds": 0.305,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 170,
+            "repeat": 0,
+            "milliseconds": 16.418,
+            "canvases": 9,
+            "calls": 1179,
+            "reads": 10,
+            "readPixels": 180810,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 170,
+            "repeat": 1,
+            "milliseconds": 0.305,
+            "canvases": 0,
+            "calls": 375,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 170,
+            "repeat": 2,
+            "milliseconds": 0.258,
+            "canvases": 0,
+            "calls": 375,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "motion",
+      "label": "Earth belt",
+      "module": "motion/native/earth-belt/en/frames-1-580.mjs",
+      "frames": [
+        326
+      ],
+      "beforeSha256": "778c56a2082e97672ea4963834fa1ca23c3485392eed8f7aead66c140c4f5511",
+      "afterSha256": "fe09c4be97e54b5bbc9dc696a9f5785f712787c0d816f4e5f07fd09d6b83663f",
+      "before": {
+        "module": ".cache/native-performance-baselines/778c56a2082e97672ea4963834fa1ca23c3485392eed8f7aead66c140c4f5511.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 4575.92,
+        "warmMedianMilliseconds": 1485.879,
+        "warmMaxMilliseconds": 1485.879,
+        "warmFullCanvasReads": 60,
+        "warmReadPixels": 100776016,
+        "samples": [
+          {
+            "frame": 326,
+            "repeat": 0,
+            "milliseconds": 1613.493,
+            "canvases": 36,
+            "calls": 2439,
+            "reads": 38,
+            "readPixels": 50388008,
+            "fullCanvasReads": 30
+          },
+          {
+            "frame": 326,
+            "repeat": 1,
+            "milliseconds": 1476.504,
+            "canvases": 36,
+            "calls": 2439,
+            "reads": 38,
+            "readPixels": 50388008,
+            "fullCanvasReads": 30
+          },
+          {
+            "frame": 326,
+            "repeat": 2,
+            "milliseconds": 1485.879,
+            "canvases": 36,
+            "calls": 2439,
+            "reads": 38,
+            "readPixels": 50388008,
+            "fullCanvasReads": 30
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/motion/native/earth-belt/en/frames-1-580.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 833.19,
+        "warmMedianMilliseconds": 259.849,
+        "warmMaxMilliseconds": 259.849,
+        "warmFullCanvasReads": 10,
+        "warmReadPixels": 16796014,
+        "samples": [
+          {
+            "frame": 326,
+            "repeat": 0,
+            "milliseconds": 330.697,
+            "canvases": 35,
+            "calls": 2438,
+            "reads": 38,
+            "readPixels": 9215518,
+            "fullCanvasReads": 5
+          },
+          {
+            "frame": 326,
+            "repeat": 1,
+            "milliseconds": 242.607,
+            "canvases": 12,
+            "calls": 378,
+            "reads": 12,
+            "readPixels": 8398007,
+            "fullCanvasReads": 5
+          },
+          {
+            "frame": 326,
+            "repeat": 2,
+            "milliseconds": 259.849,
+            "canvases": 12,
+            "calls": 378,
+            "reads": 12,
+            "readPixels": 8398007,
+            "fullCanvasReads": 5
+          }
+        ]
+      }
+    },
+    {
+      "family": "fractals",
+      "label": "Buffon",
+      "module": "fractals/native/buffon/en/frames-1-986.mjs",
+      "frames": [
+        825
+      ],
+      "beforeSha256": "5703d7d995b8cb79197e481a28f0dcc8fa204772d90129f03f6ef1883cc13d2a",
+      "afterSha256": "ccf15cfaa1df82c9b5fe9d0c559c939c5fecf08941f40a2c5b4a3efb5e778fd4",
+      "before": {
+        "module": ".cache/native-performance-baselines/5703d7d995b8cb79197e481a28f0dcc8fa204772d90129f03f6ef1883cc13d2a.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 1633.01,
+        "warmMedianMilliseconds": 530.369,
+        "warmMaxMilliseconds": 530.369,
+        "warmFullCanvasReads": 20,
+        "warmReadPixels": 33592002,
+        "samples": [
+          {
+            "frame": 825,
+            "repeat": 0,
+            "milliseconds": 572.521,
+            "canvases": 11,
+            "calls": 6416,
+            "reads": 11,
+            "readPixels": 16796001,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 825,
+            "repeat": 1,
+            "milliseconds": 530.073,
+            "canvases": 11,
+            "calls": 6416,
+            "reads": 11,
+            "readPixels": 16796001,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 825,
+            "repeat": 2,
+            "milliseconds": 530.369,
+            "canvases": 11,
+            "calls": 6416,
+            "reads": 11,
+            "readPixels": 16796001,
+            "fullCanvasReads": 10
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/fractals/native/buffon/en/frames-1-986.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 34.83,
+        "warmMedianMilliseconds": 0.511,
+        "warmMaxMilliseconds": 0.511,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 2,
+        "samples": [
+          {
+            "frame": 825,
+            "repeat": 0,
+            "milliseconds": 33.88,
+            "canvases": 11,
+            "calls": 6416,
+            "reads": 11,
+            "readPixels": 324591,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 825,
+            "repeat": 1,
+            "milliseconds": 0.511,
+            "canvases": 1,
+            "calls": 2453,
+            "reads": 1,
+            "readPixels": 1,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 825,
+            "repeat": 2,
+            "milliseconds": 0.414,
+            "canvases": 1,
+            "calls": 2453,
+            "reads": 1,
+            "readPixels": 1,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "fractals",
+      "label": "Carpet",
+      "module": "fractals/native/carpet/en/frames-1-1144.mjs",
+      "frames": [
+        742
+      ],
+      "beforeSha256": "cb15868671d97d625f6c2b8f8639f00dfd9df339f571d17936a8fdf5087cb3d9",
+      "afterSha256": "4699a326826177bbd92bb631bca30e6a2eafaa8ec84dbce389a9f778bcff3292",
+      "before": {
+        "module": ".cache/native-performance-baselines/cb15868671d97d625f6c2b8f8639f00dfd9df339f571d17936a8fdf5087cb3d9.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 847.67,
+        "warmMedianMilliseconds": 251.943,
+        "warmMaxMilliseconds": 251.943,
+        "warmFullCanvasReads": 10,
+        "warmReadPixels": 16796000,
+        "samples": [
+          {
+            "frame": 742,
+            "repeat": 0,
+            "milliseconds": 352.471,
+            "canvases": 5,
+            "calls": 23339,
+            "reads": 5,
+            "readPixels": 8398000,
+            "fullCanvasReads": 5
+          },
+          {
+            "frame": 742,
+            "repeat": 1,
+            "milliseconds": 243.206,
+            "canvases": 5,
+            "calls": 23339,
+            "reads": 5,
+            "readPixels": 8398000,
+            "fullCanvasReads": 5
+          },
+          {
+            "frame": 742,
+            "repeat": 2,
+            "milliseconds": 251.943,
+            "canvases": 5,
+            "calls": 23339,
+            "reads": 5,
+            "readPixels": 8398000,
+            "fullCanvasReads": 5
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/fractals/native/carpet/en/frames-1-1144.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 85.5,
+        "warmMedianMilliseconds": 4.78,
+        "warmMaxMilliseconds": 4.78,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 742,
+            "repeat": 0,
+            "milliseconds": 76.363,
+            "canvases": 5,
+            "calls": 23339,
+            "reads": 5,
+            "readPixels": 140560,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 742,
+            "repeat": 1,
+            "milliseconds": 4.78,
+            "canvases": 0,
+            "calls": 22606,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 742,
+            "repeat": 2,
+            "milliseconds": 4.331,
+            "canvases": 0,
+            "calls": 22606,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "reasoning",
+      "label": "Tram question",
+      "module": "reasoning/native/tram-en.mjs",
+      "frames": [
+        904
+      ],
+      "beforeSha256": "20502621495526cb662321ad2d29e1fcf69d19bb9ee414786568a716363cdb6b",
+      "afterSha256": "e8fdf328b4febd95c187923a930e88aab1e7850327dedafd94afc31bfcc93e78",
+      "sourceDensityFallback": true,
+      "before": {
+        "module": ".cache/native-performance-baselines/20502621495526cb662321ad2d29e1fcf69d19bb9ee414786568a716363cdb6b.mjs",
+        "width": 550,
+        "height": 400,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 809.97,
+        "warmMedianMilliseconds": 238.463,
+        "warmMaxMilliseconds": 238.463,
+        "warmFullCanvasReads": 90,
+        "warmReadPixels": 19800000,
+        "samples": [
+          {
+            "frame": 904,
+            "repeat": 0,
+            "milliseconds": 333.566,
+            "canvases": 45,
+            "calls": 1831,
+            "reads": 45,
+            "readPixels": 9900000,
+            "fullCanvasReads": 45
+          },
+          {
+            "frame": 904,
+            "repeat": 1,
+            "milliseconds": 238.463,
+            "canvases": 45,
+            "calls": 1831,
+            "reads": 45,
+            "readPixels": 9900000,
+            "fullCanvasReads": 45
+          },
+          {
+            "frame": 904,
+            "repeat": 2,
+            "milliseconds": 237.884,
+            "canvases": 45,
+            "calls": 1831,
+            "reads": 45,
+            "readPixels": 9900000,
+            "fullCanvasReads": 45
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/reasoning/native/tram-en.mjs",
+        "width": 550,
+        "height": 400,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 268.4,
+        "warmMedianMilliseconds": 72.819,
+        "warmMaxMilliseconds": 72.819,
+        "warmFullCanvasReads": 20,
+        "warmReadPixels": 4400000,
+        "samples": [
+          {
+            "frame": 904,
+            "repeat": 0,
+            "milliseconds": 133.314,
+            "canvases": 44,
+            "calls": 1830,
+            "reads": 45,
+            "readPixels": 2997585,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 904,
+            "repeat": 1,
+            "milliseconds": 72.819,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 2200000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 904,
+            "repeat": 2,
+            "milliseconds": 62.239,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 2200000,
+            "fullCanvasReads": 10
+          }
+        ]
+      }
+    },
+    {
+      "family": "reasoning",
+      "label": "Hunter question",
+      "module": "reasoning/native/hunter-en.mjs",
+      "frames": [
+        941
+      ],
+      "beforeSha256": "e1353a2d21fbe8ac01db2a36839693d08bc34b3a4f1af720a9b44600103c15be",
+      "afterSha256": "cd7f6c9cc819062aa51a39aedbe1053b107cef708c0d52a20f5105c0f578c831",
+      "before": {
+        "module": ".cache/native-performance-baselines/e1353a2d21fbe8ac01db2a36839693d08bc34b3a4f1af720a9b44600103c15be.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 5633.84,
+        "warmMedianMilliseconds": 1843.747,
+        "warmMaxMilliseconds": 1843.747,
+        "warmFullCanvasReads": 70,
+        "warmReadPixels": 117572002,
+        "samples": [
+          {
+            "frame": 941,
+            "repeat": 0,
+            "milliseconds": 1990.759,
+            "canvases": 36,
+            "calls": 1719,
+            "reads": 36,
+            "readPixels": 58786001,
+            "fullCanvasReads": 35
+          },
+          {
+            "frame": 941,
+            "repeat": 1,
+            "milliseconds": 1843.747,
+            "canvases": 36,
+            "calls": 1719,
+            "reads": 36,
+            "readPixels": 58786001,
+            "fullCanvasReads": 35
+          },
+          {
+            "frame": 941,
+            "repeat": 2,
+            "milliseconds": 1799.262,
+            "canvases": 36,
+            "calls": 1719,
+            "reads": 36,
+            "readPixels": 58786001,
+            "fullCanvasReads": 35
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/reasoning/native/hunter-en.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 44.05,
+        "warmMedianMilliseconds": 0.118,
+        "warmMaxMilliseconds": 0.118,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 2,
+        "samples": [
+          {
+            "frame": 941,
+            "repeat": 0,
+            "milliseconds": 43.833,
+            "canvases": 36,
+            "calls": 1719,
+            "reads": 36,
+            "readPixels": 306691,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 941,
+            "repeat": 1,
+            "milliseconds": 0.118,
+            "canvases": 1,
+            "calls": 27,
+            "reads": 1,
+            "readPixels": 1,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 941,
+            "repeat": 2,
+            "milliseconds": 0.072,
+            "canvases": 1,
+            "calls": 27,
+            "reads": 1,
+            "readPixels": 1,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "reasoning",
+      "label": "Cutting paradox",
+      "module": "reasoning/native/paradox-en.mjs",
+      "frames": [
+        3176
+      ],
+      "beforeSha256": "476cb24f7bd4b6ce4bad6df603ffa58c1a3b085e8c9e05265c2de4d56364c303",
+      "afterSha256": "b6a19014a24fc0ea5c71adf3b630229519561fedfc80448a36c6fc52083bd2a3",
+      "before": {
+        "module": ".cache/native-performance-baselines/476cb24f7bd4b6ce4bad6df603ffa58c1a3b085e8c9e05265c2de4d56364c303.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 3828.45,
+        "warmMedianMilliseconds": 1238.007,
+        "warmMaxMilliseconds": 1238.007,
+        "warmFullCanvasReads": 50,
+        "warmReadPixels": 83980000,
+        "samples": [
+          {
+            "frame": 3176,
+            "repeat": 0,
+            "milliseconds": 1353.889,
+            "canvases": 25,
+            "calls": 1854,
+            "reads": 25,
+            "readPixels": 41990000,
+            "fullCanvasReads": 25
+          },
+          {
+            "frame": 3176,
+            "repeat": 1,
+            "milliseconds": 1236.509,
+            "canvases": 25,
+            "calls": 1854,
+            "reads": 25,
+            "readPixels": 41990000,
+            "fullCanvasReads": 25
+          },
+          {
+            "frame": 3176,
+            "repeat": 2,
+            "milliseconds": 1238.007,
+            "canvases": 25,
+            "calls": 1854,
+            "reads": 25,
+            "readPixels": 41990000,
+            "fullCanvasReads": 25
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/reasoning/native/paradox-en.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 99.13,
+        "warmMedianMilliseconds": 0.225,
+        "warmMaxMilliseconds": 0.225,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 3176,
+            "repeat": 0,
+            "milliseconds": 98.773,
+            "canvases": 25,
+            "calls": 1854,
+            "reads": 25,
+            "readPixels": 402750,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 3176,
+            "repeat": 1,
+            "milliseconds": 0.225,
+            "canvases": 0,
+            "calls": 186,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 3176,
+            "repeat": 2,
+            "milliseconds": 0.109,
+            "canvases": 0,
+            "calls": 186,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "dissections",
+      "label": "Banknotes RU",
+      "module": "dissections/bills-ru.mjs",
+      "frames": [
+        576
+      ],
+      "beforeSha256": "df16bd125fe67badf4f546892bc8b6eaffe2aacbca4f83bd0c89f30f3cd12a99",
+      "afterSha256": "e57502c7dd7b52cdbcf5f5fd38ca0ab8dbb5f3b5dba8741abbc10e079aa65646",
+      "before": {
+        "module": ".cache/native-performance-baselines/df16bd125fe67badf4f546892bc8b6eaffe2aacbca4f83bd0c89f30f3cd12a99.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 1622.81,
+        "warmMedianMilliseconds": 539.199,
+        "warmMaxMilliseconds": 539.199,
+        "warmFullCanvasReads": 20,
+        "warmReadPixels": 33592000,
+        "samples": [
+          {
+            "frame": 576,
+            "repeat": 0,
+            "milliseconds": 577.555,
+            "canvases": 10,
+            "calls": 1187,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 576,
+            "repeat": 1,
+            "milliseconds": 539.199,
+            "canvases": 10,
+            "calls": 1187,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 576,
+            "repeat": 2,
+            "milliseconds": 506.011,
+            "canvases": 10,
+            "calls": 1187,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/dissections/bills-ru.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 85.92,
+        "warmMedianMilliseconds": 0.129,
+        "warmMaxMilliseconds": 0.129,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 576,
+            "repeat": 0,
+            "milliseconds": 85.662,
+            "canvases": 9,
+            "calls": 1186,
+            "reads": 10,
+            "readPixels": 1666750,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 576,
+            "repeat": 1,
+            "milliseconds": 0.129,
+            "canvases": 0,
+            "calls": 147,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 576,
+            "repeat": 2,
+            "milliseconds": 0.108,
+            "canvases": 0,
+            "calls": 147,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "stories",
+      "label": "Snow White completion",
+      "module": "stories/canvas/Snowhite-game.mjs",
+      "frames": [
+        185
+      ],
+      "beforeSha256": "9c8c5e69283b626c4ae748d25be0162c64d0a5d8a643c6a99c32730074ba9b64",
+      "afterSha256": "8e83b0c3b99a0a4bfa5399b0871d203ea611eb44df5f22d3a2409d0469f3a287",
+      "before": {
+        "module": ".cache/native-performance-baselines/9c8c5e69283b626c4ae748d25be0162c64d0a5d8a643c6a99c32730074ba9b64.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 11.62,
+        "warmMedianMilliseconds": 0.098,
+        "warmMaxMilliseconds": 0.098,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 185,
+            "repeat": 0,
+            "milliseconds": 11.456,
+            "canvases": 0,
+            "calls": 25,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 185,
+            "repeat": 1,
+            "milliseconds": 0.098,
+            "canvases": 0,
+            "calls": 25,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 185,
+            "repeat": 2,
+            "milliseconds": 0.034,
+            "canvases": 0,
+            "calls": 25,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/stories/canvas/Snowhite-game.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 7.32,
+        "warmMedianMilliseconds": 0.108,
+        "warmMaxMilliseconds": 0.108,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 185,
+            "repeat": 0,
+            "milliseconds": 7.138,
+            "canvases": 0,
+            "calls": 25,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 185,
+            "repeat": 1,
+            "milliseconds": 0.108,
+            "canvases": 0,
+            "calls": 25,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 185,
+            "repeat": 2,
+            "milliseconds": 0.042,
+            "canvases": 0,
+            "calls": 25,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    },
+    {
+      "family": "escher",
+      "label": "Faces completion",
+      "module": "escher/canvas/Escher-faces-game.mjs",
+      "frames": [
+        181
+      ],
+      "beforeSha256": "d5f26912104c4b00493f5c34b426bbc4f3e410e3b245424b8bb985bd79ebf2b4",
+      "afterSha256": "d5f26912104c4b00493f5c34b426bbc4f3e410e3b245424b8bb985bd79ebf2b4",
+      "before": {
+        "module": ".cache/native-performance-baselines/d5f26912104c4b00493f5c34b426bbc4f3e410e3b245424b8bb985bd79ebf2b4.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 14.11,
+        "warmMedianMilliseconds": 0.144,
+        "warmMaxMilliseconds": 0.144,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 181,
+            "repeat": 0,
+            "milliseconds": 13.876,
+            "canvases": 5,
+            "calls": 372,
+            "reads": 5,
+            "readPixels": 184325,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 181,
+            "repeat": 1,
+            "milliseconds": 0.144,
+            "canvases": 0,
+            "calls": 26,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 181,
+            "repeat": 2,
+            "milliseconds": 0.064,
+            "canvases": 0,
+            "calls": 26,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      },
+      "after": {
+        "module": "public/media/escher/canvas/Escher-faces-game.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 1,
+        "totalMilliseconds": 14.56,
+        "warmMedianMilliseconds": 0.128,
+        "warmMaxMilliseconds": 0.128,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 181,
+            "repeat": 0,
+            "milliseconds": 14.329,
+            "canvases": 5,
+            "calls": 372,
+            "reads": 5,
+            "readPixels": 184325,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 181,
+            "repeat": 1,
+            "milliseconds": 0.128,
+            "canvases": 0,
+            "calls": 26,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 181,
+            "repeat": 2,
+            "milliseconds": 0.07,
+            "canvases": 0,
+            "calls": 26,
+            "reads": 0,
+            "readPixels": 0,
+            "fullCanvasReads": 0
+          }
+        ]
+      }
+    }
+  ]
+}

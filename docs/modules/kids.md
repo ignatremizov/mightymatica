@@ -1,5 +1,48 @@
 # Young learners: original illustrated activities
 
+## Rendering performance review (2026-10-31)
+
+Reviewed all eleven activities: ten full-root Canvas lesson painters and their
+98 question gates, plus the browser-decoded Kitten MP4. OriginalBoard overlays
+and optional SortingPractice SVG update on gestures/state changes, not a
+continuous animation loop. Kitten has no generated Canvas filter loop.
+
+The ten painters now use the reviewed source-density bounded static-text cache,
+preserving authored shadow parameters and vector text. Rewritten filter-block
+counts in catalog order: Find/connect 137, improper 1838, couple 324,
+match 411, proper 2099, same 1140, put/place 1169, color/shape/size 324 each.
+No scoring, gates, narration, audio, stage timings or direct gesture code changed.
+
+Repeatable tooling: `node src/modules/kids/optimize-painters.mjs
+--recover-bounds` recovers bounds from each original SWF; `--apply` verifies
+source hashes, backs up current painters under `.cache/kids-filter-originals`,
+checks candidate syntax and deep-equal metadata/export contracts, guards against
+concurrent edits, then replaces files. A second application changes nothing.
+`recover_audio.mjs --convert-reviewed-lessons` reapplies optimization after
+conversion. Eleven family-owned `text-bounds-*.json` files across kids/falling
+record source hashes; both locale entries deliberately identify the same
+preserved source, not an invented Russian variant.
+
+Follow-up: the separately reviewed `scripts/optimize-empty-text-filters.mjs`
+eliminates eight transparent isolation/filter blocks in Findproper: one text582
+(three local color conversions, no painting), seven text584 (empty body).
+It retains the original `place(...)` evaluation and leaf bodies, including color
+conversion behavior. Only exact isolated outer/non-knockout shadow/glow chains
+qualify; paint operations, arbitrary calls, dynamic expressions, inner effects,
+knockout and bevel are rejected. Current painters are backed up before replacing;
+candidate syntax, metadata/exports, concurrent edits and idempotence are checked.
+Recovery conversion applies this pass after static-text optimization.
+General vector paths and animated sprites remain uncached. No browser FPS,
+pixel parity or listening claim is made.
+
+Verification: all eleven candidate syntax/metadata/export checks passed;
+second-pass optimization was idempotent. Focused kids/falling tests: **15/15
+pass**. Five focused empty-filter rewrite/rejection tests also pass.
+Recovery-helper syntax passed. Integrated checks and serialized
+performance diagnostics belong to Main. Manual follow-up: compare introductory
+and success text/shadows, then complete first/last question gates using pointer
+and keyboard input.
+
 Presentation review: all ten question-board source DOMDocuments and Kitten use
 `#66ffff` stages. Original image/video surfaces retain square uncropped corners.
 Family copy follows the recovered Comic Sans lettering with installed-font

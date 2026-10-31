@@ -398,13 +398,117 @@
   },
   "false-proof:en": {
     "source": "Movies/Alltriangles.swf",
-    "continuation": [],
-    "vertices": []
+    "continuation": [
+      {
+        "id": "bHint",
+        "firstFrame": 2015,
+        "lastFrame": 2015,
+        "resumeFrames": [
+          2015
+        ],
+        "rect": {
+          "x": 418.1,
+          "y": 348.75,
+          "width": 128.95,
+          "height": 43.85
+        }
+      }
+    ],
+    "vertices": [
+      {
+        "label": "A",
+        "x": 92.8,
+        "y": 310.45,
+        "color": "#ff00cc",
+        "sourceFootprint": {
+          "x": 84.79876,
+          "y": 302.45001,
+          "width": 16.00249,
+          "height": 15.99998
+        }
+      },
+      {
+        "label": "B",
+        "x": 367.0,
+        "y": 294.45,
+        "color": "#00ff33",
+        "sourceFootprint": {
+          "x": 358.99987,
+          "y": 286.44987,
+          "width": 16.00026,
+          "height": 16.00026
+        }
+      },
+      {
+        "label": "C",
+        "x": 202.05,
+        "y": 104.05,
+        "color": "#0033ff",
+        "sourceFootprint": {
+          "x": 194.05012,
+          "y": 96.05012,
+          "width": 15.99976,
+          "height": 15.99976
+        }
+      }
+    ]
   },
   "false-proof:ru": {
     "source": "Movies/Alltriangles-ru.swf",
-    "continuation": [],
-    "vertices": []
+    "continuation": [
+      {
+        "id": "bHint",
+        "firstFrame": 2265,
+        "lastFrame": 2265,
+        "resumeFrames": [
+          2265
+        ],
+        "rect": {
+          "x": 418.1,
+          "y": 348.75,
+          "width": 135.13082,
+          "height": 43.85
+        }
+      }
+    ],
+    "vertices": [
+      {
+        "label": "A",
+        "x": 92.8,
+        "y": 310.45,
+        "color": "#ff00cc",
+        "sourceFootprint": {
+          "x": 84.79876,
+          "y": 302.45001,
+          "width": 16.00249,
+          "height": 15.99998
+        }
+      },
+      {
+        "label": "B",
+        "x": 367.0,
+        "y": 294.45,
+        "color": "#00ff33",
+        "sourceFootprint": {
+          "x": 358.99987,
+          "y": 286.44987,
+          "width": 16.00026,
+          "height": 16.00026
+        }
+      },
+      {
+        "label": "C",
+        "x": 202.05,
+        "y": 104.05,
+        "color": "#0033ff",
+        "sourceFootprint": {
+          "x": 194.05012,
+          "y": 96.05012,
+          "width": 15.99976,
+          "height": 15.99976
+        }
+      }
+    ]
   },
   "inscribed-angle:en": {
     "source": "Movies/Insangle.swf",

@@ -1,5 +1,94 @@
 # Nine bills become ten
 
+## Embedded-bitmap eligibility follow-up (2026-10-31)
+
+Both banknote painters were rechecked by the static optimizer after adding the
+reviewed immutable embedded-bitmap fill grammar. No additional blocks qualified
+and neither painter changed in this pass. Existing nested glow patches are
+preserved; the nested optimizer was not rerun. Source hashes and static
+stroke exclusions remain in force. No audio, timing, explanatory gate or
+authored effect changed. No dense benchmark, browser or full build ran here.
+
+## Source-bound static-composite follow-up (2026-10-31)
+
+Reviewed both banknote painters with binary-derived static shape/text bounds in
+`drawing-bounds-bills.json`. Source hashes match the existing per-language text
+evidence and actual preserved binaries; shared text rectangles are checked for
+equality. Existing text-only evidence is unchanged.
+
+The reasoning-owned `optimize-static-painters.mjs --recover|--apply|--verify` covers
+this family too. Its conservative guard excludes stroked leaves, while the shared
+static grammar rejects clipped bitmap patterns, dynamic artwork and nested filters.
+No additional static groups qualified in either banknote painter, so this pass
+changed **no media bytes**. `static-filter-optimization.json` records both original
+and unchanged result hashes. The Russian nested-glow wrapper is intentionally not
+handled here; its separate coordinated follow-up may supersede the residual count
+in the earlier text-only review.
+
+Reasoning's native export recipe now runs the static pass after its existing
+text pass, including these two companions. Future eligible replacements must pass
+source validation, hashed backups, syntax, deep metadata/export equivalence,
+idempotence and concurrent-edit guards. No gate, audio, timing, question or visual
+effect changed. Shared cache/importer tests passed 14/14; focused reasoning
+rule/audio/gate tests passed 11/11. The static check repeated without changes.
+No browser, dense benchmark, build or recovery export ran.
+
+## Nested static-text follow-up (2026-10-31)
+
+The subsequently reviewed nested-text rewrite now fuses the 746 Russian outer
+glow blocks around `sprite69 → text68`; the earlier limitation below is
+superseded. The one-frame wrapper itself, original banknote imagery, cuts,
+transitions, existing caches, audio, timing and explanation gate are unchanged.
+Both authored glow stages retain their parameters and inner-before-outer order,
+running together at source density. This is the approved density policy, not
+universal exact parity with the former mixed-density DPR>1 path.
+
+See [the nested-filter review](../reviews/nested-filter-optimization.md) and its
+JSON companion for actual-source bounds/hash verification, original backup,
+result hash, reproduction and focused checks. All four nested-filter tests
+pass, including tiny actual-filter arithmetic probes. No browser/font pixel
+parity, FPS, listening, dense baseline benchmark or integrated build was
+performed by this pass.
+
+## Source-text filter performance pass (2026-10-31)
+
+Reviewed the single activity and both existing 700×400, 988-frame banknote
+painters. Exact bounds for all three static texts per language were recovered
+from `Bills-transform.swf` and `Bills-transform-ru.swf`, with independent source
+SHA-256 evidence in `src/modules/dissections/text-bounds-bills.json`.
+`node src/modules/reasoning/recover-text-bounds.mjs` reproduces this recovery
+alongside the reasoning sources, without executing ActionScript or exporting
+any artwork.
+
+The reviewed bounded source-density text cache now handles 901 English and 156
+Russian generated filter groups. These are source locations, not concurrent
+per-frame calls. Original banknote bitmaps, cuts, piece transforms, audio,
+30 fps timing, initial/terminal frames, and explanation gate remain unchanged.
+Authored shadows/glows remain: only verified text-only filter work is cropped
+and reused, with renderer-owned cache teardown.
+
+Russian `sprite69` retains 746 original outer glow sites, active at source
+frames 203–948. It wraps `text68` with a now-cached inner glow; safely flattening
+the additional outer filter needs separately reviewed nested-filter support.
+No unsupported nested-filter optimization or shadow removal was attempted.
+English has no remaining authored filter placements outside the text cache.
+The eight filter-library implementation calls in each painter remain.
+
+`node src/modules/reasoning/optimize-painters.mjs --apply` performs the guarded
+rewrite; `--verify` checks source evidence and idempotence without writing.
+Both replacements passed syntax and deep-equal metadata/export checks, retained
+content-hashed originals under `.cache/dissections-filter-originals/`, and
+passed immediate and repeat idempotence checks. The exact backup paths and
+before/after hashes are in `src/modules/dissections/filter-optimization.json`.
+The 11 focused reasoning rule/audio/gate regressions also pass. No new
+banknote rule or user interaction was introduced.
+
+No browser, server, integrated compiler/build, full suite, full-density baseline
+benchmark, listening, pixel-parity or FPS verification was performed. Main
+coordinates actual-filter probes. Manual acceptance should compare EN/RU title
+and caption glows, the moving banknote seams (including RU frame 576), replay,
+sound and the terminal explanation gate.
+
 ## Interactive source-audio extension (2026-10-30)
 
 The primary banknote lesson now uses `OriginalLessonPlayer`: the two existing

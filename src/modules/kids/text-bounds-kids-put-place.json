@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Put in place.swf",
+      "sourceSha256": "8f9bd6a94846c206beaf6a8de04a2f43223ffda2700aa04338a37ea6809ffb26",
+      "textBounds": {
+        "text2": [
+          -670,
+          250,
+          4001,
+          3892
+        ],
+        "text32": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Put in place.swf",
+      "sourceSha256": "8f9bd6a94846c206beaf6a8de04a2f43223ffda2700aa04338a37ea6809ffb26",
+      "textBounds": {
+        "text2": [
+          -670,
+          250,
+          4001,
+          3892
+        ],
+        "text32": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    }
+  }
+}

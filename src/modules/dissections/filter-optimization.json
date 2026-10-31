@@ -1,0 +1,20 @@
+[
+  {
+    "module": "dissections/bills-en.mjs",
+    "source": "Movies/Bills-transform.swf",
+    "sourceSha256": "8e0ab1a7326ae4f4fa94136078330cbcaa9c6fa68d23a5fc671410b626c8aaee",
+    "groups": 901,
+    "backup": ".cache/dissections-filter-originals/bills-en-d1f4650a752fdaa10e8b3ac5e0ad60727e2789f67f851736c8c21f7fcfbeded4.mjs",
+    "beforeSha256": "d1f4650a752fdaa10e8b3ac5e0ad60727e2789f67f851736c8c21f7fcfbeded4",
+    "afterSha256": "c934d5af8aa6a96c6bc4937da06f0153ce306bd2451c03c5209a744292d252e2"
+  },
+  {
+    "module": "dissections/bills-ru.mjs",
+    "source": "Movies/Bills-transform-ru.swf",
+    "sourceSha256": "9f88592c3a799fd5410bf9c60c4bc12bb9961cd9fd7d5f67f687597f58c3844e",
+    "groups": 156,
+    "backup": ".cache/dissections-filter-originals/bills-ru-df16bd125fe67badf4f546892bc8b6eaffe2aacbca4f83bd0c89f30f3cd12a99.mjs",
+    "beforeSha256": "df16bd125fe67badf4f546892bc8b6eaffe2aacbca4f83bd0c89f30f3cd12a99",
+    "afterSha256": "b09270f725d62ab9d1b06014f00bbd4aa64da785a67606a5d82306c273d91ae8"
+  }
+]

@@ -7,6 +7,7 @@ import square from "./square-audio.json";
 import difference from "./difference-audio.json";
 import transform from "./transform-audio.json";
 import quadratic from "./quadratic-audio.json";
+import sourceControls from "./source-controls.json";
 
 const sources = {
   "algebra-square-of-sum": { audio: square, directory: "square", end: 855, stops: [] },
@@ -22,9 +23,17 @@ export function hasNativeLesson(id: string): id is NativeAlgebraId {
 }
 
 export default function NativeLesson({ activityId, locale, reducedMotion, children }: ActivityProps & { activityId: NativeAlgebraId; children: ReactNode }) {
-  const [initialFrame, setInitialFrame] = useState(1);
+  const [entry, setEntry] = useState({ frame: 1, revision: 0 });
+  const [sound, setSound] = useState(true);
   const [complete, setComplete] = useState(false);
+  const initialFrame = entry.frame;
   const source = sources[activityId];
+  const controls = sourceControls.find(row => row.key === source.directory);
+  const navigate = (frame: number) => {
+    if (!quadraticChapters.includes(frame)) return;
+    setComplete(false);
+    setEntry(previous => ({ frame, revision: previous.revision + 1 }));
+  };
   const lesson = useMemo<OriginalLessonDefinition>(() => ({
     width: source.audio.width, height: source.audio.height, fps: source.audio.fps,
     initialFrame, endFrame: source.end,
@@ -36,14 +45,22 @@ export default function NativeLesson({ activityId, locale, reducedMotion, childr
     })),
   }), [source, initialFrame]);
   return <>
-    <OriginalLessonPlayer key={`${activityId}:${initialFrame}`} lesson={lesson} locale={locale} reducedMotion={reducedMotion}
+    <OriginalLessonPlayer key={`${activityId}:${entry.revision}`} lesson={lesson} locale={locale} reducedMotion={reducedMotion}
       label={t(locale, "Animated algebra lesson with original sound", "Анимированный урок алгебры с оригинальным звуком")}
       stopLabels={{ 36: t(locale, "Begin", "Начать"), 481: t(locale, "Make R the subject", "Выразить R") }}
+      playbackHotspots={controls?.playbackHotspots}
+      navigationMenus={controls?.navigationMenus.map(menu => ({
+        ...menu, items: menu.items.map(item => ({
+          ...item, label: `${t(locale, "Chapter", "Глава")} ${item.chapter}`,
+        })),
+      }))}
+      onNavigate={activityId === "algebra-quadratic" ? navigate : undefined}
+      initialSound={sound} onSoundChange={setSound}
+      autoPlay={initialFrame !== 1}
       onComplete={() => setComplete(true)} onRestart={() => setComplete(false)} />
     {activityId === "algebra-quadratic" && <nav className="controls" aria-label={t(locale, "Original chapters", "Главы оригинала")}>
-      {quadraticChapters.map((frame, index) => <button key={frame} className="button button-secondary" onClick={() => {
-        setComplete(false); setInitialFrame(frame);
-      }}>{t(locale, "Chapter", "Глава")} {index + 1}</button>)}
+      {quadraticChapters.map((frame, index) => <button key={frame} className="button button-secondary" onClick={() => navigate(frame)}>
+        {t(locale, "Chapter", "Глава")} {index + 1}</button>)}
     </nav>}
     {locale === "ru" && <p>{t(locale, "", "Оригинальные надписи и звук — на английском.")}</p>}
     {complete && <details><summary>{t(locale, "Explore the mathematics", "Исследуйте математику")}</summary>{children}</details>}

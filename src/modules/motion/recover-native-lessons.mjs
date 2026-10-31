@@ -90,4 +90,15 @@ for (const family of ["motion", "fractals"]) {
     await writeFile(resolve(`src/modules/${family}/native-lessons.json`), JSON.stringify(entries, null, 2) + "\n");
     console.log(`Completed ${family}/${id}/${language}`);
   }
+  if (!metadataOnly) {
+    run(["src/modules/motion/optimize-painters.mjs", family, "--recover-bounds"]);
+    run(["src/modules/motion/optimize-painters.mjs", family, "--recover-drawing-bounds"]);
+    run(["src/modules/motion/optimize-painters.mjs", family, "--apply"]);
+    if (family === "motion") {
+      run(["scripts/optimize-reviewed-nested-filters.mjs", "--apply", "--family", "motion"]);
+      run(["src/modules/motion/optimize-earth-belt.mjs", "--apply"]);
+    }
+    // Restore only source-verified two-state pp painters after regeneration.
+    run(["scripts/motion-fractal-playback-control.mjs", "--apply", family]);
+  }
 }

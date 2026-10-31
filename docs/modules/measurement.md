@@ -1,5 +1,115 @@
 # Measurement restoration
 
+## Source-bound static-composite follow-up, 2026-10-31
+
+This supersedes the remaining Area-shadow limitation recorded in the earlier
+review below. An additional 2,627 English / 2,580 Russian static composite shadow
+blocks now use the reviewed bounded cache, without removing authored effects.
+Polygon required no further painter edits. Neither Area painter now has remaining
+direct root pixel-filter blocks; library implementation calls are not root blocks.
+
+New `area-drawing-bounds.json` and `polygon-drawing-bounds.json` contain 76/81 and
+36/37 combined static shape/text rectangles respectively. The binary-only
+`scripts/recover-static-drawing-bounds.mjs` importer uses stroke-inclusive
+ShapeBounds, excludes morph/dynamic text and non-scaling Shape4 strokes, and
+records source hashes. Use the same bilingual originals documented below with
+`--output src/modules/measurement/<id>-drawing-bounds.json`. Original text evidence
+is preserved. `optimize-lessons.mjs` requires matching source hashes and shared
+text rectangles between both evidence sets before applying drawing bounds.
+
+The actual stroked source placements were traced before application: all
+2,627/2,580 outer transforms are uniform scale/rotations, not anisotropic/sheared
+transforms; all 14 shape-child placements per language are identity matrices.
+This scoped evidence does not certify arbitrary transformed stroked paths.
+
+Existing hashed backups, syntax checks, deep metadata/export comparisons and
+concurrent-edit guards remain. Reviewed measurement conversion now reapplies the
+optimizer after all variants are converted. The existing Circle hook is intact;
+patch-only transport recovery does not newly invoke Area/Polygon optimization.
+Repeat application is byte-idempotent. Source archives, audio and lesson
+timing/gates are unchanged. Focused cache/importer/rules/source-branch/quiz tests
+passed 31/31; both optimizers and recovery hooks passed syntax checks.
+Central serialized CPU/pixel profiling belongs to Main, not this follow-up.
+
+## Area and Polygon rendering review, 2026-10-31
+
+Reviewed all three activities and six native painters. Circle's separate local
+optimization and its documentation below are preserved unchanged. Area EN/RU
+now cache 3,540/2,996 verified static-text filter blocks; Polygon EN/RU cache
+435/435. The shared reviewed helper preserves authored effects and their order,
+uses source-density text crops, bounds retained memory, and releases caches on
+renderer disposal. No narration, question gates, transport or lesson timing
+changed. Source dimensions remain 550 × 400.
+
+`area-text-bounds.json` and `polygon-text-bounds.json` contain rectangles
+recovered directly from the respective bilingual original SWFs, with source
+hashes (Area 45/46 static texts; Polygon 14/15). Regenerate each with
+`scripts/recover-calculus-text-bounds.mjs --en <original English SWF> --ru
+<original Russian SWF> --output src/modules/measurement/<id>-text-bounds.json`.
+The original movie names are `Area`, `Area-ru`, `Area of polygon` and
+`Area of polygon-ru`, under the read-only recovery tree's `objects/Movies`.
+Apply using `node src/modules/measurement/optimize-lessons.mjs --apply`.
+The tool verifies source hashes, saves hashed backups under
+`.cache/measurement-lessons-filter-originals`, syntax-checks candidates,
+deep-compares metadata/export keys, rejects concurrent edits and is idempotent.
+
+Remaining cost is explicit: Area EN/RU retain 2,627/2,580 root shadow blocks on
+14 composite formula/geometry sprites per language. They combine text and shapes
+and are deliberately outside the verified static-text-only rewrite. Polygon
+has no remaining root pixel-filter blocks. Filter library implementation calls
+are not counted as root drawing blocks. No shadow was removed. The event-driven
+optional measurement explorers introduce no continuous rendering loop.
+
+Focused cache, measurement, source-branch, quiz-progression and solids tests
+passed 24/24; all ten newly changed lesson painters passed syntax and unchanged
+metadata/exports checks, and a repeat application made no changes. No browser,
+FPS, audio-listening or pixel-parity verification is claimed. Manual review
+should cover both languages, Area's later composite formulas/shadows, Polygon's
+labels and moving artwork, playback and completion. Central serialized
+performance measurement and recovery-script integration belong to Main.
+
+## Local Circle rendering follow-up, 2026-10-31
+
+The reported slow Circle introduction repeatedly applied five full-canvas pixel
+filter passes per frame. This affected both languages and scaled poorly with
+the Canvas backing resolution.
+
+Both Circle drawing modules now use the existing reviewed static-text crop/cache
+helper. Only verified static text and one-frame static-text wrappers qualify;
+the original effect order, colors and arguments remain. Filtered text bitmaps
+use authored source density, while ordinary vector artwork keeps the higher
+display resolution. Cache lifetime is bounded to 24 entries / 2,097,152 pixels
+and released with the renderer. Audio, all eight questions, answer branches,
+transport state, source frame coverage and lesson metadata are unchanged.
+
+`circle-text-bounds.json` records 97 English and 96 Russian static-text rectangles
+recovered directly from the original binaries. To reproduce:
+
+```sh
+node scripts/recover-calculus-text-bounds.mjs \
+  --en /home/ignat/code/mightymatica-source-recovery/objects/Movies/Circle/original/Circle.swf \
+  --ru /home/ignat/code/mightymatica-source-recovery/objects/Movies/Circle-ru/original/Circle-ru.swf \
+  --output src/modules/measurement/circle-text-bounds.json
+node src/modules/measurement/optimize-circle.mjs --apply
+```
+
+The recipe verifies source hashes, backs up the existing modules before writing,
+checks syntax and unchanged metadata/exports, rejects concurrent edits, and is
+idempotent. Measurement conversion/transport regeneration reapplies it.
+
+A bounded software diagnostic ran the actual drawing/filter functions with
+inert vector/image boundaries and real pixel arrays. At 1520 × 1105, warmed
+introduction samples changed from about 241 ms to 0.05 ms in English and from
+227 ms to 0.07 ms in Russian. Repeated full-stage pixel reads changed from five
+per frame to zero; a later uncached label sample took about 5–7 ms after cropping.
+These numbers isolate CPU filter work: they are not browser FPS or pixel-parity
+measurements.
+
+The focused cache, measurement, source-branch and quiz-progression suites passed
+18/18. Manual acceptance must still check both languages, animated shadows and
+text placement, playback/sound, all question gates, and visual smoothness after
+a full page refresh. No publication is part of this local follow-up.
+
 ## Source transport and completion-action follow-up
 
 The six measurement renderers now expose the same optional

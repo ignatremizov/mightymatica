@@ -1,5 +1,32 @@
 # Spatial restoration
 
+## Rendering cost review (2026-10-31)
+
+All eight activities were reviewed without changing their authored interactions:
+
+| Activity | Runtime reviewed | Outcome |
+| --- | --- | --- |
+| spatial-find-pair | `Companions.tsx`, `PairRules.ts`, `PairStageAudio.tsx` | Four fixed eight-cube clusters; CSS transforms rather than pixel filters; unchanged |
+| spatial-dodecahedron | `Companions.tsx` | Twelve fixed portrait faces, one rotating CSS parent; unchanged |
+| spatial-octahedron | `Octahedron.tsx`, `OctahedronProjection.ts` | Six shared vertices / eight SVG faces, bounded depth ordering; unchanged |
+| spatial-illustrated-cube | `Companions.tsx` | Six preserved face images, one rotating CSS parent; unchanged |
+| spatial-net-choice | `index.tsx`, `OriginalNets.ts`, `NetArtwork.ts`, `useDragRotation.ts` | Six-face hinge projection, preview then Check retained; unchanged |
+| spatial-net-rearrange | Above plus `DraggableNet.tsx` | Six-face swap/projection, authored artwork retained; unchanged |
+| spatial-eleven-nets | `index.tsx`, `OriginalNets.ts`, `rules.ts` | Eleven fixed choices, six-face folding, animation stops at completion; unchanged |
+| spatial-calendar-cubes | `CalendarLesson.tsx`, `useSourceAudio.ts` | Two six-face CSS cubes, bounded lesson/audio updates; unchanged |
+
+There are no generated native `.mjs` painters in `public/media/spatial`.
+Consequently this family has no full-canvas FFDec glow/shadow pixel-loop hotspot
+to rewrite. The source-augmented cube painter and handwritten adapter belong to
+coloring; see that family's rendering review. Small fixed geometry allocations
+and DOM transform updates remain, but this review found no comparable unbounded
+or full-surface pixel defect warranting a behavior-sensitive refactor.
+
+Narrow validation passed all 19 tests across the spatial-rules,
+octahedron-projection, coloring and coloring-lessons suites. This was not browser
+or visual verification. Manual follow-up remains rotating companions, net fold/
+drag, preview-then-Check, degree readouts, and default-on puzzle sound.
+
 Eight playable adaptations, including three passive animated companions; none
 claims timeline-equivalent restoration.
 

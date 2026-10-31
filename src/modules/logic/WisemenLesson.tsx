@@ -1,26 +1,32 @@
-import { useState, type ReactNode } from "react";
+import { useMemo, useState, type ReactNode } from "react";
 import type { Locale } from "../../shared/contracts";
 import { t } from "../../shared/contracts";
 import OriginalLessonPlayer from "../../shared/OriginalLessonPlayer";
 import definitions from "./wisemen-lessons.json";
+import sourceControls from "./source-controls.json";
+import { createWisemenLesson } from "./wisemenSequence";
 
-/** Each narrative ends at the authored question, before the optional hint. */
-export default function WisemenLesson({ eight, locale, reducedMotion, hint, children, onRestart }: {
-  eight: boolean; locale: Locale; reducedMotion: boolean; hint: boolean;
-  children: ReactNode; onRestart: () => void;
+/** The source Hint continues the same player after the authored question stop. */
+export default function WisemenLesson({ eight, locale, reducedMotion, children, onRestart, onHint }: {
+  eight: boolean; locale: Locale; reducedMotion: boolean;
+  children: ReactNode; onRestart: () => void; onHint: () => void;
 }) {
   const [question, setQuestion] = useState(false);
-  const lesson = definitions[`${eight ? "wisemen-eight" : "wisemen"}-${locale}` as keyof typeof definitions];
-  const initial = lesson.story.initialFrame;
+  const key = `${eight ? "wisemen-eight" : "wisemen"}-${locale}` as keyof typeof definitions;
+  const parts = definitions[key];
+  const lesson = useMemo(() => createWisemenLesson(parts), [parts]);
+  const initial = lesson.initialFrame;
+  const questionFrame = parts.story.endFrame;
   return <section aria-label={t(locale, "Wisemen", "Мудрецы")}>
-    <OriginalLessonPlayer lesson={lesson.story} locale={locale} reducedMotion={reducedMotion}
-      stopLabels={{ [initial]: t(locale, "Play", "Воспроизвести") }}
+    <OriginalLessonPlayer lesson={lesson} locale={locale} reducedMotion={reducedMotion}
+      stopLabels={{ [initial]: t(locale, "Play", "Воспроизвести"),
+        [questionFrame]: t(locale, "Hint", "Подсказка") }}
+      playbackHotspots={sourceControls[key].playbackHotspots}
+      stopHotspots={sourceControls[key].stopHotspots}
       label={t(locale, eight ? "Wisemen at the train stops" : "Three wisemen", eight ? "Мудрецы на станциях" : "Три мудреца")}
-      onComplete={() => setQuestion(true)} onRestart={() => { setQuestion(false); onRestart(); }} />
-    {question && <>
-      {children}
-      {hint && <OriginalLessonPlayer lesson={lesson.hint} locale={locale} reducedMotion={reducedMotion}
-        label={t(locale, "Two-wisemen hint", "Подсказка: два мудреца")} />}
-    </>}
+      onStop={frame => { if (frame === questionFrame) setQuestion(true); }}
+      onLeaveStop={() => { if (question) onHint(); }}
+      onRestart={() => { setQuestion(false); onRestart(); }} />
+    {question && children}
   </section>;
 }

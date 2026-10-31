@@ -1,0 +1,182 @@
+[
+  {
+    "module": "reasoning/native/paradox-en.mjs",
+    "source": "Movies/Paradox box.swf",
+    "sourceSha256": "3bbb9fa7e1877575f8d71b1bab430fe6b75a096e4bec87847a8738b7b864c395",
+    "groups": 2483,
+    "backup": ".cache/reasoning-filter-originals/paradox-en-476cb24f7bd4b6ce4bad6df603ffa58c1a3b085e8c9e05265c2de4d56364c303.mjs",
+    "beforeSha256": "476cb24f7bd4b6ce4bad6df603ffa58c1a3b085e8c9e05265c2de4d56364c303",
+    "afterSha256": "e2d03a7a8a9dea71559b770e7172d007e438309d619e3d71318729567fce7061"
+  },
+  {
+    "module": "reasoning/native/paradox-ru.mjs",
+    "source": "Movies/Paradox box-ru.swf",
+    "sourceSha256": "17912b911228b73108047abf91bd8fbef7a8738f20b4bd414038f206a98dd484",
+    "groups": 2483,
+    "backup": ".cache/reasoning-filter-originals/paradox-ru-9e8ea057d51a0b296f9957152aea619aa9e133862573b4b64c96e7507dedead1.mjs",
+    "beforeSha256": "9e8ea057d51a0b296f9957152aea619aa9e133862573b4b64c96e7507dedead1",
+    "afterSha256": "fbdbeb528463541fe5f5b4cb1c5af2debb3586af6b413ea6dd14e4dcbbafa87f"
+  },
+  {
+    "module": "reasoning/native/burninghouse-en.mjs",
+    "source": "Movies/Burninghouse.swf",
+    "sourceSha256": "e48836a595221d74e83f94c9607deb951d91962feb047395a11abfa2fd1bed95",
+    "groups": 572,
+    "backup": ".cache/reasoning-filter-originals/burninghouse-en-339083b904175d27df0e474bee273acd608c32451c8c15965f81c591322223dc.mjs",
+    "beforeSha256": "339083b904175d27df0e474bee273acd608c32451c8c15965f81c591322223dc",
+    "afterSha256": "046d4a3acf0b234e58ba15cf2ca91e6760a9863ed458c4f78974c748acdcae88"
+  },
+  {
+    "module": "reasoning/native/burninghouse-ru.mjs",
+    "source": "Movies/Burninghouse-ru.swf",
+    "sourceSha256": "a27e7579792169018c536d9db46f13b00dfc421bdcae8fbee53d88b18d83387a",
+    "groups": 572,
+    "backup": ".cache/reasoning-filter-originals/burninghouse-ru-49953edb45929e5d224f10d6642610a360a736e2b2239888b3a97491c6be2666.mjs",
+    "beforeSha256": "49953edb45929e5d224f10d6642610a360a736e2b2239888b3a97491c6be2666",
+    "afterSha256": "5a7e58c15c4dc5082d3c66c4d3968791c41a8b3ae86452d5c5b031f37eceea38"
+  },
+  {
+    "module": "reasoning/native/grandma-en.mjs",
+    "source": "Movies/Grandmaclimbes.swf",
+    "sourceSha256": "acde807b26519ea14b99f7fee10543bc5820540052b8fbe6fd896225e3bda09d",
+    "groups": 1679,
+    "backup": ".cache/reasoning-filter-originals/grandma-en-2e5b9bb5b37f7dc031c45dc23705003baf85232b8750f7ea3adaa85111d66c17.mjs",
+    "beforeSha256": "2e5b9bb5b37f7dc031c45dc23705003baf85232b8750f7ea3adaa85111d66c17",
+    "afterSha256": "85229d5b6abd1eb4e7cb5772724cef57b017195319bb159848cb3742af2f4613"
+  },
+  {
+    "module": "reasoning/native/grandma-ru.mjs",
+    "source": "Movies/Grandmaclimbes-ru.swf",
+    "sourceSha256": "2c156bf7d3a79ee7cd3cf64c7ca6d9b17e45b5538cac389429871ea0bb417430",
+    "groups": 1679,
+    "backup": ".cache/reasoning-filter-originals/grandma-ru-51976e7571e4f3c6562615cc1dbcc1b72fac44bac13c447f2632db9973e2100e.mjs",
+    "beforeSha256": "51976e7571e4f3c6562615cc1dbcc1b72fac44bac13c447f2632db9973e2100e",
+    "afterSha256": "eaede8ff99adac5627b98b79950f577e2a513a6a7c728e334f857dd73b17733d"
+  },
+  {
+    "module": "reasoning/native/hunter-en.mjs",
+    "source": "Movies/Hunter.swf",
+    "sourceSha256": "8dd9a2cd110b71ac085f497fb91e8091838b675538fb2257112f56672221c45a",
+    "groups": 2925,
+    "backup": ".cache/reasoning-filter-originals/hunter-en-e1353a2d21fbe8ac01db2a36839693d08bc34b3a4f1af720a9b44600103c15be.mjs",
+    "beforeSha256": "e1353a2d21fbe8ac01db2a36839693d08bc34b3a4f1af720a9b44600103c15be",
+    "afterSha256": "821b359521c9090e5fe79d3c5b4e60a8a0f53251fc47c2ee2570d26903679c11"
+  },
+  {
+    "module": "reasoning/native/hunter-ru.mjs",
+    "source": "Movies/Hunter-ru.swf",
+    "sourceSha256": "3af53811e32a33947f84233cdade3610f402181efe3ccdee32b066164624ed1f",
+    "groups": 3036,
+    "backup": ".cache/reasoning-filter-originals/hunter-ru-e20f416d60c6275b41c932ed49c8cc551243d1e5bde8021390f16de6c28da6c7.mjs",
+    "beforeSha256": "e20f416d60c6275b41c932ed49c8cc551243d1e5bde8021390f16de6c28da6c7",
+    "afterSha256": "bd274ba79c68bf1f7a5b9aa9b6b9efff075b20744373b4108c5ed3413e3a34f3"
+  },
+  {
+    "module": "reasoning/native/snail-en.mjs",
+    "source": "Movies/Snail-eng.swf",
+    "sourceSha256": "103cb2da4cdc120f7e333348f221c533c4ff78cf3174e75c1a43b62046c534a8",
+    "groups": 177,
+    "backup": ".cache/reasoning-filter-originals/snail-en-9b65cdf40545c6894d1b339bcbaca81541c1a67bf7bb86337db975caf273f10d.mjs",
+    "beforeSha256": "9b65cdf40545c6894d1b339bcbaca81541c1a67bf7bb86337db975caf273f10d",
+    "afterSha256": "79d50faeec97ff1c66c7a6d37b1801ec41c6a6cb2348a94eddc13b3d0cc88060"
+  },
+  {
+    "module": "reasoning/native/snail-ru.mjs",
+    "source": "Movies/Snail.swf",
+    "sourceSha256": "f2a070d4269e80cec6b55bb9e309f06e77722f8dac0e096533d2fd866a5cf04c",
+    "groups": 177,
+    "backup": ".cache/reasoning-filter-originals/snail-ru-61ee633597dc51fb1a45ddef1277487ef7c33faf7b7e9fd0f2a9183ac76982fd.mjs",
+    "beforeSha256": "61ee633597dc51fb1a45ddef1277487ef7c33faf7b7e9fd0f2a9183ac76982fd",
+    "afterSha256": "0b3cce6e85375cef0d958de0d163ac23c1f7e7c2539fa749c7a11463dbacd8e8"
+  },
+  {
+    "module": "reasoning/native/staruhi-en.mjs",
+    "source": "Movies/Staruhi-eng.swf",
+    "sourceSha256": "438ef6aa2e6d683ff6f2d561f88dbfc554cf072b1e11ba7000bd1f8af0e6fedd",
+    "groups": 1114,
+    "backup": ".cache/reasoning-filter-originals/staruhi-en-bab1ff8d3f3b88ba926c4f48687eab6566b952cd0f691c7f0741d53b90856793.mjs",
+    "beforeSha256": "bab1ff8d3f3b88ba926c4f48687eab6566b952cd0f691c7f0741d53b90856793",
+    "afterSha256": "7c5ee596b413301c8a12963b805091bc2b2a0325931e9553f7de869ca0d756c9"
+  },
+  {
+    "module": "reasoning/native/staruhi-ru.mjs",
+    "source": "Movies/Staruhi.swf",
+    "sourceSha256": "df68fe4b453804f680df648095b5c720cfd1fcfc7b5cb4e3467154630131de31",
+    "groups": 281,
+    "backup": ".cache/reasoning-filter-originals/staruhi-ru-44b333d3f060ac98c9107ddfdd1d3e356b22a689423567b1acc863fc0ca34382.mjs",
+    "beforeSha256": "44b333d3f060ac98c9107ddfdd1d3e356b22a689423567b1acc863fc0ca34382",
+    "afterSha256": "0088011fc96974d4b92ba224500bbfadb3b8a7f255c505889f67979056eabd2a"
+  },
+  {
+    "module": "reasoning/native/tram-en.mjs",
+    "source": "Movies/Tram.swf",
+    "sourceSha256": "1249d52a4e45f53b27e0201c63a64fe76c951144dff83270d2008adac6f33fda",
+    "groups": 1918,
+    "backup": ".cache/reasoning-filter-originals/tram-en-20502621495526cb662321ad2d29e1fcf69d19bb9ee414786568a716363cdb6b.mjs",
+    "beforeSha256": "20502621495526cb662321ad2d29e1fcf69d19bb9ee414786568a716363cdb6b",
+    "afterSha256": "553e1d3b81386fe3ed42c7deb8f3ab39e31bc73ad64c150d455e61128c75ffd8"
+  },
+  {
+    "module": "reasoning/native/tram-ru.mjs",
+    "source": "Movies/Tram-ru.swf",
+    "sourceSha256": "5c70807cc0000549a0db3ad300f4d36325cbbe62b24f1facf733ee9f09e5b9d4",
+    "groups": 1237,
+    "backup": ".cache/reasoning-filter-originals/tram-ru-d25ffe630fd6ec7cda14bb9a6e2445c9f97def098c35280ed7f04a082d9a73c3.mjs",
+    "beforeSha256": "d25ffe630fd6ec7cda14bb9a6e2445c9f97def098c35280ed7f04a082d9a73c3",
+    "afterSha256": "3a0613816af3a509670c71c7ce0cbecb11ea9daa82e759e129ba1d84a80fbad3"
+  },
+  {
+    "module": "reasoning/native/wine-en.mjs",
+    "source": "Movies/Wineandmilk.swf",
+    "sourceSha256": "f090507ed4748560f4fbad947796bb36236674db6d4af01ea54eec235c6b6549",
+    "groups": 2480,
+    "backup": ".cache/reasoning-filter-originals/wine-en-8698617e0e07ace815579d50d389d5ad1dc075ee69badd5c7c02956a4702d6b3.mjs",
+    "beforeSha256": "8698617e0e07ace815579d50d389d5ad1dc075ee69badd5c7c02956a4702d6b3",
+    "afterSha256": "2feae52c2068f21021cec94010e5989ab52f130de53645346ebcdfb7b3162bb6"
+  },
+  {
+    "module": "reasoning/native/wine-ru.mjs",
+    "source": "Movies/Wineandmilk-ru.swf",
+    "sourceSha256": "cfebb923d2baa7ae0f85cdbfb2e42479b5f841e01b63b4daff850b4c8dcd0c3b",
+    "groups": 2480,
+    "backup": ".cache/reasoning-filter-originals/wine-ru-e0e4106d787eee07a4251465adf1c440db6aead0354d325ec22c2e0f0f4829a9.mjs",
+    "beforeSha256": "e0e4106d787eee07a4251465adf1c440db6aead0354d325ec22c2e0f0f4829a9",
+    "afterSha256": "795a935600c71e4c080d0a69f32f7d655925a8081e8c0a0cd946056098ee08f8"
+  },
+  {
+    "module": "reasoning/native/bacteria-en.mjs",
+    "source": "Movies/Bacteria.swf",
+    "sourceSha256": "f1ffdcfb2ce1866285e6c7cceba588ab4ce370a72fbb446f69284b5869a48509",
+    "groups": 512,
+    "backup": ".cache/reasoning-filter-originals/bacteria-en-2b076c921e9e55efa0ccf652ed9174f0b964ad14b89e46be302ab55aa4c584ee.mjs",
+    "beforeSha256": "2b076c921e9e55efa0ccf652ed9174f0b964ad14b89e46be302ab55aa4c584ee",
+    "afterSha256": "6b15feefee79b7b3889423f8f115cfc81a2339c6c728de5537b975d21cbf4f7e"
+  },
+  {
+    "module": "reasoning/native/bacteria-ru.mjs",
+    "source": "Movies/Bacteria-ru.swf",
+    "sourceSha256": "1a2dd284998949f136f5d7fa89c8237b8ad167b87b583e3bc54bcaf5663a7c38",
+    "groups": 506,
+    "backup": ".cache/reasoning-filter-originals/bacteria-ru-98d9b7085e0df04fc4910c87cce5b44211b5431020e56f84c2dbb78a3d4712df.mjs",
+    "beforeSha256": "98d9b7085e0df04fc4910c87cce5b44211b5431020e56f84c2dbb78a3d4712df",
+    "afterSha256": "846743d5f7f982cee608bffe5b9fed8c0bf5c0f2c46db4b0b9999342acf4b1b0"
+  },
+  {
+    "module": "reasoning/native/hand-en.mjs",
+    "source": "Movies/Hand1000.swf",
+    "sourceSha256": "52a73f78b3efb7efeb4ebdea48879d09ae734b3672b1ae6aadb8aa468f3e9384",
+    "groups": 430,
+    "backup": ".cache/reasoning-filter-originals/hand-en-569d254eb95019c67782038afc0bb9c97fde274c599431d44d3c5aa19b3b2590.mjs",
+    "beforeSha256": "569d254eb95019c67782038afc0bb9c97fde274c599431d44d3c5aa19b3b2590",
+    "afterSha256": "26994b5fd5c1acd1754ad8808fbd272973ff859fb017c64e8abf61c1720e4df5"
+  },
+  {
+    "module": "reasoning/native/hand-ru.mjs",
+    "source": "Movies/Hand1000-ru.swf",
+    "sourceSha256": "0b8eab02886c72639c654d39652b4383e891f1b964cb4201bccff53baa5c9544",
+    "groups": 430,
+    "backup": ".cache/reasoning-filter-originals/hand-ru-0271eca3e65e69e654ddb3aa4ee89e31ae1200d384b0ed9761dfb92971d45d6e.mjs",
+    "beforeSha256": "0271eca3e65e69e654ddb3aa4ee89e31ae1200d384b0ed9761dfb92971d45d6e",
+    "afterSha256": "6c767d4db50cd7d037a374f23cfaa9dad058967ccacc00c93cd2eceeb59723d9"
+  }
+]

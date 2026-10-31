@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Find and connect.swf",
+      "sourceSha256": "ece46b2297d35121cb64830a03e49e90a613ecd6ee8056eb92a677bc334bf5d4",
+      "textBounds": {
+        "text2": [
+          -871,
+          184,
+          4146,
+          5153
+        ],
+        "text55": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Find and connect.swf",
+      "sourceSha256": "ece46b2297d35121cb64830a03e49e90a613ecd6ee8056eb92a677bc334bf5d4",
+      "textBounds": {
+        "text2": [
+          -871,
+          184,
+          4146,
+          5153
+        ],
+        "text55": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    }
+  }
+}

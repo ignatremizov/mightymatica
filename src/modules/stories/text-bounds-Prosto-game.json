@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Prosto-game.swf",
+      "sourceSha256": "248cf3bbf04e8d05698ebf3a33823b437f8df6deb7f34435f4666f64d8431b21",
+      "textBounds": {
+        "text35": [
+          30,
+          297,
+          9512,
+          5016
+        ],
+        "text40": [
+          30,
+          308,
+          9733,
+          3337
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Prosto-game.swf",
+      "sourceSha256": "248cf3bbf04e8d05698ebf3a33823b437f8df6deb7f34435f4666f64d8431b21",
+      "textBounds": {
+        "text35": [
+          30,
+          297,
+          9512,
+          5016
+        ],
+        "text40": [
+          30,
+          308,
+          9733,
+          3337
+        ]
+      }
+    }
+  }
+}

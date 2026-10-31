@@ -4,6 +4,7 @@ import type { LessonClock } from "../../shared/OriginalLesson";
 import { t } from "../../shared/contracts";
 import type { ActivityProps } from "../../shared/contracts";
 import lessons from "./native-lessons.json";
+import sourceControls from "./source-controls.json";
 import { subtraction, subtractionExampleIndex } from "./rules";
 
 const eligibleNumbers = Array.from({ length: 900 }, (_, index) => index + 100)
@@ -33,6 +34,9 @@ export default function MagicLesson({ kind, explorer, locale, reducedMotion }: A
   explorer: ReactNode;
 }) {
   const [complete, setComplete] = useState(false);
+  const hint = kind === "hourglasses"
+    ? sourceControls.find(row => row.key === `${kind}:${locale}`)?.actionHotspots.bHint
+    : undefined;
   const [open, setOpen] = useState(false);
   const [examples, setExamples] = useState(() => Array.from({ length: 20 }, () =>
     eligibleNumbers[Math.floor(Math.random() * eligibleNumbers.length)]!));
@@ -53,7 +57,7 @@ export default function MagicLesson({ kind, explorer, locale, reducedMotion }: A
         ? t(locale, "Mysterious subtraction", "Удивительное вычитание")
         : t(locale, "Two hourglasses", "Двое песочных часов")}
       stopLabels={kind === "hourglasses" ? { 765: t(locale, "HINT", "ПОДСКАЗКА") } : undefined}
-      stopHotspots={kind === "hourglasses" ? { 765: { x: 418, y: 353.15, width: 107, height: 37 } } : undefined}
+      stopHotspots={hint ? { 765: hint } : undefined}
       drawOverlay={drawOverlay}
       onComplete={() => setComplete(true)}
       onRestart={() => {

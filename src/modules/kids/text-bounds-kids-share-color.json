@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Sharecolor-eng.swf",
+      "sourceSha256": "8d130a7e70236dcc1a17d10b44d6b1a604593795f485ed4d9eceef6c8d81eee4",
+      "textBounds": {
+        "text85": [
+          -1144,
+          250,
+          4475,
+          4105
+        ],
+        "text108": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Sharecolor-eng.swf",
+      "sourceSha256": "8d130a7e70236dcc1a17d10b44d6b1a604593795f485ed4d9eceef6c8d81eee4",
+      "textBounds": {
+        "text85": [
+          -1144,
+          250,
+          4475,
+          4105
+        ],
+        "text108": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    }
+  }
+}

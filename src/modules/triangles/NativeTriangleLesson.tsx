@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState, type ReactNode } from "react";
 import type { ActivityProps } from "../../shared/contracts";
 import OriginalLessonPlayer from "../../shared/OriginalLessonPlayer";
+import type { OriginalLessonPlayerProps } from "../../shared/OriginalLessonPlayer";
 import { validateOriginalLesson } from "../../shared/OriginalLesson";
 import { sourceTriangleOptions } from "./SourceTriangleQuiz";
 import { triangleCorrectChoice, triangleLessonTransport } from "./TriangleLessonRules";
@@ -59,7 +60,7 @@ export default function NativeTriangleLesson({ activityId, locale, reducedMotion
   const sourceControlProps = useMemo(() => transport ? triangleSourceControls(title, language, transport) : null, [title, language, transport]);
   const interactions = sourceInteractions[`${title}:${language}` as keyof typeof sourceInteractions];
   const actions = useMemo(() => {
-    const result: Record<number, { label: string; targetFrame: number }[]> = {};
+    const result: { [frame: number]: NonNullable<OriginalLessonPlayerProps["stopActions"]>[number] } = {};
     source?.gates.forEach((gate, index) => {
       const correctChoice = triangleCorrectChoice(title, index, gate.correctChoice);
       result[gate.frame] = sourceTriangleOptions(title, index, locale).map((label, choice) => ({
@@ -70,9 +71,10 @@ export default function NativeTriangleLesson({ activityId, locale, reducedMotion
     });
     if (source?.hintFrame) result[source.hintFrame] = [{
       label: ru ? "Подсказка" : "Hint", targetFrame: source.hintFrame + 1,
+      hotspot: sourceControlProps?.stopHotspots[source.hintFrame],
     }];
     return result;
-  }, [source, title, locale, ru]);
+  }, [source, sourceControlProps, title, locale, ru]);
   if (error) return <p role="alert">{ru ? "Не удалось загрузить урок." : "The lesson could not be loaded."}{" "}
     <button className="button" onClick={() => setAttempt(attempt + 1)}>{ru ? "Повторить" : "Try again"}</button></p>;
   if (!source || !transport || !sourceControlProps) return <p role="status">{ru ? "Загрузка урока…" : "Loading lesson…"}</p>;
@@ -92,10 +94,10 @@ export default function NativeTriangleLesson({ activityId, locale, reducedMotion
       stopActions={actions}
       onStop={setStoppedFrame}
       onLeaveStop={() => setStoppedFrame(null)}
-      stageOverlay={source.interactionFrame === stoppedFrame && interactions?.vertices.length === 3
-        ? <SourceDragStage vertices={interactions.vertices} mode={title as "medians" | "altitudes" | "bisectors"} locale={locale} />
+      stageOverlay={(source.interactionFrame === stoppedFrame || (title === "false-proof" && complete)) && interactions?.vertices.length === 3
+        ? <SourceDragStage vertices={interactions.vertices} mode={title as "medians" | "altitudes" | "bisectors" | "false-proof"} locale={locale} />
         : undefined}
-      onComplete={() => { setComplete(true); if (title === "false-proof") setExplore(true); }}
+      onComplete={() => setComplete(true)}
       onRestart={() => { setComplete(false); setExplore(false); setStoppedFrame(null); }}
     />
     {question && <details>
@@ -115,7 +117,7 @@ export default function NativeTriangleLesson({ activityId, locale, reducedMotion
       "Биссектриса делит катет на 4 и 5, значит катет равен 9. Отношение соседнего катета к гипотенузе — 4:5; стороны равны 9, 12 и 15. Площадь: 9 × 12 / 2 = 54, а не 240." :
       "The bisector splits a leg into 4 and 5, so that leg is 9. The adjacent leg and hypotenuse have ratio 4:5; the sides are 9, 12 and 15. The area is 9 × 12 / 2 = 54, not 240."}</p>}
     {complete && <details open={explore} onToggle={event => setExplore(event.currentTarget.open)}>
-      <summary>{title === "false-proof" ? (ru ? "Подсказка: двигайте вершины" : "Hint: move the vertices") :
+      <summary>{title === "false-proof" ? (ru ? "Исследовать рассуждение" : "Explore the reasoning") :
         ru ? "Исследовать математику" : "Explore the mathematics"}</summary>
       {explore && children}
     </details>}

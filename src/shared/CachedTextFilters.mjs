@@ -1,5 +1,5 @@
 /**
- * Bounded source-resolution effects for reviewed static FFDec text only.
+ * Bounded source-resolution effects for reviewed, source-bounded drawings.
  * Generated drawing modules embed this function; it has no external runtime.
  */
 export function createCachedTextFilters({ place, filters, enhanceContext, createCanvas,
@@ -15,7 +15,9 @@ export function createCachedTextFilters({ place, filters, enhanceContext, create
   const numberKey = value => Math.round(value * 1e7) / 1e7;
   return {
     dispose,
-    draw(symbol, canvas, context, matrix, color, chain) {
+    draw(symbol, canvas, context, matrix, color, chain, sample = null) {
+      if (sample !== null && (!Array.isArray(sample) || sample.length !== 3
+        || !sample.every(Number.isFinite))) throw new Error("Invalid drawing sample.");
       // The legacy enhancer does not track native scale()/rotate() calls.
       // Read the real CTM so high-DPI root scaling cannot misplace the ink.
       const actual = context.getTransform?.();
@@ -59,8 +61,11 @@ export function createCachedTextFilters({ place, filters, enhanceContext, create
       // filter order all participate. Moving by whole pixels can reuse ink;
       // moving by a fractional pixel cannot silently reuse different coverage.
       const local = [...transform.slice(0, 4), transform[4] - left, transform[5] - top];
-      const key = JSON.stringify([symbol, cropWidth, cropHeight,
-        local.map(numberKey), color, chain]);
+      const identity = [symbol, cropWidth, cropHeight, local.map(numberKey), color, chain];
+      // An explicitly reviewed animated subtree must retain all three original
+      // clock arguments. Never reuse a different pose, morph ratio or time.
+      if (sample !== null) identity.push(sample);
+      const key = JSON.stringify(identity);
       let entry = cache.get(key);
       if (entry) {
         cache.delete(key);
@@ -73,9 +78,10 @@ export function createCachedTextFilters({ place, filters, enhanceContext, create
           parent[0] * scale, parent[1] * scale, parent[2] * scale,
           parent[3] * scale, parent[4] * scale - left, parent[5] * scale - top,
         ]);
-        // Only statically verified text reaches this path: no sprite clock,
-        // ActionScript, blend mode, image pattern or dynamic text is cached.
-        place(symbol, canvas, target, matrix, color, 1, 0, 0, 0);
+        // Static callers retain their original zero-clock contract. Animated
+        // callers require a separately verified finite subtree and bounds.
+        place(symbol, canvas, target, matrix, color, 1,
+          sample?.[0] ?? 0, sample?.[1] ?? 0, sample?.[2] ?? 0);
         for (const [kind, ...args] of chain) {
           image = filters[kind](image, image.getContext("2d"), ...args);
         }

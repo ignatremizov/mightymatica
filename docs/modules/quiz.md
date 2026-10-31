@@ -1,5 +1,24 @@
 # Math Olympics / permutations quizzes
 
+## Rendering/performance review (2026-10-31)
+
+Both `quiz-permutations` and `quiz-permutations-more` were reviewed through
+`index.tsx`, `rules.ts`, `questions.json`, `useQuizMusic.ts` and the family CSS.
+These two activities render event-driven semantic question/choice/feedback
+markup; neither ships a generated Canvas painter or runs full-canvas text
+glow/shadow loops. Their only recurring work is the finite active music owner;
+selection, lifelines, answer confirmation and terminal feedback do not request
+per-frame React state updates. No concrete bounded rendering defect requiring
+a change was found. All questions, choices, source scoring exceptions, gates,
+music transitions and feedback remain unchanged.
+
+The combined focused logic/magic/quiz check passed 27 tests, including the quiz
+question keys, defective urn handling, loss milestones and lifeline invariants.
+No browser, audio listening, FPS or pixel-parity verification was performed;
+integrated checks remain Main's responsibility. Manual review should retain
+both full quiz flows, keyboard focus, long-question wrapping and terminal
+feedback as acceptance checks.
+
 ## Source-stage presentation review
 
 Both recovered quiz `DOMDocument.xml` files specify a white stage. Their XFL

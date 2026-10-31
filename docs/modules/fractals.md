@@ -1,5 +1,97 @@
 # Fractals, Buffon, and the Möbius face
 
+## Source-painted Buffon Play/Pause controls (2026-10-31)
+
+Buffon's existing painted Play/Pause controls now have transparent semantic
+hit areas throughout their actual authored placements:
+
+| Source | Reviewed source transport | Inclusive global frame spans |
+| --- | --- | --- |
+| `byufon` | Symbol 44 / `pp_10` | 986–2795, 2796–3872, 3876–4211 |
+| `byufon-ru` | Symbol 41 / `pp_9` | 851–2660, 2661–3304, 3423–3818 |
+
+Both source classes explicitly stop the two-state nested transport, selecting
+Pause after `go` plays the root and Play after `halt` stops it. Only these
+verified sprite painters now follow the native player's playback selection.
+Other sprites, demonstration motion, all existing stops, narration and
+background playback are unchanged. Hit areas do not extend through the source
+gaps or replace the original artwork. The original six demonstration holds
+still resume through the existing player's action.
+
+The family `source-controls.json` retains original source hashes, XFL global
+placement spans and transformed original Hit bounds.
+`python3 src/modules/motion/recover-source-controls.py` regenerates this
+evidence with the shared structured XFL/SWF reader. The source-control audit
+also checked the carpet and Möbius-face root timelines; neither has a source
+pp transport to wire or freeze.
+
+`node scripts/motion-fractal-playback-control.mjs --apply fractals` patches
+only the reviewed pp sprites across eight existing Buffon chapters. Original
+painters are backed up under `.cache/motion-fractal-playback-originals/`;
+syntax, unchanged metadata/exports, concurrent edits and repeat idempotence
+are checked before replacement. The existing recovery tool reapplies this
+bounded patch after its optimization passes.
+The combined exact path/hash handoff is
+`src/modules/motion/playback-control-patches.json`; each original backup is
+named by its recorded before SHA-256.
+
+Verification: 20 focused Motion/Fractals and playback-patcher tests passed.
+All 25 combined painter candidates passed syntax and metadata/export checks;
+a repeat pass changed zero files. Both edited TSX wrappers passed syntax
+parsing, not full type-checking. No browser, server, compiler/build, full
+suite or publication was run.
+
+Manual acceptance: in both Buffon languages activate each source Play at the
+three demonstration holds, pause/resume while it remains painted, check
+chapter transitions and original narration, then Restart. Confirm keyboard
+focus and background playback. No visual or audible parity is claimed.
+
+## Embedded-bitmap eligibility follow-up (2026-10-31)
+
+The existing source-bound static optimizer was rerun across all ten chapters
+after adding the reviewed closed embedded-bitmap fill grammar. No additional
+fractal bitmap blocks qualified, so this follow-up makes no painter changes.
+Source verification, stroke exclusions, existing text caches and all original
+effects remain. The grammar does not authorize animated/dynamic artwork,
+arbitrary clipping, external images or nested-filter changes. No nested optimizer,
+dense benchmark, browser or full build was run in this follow-up.
+
+## Text-filter performance review
+
+All three activities and all ten native chapters were reviewed. Four actual
+source variants are recorded in the family `text-bounds.json`: carpet,
+English/Russian Buffon and English-only Möbius face. Bounds are parsed from
+the preserved source binaries and checked against the lesson source hashes;
+English-only lessons are not presented as newly recovered translations.
+
+`node src/modules/motion/optimize-painters.mjs fractals --apply` replaced
+2,039 repeated static-text filter blocks using the reviewed cropped,
+source-density bounded cache, without removing authored effects.
+Originals are retained in `.cache/fractals-filter-originals/`; source hashes,
+syntax, metadata/exports, concurrent edits and idempotence are checked.
+No direct shadow/glow calls remain in these chapters' generated `main`
+dispatchers; the original filter implementations remain for fallback.
+
+A subsequent review added source-hashed `drawing-bounds.json` evidence for
+all four source variants and reran the extended pure-vector composite
+recognizer over all ten chapters. No further filter blocks qualified and no
+painter bytes changed. The family optimizer excludes stroked shapes
+conservatively rather than assuming an affine rectangle bounds FFDec NORMAL
+stroke expansion at arbitrary transforms. Existing text evidence is retained.
+
+The supplementary Möbius explorer also retains its 384 strip polygons while
+the face moves: polygon projection now recomputes only on view-angle changes.
+Direct dragging, transport, orientation, timing and controls are unchanged.
+Carpet cutouts were already memoized by depth (five levels maximum), and Buffon
+already limits visible needles to 300 and batches to 50 at ten updates/second.
+Neither explorer's teaching behavior or limits changed.
+
+All ten candidates passed syntax and deep-equal metadata/export checks.
+A second optimization pass changed nothing. The narrow motion/fractal suite
+passed all 15 tests. No browser, FPS, listening or pixel-parity claim is made.
+Manually inspect caption effects and chapter transitions, carpet depth/zoom,
+the bounded needle experiment and Möbius face playback plus direct view drag.
+
 Original native-drawing audiovisual lessons are primary. Mathematical explorers
 remain supplementary adaptations, not timeline-exact restorations.
 

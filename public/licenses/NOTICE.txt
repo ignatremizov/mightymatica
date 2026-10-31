@@ -1,5 +1,5 @@
 MightyMatica — third-party Canvas runtime notice
-Modified runtime release date: 2026-10-30
+Modified runtime release date: 2026-10-31
 
 Native Canvas timelines incorporate modified JPEXS Free Flash Decompiler
 Filters runtime code from FFDec 26.2.1's ffdec_lib, under GNU LGPL version 3.

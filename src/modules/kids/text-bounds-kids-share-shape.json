@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Shareform-eng.swf",
+      "sourceSha256": "83b67ab98172c3f75bbcc95e7c7ed26a5ac57831df077b1852ce4347905f6a25",
+      "textBounds": {
+        "text85": [
+          -1144,
+          250,
+          4475,
+          4106
+        ],
+        "text108": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Shareform-eng.swf",
+      "sourceSha256": "83b67ab98172c3f75bbcc95e7c7ed26a5ac57831df077b1852ce4347905f6a25",
+      "textBounds": {
+        "text85": [
+          -1144,
+          250,
+          4475,
+          4106
+        ],
+        "text108": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    }
+  }
+}

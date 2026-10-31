@@ -2,6 +2,7 @@ import { useMemo, useState } from "react";
 import type { ActivityProps } from "../../shared/contracts";
 import paradoxScenes from "./paradox-scenes.json";
 import OriginalLessonPlayer from "../../shared/OriginalLessonPlayer";
+import { reasoningSourceControls } from "./sourceControls";
 import timelines from "./native-timelines.json";
 import audio from "./lesson-audio.json";
 import { reasoningSegment } from "./lessonFlow";
@@ -36,6 +37,7 @@ export default function ParadoxBox(props: ActivityProps) {
     scene.key === "triangle" ? 10 : 24) : null, [scene, props.locale]);
   if (!scene || !lesson) return <p>Unknown paradox.</p>;
   const local = props.locale === "ru" ? 1 : 0;
+  const controls = reasoningSourceControls("paradox", props.locale);
   return <section className="activity-layout reasoning-family">
     <p>{local ? "Проследите исходные части через всю перестановку. Меняется ли число фигур или площадь? Исследуйте швы и разрезы, затем откройте объяснение."
       : "Follow the original pieces through the rearrangement. Does the count or area change? Inspect seams and cuts, then request the explanation."}</p>
@@ -43,6 +45,7 @@ export default function ParadoxBox(props: ActivityProps) {
       {local ? "Увеличить разрезы" : "Magnify cuts"}</button>
     <div className={zoom ? "reasoning-timeline reasoning-timeline-zoom" : "reasoning-timeline"}>
       <OriginalLessonPlayer lesson={lesson} reducedMotion={props.reducedMotion} locale={props.locale}
+        playbackHotspots={controls.playbackHotspots}
         label={scene.title[local]} onComplete={() => setComplete(true)}
         onRestart={() => { setComplete(false); setRevealed(false); }} />
     </div>

@@ -1,0 +1,97 @@
+[
+  {
+    "family": "algebra",
+    "key": "transform",
+    "source": "Movies/Algbra trans.swf",
+    "sourceSha256": "11ef268954fa54ad434523222a8c504f9d7192dcb53ec1cc1bc878d377eba0db",
+    "sprite": "sprite41",
+    "sourceClass": "Algbratrans_fla.pp_14",
+    "playbackHotspots": [
+      {
+        "firstFrame": 481,
+        "lastFrame": 1710,
+        "x": 14.03492,
+        "y": 17.57286,
+        "width": 83.81468,
+        "height": 31.76009
+      }
+    ],
+    "actionHotspots": {},
+    "navigationMenus": []
+  },
+  {
+    "family": "algebra",
+    "key": "quadratic",
+    "source": "Movies/Quadratic eq.swf",
+    "sourceSha256": "c7cf28afa587d386160f9e6ecd332d590ea3398dcbf6c07cdeb0035e3b57f1fa",
+    "sprite": "sprite63",
+    "sourceClass": "Quadraticeq_fla.pp_2",
+    "playbackHotspots": [
+      {
+        "firstFrame": 36,
+        "lastFrame": 2693,
+        "x": 12.97239,
+        "y": 21.04364,
+        "width": 70.16756,
+        "height": 26.58876
+      }
+    ],
+    "actionHotspots": {},
+    "navigationMenus": [
+      {
+        "firstFrame": 37,
+        "lastFrame": 4030,
+        "items": [
+          {
+            "chapter": 1,
+            "targetFrame": 37,
+            "x": 140,
+            "y": 383.95,
+            "width": 30.95,
+            "height": 9.95
+          },
+          {
+            "chapter": 2,
+            "targetFrame": 851,
+            "x": 186.5,
+            "y": 384.3,
+            "width": 30.95,
+            "height": 9.95
+          },
+          {
+            "chapter": 3,
+            "targetFrame": 1058,
+            "x": 231.5,
+            "y": 384.3,
+            "width": 30.95,
+            "height": 9.95
+          },
+          {
+            "chapter": 4,
+            "targetFrame": 1312,
+            "x": 275.5,
+            "y": 384.3,
+            "width": 30.95,
+            "height": 9.95
+          },
+          {
+            "chapter": 5,
+            "targetFrame": 1646,
+            "x": 318.5,
+            "y": 384.3,
+            "width": 30.95,
+            "height": 9.95
+          },
+          {
+            "chapter": 6,
+            "targetFrame": 2646,
+            "x": 363.5,
+            "y": 383.95,
+            "width": 30.95,
+            "height": 9.95
+          }
+        ]
+      }
+    ]
+  }
+]

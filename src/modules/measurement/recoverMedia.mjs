@@ -59,3 +59,9 @@ for (const item of configurations) {
 if (mode === "--audio") {
   await writeFile(resolve(import.meta.dirname, "lessonData.json"), JSON.stringify(lessons, null, 2) + "\n");
 }
+if (mode === "--convert-reviewed" || mode === "--patch-reviewed") {
+  run(["src/modules/measurement/optimize-circle.mjs", "--apply"]);
+}
+if (mode === "--convert-reviewed") {
+  run(["src/modules/measurement/optimize-lessons.mjs", "--apply"]);
+}

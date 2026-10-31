@@ -26,6 +26,11 @@ def recover(definition):
     functions = dict(re.findall(r"function\s+(\w+)\([^)]*\)\s*:\s*[\w*]+\s*\{([\s\S]*?)\n      \}", script))
     text_hits = SHARED["text_button_hits"](base, name)
     cache = {}
+    false_proof = name in ("Alltriangles", "Alltriangles-ru")
+    drag_frame = definition["endFrame"] if false_proof else definition.get("interactionFrame", -1)
+    # These plain circles are centered on their registration; the other
+    # lessons' labelled vertex sprites register at the circle's top-left.
+    center_offset = 0 if false_proof else 8
 
     def bounds(symbol, depth=0):
         if depth > 12:
@@ -75,7 +80,7 @@ def recover(definition):
             end = start+int(frame.get("duration", "1"))-1
             for instance in frame.findall("x:elements/x:DOMSymbolInstance", NS):
                 identity = instance.get("name", "")
-                if re.fullmatch(r"bNext\d*|bProof\d*", identity):
+                if re.fullmatch(r"bNext\d*|bProof\d*|bHint", identity):
                     resume = []
                     for function, body in functions.items():
                         key = re.fullmatch(r"frame(\d+)", function)
@@ -96,14 +101,14 @@ def recover(definition):
                         continuation.append(dict(id=identity, firstFrame=start, lastFrame=end,
                                                  resumeFrames=sorted(set(resume)),
                                                  rect=rect(transform(bounds(instance.get("libraryItemName")), matrix(instance)))))
-                if identity in ("mc", "mc2", "mc3") and start <= definition.get("interactionFrame", -1) <= end:
+                if identity in ("mc", "mc2", "mc3") and start <= drag_frame <= end:
                     m = matrix(instance)
                     item = ET.parse(library / f'{instance.get("libraryItemName")}.xml').getroot()
                     texts = item.findall(".//x:DOMStaticText", NS)
                     label = next(("".join(t.itertext()).strip() for t in item.findall(".//x:characters", NS)
                                   if "".join(t.itertext()).strip() in ("A", "B", "C")), {"mc": "A", "mc2": "B", "mc3": "C"}[identity])
                     color = item.find(".//x:DOMShape/x:fills/x:FillStyle/x:SolidColor", NS)
-                    vertices[identity] = dict(label=label, x=round(m[4]+8, 5), y=round(m[5]+8, 5),
+                    vertices[identity] = dict(label=label, x=round(m[4]+center_offset, 5), y=round(m[5]+center_offset, 5),
                                               color=color.get("color") if color is not None else "#0000ff",
                                               sourceFootprint=rect(transform(bounds(instance.get("libraryItemName")), m)))
                     if texts:
@@ -113,10 +118,10 @@ def recover(definition):
                                                         float(text.get("height"))/20], matrix(text)), m)
                         font = text.find(".//x:DOMTextAttrs", NS)
                         vertices[identity]["labelOffset"] = dict(
-                            x=round(text_box[0]-m[4]-8, 5), y=round(text_box[3]-m[5]-8, 5),
+                            x=round(text_box[0]-m[4]-center_offset, 5), y=round(text_box[3]-m[5]-center_offset, 5),
                             size=round(float(font.get("size"))*abs(m[0]), 5))
         offset += length
-    if definition.get("interactionFrame") and len(vertices) != 3:
+    if drag_frame >= 0 and len(vertices) != 3:
         raise ValueError(f"Missing source drag targets: {name}")
     return dict(source=definition["source"], continuation=continuation,
                 vertices=[vertices[key] for key in ("mc", "mc2", "mc3") if key in vertices])

@@ -1,5 +1,177 @@
 # Triangle constructions
 
+## In-place Hint review (2026-10-31)
+
+The false-isosceles proof was the other confirmed automatic second-diagram
+case after the Wisemen repair. Hint now finishes its original two-frame audio
+continuation and enables the movable construction in the same 550 × 400
+lesson picture. It no longer automatically opens a second diagram underneath.
+The full reasoning explorer remains explicitly optional.
+
+`recover-interactions.py` recovers the original EN/RU `bHint` hit artwork and
+the final `mc`, `mc2`, `mc3` registrations. These three plain circles are centered
+on their registration, unlike the other lessons' labelled vertex sprites.
+The existing geometry overlay now draws the false-proof construction using
+source vertex C as its angle-bisector vertex. Infinite construction lines are
+clipped to the fixed stage; offscreen intersections never rescale the picture
+or detach a dragged vertex from the pointer. Pointer/keyboard movement and
+gesture cancellation reuse the existing source-stage controls.
+
+The existing player, audio owner, Hint gate, narration, mute choice and Restart
+remain intact. No drawing module or recording was changed. Source evidence is
+the complete English/Russian Alltriangles root controllers and final XFL
+vertex placements. Other audiovisual Hint wrappers were inspected for secondary
+player mounts; the motion, magic, coloring, reasoning and remaining triangle
+flows already continue in one player.
+
+Verification: 32 focused logic/triangle/motion/magic/reasoning/coloring checks,
+TypeScript, and production/loading/native-only build checks passed. Repeating
+the interaction recovery preserves all other variants' metadata; only the two
+false-proof entries gained source Hint and vertex data. The local composed
+preview was refreshed without changing any native media or the portfolio.
+
+Manual acceptance still needs both languages: reach Hint, click its original
+artwork, move all three vertices in the same picture, then Restart and verify
+that the movable overlay disappears and the question remains gated. Check
+mouse, touch and keyboard, including a far-away intersection. No browser or
+listening verification is claimed.
+
+## Nested static-text follow-up (2026-10-31)
+
+Russian Inscribed Angle chapter 1 qualified for the strict nested-filter
+rewrite: 134 outer blocks around the one-frame static-text `sprite80`.
+The wrapper function, existing shape/composite caches, authored filter stages,
+lesson timing and source interaction boundaries remain unchanged. The full
+chain runs at source density; exact DPR>1 mixed-density pixel parity is not
+claimed. The source-verified leaf mapping, original backup, result hashes and
+focused checks are recorded in [the nested-filter review](../reviews/nested-filter-optimization.md)
+and its JSON companion. No browser/FPS or audio verification was performed.
+
+## Rendering-performance review (2026-10-31)
+
+### Static-vector follow-up
+
+The subsequent conservative static-drawing pass recovered authoritative
+ShapeBounds plus text bounds from all 21 immutable source SWFs into eleven
+`<title>-drawing-bounds.json` files. Existing text-only evidence is retained.
+The family recovery command now produces both evidence sets; its apply/check
+modes validate both source mappings and hashes and pass drawing bounds to the
+reviewed shared patcher. The existing recovery hook reapplies this broader pass.
+
+The shared patcher accepts static solid paths and recursive one-frame pure
+placement composites, but not nested filters, morphs, masks or gradients.
+An additional family-local AST guard removes shape eligibility when any
+incoming placement or ancestor path includes rotation, shear or anisotropic
+scaling. This conservatively addresses FFDec `drawPath` NORMAL strokes using
+an isotropic screen-space width rather than assuming arbitrary transformed
+source rectangles establish pixel parity. Text eligibility remains unchanged.
+
+Ten painters gained another **13,541 cached static drawing groups**:
+
+| Title | New groups EN / RU | Remaining active filter calls EN / RU |
+| --- | --- | --- |
+| Bisectors | 1093 / 1093 | 0 / 0 |
+| Cosine law | 1004 / 644 | 0 / 0 |
+| False proof | 1187 / 2267 | 0 / 0 |
+| Inscribed angle, chapter 1 | 870 / 867 | 0 / 310 |
+| Trigonometric addition | 3287 / 1229 | 0 / 0 |
+
+The other 21 painters are unchanged in this follow-up, including all four
+Altitudes and all four Pythagoras chapters. Residual Russian Inscribed angle
+chapter-1 filters involve `sprite80`, which contains an already-filtered
+`text79`, and `sprite137`, a `shape136` wrapper placed with a non-unit placement
+argument. These remain original full-stage effects; they were not flattened
+or removed. Every painter also retains the four internal bevel-library shadow
+call sites, which are not root-timeline active filter blocks.
+
+Each changed painter was backed up under its SHA-256 before replacement;
+candidate syntax and deep metadata/export contracts passed for all ten.
+Authored filter arguments, placement blend/alpha behavior, narration, timing
+and source question gates were preserved. The subsequent 31-painter check
+verified no further rewrite changes. The same 15 narrow triangle tests passed.
+No browser, dense baseline benchmark, integrated build or pixel-parity check
+was run. Visual edge/stroke verification remains required, and the retained
+nontext effects above remain an acknowledged performance limit.
+
+### Initial static-text pass
+
+Reviewed all eleven titles, 21 source-language definitions and 31 native
+painters. Static captions were repeatedly allocated and filtered across the
+whole presentation canvas on every authored frame. The family-wide
+`src/modules/triangles/optimize-painters.mjs` now applies the reviewed shared
+text-only crop/cache rewrite to the existing painters. It preserves source
+font paths, authored glow/shadow arguments, narration, timing, question gates,
+playback adapters, vertex interactions and public renderer metadata/exports.
+Twenty-seven painters changed; the four previously cached Altitudes painters
+were verified and left byte-for-byte unchanged.
+
+Coverage and remaining original full-stage nontext filter call sites:
+
+| Title | Painters reviewed | Changed | Remaining EN / RU |
+| --- | ---: | ---: | --- |
+| False proof | 2 | 2 | 1187 / 2267 |
+| Congruence | 4 | 4 | 0 / 0 |
+| Pythagoras | 4 | 4 | 0 / 0 |
+| Medians | 4 | 4 | 0 / 0 |
+| Altitudes | 4 | 0 | 0 / 0 |
+| Bisectors | 2 | 2 | 1373 / 1373 |
+| Cosine law | 2 | 2 | 1004 / 644 |
+| Sine law | 2 | 2 | 0 / 0 |
+| Inscribed angle | 3 | 3 | 870 / 1177 |
+| Trigonometric addition | 2 | 2 | 3287 / 1229 |
+| Palm trigonometry | 2 | 2 | 0 / not available |
+
+Counts are generated call sites, not simultaneous calls in one frame. They
+exclude four internal bevel-library shadow calls in each painter. Residual
+calls place nontext vector shapes, often inside one-frame sprites: for example
+Bisectors `sprite140 → shape139`, Cosine law `sprite53 → shape52` and
+`sprite55 → shape54`, and False proof `sprite144 → shape143`. These cannot
+safely use bounds recovered only from static text. Their authored shadows
+remain intact; the family is not claimed universally inexpensive.
+
+Pythagoras' reported quiz/QUESTION transition is in the native lesson, not the
+optional post-lesson `PythagorasQuiz.tsx`. All four native painters were patched:
+521 and 594 static-text filter groups in English chapters 1/2; 1207 and 2996
+in Russian chapters 1/2. The eight original gates remain at English frames
+2218–2723 and Russian frames 2391–3549, including the chapter boundary.
+No browser reproduction, browser FPS, audio listening or pixel-parity claim
+is made here; runtime performance comparison belongs to the coordinated
+serialized diagnostic.
+
+Source evidence: each `native-*-{en,ru}.json` maps to the original immutable
+SWF under `mightymatica-source-recovery/objects/Movies/<name>/original/`.
+All 21 corresponding binary sources were read to recover exact DefineText
+bounds and verified by SHA-256 against the lesson definitions. The mappings
+are Alltriangles, Congruence, Pifagor-gl / Pifagoras Theorem - ru, Mediana,
+Altitudes, Bisector, Coslaw, Sinlaw, Insangle, Trig-cos, and their `-ru`
+variants, plus English-only Palmandtrig. Each title has a family-local
+`<title>-text-bounds.json`; Palmandtrig honestly repeats the English source
+in the recovery tool's required second language slot, without adding Russian
+runtime media. No source archive was modified.
+
+Repeatable commands:
+
+- `node src/modules/triangles/optimize-painters.mjs --recover`: recover bounds
+  from source binaries, without rendering or executing ActionScript.
+- `node src/modules/triangles/optimize-painters.mjs --check`: verify source
+  hashes, inspect all 31 painters and check rewrite idempotence without edits.
+- `node src/modules/triangles/optimize-painters.mjs --apply`: back up each
+  changing painter in `.cache/triangle-filter-originals/`, syntax-check the
+  candidate, deep-compare metadata/export names, guard against concurrent edits,
+  then atomically replace it. Recovery runs this final optimization step too.
+
+Validation: all 27 candidates passed Node syntax checks and deep metadata/export
+comparison; all 31 passed the subsequent no-change/idempotence check. The narrow
+command `node --experimental-strip-types --test tests/triangles.test.mjs
+tests/triangles-lessons.test.mjs tests/triangles-stage.test.mjs` passed all 15
+tests, including the existing 84 question-gate cases and vertex-drag behavior.
+No new unit test was added for static artwork or generated implementation
+details. No integrated compiler, build, full test suite, server or browser ran.
+Manual verification still needed: play the Pythagoras QUESTION transition and
+answer/retry all eight questions in both languages; check text/shadow edges at
+large and narrow sizes, especially across chapter changes; compare the other
+ten titles, and preserve all three direct vertex-drag interludes.
+
 All eleven titles now open with the original animated lesson artwork and
 source-timed event audio, using native Canvas and browser audio rather than
 Flash. Ten titles have separate English/Russian source lessons; palm
@@ -181,7 +353,7 @@ prefix and remain within that owned directory.
 
 - False proof holds at the original HINT stop. An explicit Hint action plays
   the original hint audio at 2016/2266 and enters the native all-vertex hint
-  at 2017/2267. Its native hint opens automatically, and the
+  at 2017/2267. Its native hint occupies the same lesson stage, and the
   intentional-false-proof warning is visible before playback.
 - Congruence plays its definition before the square and circle gates, then
   continues to the three original congruence criteria. The existing native
@@ -284,7 +456,7 @@ Manual acceptance:
 - Check the three mathematical correction disclosures after acceptance.
 - Restart during a question, during narration and after completion; verify no
   stale sound, completion or explorer remains. Switch language during loading.
-- Complete the false proof and open its movable-vertex hint. Complete each other
+- Complete the false proof and move its vertices in the same lesson picture. Complete each other
   title and check its optional explorer. Palm's source remains English in RU UI.
 - In medians, altitudes and bisectors, pause at the source exploration interlude,
   move all vertices by pointer/keyboard and resume the proof. No formulas or

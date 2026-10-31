@@ -1,0 +1,20 @@
+[
+  {
+    "module": "dissections/bills-en.mjs",
+    "source": "Movies/Bills-transform.swf",
+    "sourceSha256": "8e0ab1a7326ae4f4fa94136078330cbcaa9c6fa68d23a5fc671410b626c8aaee",
+    "groups": 0,
+    "beforeSha256": "c934d5af8aa6a96c6bc4937da06f0153ce306bd2451c03c5209a744292d252e2",
+    "afterSha256": "c934d5af8aa6a96c6bc4937da06f0153ce306bd2451c03c5209a744292d252e2",
+    "excludedStrokedShapes": []
+  },
+  {
+    "module": "dissections/bills-ru.mjs",
+    "source": "Movies/Bills-transform-ru.swf",
+    "sourceSha256": "9f88592c3a799fd5410bf9c60c4bc12bb9961cd9fd7d5f67f687597f58c3844e",
+    "groups": 0,
+    "beforeSha256": "e57502c7dd7b52cdbcf5f5fd38ca0ab8dbb5f3b5dba8741abbc10e079aa65646",
+    "afterSha256": "e57502c7dd7b52cdbcf5f5fd38ca0ab8dbb5f3b5dba8741abbc10e079aa65646",
+    "excludedStrokedShapes": []
+  }
+]

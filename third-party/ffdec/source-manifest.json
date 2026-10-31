@@ -1,6 +1,6 @@
 {
   "format": 1,
-  "modifiedDate": "2026-10-30",
+  "modifiedDate": "2026-10-31",
   "records": [
     {
       "path": "public/media/algebra/native/difference/timeline.mjs",
@@ -14,7 +14,7 @@
       "baseline": "baseline/public/media/algebra/native/quadratic/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/algebra/native/quadratic/timeline.mjs",
       "baselineSha256": "dfb99973e285790c86a0fd5f5322c61d0437b955778ed13f7a57b08345a39cfa",
-      "finalSha256": "e2e745579ffb3c8f9cda11d622239ef23be5c856cfb987eaf25c94cc79299eea"
+      "finalSha256": "226bb1bb7ad0e28770a4ff52aab90430b51ccd8f0ba2e88ae4925aef5f8d4b18"
     },
     {
       "path": "public/media/algebra/native/square/timeline.mjs",
@@ -28,7 +28,7 @@
       "baseline": "baseline/public/media/algebra/native/transform/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/algebra/native/transform/timeline.mjs",
       "baselineSha256": "0d3d0620edd4fc243066bf2adc02bff4551004fe55e5eda979e99dfee50b9942",
-      "finalSha256": "b1f48c1c575c9789b934f2583cfaea449830b70db06454e5f76f84532651193d"
+      "finalSha256": "3e48c6af0544dcad5d30fa8d12ced7c6656d43e2b3b9cc448a8ffa6d7f6cc0bc"
     },
     {
       "path": "public/media/calculus/native/en/chapter-1.mjs",
@@ -77,70 +77,70 @@
       "baseline": "baseline/public/media/coloring/native/Threecolorplane-eng/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Threecolorplane-eng/timeline.mjs",
       "baselineSha256": "02afd17af75d2af777505fa1c2d9bde8e0477a7c3080bc859c0216992c50ff90",
-      "finalSha256": "8c318e471b1b9e0f59adff0d12f4ffa008b623965c39f5d6767f49334ced0f58"
+      "finalSha256": "595ddd2343c94b5df068c1a028b47d6bde648bfee709fbcd62cdd04bc880672b"
     },
     {
       "path": "public/media/coloring/native/Threecolorplane-ru/timeline.mjs",
       "baseline": "baseline/public/media/coloring/native/Threecolorplane-ru/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Threecolorplane-ru/timeline.mjs",
       "baselineSha256": "2b426e22883d7c405ae1a38b95a362f5b49f37b398a7d069e0c777d206d6af5e",
-      "finalSha256": "9b72f48848e73673984012535908f6faa3565458293b6859d2548ba68ddce7a4"
+      "finalSha256": "fd1383d6988eeb4ef54794708384f2a0dd00dd436c93e645a15ba0aacdc10514"
     },
     {
       "path": "public/media/coloring/native/Twocoloreqtri-eng/timeline.mjs",
       "baseline": "baseline/public/media/coloring/native/Twocoloreqtri-eng/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Twocoloreqtri-eng/timeline.mjs",
       "baselineSha256": "371f80c076865e92f29419a2caa39a01c3e5fe84440b38167d1f0c6987aaa3c5",
-      "finalSha256": "fa4f433dde63a33e4e5ea3948fc0149c0be5f5530c7c54379a9b702ff0a3f3c0"
+      "finalSha256": "eac7ab74d7b882a3db63db5a748b4a2b9699c5caee455d634e391b0eb658779d"
     },
     {
       "path": "public/media/coloring/native/Twocoloreqtri-ru/timeline.mjs",
       "baseline": "baseline/public/media/coloring/native/Twocoloreqtri-ru/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Twocoloreqtri-ru/timeline.mjs",
       "baselineSha256": "6813779861e5d8bcbdb5a05866d94f4cff8efae32442c1b917146dde45f532f3",
-      "finalSha256": "52b19d9a03faae3d734d9446926ccac164e86993007e9018b5e3269ed9c427e7"
+      "finalSha256": "3129c5e42e2ca47871b80ccf95ce0a9013ce5ccf9d4f9ae39fc2b61f717029dd"
     },
     {
       "path": "public/media/coloring/native/Twocolorplane-eng/timeline.mjs",
       "baseline": "baseline/public/media/coloring/native/Twocolorplane-eng/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Twocolorplane-eng/timeline.mjs",
       "baselineSha256": "416624a0dc01839b0bb1f202ca2ba899762dfc7f5e5202b08af15c31a743f8c9",
-      "finalSha256": "f3344807275d9078e11e6453659c3d7dd98eba2876d1c5f7ea630588d2548bc9"
+      "finalSha256": "be9f77289065a979409131b6617b2703001fc388b8f159f614b59635e9d8b91b"
     },
     {
       "path": "public/media/coloring/native/Twocolorplane/timeline.mjs",
       "baseline": "baseline/public/media/coloring/native/Twocolorplane/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Twocolorplane/timeline.mjs",
       "baselineSha256": "2ae9924530b2507bf739f36dfe2e758db93758f43cf4d27c922d4173489f5398",
-      "finalSha256": "c8b4c943975d182134632b636949d037455c5392f89160e9d7901a2276384808"
+      "finalSha256": "8fdbaaa9371e43297f0978478e5e1ec50399eb6970df41670164703487f5051a"
     },
     {
       "path": "public/media/coloring/native/Twocolorplaneseg-en/timeline.mjs",
       "baseline": "baseline/public/media/coloring/native/Twocolorplaneseg-en/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Twocolorplaneseg-en/timeline.mjs",
       "baselineSha256": "31870c40ffd0759f4191de463853900c82eb6e9ca8e2de857b780635a9f51139",
-      "finalSha256": "5ed63659ddb9f9266ccf6190210a2406ee2d6934217f435a6d4f7a5f0e423b2e"
+      "finalSha256": "8299c59c39f5bc9c3d9865aaef46016554cf1bc77e1eaa91c98b2a7834ca8912"
     },
     {
       "path": "public/media/coloring/native/Twocolorplaneseg-ru/timeline.mjs",
       "baseline": "baseline/public/media/coloring/native/Twocolorplaneseg-ru/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/Twocolorplaneseg-ru/timeline.mjs",
       "baselineSha256": "249e2bb92423761dc0fdee550976f8ec1d021ad5a847f8d62048d40a5462894e",
-      "finalSha256": "f563d20310196f0ff761f89d2e3074d2eeac44897f12248d364561db618e738d"
+      "finalSha256": "0e47cbef5094d43dac53c1fa088e2a6be8971663721a982f2c340ed4ec028b66"
     },
     {
       "path": "public/media/dissections/bills-en.mjs",
       "baseline": "baseline/public/media/dissections/bills-en.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/dissections/bills-en.mjs",
       "baselineSha256": "73a7b9f96b7595c87fbf3f5c2f3865d29a6b393072a72fd1eb63716edbea180d",
-      "finalSha256": "d1f4650a752fdaa10e8b3ac5e0ad60727e2789f67f851736c8c21f7fcfbeded4"
+      "finalSha256": "c934d5af8aa6a96c6bc4937da06f0153ce306bd2451c03c5209a744292d252e2"
     },
     {
       "path": "public/media/dissections/bills-ru.mjs",
       "baseline": "baseline/public/media/dissections/bills-ru.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/dissections/bills-ru.mjs",
       "baselineSha256": "8e68c2555de37878d76681d826ed384ac323d8f22c15a14f89b4aad51cee87ae",
-      "finalSha256": "df16bd125fe67badf4f546892bc8b6eaffe2aacbca4f83bd0c89f30f3cd12a99"
+      "finalSha256": "e57502c7dd7b52cdbcf5f5fd38ca0ab8dbb5f3b5dba8741abbc10e079aa65646"
     },
     {
       "path": "public/media/escher/canvas/Birdfish-e.mjs",
@@ -231,203 +231,203 @@
       "baseline": "baseline/public/media/falling/audio/falling-figure/completion.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/falling/audio/falling-figure/completion.mjs",
       "baselineSha256": "b095741beac6a4be7897b0b076a94d70f4c1f6a98eeae481247abc18c3d3cb6d",
-      "finalSha256": "bf602dfa046dcc51202e32f164efa66f5b63d72d39e658177c226138890fef6f"
+      "finalSha256": "8bde77204fe0698d8e9920cb94458207b217a8046f4ec9dd1d75cb39a94d7a42"
     },
     {
       "path": "public/media/fractals/native/buffon/en/frames-1-986.mjs",
       "baseline": "baseline/public/media/fractals/native/buffon/en/frames-1-986.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/en/frames-1-986.mjs",
       "baselineSha256": "0665cb8a31ea3de778944ee3825f8ff268122d802cbb409ba89748b4fc956dfa",
-      "finalSha256": "5703d7d995b8cb79197e481a28f0dcc8fa204772d90129f03f6ef1883cc13d2a"
+      "finalSha256": "309270b21c336733df3cad5fe876b4444606631e6b579869358fd75e335a1296"
     },
     {
       "path": "public/media/fractals/native/buffon/en/frames-2797-3876.mjs",
       "baseline": "baseline/public/media/fractals/native/buffon/en/frames-2797-3876.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/en/frames-2797-3876.mjs",
       "baselineSha256": "0ae43b4d208fba2828b5167cdae652cbe9be4d7fa525b2da3cbee96d53d3748f",
-      "finalSha256": "afae026f592b6ef97ac8d0f6c866406bf8cf48a57b477b90135f05d92d30d01f"
+      "finalSha256": "0009448c7cbaeccb1402ae3c82af6cefae1a61aa3e4ade240c22ab9025b7a151"
     },
     {
       "path": "public/media/fractals/native/buffon/en/frames-3877-4214.mjs",
       "baseline": "baseline/public/media/fractals/native/buffon/en/frames-3877-4214.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/en/frames-3877-4214.mjs",
       "baselineSha256": "b3034b7890e17aaccac751ca759b159cced72c0f61de6d3a61db78c7d9727e33",
-      "finalSha256": "dd18923f8cd6677407f104d51ddd85d4048502be0e3930fc33bcc8d5a401c970"
+      "finalSha256": "dc3f71b50edf315aedb5d0544a3390e4f53ef218d9f128b32f01dc35be3123bd"
     },
     {
       "path": "public/media/fractals/native/buffon/en/frames-987-2796.mjs",
       "baseline": "baseline/public/media/fractals/native/buffon/en/frames-987-2796.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/en/frames-987-2796.mjs",
       "baselineSha256": "45dcdb3e8bb7eb3eeeee42e8e046395ff8f7af73da6cdb777fa98ae6f7c5abe5",
-      "finalSha256": "e1fa92f4efb9001ca9830c6971d86e8fd3df8270be4b2fca7fea31346725923f"
+      "finalSha256": "fc095807599420c278e10e6f6e22bb57743f2cea3be80d8d867dc42a6bd09545"
     },
     {
       "path": "public/media/fractals/native/buffon/ru/frames-1-851.mjs",
       "baseline": "baseline/public/media/fractals/native/buffon/ru/frames-1-851.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/ru/frames-1-851.mjs",
       "baselineSha256": "e180b98169b2a26db44dd06db9f6327e9ee0e89012041a3223a024e257b1605d",
-      "finalSha256": "8952ba40077a31d16192172a51443b18ccb3f3d229a94375bcbc9b56fe4a19e3"
+      "finalSha256": "7c5b09b70f9564848b313f3ad91468d8726f19646ecc171658fef59067b01b59"
     },
     {
       "path": "public/media/fractals/native/buffon/ru/frames-2662-3423.mjs",
       "baseline": "baseline/public/media/fractals/native/buffon/ru/frames-2662-3423.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/ru/frames-2662-3423.mjs",
       "baselineSha256": "8d5534d5cc440c6820a21570af5b4a4ce4d825ff6f57aea67396b51ff4cf1687",
-      "finalSha256": "485ba6915c88bd64d3fbf3a28a1740e327b61f1b9ba6228c624d400b909429c8"
+      "finalSha256": "2ffd964724619b55893c57968932c4747d2cc6e27b3aa4cacb125cb12b98ca1f"
     },
     {
       "path": "public/media/fractals/native/buffon/ru/frames-3424-3823.mjs",
       "baseline": "baseline/public/media/fractals/native/buffon/ru/frames-3424-3823.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/ru/frames-3424-3823.mjs",
       "baselineSha256": "6102a4ddf7f829fd889f020a90726a33fa9038a582ff46c082321cc43f9467db",
-      "finalSha256": "c4f6d68d8b9bdd0368d10a75af419563e00ad3bcd18ef8b5a10af536d35897bc"
+      "finalSha256": "e9e6721ed29baa5747fcbf536e6c4aa02435523b243194edee88ec00bc7753ca"
     },
     {
       "path": "public/media/fractals/native/buffon/ru/frames-852-2661.mjs",
       "baseline": "baseline/public/media/fractals/native/buffon/ru/frames-852-2661.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/buffon/ru/frames-852-2661.mjs",
       "baselineSha256": "b6bb3a17bb2088143d7dec1840feb74c5ba0467edab828e4f8179241dfb18f3a",
-      "finalSha256": "1c5a2d6b0d9b381218cde8449cbecacaf84d7cbfc4dc42b587a81aa29b85cd28"
+      "finalSha256": "e57da5f0808b9497b9359625b54d090132e3388c88bc87e4cb3b59f6ec1624e8"
     },
     {
       "path": "public/media/fractals/native/carpet/en/frames-1-1144.mjs",
       "baseline": "baseline/public/media/fractals/native/carpet/en/frames-1-1144.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/carpet/en/frames-1-1144.mjs",
       "baselineSha256": "f4eb6e49562a3c29f52a38082810add665e2337742f82c63ef3e83b7b56051ee",
-      "finalSha256": "cb15868671d97d625f6c2b8f8639f00dfd9df339f571d17936a8fdf5087cb3d9"
+      "finalSha256": "4699a326826177bbd92bb631bca30e6a2eafaa8ec84dbce389a9f778bcff3292"
     },
     {
       "path": "public/media/fractals/native/mobius-face/en/frames-1-685.mjs",
       "baseline": "baseline/public/media/fractals/native/mobius-face/en/frames-1-685.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/fractals/native/mobius-face/en/frames-1-685.mjs",
       "baselineSha256": "57fadfff5283ea0ac2f76eece4569bb93d00114edd448d2e38e18b506343f997",
-      "finalSha256": "f86ba6c67ad95e051e344c166cb6f2f7f51972f2c9a01da0664f0d1b0fcfcf28"
+      "finalSha256": "833fca88a27554a8392e44d9e86dd5846e0f342921e68700d57b241cf8cfd115"
     },
     {
       "path": "public/media/kids/audio/kids-find-connect/lesson.mjs",
       "baseline": "baseline/public/media/kids/audio/kids-find-connect/lesson.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-find-connect/lesson.mjs",
       "baselineSha256": "3945e742cf31ed12ab5b6f0e2aa00f2a328677a7d0ecd995688dbadd28652776",
-      "finalSha256": "eb557e05329ba91a4d24e4de4649d44eec7b56b2f59e07d46795f81f2e495e99"
+      "finalSha256": "0aea1188522403e1aae01ba08999e3625eb17f5b988933ab00aa0b67791df154"
     },
     {
       "path": "public/media/kids/audio/kids-find-couple/lesson.mjs",
       "baseline": "baseline/public/media/kids/audio/kids-find-couple/lesson.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-find-couple/lesson.mjs",
       "baselineSha256": "1a6086be74fcbf6613a207b719fbf39735ffe1d5c9579ab21c55ed4ddfe64b66",
-      "finalSha256": "d17bfaea79689ce64e8eb11559e636e2114b434a8263f84fd00760ef002e08b8"
+      "finalSha256": "74abfb0984430fd76399610a4ba3ed37ff8a47c491255cbda381434e152068da"
     },
     {
       "path": "public/media/kids/audio/kids-find-improper/lesson.mjs",
       "baseline": "baseline/public/media/kids/audio/kids-find-improper/lesson.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-find-improper/lesson.mjs",
       "baselineSha256": "a4f79fb085f018441a16ce7f62098bd18fa27f65f844f3b391199c364c5453b1",
-      "finalSha256": "31c71bbd4809a7f79e1f794f47404d84553b312867c95f2b087cb10ff3a7613f"
+      "finalSha256": "a60795be5cdb6e2347e18162540ebf0099ea190860f7b5da1f4587817f26dab5"
     },
     {
       "path": "public/media/kids/audio/kids-find-match/lesson.mjs",
       "baseline": "baseline/public/media/kids/audio/kids-find-match/lesson.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-find-match/lesson.mjs",
       "baselineSha256": "46fef9a31d84f28cd250505e60b8901cb6e82f8bf3540c73e1e12551d8b80119",
-      "finalSha256": "9603993a4f8528a9f92a47212466699ba26ba863bfe46c87291379261e568d0b"
+      "finalSha256": "a54f8569f59c268762a2f8e058a7f708530b2773c749ae34397c32730696f1eb"
     },
     {
       "path": "public/media/kids/audio/kids-find-proper/lesson.mjs",
       "baseline": "baseline/public/media/kids/audio/kids-find-proper/lesson.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-find-proper/lesson.mjs",
       "baselineSha256": "3b107bce473084d4a6bda07783d99191b533f78396e13083daa344b7b62a5bda",
-      "finalSha256": "cdc4d3bc82e0307a25fa581463cfcf8db183fcd80ee1e914914e1894431864e2"
+      "finalSha256": "4b57afa02586010149ca6abc0a8a13227323e56498cc7169de9c3b1082d0178a"
     },
     {
       "path": "public/media/kids/audio/kids-find-same/lesson.mjs",
       "baseline": "baseline/public/media/kids/audio/kids-find-same/lesson.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-find-same/lesson.mjs",
       "baselineSha256": "7248769c48c852a10a14389fb4bc1894bcba6c6971ab6b683b5412c53391cc7d",
-      "finalSha256": "6366f1e03f1e1a8b28c7af072e8ae44472d7fa31dd3afdced96f3ee5c9d31f4f"
+      "finalSha256": "3fc856d5579a965f1a94664463d1c225435aede53e822d55b471ebcdf62e2d82"
     },
     {
       "path": "public/media/kids/audio/kids-put-place/lesson.mjs",
       "baseline": "baseline/public/media/kids/audio/kids-put-place/lesson.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-put-place/lesson.mjs",
       "baselineSha256": "7a9d6a57cac1c856fc5c54632ad33945bd65c9a1f9c94fb3672cdfb1064ee21d",
-      "finalSha256": "9871fe3d5a7a7abd62b3494327b0aeb3f3ba955627847e29065e118613da59d9"
+      "finalSha256": "0961c3095adc2255891ef92d9a3f0f22232ad71eb5ea62ca6e646312f9a98497"
     },
     {
       "path": "public/media/kids/audio/kids-share-color/lesson.mjs",
       "baseline": "baseline/public/media/kids/audio/kids-share-color/lesson.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-share-color/lesson.mjs",
       "baselineSha256": "8b0a1b041228c4e69da4c5eb39846167391f83fcfaee86a89b52a2d4811069d5",
-      "finalSha256": "43aebd5f22076c9da3087e2238a2aa294be4f70f718d1b336b216f002a24edf7"
+      "finalSha256": "3f443b271e99361fa579e81db2ec278d3e99ef150b6369edb33a6fa9ca7a09c1"
     },
     {
       "path": "public/media/kids/audio/kids-share-shape/lesson.mjs",
       "baseline": "baseline/public/media/kids/audio/kids-share-shape/lesson.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-share-shape/lesson.mjs",
       "baselineSha256": "c92532d3832508a9c7c9070ed237e0f097be21a0f84b27352c6b47b963ef6904",
-      "finalSha256": "c71e2622bae64d4170c7ee2a58be554ed4eb0fbbfb23563c32d56286d9e2305f"
+      "finalSha256": "418f8d3c015379fae03e58af569d74614b5d57c91415c8db5750fc79b3196ae0"
     },
     {
       "path": "public/media/kids/audio/kids-share-size/lesson.mjs",
       "baseline": "baseline/public/media/kids/audio/kids-share-size/lesson.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/kids/audio/kids-share-size/lesson.mjs",
       "baselineSha256": "d09b64b8d383dd9a22dec93caf91df42760b5322f2e35402a2d6333f9821dbfc",
-      "finalSha256": "0e78b951e6f4af1e22030fbfbabd6a0f75be82b71265295766f03acf2f3024fd"
+      "finalSha256": "4f3f87d44cc68fe33a63136f483d03c6af3213373c822a62303a914b626f3e1a"
     },
     {
       "path": "public/media/logic/native/wisemen-eight-en-hint.mjs",
       "baseline": "baseline/public/media/logic/native/wisemen-eight-en-hint.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-eight-en-hint.mjs",
       "baselineSha256": "daa72913cb2b5a1c0d8bdd76152daab38d8e2a0ad0f26857d6e2239fd39f285b",
-      "finalSha256": "0c3d7907f11115ed56a2e13708237c207e523b7a7b1fefbbe64e608f6a3c9c54"
+      "finalSha256": "cf3a22336601df9c80779db1345fdc0dc65e6191058c43cd4d06fd10147c1f34"
     },
     {
       "path": "public/media/logic/native/wisemen-eight-en-story.mjs",
       "baseline": "baseline/public/media/logic/native/wisemen-eight-en-story.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-eight-en-story.mjs",
       "baselineSha256": "96d554815f482545b1f2c9de233fb4a87140c8fbc34b400fdcb5d7fb57dfb131",
-      "finalSha256": "0490e887869d78ea026e011844955f236ca0d491012097b9db74c3ef35bf6228"
+      "finalSha256": "6dd4644f5b316212d4487fe5473ca98ed7076bea60581ab38d690b0f6e197912"
     },
     {
       "path": "public/media/logic/native/wisemen-eight-ru-hint.mjs",
       "baseline": "baseline/public/media/logic/native/wisemen-eight-ru-hint.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-eight-ru-hint.mjs",
       "baselineSha256": "6a4a008ce4d91271c3325a55f59bd6c550466a1480e50244f96e452ac0a0645d",
-      "finalSha256": "4895b5a7623c045b9d12984dc375ce2b08d44466a0e1250d7e276383b7713831"
+      "finalSha256": "4e7e7c6253e8ee871f94f44ea2712bc0a1c1c9dd7fe10941feafd4dbce9c96b0"
     },
     {
       "path": "public/media/logic/native/wisemen-eight-ru-story.mjs",
       "baseline": "baseline/public/media/logic/native/wisemen-eight-ru-story.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-eight-ru-story.mjs",
       "baselineSha256": "fbd345b004649c587b43da7966d1953f51dcc6afcf593cef4c5774d537d1f589",
-      "finalSha256": "6d413b38a1dadd82954273fa9bc6f8d6c1ceeac9b4cd25962aa69cea99f6a394"
+      "finalSha256": "119df1016f2900b4ad4566432b514c4cb640c6c6125072767184b06eb620d1a5"
     },
     {
       "path": "public/media/logic/native/wisemen-en-hint.mjs",
       "baseline": "baseline/public/media/logic/native/wisemen-en-hint.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-en-hint.mjs",
       "baselineSha256": "8dd1359a3935873c2ff5f768c80a93fc44ad0468b8813560d8385b6991fa933a",
-      "finalSha256": "cb492de40aa8abcc39d71d171a73e5ad6832ee3aa93797fa1bc07a0c85460301"
+      "finalSha256": "f4d273ff2e43924ef707523432454c214b984d58518fe3d2ffa60b3383c83c59"
     },
     {
       "path": "public/media/logic/native/wisemen-en-story.mjs",
       "baseline": "baseline/public/media/logic/native/wisemen-en-story.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-en-story.mjs",
       "baselineSha256": "cfafaf40b6cfb87d2943fb63f4a7adca3772f6dd7383d4db95788660d4b50b7f",
-      "finalSha256": "25e65ef845e87001b504c511bef5cac0ae483a75b7986a29563e7178a86b20b9"
+      "finalSha256": "ac2d59fa4e2b3b138a1e25b55622356812e190fe14245d76b673b51dd585deac"
     },
     {
       "path": "public/media/logic/native/wisemen-ru-hint.mjs",
       "baseline": "baseline/public/media/logic/native/wisemen-ru-hint.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-ru-hint.mjs",
       "baselineSha256": "3f8313bc7742739e5ab53b374957d4c5d60c6b2543833438377df73ab55c52e7",
-      "finalSha256": "a287235a387fea3af50b88a18c6b1129a44aa7d387fecbbf9f89814d7e1fc1dc"
+      "finalSha256": "5e9bbfd696d1fcf3296eefc8338aeb8b969c0f1428c3c8826f4948a237cab916"
     },
     {
       "path": "public/media/logic/native/wisemen-ru-story.mjs",
       "baseline": "baseline/public/media/logic/native/wisemen-ru-story.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/logic/native/wisemen-ru-story.mjs",
       "baselineSha256": "a5b1ed49dfabdba430bff403d63c291092674ac03178a6118725e1c8fac0d92e",
-      "finalSha256": "7006bd4f804a06837f1bc3daa1ac859a0ccad2ac06eb32d96b7dc1788db2e9b1"
+      "finalSha256": "d6cd563574df2675b25c91ae268a33f6bcdd37510ce65d695ab9a4d8eda1fc39"
     },
     {
       "path": "public/media/magic/native/hourglasses/en/hint.mjs",
@@ -441,7 +441,7 @@
       "baseline": "baseline/public/media/magic/native/hourglasses/en/question.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/magic/native/hourglasses/en/question.mjs",
       "baselineSha256": "67290ba017d40d0c087acf9a514725e5cdb5ac3601b55f53aad1b512ce51fa97",
-      "finalSha256": "5c67bef1ea78d182256160f886b8dcb90741f43e1321c998e4e06d901582b0e8"
+      "finalSha256": "24fec577a76be11c061bf742ced9ef33bd9eb8c370793a1edcabdd7bbff0ccd8"
     },
     {
       "path": "public/media/magic/native/hourglasses/ru/hint.mjs",
@@ -455,532 +455,532 @@
       "baseline": "baseline/public/media/magic/native/hourglasses/ru/question.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/magic/native/hourglasses/ru/question.mjs",
       "baselineSha256": "d4e997a25bb593bf633bba48e7a9d1bdc14bcf209e415bdb31a37cdf57fafc56",
-      "finalSha256": "4a94e1b9e31d28ed3fb9df8d2b5458af50ec9009d471d824e814f8d0ce31e8ac"
+      "finalSha256": "79b12c1f70ebf8cd741dc27339c4e5e9665b363dd001e8d8954c6cf1c3f2c400"
     },
     {
       "path": "public/media/magic/native/subtraction/en/lesson.mjs",
       "baseline": "baseline/public/media/magic/native/subtraction/en/lesson.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/magic/native/subtraction/en/lesson.mjs",
       "baselineSha256": "cf146b8aedefffc022a312aabd6ff23d4a6af01c498912135866db529b61cbcf",
-      "finalSha256": "ef4a9cc572b7636fd520b7869f76f68735225fcbeefd8875d4320ec636bc5c6b"
+      "finalSha256": "c8155b1bd20069500ef4d6287d2f3994cb8bba064e21786d652cd1e717c6ad3b"
     },
     {
       "path": "public/media/magic/native/subtraction/ru/lesson.mjs",
       "baseline": "baseline/public/media/magic/native/subtraction/ru/lesson.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/magic/native/subtraction/ru/lesson.mjs",
       "baselineSha256": "e07786eb5d4d3e13bf60ccfc48e9a682e282b96ee6c5d29e7484609d8a0aa008",
-      "finalSha256": "2b840a26c903337e4dbe31ad2d354492c0471ca1264edd03d7582e683414e16c"
+      "finalSha256": "3e78381c7f0279d114f4f8fa332fe9e49329f26cbf1b40c2c39247d65b8988d0"
     },
     {
       "path": "public/media/measurement/native/area/en/timeline.mjs",
       "baseline": "baseline/public/media/measurement/native/area/en/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/measurement/native/area/en/timeline.mjs",
       "baselineSha256": "7fddc87d3f7427a38da97bf5a04a0c6fab86e957262f88580aad42518eb676d2",
-      "finalSha256": "a42d463be67858baed1e1052b55452d4d0cf5c0a036af29558eff615183520d5"
+      "finalSha256": "ed303de0fff713d2314df3081946578b3e6d7a54d0c97d65b278fd67ec1cbf16"
     },
     {
       "path": "public/media/measurement/native/area/ru/timeline.mjs",
       "baseline": "baseline/public/media/measurement/native/area/ru/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/measurement/native/area/ru/timeline.mjs",
       "baselineSha256": "ad70812a746cde92b01f0fa55b09611459d04ee52f097711206957042b67881e",
-      "finalSha256": "f1ef71faf8c872af46f3492d30b32ce9baee870f4a2b361508875698fc65960d"
+      "finalSha256": "df9f1d5d9dce12ac97e17a14c8fa632874413632928f878c51a16b20486dd6cd"
     },
     {
       "path": "public/media/measurement/native/circle/en/timeline.mjs",
       "baseline": "baseline/public/media/measurement/native/circle/en/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/measurement/native/circle/en/timeline.mjs",
       "baselineSha256": "2519de4a23d37a7e5ae5fa1b8ef5f4905af0e5cf454ad335416acf764a000cb8",
-      "finalSha256": "e24cdea120d58f9cc36b1e9b8d9e7b32f48367e03f38954973f665f7f99d9dab"
+      "finalSha256": "ab760950f34447fdab7e7706285d463adbc47d5741b6e32d9c726579fa7cbc74"
     },
     {
       "path": "public/media/measurement/native/circle/ru/timeline.mjs",
       "baseline": "baseline/public/media/measurement/native/circle/ru/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/measurement/native/circle/ru/timeline.mjs",
       "baselineSha256": "7f4d5a2a57d56b1fb65e293d6f266a5da0d052d8ac371c1ca5197007f08e78fb",
-      "finalSha256": "1365dee59f855629927d29bcd34cd6247ef8c9676460e009f392caac6b0e00ca"
+      "finalSha256": "8fc8c2aba052ddd8aa6c688fce8cbe94fb9a5dd6ed15fe64eadbf62881c742bc"
     },
     {
       "path": "public/media/measurement/native/polygon/en/timeline.mjs",
       "baseline": "baseline/public/media/measurement/native/polygon/en/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/measurement/native/polygon/en/timeline.mjs",
       "baselineSha256": "ca05c09c5930f5d7ac670c3ef8101f32fd70c73a366973bf1e4d85a650f709c4",
-      "finalSha256": "8d917a7dc5c8a041cadc136658b437b7947a175454dc503d4a5058178d1a7d20"
+      "finalSha256": "8fead82cb54db60fc0dec4a05e5d338a3e5b987d320fa0e6d51e97945dc4de54"
     },
     {
       "path": "public/media/measurement/native/polygon/ru/timeline.mjs",
       "baseline": "baseline/public/media/measurement/native/polygon/ru/timeline.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/measurement/native/polygon/ru/timeline.mjs",
       "baselineSha256": "3ec83d313e57cfd35a83e5667299dec8bb7510969d412c1ce3e38f56fa6c76ed",
-      "finalSha256": "e71d1746fc4fc5a7e00451c8f9adf457fffda785c593ae0aaac183dfb91311a3"
+      "finalSha256": "d7fa2f1f3691234204cd04f28b6a3270fbf6253437f94a84ac202bb4d3cf4c86"
     },
     {
       "path": "public/media/motion/native/caterpillar/en/frames-1-518.mjs",
       "baseline": "baseline/public/media/motion/native/caterpillar/en/frames-1-518.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/caterpillar/en/frames-1-518.mjs",
       "baselineSha256": "7e845b9d5e1d5e305def4e535c08e456784824efba714edb98f9fb76ca90c70b",
-      "finalSha256": "0f55f283a9948673e0a0e11fcfd0e9047ef8508216ea93b3308376822a07a994"
+      "finalSha256": "59e70473eeb1bf9f9875bef7224f548c65a9e176ad1a9ec1bbbc043f992ca67b"
     },
     {
       "path": "public/media/motion/native/caterpillar/en/frames-519-519.mjs",
       "baseline": "baseline/public/media/motion/native/caterpillar/en/frames-519-519.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/caterpillar/en/frames-519-519.mjs",
       "baselineSha256": "d40253b380e872d4ea426207da2f6fdac6c6a575237abec51fd899ef0c3bf6a9",
-      "finalSha256": "47ba8ef13e6cd936a99c7f2a66438c2fa8d86e00ad24502ef20bed5aba641184"
+      "finalSha256": "eb269c8b221b5b1ea1a1b071643575396630518f3d0b0a2aa04d912246883735"
     },
     {
       "path": "public/media/motion/native/caterpillar/en/frames-520-1000.mjs",
       "baseline": "baseline/public/media/motion/native/caterpillar/en/frames-520-1000.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/caterpillar/en/frames-520-1000.mjs",
       "baselineSha256": "23c5f12e19d1a36dcb1cc965402f26fbbcfabc1fe31525d2ea59bd4a4226a5df",
-      "finalSha256": "2952e97b7ab142fed5cb3626bb15a7d81d22e4d449b61b19bbdaa49fa8c6e96a"
+      "finalSha256": "d73e68f0928bb6bd671eeb890eaea3b019f23f898668c94a20ecc2795104acf8"
     },
     {
       "path": "public/media/motion/native/caterpillar/ru/frames-1-518.mjs",
       "baseline": "baseline/public/media/motion/native/caterpillar/ru/frames-1-518.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/caterpillar/ru/frames-1-518.mjs",
       "baselineSha256": "98abb1da8415f254a7b6b966356d96bb9552a893e1f41da12b2007919d45b9c0",
-      "finalSha256": "fc3f72d23b4be4535811ec5d2b17b0b39134480b32652824544ce902453b31bb"
+      "finalSha256": "135f17b70bf3fbb0203410b5219a63cdc63d7fdf9b92ed06458fefe89ee842b9"
     },
     {
       "path": "public/media/motion/native/caterpillar/ru/frames-519-519.mjs",
       "baseline": "baseline/public/media/motion/native/caterpillar/ru/frames-519-519.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/caterpillar/ru/frames-519-519.mjs",
       "baselineSha256": "aab26ccb6ec6818ed377b670a63f8691c0fd05f4861c073619d0b50644617b37",
-      "finalSha256": "ab77b683e5257346b3e1dd16bff9cb6f7143ca8260f7fa96e18b2fc1d39156e2"
+      "finalSha256": "7d6ebb58671e3a4b903de879b2bc839bdceee1351f37643f9395a81ca761b9bf"
     },
     {
       "path": "public/media/motion/native/caterpillar/ru/frames-520-1000.mjs",
       "baseline": "baseline/public/media/motion/native/caterpillar/ru/frames-520-1000.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/caterpillar/ru/frames-520-1000.mjs",
       "baselineSha256": "451495312fedaaf8479e720b1787c5d9fcfef85d48ea339a5c629817007f0a53",
-      "finalSha256": "39e55e010d7f29b37009aa581f30f609cf9666b811a79dade118a188b770d01f"
+      "finalSha256": "1c0695b5aaf692d19728f39b77af3d39af67cb58539522dc0e8c4842fb6dfdb1"
     },
     {
       "path": "public/media/motion/native/coin-cluster/en/frames-1-1257.mjs",
       "baseline": "baseline/public/media/motion/native/coin-cluster/en/frames-1-1257.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/coin-cluster/en/frames-1-1257.mjs",
       "baselineSha256": "b9a0cc9cc1212311579a75c09543c9ab673ac7fb485bec1718a00e57d21e4bf5",
-      "finalSha256": "522c4861089cf6db3d85fd7023def7874018acfd1531135f11679e6ccfa3e7f9"
+      "finalSha256": "7915fcab4d393cf0bf4adcb72f34ec371f052ac5ca12b0e121933b9445a9f809"
     },
     {
       "path": "public/media/motion/native/coin-cluster/en/frames-1258-1558.mjs",
       "baseline": "baseline/public/media/motion/native/coin-cluster/en/frames-1258-1558.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/coin-cluster/en/frames-1258-1558.mjs",
       "baselineSha256": "d03c0b64b6fb0192c2b9b406b9dfaa47fadb8b117a74c8d9a313fd281f58055f",
-      "finalSha256": "ed04b443429f5ffaac77b30f724f4f6cc83a6229e0be2736849b8e1baa2c1fb6"
+      "finalSha256": "8a32319100499e9836b3d3e2cf64b75d42839348620ec31b1191077c8ac0d0a4"
     },
     {
       "path": "public/media/motion/native/coin-cluster/ru/frames-1-1257.mjs",
       "baseline": "baseline/public/media/motion/native/coin-cluster/ru/frames-1-1257.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/coin-cluster/ru/frames-1-1257.mjs",
       "baselineSha256": "9668aea0bcc175625417aa27ed0fbbde88855c5f0f08f8804857e0205f92929c",
-      "finalSha256": "f35bfec94a76169fda7f06d60e070495de8099f3586f14952b53eebc23fe04af"
+      "finalSha256": "8c9b8756d4e6b4c31f4003ea5a0d034aca094244a2ba321bdf9b6d22b2bf04f1"
     },
     {
       "path": "public/media/motion/native/coin-cluster/ru/frames-1258-1558.mjs",
       "baseline": "baseline/public/media/motion/native/coin-cluster/ru/frames-1258-1558.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/coin-cluster/ru/frames-1258-1558.mjs",
       "baselineSha256": "cab9cf61e97d349172c3984147940f43c069919905d26c749875e9105a852b55",
-      "finalSha256": "e6ad6f9aaca248099de941112e3b45321a6ae5df386d81b0249941e36b036aee"
+      "finalSha256": "990ca8f2921f76df30a3af9d3546152c5f0d82a70be49918e75c53050fac9e6f"
     },
     {
       "path": "public/media/motion/native/cyclists/en/frames-1-818.mjs",
       "baseline": "baseline/public/media/motion/native/cyclists/en/frames-1-818.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/en/frames-1-818.mjs",
       "baselineSha256": "0cc316d475e19df7ddc8bcdafd92c4e855d2288b60ded5715a17158926c5553e",
-      "finalSha256": "bedac8cf2414679a2e6c40346136b443bd95d73707f2057fb2b516caee80416a"
+      "finalSha256": "6ce60434213dc50174337e4f96db076ab972ec11e73c590d676616e9a28826e8"
     },
     {
       "path": "public/media/motion/native/cyclists/en/frames-819-837.mjs",
       "baseline": "baseline/public/media/motion/native/cyclists/en/frames-819-837.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/en/frames-819-837.mjs",
       "baselineSha256": "c34e0182e0c4d52174662d0979cfabb9245ffa24b0988c08780c57709c5d6b78",
-      "finalSha256": "a187aa3eeb91907ed42094ce2924fec7dfc4ae84b8ccde791007ec36c6d19408"
+      "finalSha256": "2477d7c8c361cc521fae1b886f8711ed62140f7d14316f92d908e175596d6bc6"
     },
     {
       "path": "public/media/motion/native/cyclists/en/frames-838-840.mjs",
       "baseline": "baseline/public/media/motion/native/cyclists/en/frames-838-840.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/en/frames-838-840.mjs",
       "baselineSha256": "f53b96dc485c51757c00dfbedc8ee0f51dca80de4af68292b21b0ca30057b533",
-      "finalSha256": "2c6b51e38ca89da40365624bda2391b75570d76e3ba49209d19ffe35f13e52de"
+      "finalSha256": "bf2cbca26beb1bde3e591fea64aa7136180083e4aabd15c4b73a5c090854ffc4"
     },
     {
       "path": "public/media/motion/native/cyclists/en/frames-841-880.mjs",
       "baseline": "baseline/public/media/motion/native/cyclists/en/frames-841-880.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/en/frames-841-880.mjs",
       "baselineSha256": "344ba5b6eb02ff56cc8a95ed4f3ecbb669cc9d15a88776ca19dcc98cefa6a5ac",
-      "finalSha256": "42aa95d9b6c80bca276ab8026476b08b81f70a2eb059d7f3da52790f898cb9e9"
+      "finalSha256": "cbf5b5668c9815cca8e024b1f5134966e5f8275263860395e24fc39c5956f3df"
     },
     {
       "path": "public/media/motion/native/cyclists/ru/frames-1-818.mjs",
       "baseline": "baseline/public/media/motion/native/cyclists/ru/frames-1-818.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/ru/frames-1-818.mjs",
       "baselineSha256": "fb306a532158f87ad0a0f50d099772bfbae3e984bfc46a01d91b6803eedb28e5",
-      "finalSha256": "da53ee10e9a8be7dcf89c261ec933c7babcc6d1745bcde4a84eb83fbc2a5eaff"
+      "finalSha256": "7ff68ff61fba850068b20be02a07deea14f7dc5fd1e8675f87cbf40704b1c5fa"
     },
     {
       "path": "public/media/motion/native/cyclists/ru/frames-819-837.mjs",
       "baseline": "baseline/public/media/motion/native/cyclists/ru/frames-819-837.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/ru/frames-819-837.mjs",
       "baselineSha256": "8cd5139a959e5804c4bac130d29273c7593a61e3a3f8b5d94387d1fc90f3ded6",
-      "finalSha256": "05c0c1503d767ab53b5bbe17438e5742e302a29b464fa4c37b1d55824fa9e960"
+      "finalSha256": "21248ad64da77c70c1a35867c399ccb863d14f022c0cf270f6c7020878d98524"
     },
     {
       "path": "public/media/motion/native/cyclists/ru/frames-838-840.mjs",
       "baseline": "baseline/public/media/motion/native/cyclists/ru/frames-838-840.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/ru/frames-838-840.mjs",
       "baselineSha256": "f33ce16fefd906aae0559ca09a404691d9044f4cad61278199b1997c1f42e68d",
-      "finalSha256": "bed3378d04e478435f1f1b613609b0c71213949db3443a5ecbf3c47036325310"
+      "finalSha256": "90af4389322b03080049f0f824f9e684a32ef720a5fbf24cfcefbdbd4254d223"
     },
     {
       "path": "public/media/motion/native/cyclists/ru/frames-841-880.mjs",
       "baseline": "baseline/public/media/motion/native/cyclists/ru/frames-841-880.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/ru/frames-841-880.mjs",
       "baselineSha256": "a8573b1e5f50564fcb7169ef7c8e067f36a314c3637605d1ef791d1b1a49df1f",
-      "finalSha256": "73ec085ce75a873a63b7b126065d47c502fb895b0e721ac306c8c8a2b656cf17"
+      "finalSha256": "0eff2ba97f925ee1d59dd410d72e2ad1dc5e1ff7529d6b7b416646d38ccf538d"
     },
     {
       "path": "public/media/motion/native/cyclists/zh/frames-1-818.mjs",
       "baseline": "baseline/public/media/motion/native/cyclists/zh/frames-1-818.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/zh/frames-1-818.mjs",
       "baselineSha256": "ff87dd5079a7e76661d595edfabbc147e3a4a4f2046f4a64797f4c62c77d8fd6",
-      "finalSha256": "9bf6e52673114fa36864fe3995b5bcc5e28722765093c51e352a97807d0b9eca"
+      "finalSha256": "49d1a2cb007b06ac40144e4867db6667afa5c9c22cec8250ca5c9832314e6dc5"
     },
     {
       "path": "public/media/motion/native/cyclists/zh/frames-819-840.mjs",
       "baseline": "baseline/public/media/motion/native/cyclists/zh/frames-819-840.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/zh/frames-819-840.mjs",
       "baselineSha256": "981c2578ec4cf667d6a24aab6052b5657ca24f32df27764b322c4d0aa2158392",
-      "finalSha256": "b8918bda8b8eaa31b60dbc9c02ee22e2aa849d9d4eeaed218c246391c092a29e"
+      "finalSha256": "5da21b05412b8a437aa737573a549b07d4fa86de1db1fa39734eaffce8ccf1b1"
     },
     {
       "path": "public/media/motion/native/cyclists/zh/frames-841-843.mjs",
       "baseline": "baseline/public/media/motion/native/cyclists/zh/frames-841-843.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/cyclists/zh/frames-841-843.mjs",
       "baselineSha256": "3746d1fcb6cfb4e5c074cd5d7c9bc7fbe1040bf75094069258cb868e7d404965",
-      "finalSha256": "fee65a19d0e317f8bbdbdaa73ac127b5aed8bcecb170d2c901eb65c83c02f026"
+      "finalSha256": "910c3c53c739760a7181186419d81e33013dd2883a799f306ca4781e3efde971"
     },
     {
       "path": "public/media/motion/native/earth-belt/en/frames-1-580.mjs",
       "baseline": "baseline/public/media/motion/native/earth-belt/en/frames-1-580.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-belt/en/frames-1-580.mjs",
       "baselineSha256": "2c0eb4fe62dc26ca951ec3585aa40484bd9899a209e9c720d3645ec3e5421552",
-      "finalSha256": "778c56a2082e97672ea4963834fa1ca23c3485392eed8f7aead66c140c4f5511"
+      "finalSha256": "248eb1dad32aa9c10a530264dc75513e8cb4d359ea91d1520bd4ceaa8d6c3712"
     },
     {
       "path": "public/media/motion/native/earth-belt/en/frames-581-1028.mjs",
       "baseline": "baseline/public/media/motion/native/earth-belt/en/frames-581-1028.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-belt/en/frames-581-1028.mjs",
       "baselineSha256": "9a7babc8eb67d76246fda9c021fdedac7cac34d68192096b78e3d459a90f1307",
-      "finalSha256": "4224d5dadeea8e8b305ff9e8ee3c0d074c70e439f07a23e2c78c1cdb3906bd2e"
+      "finalSha256": "5e6cb62e01031f2491baa606256ee9b9aa554bf24c3f392aae8a6d99357f9cd5"
     },
     {
       "path": "public/media/motion/native/earth-belt/ru/frames-1-580.mjs",
       "baseline": "baseline/public/media/motion/native/earth-belt/ru/frames-1-580.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-belt/ru/frames-1-580.mjs",
       "baselineSha256": "2f7adaf1cb0633a06c0d61da56a7916f92e5c3f213ce365ae02c510a9a353d82",
-      "finalSha256": "d9f9f89ea0302f60a9cf9bfe8aea90054663a24ada04157cf19519406eac7cd0"
+      "finalSha256": "df357427e4bad1d402ebc0260aa15c66f98651c7905c34169c0667970bcebaf6"
     },
     {
       "path": "public/media/motion/native/earth-belt/ru/frames-581-1028.mjs",
       "baseline": "baseline/public/media/motion/native/earth-belt/ru/frames-581-1028.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-belt/ru/frames-581-1028.mjs",
       "baselineSha256": "13b38d12161b375dedf3ca97d44bb17ac6daf77856ee4d327b27fb5b188bd45f",
-      "finalSha256": "94a9efab0399b0e51e7d48ca17681bad214a54f7ae35d126880702ffa19f0b6b"
+      "finalSha256": "5ea5ffbbf51ef3599f39f84ed5ebe3a45cd15892477ab773f9fe75f0b7421804"
     },
     {
       "path": "public/media/motion/native/earth-walk/en/frames-1-623.mjs",
       "baseline": "baseline/public/media/motion/native/earth-walk/en/frames-1-623.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/en/frames-1-623.mjs",
       "baselineSha256": "931516e2752f9e87ac00ec424edc22bdf1e4102af3937b9b0469e1534c09c259",
-      "finalSha256": "9f538b0d3b864f5f9edde40e7f5dc9c54410bc7fae8a0e0d3ce6b195051bd14f"
+      "finalSha256": "eaf560d35e55141e1927f25a4645978dbfae849a7db35f2170292b6c75262b05"
     },
     {
       "path": "public/media/motion/native/earth-walk/en/frames-624-641.mjs",
       "baseline": "baseline/public/media/motion/native/earth-walk/en/frames-624-641.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/en/frames-624-641.mjs",
       "baselineSha256": "810b2a9fcf4d51adbc2661c98cf5859e2d16859ed7db0924ad7cb5d97b573bdb",
-      "finalSha256": "f20a35d399ce0b5a98b9b0048e7f651d68699359131244f0e7c0ebec004a84e5"
+      "finalSha256": "c75153b2c5bc4def786a2d9c900ff55c2e0282a4875ae0d7da2b0e40ec363182"
     },
     {
       "path": "public/media/motion/native/earth-walk/en/frames-642-645.mjs",
       "baseline": "baseline/public/media/motion/native/earth-walk/en/frames-642-645.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/en/frames-642-645.mjs",
       "baselineSha256": "2c66a68972c593faec5982b80a08a09c22ca2a0107adeafa6d9aac8529e411db",
-      "finalSha256": "2989439db9b1ca8f588b9a2e29f7aaf382c76078efe0457701adcac763b97a60"
+      "finalSha256": "435c8f4366fd3f74abdda70eb0197270e12172f152bb30582cfdf0cb2c68d209"
     },
     {
       "path": "public/media/motion/native/earth-walk/en/frames-646-890.mjs",
       "baseline": "baseline/public/media/motion/native/earth-walk/en/frames-646-890.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/en/frames-646-890.mjs",
       "baselineSha256": "56a1b0580b337bec53bad1a9b85f90a9fdb4c5e1305b745feaf603139b7d4d23",
-      "finalSha256": "f1b43aad6707b0214ac8e613df5a50a6015ce075e1e58c2435fcc71e62eba503"
+      "finalSha256": "9cca36166e620f3d09bcb440bf1019230f574f9e717b1b3973dc402b1efe107b"
     },
     {
       "path": "public/media/motion/native/earth-walk/ru/frames-1-623.mjs",
       "baseline": "baseline/public/media/motion/native/earth-walk/ru/frames-1-623.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/ru/frames-1-623.mjs",
       "baselineSha256": "36d4fc74da27dc3d16564eec401e8e731d7583fa163fb83c0739ee8c0eaa6ce4",
-      "finalSha256": "5e07fb96ccc735e556166ae9e5cd1fc5a0629a6c1288a52bbfdcdb1ef44785d5"
+      "finalSha256": "e7f94c21ca070b3a426ab0b29183b08b5f98ac6f3425709401a264697392c509"
     },
     {
       "path": "public/media/motion/native/earth-walk/ru/frames-624-641.mjs",
       "baseline": "baseline/public/media/motion/native/earth-walk/ru/frames-624-641.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/ru/frames-624-641.mjs",
       "baselineSha256": "52624c199ccea4edeb9f37b7bdf1e0f14de1cf6b0fb4fb5daebe8628ce71e165",
-      "finalSha256": "84598ab14298fe30c069c824dbf556965e4cf3062db3c5707ae80a1a66b423fc"
+      "finalSha256": "ef2462c55ab3d4b412cc9d6bdd20d7dc75aa7a07f35724ac6ecd60d8f3e93cd7"
     },
     {
       "path": "public/media/motion/native/earth-walk/ru/frames-642-645.mjs",
       "baseline": "baseline/public/media/motion/native/earth-walk/ru/frames-642-645.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/ru/frames-642-645.mjs",
       "baselineSha256": "638dea60065e85140df790467594c7a692a0430cb0e119d554ca4e32d4ba908f",
-      "finalSha256": "6d169ff8eff8d1a0f954b7bbac98a0a46f4cd7e619a6dfec2803f0d825d17f61"
+      "finalSha256": "55479806a8503b33bab818d9be59cc279efda3a61ec1b679375c80aca14995a3"
     },
     {
       "path": "public/media/motion/native/earth-walk/ru/frames-646-890.mjs",
       "baseline": "baseline/public/media/motion/native/earth-walk/ru/frames-646-890.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/earth-walk/ru/frames-646-890.mjs",
       "baselineSha256": "f0521f785543005ea628ba6910b7f0ba03dc43e2803b617ce1402174cd71e792",
-      "finalSha256": "87d1b7f1743f93ae5172a70cbe9daa3d04958478f4aaa1ffb4d34a6098c018c1"
+      "finalSha256": "0be5dc8785763b460b7a1a0d1da9bf5df4b00d3851b576cbbfc4ddc680d0ffc4"
     },
     {
       "path": "public/media/motion/native/square-coin/en/frames-1-261.mjs",
       "baseline": "baseline/public/media/motion/native/square-coin/en/frames-1-261.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/en/frames-1-261.mjs",
       "baselineSha256": "eb6f55f1726d4658ef287f02e5ee9f59281f017597da86d44b9052335c3668d2",
-      "finalSha256": "1037ec25ea5c1c65395ef02f5501b78bca4435437927957adcd3ff65bb7bec60"
+      "finalSha256": "ee6dd6f2cd0b82cb65055c9fee2fb3e8dc46c153965126ba0af1e242c6e4bf8b"
     },
     {
       "path": "public/media/motion/native/square-coin/en/frames-262-281.mjs",
       "baseline": "baseline/public/media/motion/native/square-coin/en/frames-262-281.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/en/frames-262-281.mjs",
       "baselineSha256": "cf72d192c678184944468d9423fcc62f862e80ce5f650d23cbd13c784bc0d986",
-      "finalSha256": "f602341620ad941d465758120534f2e786e5dd05e509e2501867846be858a04b"
+      "finalSha256": "3bb98363d0ebc294a0bb86c66fdc11afd2af9a4552f0a864e7281163f0f8c5dc"
     },
     {
       "path": "public/media/motion/native/square-coin/en/frames-282-283.mjs",
       "baseline": "baseline/public/media/motion/native/square-coin/en/frames-282-283.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/en/frames-282-283.mjs",
       "baselineSha256": "bab03277d361236c79cdd9b618eb57bd64e17bc9ab6614330defa8114ee0e754",
-      "finalSha256": "67e3900739c2acd4b6be240eb438dabe53b3a8b77810710cd3b11820e003d463"
+      "finalSha256": "8b6fc490bd0fa65777fd7ff72f5acfac40da5ca674ddffa5e3f7c065d03c9882"
     },
     {
       "path": "public/media/motion/native/square-coin/en/frames-284-1190.mjs",
       "baseline": "baseline/public/media/motion/native/square-coin/en/frames-284-1190.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/en/frames-284-1190.mjs",
       "baselineSha256": "d0a6ffc38599b03cf52402df551cb9bb6f5e1612a8b755ba67e8305207dc6c69",
-      "finalSha256": "1637dd02a5d13adc48182af066cce9afcc9be44c3514a1bbf274fa69b1b4d811"
+      "finalSha256": "1d14db2bcc9b257b51a2a6e9d225e163f835d54a93bd1b9cb7571aa426d4c4c1"
     },
     {
       "path": "public/media/motion/native/square-coin/ru/frames-1-261.mjs",
       "baseline": "baseline/public/media/motion/native/square-coin/ru/frames-1-261.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/ru/frames-1-261.mjs",
       "baselineSha256": "4135e12390d2896134cda5d7fff6b4649b4d8ca9593cc5245f1ee2ae308756e3",
-      "finalSha256": "abf6d413c995a33b8d4da3a180adefad16076a34bbf2a5ce13c193b669895f24"
+      "finalSha256": "51b101c576c4ed3903c0e6602a1626be457c87ae87cb4cd1b6d7a24e65768fda"
     },
     {
       "path": "public/media/motion/native/square-coin/ru/frames-262-280.mjs",
       "baseline": "baseline/public/media/motion/native/square-coin/ru/frames-262-280.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/ru/frames-262-280.mjs",
       "baselineSha256": "32b2c16089c00c1b7cf8115fbbb330c36658b498c3459a3f5ecc8b8bf59ebd00",
-      "finalSha256": "681bba2946ac0e00e494708d35b9c9c7b65a19b451b97a15fdb40455a8c7b318"
+      "finalSha256": "03cf3b9849607772ec975c206f12a7256c73ed66aa3a2b4718076267a2d6c9e3"
     },
     {
       "path": "public/media/motion/native/square-coin/ru/frames-281-283.mjs",
       "baseline": "baseline/public/media/motion/native/square-coin/ru/frames-281-283.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/ru/frames-281-283.mjs",
       "baselineSha256": "6c6dbccd253eae40187cc5069d7ff969f792357536eca8bed86db940581e41dd",
-      "finalSha256": "38206c8b8ed6dd813e4123353a0f8967325f201bce3562c8850d4bd0131675ec"
+      "finalSha256": "5f27ad5f89d8aa499f94877e61defe1cfabe9133a0dfc1bf454aba16a82db1a2"
     },
     {
       "path": "public/media/motion/native/square-coin/ru/frames-284-1190.mjs",
       "baseline": "baseline/public/media/motion/native/square-coin/ru/frames-284-1190.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/square-coin/ru/frames-284-1190.mjs",
       "baselineSha256": "fe60a0db02e65d1a377119ca0c33aad31597209d7b3099e383e1da9a15c04fc0",
-      "finalSha256": "c115146cba65a369c728d4e28439e0b8d54a0a28ab302401813a09b95a8e3d65"
+      "finalSha256": "87ed7e755389e0461193c92ec20331d112f4d8d6625f463cd07326f0e5004bcd"
     },
     {
       "path": "public/media/motion/native/two-coins/en/frames-1-183.mjs",
       "baseline": "baseline/public/media/motion/native/two-coins/en/frames-1-183.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/en/frames-1-183.mjs",
       "baselineSha256": "8f43e5be4b20c50161bd893add46f14b91e939346a7c48a6b3b29bdb364bd7d8",
-      "finalSha256": "c4e41e1632bbac530ba0f1eb190c6040989ad56318fd582a0a3ebf9794b45adb"
+      "finalSha256": "90a7b979127207ad3cc81ee6b08ef9a7be88660313220e7b91effa07a85e3c74"
     },
     {
       "path": "public/media/motion/native/two-coins/en/frames-184-202.mjs",
       "baseline": "baseline/public/media/motion/native/two-coins/en/frames-184-202.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/en/frames-184-202.mjs",
       "baselineSha256": "10f8ba3a5ea7962a498de9616c64b7a8a1e9bfb67037ff8f44df0d0c8f0afb30",
-      "finalSha256": "b80d1bc942a203466e4dbe0c7ef5da1dea0238ce6373abb69a1432b593a062a7"
+      "finalSha256": "27410bdd62105d11e93b22ab736c538ad63ca8f019a813a5015fc73418fcd05b"
     },
     {
       "path": "public/media/motion/native/two-coins/en/frames-203-205.mjs",
       "baseline": "baseline/public/media/motion/native/two-coins/en/frames-203-205.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/en/frames-203-205.mjs",
       "baselineSha256": "3020ab3647fd60fc16fb34b478f4a744c44f665f24ea9140b340af28186d9b93",
-      "finalSha256": "4982e571d1acd6ffeaad4fdf97e2a883c84c86a5b0174697e368c347f82c82ae"
+      "finalSha256": "3a7f1b6d8bfa87a59de6d482cf0abf771406f0bfe3e7ecc57a66db5fda8c34cb"
     },
     {
       "path": "public/media/motion/native/two-coins/en/frames-206-733.mjs",
       "baseline": "baseline/public/media/motion/native/two-coins/en/frames-206-733.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/en/frames-206-733.mjs",
       "baselineSha256": "ada12c4356c5bb11f3dc3713dbacd986e74c35a22a0da37a033778878b395780",
-      "finalSha256": "78a496b306f37fe040dc839d44d8a3ba4ff3c8c8c623d3a8973fab5e8bf9edeb"
+      "finalSha256": "61eb42d9735ee26bcd41863d40dd77fecd961aea658a35f42e1b87116dbf38d1"
     },
     {
       "path": "public/media/motion/native/two-coins/ru/frames-1-183.mjs",
       "baseline": "baseline/public/media/motion/native/two-coins/ru/frames-1-183.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/ru/frames-1-183.mjs",
       "baselineSha256": "2854a8908d07c574937ed5450febd019e79cf9251f95e1499abbc4a9c2c1804e",
-      "finalSha256": "783fcc8d3858f6eb14a9c2dce21edaca1cf962d7c03389cb0ccaf51a15458228"
+      "finalSha256": "574cb2e3eccc85dd20db28e65c8f925aed4c7b653e0c6a33a90fbb546b305fdd"
     },
     {
       "path": "public/media/motion/native/two-coins/ru/frames-184-202.mjs",
       "baseline": "baseline/public/media/motion/native/two-coins/ru/frames-184-202.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/ru/frames-184-202.mjs",
       "baselineSha256": "810f83998a59d9f09242d9a0d4ce33a386b77791dd7e9b0c182f18acb85eb744",
-      "finalSha256": "6aaa9387f053a37cd7ab41e5e7a0c094de074d8559be9dff41f9dd584b438d37"
+      "finalSha256": "d6f415e2222ee4a7dedaf2afe1cedad043091ef4232a7dddad4c2c212fbf7ae3"
     },
     {
       "path": "public/media/motion/native/two-coins/ru/frames-203-205.mjs",
       "baseline": "baseline/public/media/motion/native/two-coins/ru/frames-203-205.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/ru/frames-203-205.mjs",
       "baselineSha256": "a802edde11d4d41cabc9f5a06fe2dd46ae3ffb0b6b439b7b7921d5e2d0a83997",
-      "finalSha256": "6b6db3e86728e02a5ff6d213a5a4f5b1cfafbd2527d516e41a23d0f47f997386"
+      "finalSha256": "d784149242919f2270f6030918522c1e01950946d280b22db789fe9e86099a07"
     },
     {
       "path": "public/media/motion/native/two-coins/ru/frames-206-733.mjs",
       "baseline": "baseline/public/media/motion/native/two-coins/ru/frames-206-733.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/motion/native/two-coins/ru/frames-206-733.mjs",
       "baselineSha256": "70c3410b2b12def05fbebe48d13da75ab7aacf27afc719be456e57ad3af91a9a",
-      "finalSha256": "9dd2f477441f26b0b255929298e671ae86212c713f4b97a2061e010de343de21"
+      "finalSha256": "4d7f46477aba22fd408a175757d68cd3c4c5b45d4e0a6daa333d3346f8fdeb67"
     },
     {
       "path": "public/media/reasoning/native/bacteria-en.mjs",
       "baseline": "baseline/public/media/reasoning/native/bacteria-en.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/bacteria-en.mjs",
       "baselineSha256": "4884c73b0536820ce26b8dd49c25831da0a0c84b82de09b2dd96664535399bfd",
-      "finalSha256": "2b076c921e9e55efa0ccf652ed9174f0b964ad14b89e46be302ab55aa4c584ee"
+      "finalSha256": "3ed096ec4f77e6a6462d7a7490a0bbf99db6965318a2759e77a36270dfcef9a1"
     },
     {
       "path": "public/media/reasoning/native/bacteria-ru.mjs",
       "baseline": "baseline/public/media/reasoning/native/bacteria-ru.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/bacteria-ru.mjs",
       "baselineSha256": "781e6fa9e4885d4268ba4433b139983370e9577be317fe6b6c59eb529632a50b",
-      "finalSha256": "98d9b7085e0df04fc4910c87cce5b44211b5431020e56f84c2dbb78a3d4712df"
+      "finalSha256": "a27e5d7f0d1a350b38ea33656f1cb6e4cc07ce5261ba6a7b5ab5ef7dbbaa4b4b"
     },
     {
       "path": "public/media/reasoning/native/burninghouse-en.mjs",
       "baseline": "baseline/public/media/reasoning/native/burninghouse-en.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/burninghouse-en.mjs",
       "baselineSha256": "566dc19ae6ffe651a6df6debed47565d96276c867df78a1674ac3a0ecea115a8",
-      "finalSha256": "339083b904175d27df0e474bee273acd608c32451c8c15965f81c591322223dc"
+      "finalSha256": "046d4a3acf0b234e58ba15cf2ca91e6760a9863ed458c4f78974c748acdcae88"
     },
     {
       "path": "public/media/reasoning/native/burninghouse-ru.mjs",
       "baseline": "baseline/public/media/reasoning/native/burninghouse-ru.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/burninghouse-ru.mjs",
       "baselineSha256": "8bf4d98ca6504b760ff5f440a502a588f5eb36a25d1df734bda6a45378bf65bb",
-      "finalSha256": "49953edb45929e5d224f10d6642610a360a736e2b2239888b3a97491c6be2666"
+      "finalSha256": "5a7e58c15c4dc5082d3c66c4d3968791c41a8b3ae86452d5c5b031f37eceea38"
     },
     {
       "path": "public/media/reasoning/native/grandma-en.mjs",
       "baseline": "baseline/public/media/reasoning/native/grandma-en.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/grandma-en.mjs",
       "baselineSha256": "0259bd9512c0a6f318d09d7c511e5c2e1d3d84085a5f7942710fa0ea55af512d",
-      "finalSha256": "2e5b9bb5b37f7dc031c45dc23705003baf85232b8750f7ea3adaa85111d66c17"
+      "finalSha256": "ab7b047e2805949c0e1543b8ca7f17719beb11f870a30af07ed1fc6be14091d6"
     },
     {
       "path": "public/media/reasoning/native/grandma-ru.mjs",
       "baseline": "baseline/public/media/reasoning/native/grandma-ru.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/grandma-ru.mjs",
       "baselineSha256": "c9b47c11286eff76d08d93d35c798f90544196675719befb48824a4933ba8fd2",
-      "finalSha256": "51976e7571e4f3c6562615cc1dbcc1b72fac44bac13c447f2632db9973e2100e"
+      "finalSha256": "a8fa025e2d3f7d7edc75876cf42ec658791a328b627b79f86c3ab3d16e2d6c34"
     },
     {
       "path": "public/media/reasoning/native/hand-en.mjs",
       "baseline": "baseline/public/media/reasoning/native/hand-en.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/hand-en.mjs",
       "baselineSha256": "c0bffa934321d0d637407e4b0ebd7bc831ea63b00d9f786a4c9e8d4ed1da89af",
-      "finalSha256": "569d254eb95019c67782038afc0bb9c97fde274c599431d44d3c5aa19b3b2590"
+      "finalSha256": "0883e549e15969cccd93bdd3273b1b04d806ca1f5d6e4fcd0e25cdd4668017d1"
     },
     {
       "path": "public/media/reasoning/native/hand-ru.mjs",
       "baseline": "baseline/public/media/reasoning/native/hand-ru.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/hand-ru.mjs",
       "baselineSha256": "f065eb5e8af8d3490c13ad4cef706600e917e59b56917d9222648c3e293a74ca",
-      "finalSha256": "0271eca3e65e69e654ddb3aa4ee89e31ae1200d384b0ed9761dfb92971d45d6e"
+      "finalSha256": "e642dba0061d2c0765e24dda5756bf2d9a33dd210bdcf4677fd2e8f57dd568e9"
     },
     {
       "path": "public/media/reasoning/native/hunter-en.mjs",
       "baseline": "baseline/public/media/reasoning/native/hunter-en.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/hunter-en.mjs",
       "baselineSha256": "e58bcce867c9dc924a02377457934d6efc110c72de8f39e675f8cc647204b2ae",
-      "finalSha256": "e1353a2d21fbe8ac01db2a36839693d08bc34b3a4f1af720a9b44600103c15be"
+      "finalSha256": "841388eeeb051b9d3de3e0be5b111041393f82d057e55a622b1964d9b16adedf"
     },
     {
       "path": "public/media/reasoning/native/hunter-ru.mjs",
       "baseline": "baseline/public/media/reasoning/native/hunter-ru.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/hunter-ru.mjs",
       "baselineSha256": "6fe2c96bc17e67b61c2e9aa44d5e888cd31398f953b393978ed8bcb723a3a3ef",
-      "finalSha256": "e20f416d60c6275b41c932ed49c8cc551243d1e5bde8021390f16de6c28da6c7"
+      "finalSha256": "40586ba8ee9e6c212768cdc5c7692e8578780142d3a5e43dc22d14a55e969b3c"
     },
     {
       "path": "public/media/reasoning/native/paradox-en.mjs",
       "baseline": "baseline/public/media/reasoning/native/paradox-en.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/paradox-en.mjs",
       "baselineSha256": "bd444758ba583267f628b76908a24386047aefa984a55a88102e0a90d4e88146",
-      "finalSha256": "476cb24f7bd4b6ce4bad6df603ffa58c1a3b085e8c9e05265c2de4d56364c303"
+      "finalSha256": "6abece94f174a50e6d15c7ec14cedc815b3dd40bcab7715d21924dc08877a9db"
     },
     {
       "path": "public/media/reasoning/native/paradox-ru.mjs",
       "baseline": "baseline/public/media/reasoning/native/paradox-ru.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/paradox-ru.mjs",
       "baselineSha256": "c6c4416b66bf0a1c5b4d94fd9e72c2608a659b2352ddc68a4707d29fb7dcae22",
-      "finalSha256": "9e8ea057d51a0b296f9957152aea619aa9e133862573b4b64c96e7507dedead1"
+      "finalSha256": "20ba91986762b11a467a1d032d05be07d80ead9324d1049d80e8a088865bd15a"
     },
     {
       "path": "public/media/reasoning/native/snail-en.mjs",
       "baseline": "baseline/public/media/reasoning/native/snail-en.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/snail-en.mjs",
       "baselineSha256": "a1d65aba1ca3290df2e8c726605531cd0516c0d55192719f1023ecfdb91a7d3a",
-      "finalSha256": "9b65cdf40545c6894d1b339bcbaca81541c1a67bf7bb86337db975caf273f10d"
+      "finalSha256": "3d915660ae3ba92cc604ef5298dfa281d6bb0b6f2110791551c5112a7f710452"
     },
     {
       "path": "public/media/reasoning/native/snail-ru.mjs",
       "baseline": "baseline/public/media/reasoning/native/snail-ru.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/snail-ru.mjs",
       "baselineSha256": "4c16727aae528f847f40abf582265b7a12ccb2c2741b5cc4e539197da9559c33",
-      "finalSha256": "61ee633597dc51fb1a45ddef1277487ef7c33faf7b7e9fd0f2a9183ac76982fd"
+      "finalSha256": "f8004b0499922b628e051aedbef9c0202d9a5b59def4103009674019ce202c23"
     },
     {
       "path": "public/media/reasoning/native/staruhi-en.mjs",
       "baseline": "baseline/public/media/reasoning/native/staruhi-en.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/staruhi-en.mjs",
       "baselineSha256": "8dcb535d870af8d04c88c365c52b180abcd0e20d0e47eea23e59512a5946da96",
-      "finalSha256": "bab1ff8d3f3b88ba926c4f48687eab6566b952cd0f691c7f0741d53b90856793"
+      "finalSha256": "1437172acc0d73a86fbbbbd8a0a7ed00c68de800c7eb1d2ee184563216253f8e"
     },
     {
       "path": "public/media/reasoning/native/staruhi-ru.mjs",
       "baseline": "baseline/public/media/reasoning/native/staruhi-ru.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/staruhi-ru.mjs",
       "baselineSha256": "66d94485d2129a160da745efa4b9c3208f05143aa27931c80a3b2c6e85fbdd3c",
-      "finalSha256": "44b333d3f060ac98c9107ddfdd1d3e356b22a689423567b1acc863fc0ca34382"
+      "finalSha256": "0bdcf1b7e5c9cb89e051773a73bc8aab0bbcb927e83bb7445cbc5235a7c7d650"
     },
     {
       "path": "public/media/reasoning/native/tram-en.mjs",
       "baseline": "baseline/public/media/reasoning/native/tram-en.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/tram-en.mjs",
       "baselineSha256": "e292a77d2b837f5d97011008882e7df4258709792b498c876f02006504d20116",
-      "finalSha256": "20502621495526cb662321ad2d29e1fcf69d19bb9ee414786568a716363cdb6b"
+      "finalSha256": "2e01eca9ed1f159700f248707a6b417b6ba91b25b74b2ee7948a74375abb2c43"
     },
     {
       "path": "public/media/reasoning/native/tram-ru.mjs",
       "baseline": "baseline/public/media/reasoning/native/tram-ru.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/tram-ru.mjs",
       "baselineSha256": "84e64a43394fb2bf7347b9397cd1655406797a8c21e85c703641b565f03a697f",
-      "finalSha256": "d25ffe630fd6ec7cda14bb9a6e2445c9f97def098c35280ed7f04a082d9a73c3"
+      "finalSha256": "6828904bc25d1fcf325b88584209790072f499f1dfb34e4a133dfb62f95fe1bb"
     },
     {
       "path": "public/media/reasoning/native/turtles-en.mjs",
@@ -1001,77 +1001,77 @@
       "baseline": "baseline/public/media/reasoning/native/wine-en.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/wine-en.mjs",
       "baselineSha256": "1c3a27fb3fb0934dc55e34e8fe046aa22e78eaabbfca0167fbd6b577518c9cab",
-      "finalSha256": "8698617e0e07ace815579d50d389d5ad1dc075ee69badd5c7c02956a4702d6b3"
+      "finalSha256": "a0835c0b1567dc14d13f322e05b88d3c4fa098f5035fd8edfb3a24314618cf22"
     },
     {
       "path": "public/media/reasoning/native/wine-ru.mjs",
       "baseline": "baseline/public/media/reasoning/native/wine-ru.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/reasoning/native/wine-ru.mjs",
       "baselineSha256": "91c0841f2c5b3ec79ac6d8119683f4bab8b30d9da75982db16cc1707424e96b5",
-      "finalSha256": "e0e4106d787eee07a4251465adf1c440db6aead0354d325ec22c2e0f0f4829a9"
+      "finalSha256": "e883dfc3365741b521aeaf04336f05106bb5ae40525fe0db0a4c678a6d826c99"
     },
     {
       "path": "public/media/solids/sphere-lesson/en/ending.mjs",
       "baseline": "baseline/public/media/solids/sphere-lesson/en/ending.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/solids/sphere-lesson/en/ending.mjs",
       "baselineSha256": "b8a670b2880c76e5dceb5aca8c21c121a890902cd1dd3d61a2eef6aaa94b7200",
-      "finalSha256": "bad65fc5ebe646863c280d801922d9f310a7af0cd87b911a3a3888c075d5415e"
+      "finalSha256": "1c92e8b2401e0a730347105ad65c1c05c1258afaeb8161cf6037aa9ccf9f41a9"
     },
     {
       "path": "public/media/solids/sphere-lesson/en/examples.mjs",
       "baseline": "baseline/public/media/solids/sphere-lesson/en/examples.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/solids/sphere-lesson/en/examples.mjs",
       "baselineSha256": "c1ae593682f52791ee0f16db34a4cecdbc33294c07a2fc12128d564a823975ea",
-      "finalSha256": "d941e657772a44050e89ace11b91732015711af44c3bd81bf5a9833389dafa98"
+      "finalSha256": "de5ba04aa095f639de8ab09c0957a4fb14dacc2bc1f04bde705eb0693c6220c2"
     },
     {
       "path": "public/media/solids/sphere-lesson/en/proof.mjs",
       "baseline": "baseline/public/media/solids/sphere-lesson/en/proof.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/solids/sphere-lesson/en/proof.mjs",
       "baselineSha256": "97f944b0e5b60a986bdbd3ea3f1ba20ce965fe37fcfd9e9df05e8e27c3d1a720",
-      "finalSha256": "d6263aef921cf8417159fc8e75e33c1b6a821cd6691775817633c668ea01cda3"
+      "finalSha256": "78db8566d343f768b68fa5eae241e761ab823f565bf61ed4e5a376bd12bf8986"
     },
     {
       "path": "public/media/solids/sphere-lesson/ru/ending.mjs",
       "baseline": "baseline/public/media/solids/sphere-lesson/ru/ending.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/solids/sphere-lesson/ru/ending.mjs",
       "baselineSha256": "412515f2c3d12de75b5814e7ca6911c106e3fc0557e6c7a2f49de0a8c3ec1bc7",
-      "finalSha256": "628da77687270ab48ed86eb98ee8e36dc4c0edfa634355ed9cfac25cc3100f62"
+      "finalSha256": "068d7c25e3dbe5670e6b911841313e0ea982f10cbd5f06ca310871e492d9d0c2"
     },
     {
       "path": "public/media/solids/sphere-lesson/ru/examples.mjs",
       "baseline": "baseline/public/media/solids/sphere-lesson/ru/examples.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/solids/sphere-lesson/ru/examples.mjs",
       "baselineSha256": "50b56839a43810b493fdac028eca20e4e7e406f03fbe2838011662d4fb38646e",
-      "finalSha256": "fb3ee402ad5f205e3cf56b15a766c92bff49e3e22a34f059f689b636a0e3fdd8"
+      "finalSha256": "61fa24cbcce9ad42dad7a770c494465c9ca9cc1b32dcee6e3065fc424743773d"
     },
     {
       "path": "public/media/solids/sphere-lesson/ru/proof.mjs",
       "baseline": "baseline/public/media/solids/sphere-lesson/ru/proof.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/solids/sphere-lesson/ru/proof.mjs",
       "baselineSha256": "275528265186e154bb0faafeea32ebce92cf7e27f2396a22d422ee84626d7aca",
-      "finalSha256": "a52b0ee997ef9c56d1a406a53f3b645f6219bda956f78c77e28689e1d549e70e"
+      "finalSha256": "01956c7f959d4be5b6fbde5ae0862be01ba59fbf4fabb85cb768f298f8b21538"
     },
     {
       "path": "public/media/stories/canvas/Pinoc-game.mjs",
       "baseline": "baseline/public/media/stories/canvas/Pinoc-game.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/stories/canvas/Pinoc-game.mjs",
       "baselineSha256": "717f3d52e09e3d470845bb9adb92b7caef883052ed5db8a575dce7ad696ef720",
-      "finalSha256": "8c1553e4babbc9d7913b8f6cc2155a81fa4046828bed2ba13fecb8a622d64f8c"
+      "finalSha256": "38be6429167f570f7ac0fc78ae554885e3e1ac3a007bc6350820b2f06ad155e8"
     },
     {
       "path": "public/media/stories/canvas/Prosto-game.mjs",
       "baseline": "baseline/public/media/stories/canvas/Prosto-game.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/stories/canvas/Prosto-game.mjs",
       "baselineSha256": "6fa565404e0faea7103f9c043faf33477f7efbaec845a0a3efb56cd3d729f8cc",
-      "finalSha256": "c32b3c0b6484db3c937d6bfc9ff90515d1919fd4edee7985141dd2f6d60f62b0"
+      "finalSha256": "55b17405db7cefadc69c90e4a64de71f8d7fa5b367c594fc53383720f7be8074"
     },
     {
       "path": "public/media/stories/canvas/Snowhite-game.mjs",
       "baseline": "baseline/public/media/stories/canvas/Snowhite-game.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/stories/canvas/Snowhite-game.mjs",
       "baselineSha256": "a57c5866d85c1f16d131ed9413d4e64366936e5d9e7e8149d0a553453b49f8ff",
-      "finalSha256": "9c8c5e69283b626c4ae748d25be0162c64d0a5d8a643c6a99c32730074ba9b64"
+      "finalSha256": "8e83b0c3b99a0a4bfa5399b0871d203ea611eb44df5f22d3a2409d0469f3a287"
     },
     {
       "path": "public/media/triangles/native/altitudes/en/chapter-1.mjs",
@@ -1106,189 +1106,203 @@
       "baseline": "baseline/public/media/triangles/native/bisectors/en/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/bisectors/en/chapter-1.mjs",
       "baselineSha256": "797e945c6b7f14146566ace4ef16fe9d740a80a952a504edf89e5b28282d833f",
-      "finalSha256": "1dbc69a2ebad7172f995dc3637a7c33960339e937fe6dfe69cc24f368613a925"
+      "finalSha256": "268186febb3dc6ac92ecd694d7ddf0a2a7141d56fab993d65706f23710c9be19"
     },
     {
       "path": "public/media/triangles/native/bisectors/ru/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/bisectors/ru/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/bisectors/ru/chapter-1.mjs",
       "baselineSha256": "24360b3f4ab2e54d7bea1c71d90785fa6416000592be28453f1da5dc653c0d27",
-      "finalSha256": "8e2edf1ed056806df8824485570efbeb65ab8d1ce307fce517109f65b7e4bde8"
+      "finalSha256": "f1dee4025f9b4f83b253bd504889511482be45f7907d4cf144ec19b7d6cbab0e"
     },
     {
       "path": "public/media/triangles/native/congruence/en/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/congruence/en/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/congruence/en/chapter-1.mjs",
       "baselineSha256": "492ed4f8fb992db0a21eb1a12f20d0215a7dcf4c4bfc16978c4c63f3c48d1a68",
-      "finalSha256": "0a2f2140ca821c490a0a34b4ecd59d14cffd8a9c1f31aa3331ce931b767a49be"
+      "finalSha256": "b64e70ff206c40859076a6ba3d7304e25a142696d5707e112c689e32a8491876"
     },
     {
       "path": "public/media/triangles/native/congruence/en/chapter-2.mjs",
       "baseline": "baseline/public/media/triangles/native/congruence/en/chapter-2.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/congruence/en/chapter-2.mjs",
       "baselineSha256": "0ceca8c2e4501772285a37ae3de1b0039bcbd2cb83464c57a1d3eaa30919e9fa",
-      "finalSha256": "8ca17b5e4cb134bdf7d784c4c820eaee7481d4e9288a950030148c1d12b8e440"
+      "finalSha256": "f954643f170ea2eee5a193cacb9288435d68ebeb2954eb953f07eef47ad46c4a"
     },
     {
       "path": "public/media/triangles/native/congruence/ru/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/congruence/ru/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/congruence/ru/chapter-1.mjs",
       "baselineSha256": "9bd0ae6e3d3e0398070b802f217a2d7fdc9dd19e1139d3e07e2084044cddded0",
-      "finalSha256": "8f296d6131a85caf452f7820f76e845eaead42b3b2c2f56db7a31fd5eeb3341d"
+      "finalSha256": "09ed0c5eb3e114e435555805eb3575f4f7a66a8e7c575e287d223100f8fb9429"
     },
     {
       "path": "public/media/triangles/native/congruence/ru/chapter-2.mjs",
       "baseline": "baseline/public/media/triangles/native/congruence/ru/chapter-2.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/congruence/ru/chapter-2.mjs",
       "baselineSha256": "4376c46134c02cb16f2448d86c0ed43a998145631d04793017993478cabecdb7",
-      "finalSha256": "1994cf440a4eeeba22dbd3e37c46848828613b4e3fc23c2699caecf3652ccb4c"
+      "finalSha256": "f20ef8a64b791b99997d19a60b362eb4d3b32e5bcbf735ad0983a3e2c3d7684f"
     },
     {
       "path": "public/media/triangles/native/cosine-law/en/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/cosine-law/en/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/cosine-law/en/chapter-1.mjs",
       "baselineSha256": "c197273aa18a447388fa74ab870dda76a44b37c76126029ac05cab98e05eec16",
-      "finalSha256": "1c5dfc781778e7664185b5adbe709a864361e0beee6d577b680afc1b2621f28e"
+      "finalSha256": "22c5ed370f8327b77e0a4965f3514464e6bd1cbcc7c5e58c7089b1401be5e31f"
     },
     {
       "path": "public/media/triangles/native/cosine-law/ru/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/cosine-law/ru/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/cosine-law/ru/chapter-1.mjs",
       "baselineSha256": "fb3280627dd4f71c2936de00872c50539f321283ea1209c328c940a8ac6711bb",
-      "finalSha256": "395268857009a58d407a1b6edb0f49b98966d58bf94c85807a755314ca80058a"
+      "finalSha256": "6ff8b517965a88bab540bfbe8866e110f85d817cf8d5e8e022e30ae4d0671f00"
     },
     {
       "path": "public/media/triangles/native/false-proof/en/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/false-proof/en/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/false-proof/en/chapter-1.mjs",
       "baselineSha256": "d25cd787b9de312be547900e5cec99d3dbf17694988ecccf7c53ede6c4562024",
-      "finalSha256": "3df08b87936663a771b26bf8f28a6c05d8e6cf5dd366a4359c8debef9b9b2efa"
+      "finalSha256": "de4e0d8441f6a0f24fc25fb49ce543d9a3611a5796133485b6a07f96a361e1aa"
     },
     {
       "path": "public/media/triangles/native/false-proof/ru/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/false-proof/ru/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/false-proof/ru/chapter-1.mjs",
       "baselineSha256": "9606931dc4b83a010f890560aae921c96698a806411d5d8f3705815c98c0d45a",
-      "finalSha256": "bc33c09ab6dde59c964f64f00573512d52582e6a08386a159384613433c0e08e"
+      "finalSha256": "cec32705bfb738d394f8ca8e707b84701aa2f3ae562ff3339712d22b9b43688e"
     },
     {
       "path": "public/media/triangles/native/inscribed-angle/en/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/inscribed-angle/en/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/inscribed-angle/en/chapter-1.mjs",
       "baselineSha256": "e0d8e8a288b85851988ae435c6079d471a42ea8ce3172f71230a3f8492eb3ae8",
-      "finalSha256": "e873e9bd4e682f2c45c0242b5501dac45b9a00ef6b5ea8308c8b76921f5923be"
+      "finalSha256": "ba958121921453a1ffbbd1c9d7c6d78c3f95b8ec6dbe9519e43d398093555e9d"
     },
     {
       "path": "public/media/triangles/native/inscribed-angle/ru/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/inscribed-angle/ru/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/inscribed-angle/ru/chapter-1.mjs",
       "baselineSha256": "a9cc8bda6e8f89a9e8c33011eee76be594c80a4cba9eff8e3c8c0f07526c9e67",
-      "finalSha256": "7263df67640f9dbb59294a8b858939a3713b570279d5304c388c7457b3586ce9"
+      "finalSha256": "034c46c611afa1ffece4f3cda3689f4071e3f17e91d503fe4c1a99f07f1fdd9b"
     },
     {
       "path": "public/media/triangles/native/inscribed-angle/ru/chapter-2.mjs",
       "baseline": "baseline/public/media/triangles/native/inscribed-angle/ru/chapter-2.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/inscribed-angle/ru/chapter-2.mjs",
       "baselineSha256": "cd7b33397c840cc335f127c690aba4a042f8d592c32d3103dee33e60bc5baef2",
-      "finalSha256": "993f496eb44cda9c3315ad346a97cd003772cf28b49648a626585d359c86e4c2"
+      "finalSha256": "4b547351dfa92aad9319938845b448600f3c95a651582b03796fbfa2e7b5962d"
     },
     {
       "path": "public/media/triangles/native/medians/en/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/medians/en/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/medians/en/chapter-1.mjs",
       "baselineSha256": "064b813e2e62234d061ee6005f25ddda76df74523754d6c1bddf721694abbbce",
-      "finalSha256": "f456b67246321724bb0e178762d8002c4147b43eee2a3c595f9d21ff410725bf"
+      "finalSha256": "74b7f38a83eb05f0a360484dc266a13f92ed6d60b6e8b96c4ae5dde877a990f2"
     },
     {
       "path": "public/media/triangles/native/medians/en/chapter-2.mjs",
       "baseline": "baseline/public/media/triangles/native/medians/en/chapter-2.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/medians/en/chapter-2.mjs",
       "baselineSha256": "1715fa69e833b9c3998be5a59f6632d96685cb3b7491d13b6ba337f9d6897d98",
-      "finalSha256": "dbae33ff3d0b998873c2941e7752ecdb875454723d21b9e51c114219d3c23b40"
+      "finalSha256": "577cd159172b4dccb272e193d0f98c43662c5d277654760a78968cf89e72ef04"
     },
     {
       "path": "public/media/triangles/native/medians/ru/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/medians/ru/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/medians/ru/chapter-1.mjs",
       "baselineSha256": "07198625a4a0c6f2714cd691e67fbc1ca1feebe7a9255cb44cdc100532d68943",
-      "finalSha256": "9775172393097f6f3905c8c34524c3ffc578720bd59ec2a5c421987494998d6e"
+      "finalSha256": "edd3f83a824a65c4fd2e97c029b394ca4eaefa022819ca261f747feff977b014"
     },
     {
       "path": "public/media/triangles/native/medians/ru/chapter-2.mjs",
       "baseline": "baseline/public/media/triangles/native/medians/ru/chapter-2.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/medians/ru/chapter-2.mjs",
       "baselineSha256": "a4cd0b8b6c15d37bfed56ca4ee4a9a092b8b5d2f868b1c56c5b5e95afd3d709c",
-      "finalSha256": "1e86571666752ba25403b2a6450e79f1c0bd8de705d60091bdce953154c3d4c6"
+      "finalSha256": "e2a724af23acc1cb8182ed4f76e64d4a26baab8f0fd0502213f1def2b0bc0f50"
     },
     {
       "path": "public/media/triangles/native/palm-trig/en/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/palm-trig/en/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/palm-trig/en/chapter-1.mjs",
       "baselineSha256": "889f627b8e69b0829a31615a459a2676714cacef1ddffcf0403bfbde20cefe37",
-      "finalSha256": "ea74ab07be2d7cec9a7b63685c3205f77baba88e921a008ba32dcd1e69fdaf14"
+      "finalSha256": "2713577a3e921dab53d2bd73031ec64838dc34445bd94d3c62303c6ae45fdccd"
     },
     {
       "path": "public/media/triangles/native/palm-trig/en/chapter-2.mjs",
       "baseline": "baseline/public/media/triangles/native/palm-trig/en/chapter-2.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/palm-trig/en/chapter-2.mjs",
       "baselineSha256": "aab8607de8370691b7093db9b29a37abf4e960dbebbbce9b85d54cdd5e436e90",
-      "finalSha256": "ef25d7cd458f0bf39e7771ccf92fe0aebd40c09a5bad928727d9f63a16bb9078"
+      "finalSha256": "41b4688a7d6de77ba45f1eac9775e6047f2c6ab3e155cb3ee2798d40cb0aaa36"
     },
     {
       "path": "public/media/triangles/native/pythagoras/en/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/pythagoras/en/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/pythagoras/en/chapter-1.mjs",
       "baselineSha256": "c94f79b671cee95446d63e539134260d039dae53207b36d99fa47a421d279477",
-      "finalSha256": "39e2f430a640393e6694c69983e856efd83905be2ef0083c33823db603756ff0"
+      "finalSha256": "6e8251f81821f8f1d9731ce66fab36d3e311846e1b9b580d1f45d796cbc20b55"
     },
     {
       "path": "public/media/triangles/native/pythagoras/en/chapter-2.mjs",
       "baseline": "baseline/public/media/triangles/native/pythagoras/en/chapter-2.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/pythagoras/en/chapter-2.mjs",
       "baselineSha256": "096a08191392f1a09d86a07159359ff97d8a3dd7b06f28e8311b58ac77bf5ab3",
-      "finalSha256": "b7383d5441bc20f33844943e7e493d51a8beec16befdd5feffdee9608a04d4e1"
+      "finalSha256": "50e0b2db12aa0ad77caa7761359da8c956f9d4f48d4ca35238b17b2c613afb6c"
     },
     {
       "path": "public/media/triangles/native/pythagoras/ru/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/pythagoras/ru/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/pythagoras/ru/chapter-1.mjs",
       "baselineSha256": "d9abfd878c39ad8489f513853305bde79057dee787724676dc191a29bd7a98d9",
-      "finalSha256": "b9b44eac6b4d65126777ae9820ea9604af9c39a17b40c0cb0a8cd41577e25b42"
+      "finalSha256": "73c4ba4c711fb3689cef3c9e372d6f460b1aa82d724c62a43c5985fa5f59c7e4"
     },
     {
       "path": "public/media/triangles/native/pythagoras/ru/chapter-2.mjs",
       "baseline": "baseline/public/media/triangles/native/pythagoras/ru/chapter-2.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/pythagoras/ru/chapter-2.mjs",
       "baselineSha256": "b4a993b78c344d5dc99939399800ec1d4b4acc3d3722eb62f1d66fa18ea281da",
-      "finalSha256": "7b5fda2a4207ae036ff18ebcc9953a5d773d7760274088f1cd07c3a3855d7664"
+      "finalSha256": "c4faf64e1a071d6de98c86e079c6a98bf547532d0152a96a7cab0f273205d2c8"
     },
     {
       "path": "public/media/triangles/native/sine-law/en/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/sine-law/en/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/sine-law/en/chapter-1.mjs",
       "baselineSha256": "9949af59d46beba5613032b7eb6994ddbddf021512d88c106bc7c1dc784b633a",
-      "finalSha256": "ba8a80d3944ba26316aba4831aa7201444d59efe592a1d297acb71cf6e5f55ea"
+      "finalSha256": "bf83fabbd0ca41bd2527a98f9d357cc7d52892c69ee07484b0d077313fd5248b"
     },
     {
       "path": "public/media/triangles/native/sine-law/ru/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/sine-law/ru/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/sine-law/ru/chapter-1.mjs",
       "baselineSha256": "de95ae7f30e96e44e54c954c7413a126de53681c58d0f08dfef7fa7132b52e88",
-      "finalSha256": "bc73de0653afb2fb12502e16cc484b91ea4cd191b599d45df2bdd0ca3cf26e0d"
+      "finalSha256": "66e5a508873b99b5fbc377bdb0b1253255d6268eca8eafe5ffcf8b914190ac15"
     },
     {
       "path": "public/media/triangles/native/trig-addition/en/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/trig-addition/en/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/trig-addition/en/chapter-1.mjs",
       "baselineSha256": "eab277677db8fc97396dc0f914b4e400b96a7f58eef338d2d3b39a212fa07157",
-      "finalSha256": "5f88aa90194f2c91d1ec59086df821912977f17dca1e2a27f2c40f9de92536cc"
+      "finalSha256": "aa1dc4736da3749e8e00805f9d0a889591bc8954772274b3aa10de10693dd291"
     },
     {
       "path": "public/media/triangles/native/trig-addition/ru/chapter-1.mjs",
       "baseline": "baseline/public/media/triangles/native/trig-addition/ru/chapter-1.mjs",
       "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/triangles/native/trig-addition/ru/chapter-1.mjs",
       "baselineSha256": "1fc7c94a6ff92078877dd55c236a022dd3c32f55e1118e719415c7135dba70ed",
-      "finalSha256": "f90c47c3424a8fab5c1733a2070f3f4d871112c412f46b7a03925e60937ce886"
+      "finalSha256": "e8923fb661b76c65414ba1528af4791c1d20a2407481c10f2781c09edbe868ff"
+    },
+    {
+      "path": "public/media/coloring/native/cube-en/timeline.mjs",
+      "baseline": "baseline/public/media/coloring/native/cube-en/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/cube-en/timeline.mjs",
+      "baselineSha256": "f406a9763ee1232abb09d6fad1d0cd63faa85661f64df811a16e2035a216e36d",
+      "finalSha256": "dd77fd3c0d6d9488a3231f849e49dc0c0b454cbf26ade907dea6286c10ab4e37"
+    },
+    {
+      "path": "public/media/coloring/native/cube-ru/timeline.mjs",
+      "baseline": "baseline/public/media/coloring/native/cube-ru/timeline.mjs",
+      "finalSource": "https://github.com/ignatremizov/mightymatica/blob/main/public/media/coloring/native/cube-ru/timeline.mjs",
+      "baselineSha256": "6b2d9d960b1dbe6685b18809c1e76aa5123ec289590eb50815fdafc0ed049bb1",
+      "finalSha256": "f08ec9cc403fe38ef2065a15ad9a3e0912a78772c51baa7b2f540fe0215a750d"
     }
   ],
   "support": [
@@ -1309,16 +1323,28 @@
       "sha256": "da7eabb7bafdf7d3ae5e9f223aa5bdc1eece45ac569dc21b3b037520b4464768"
     },
     {
-      "path": "public/media/coloring/native/cube-en/timeline.mjs",
-      "sha256": "f406a9763ee1232abb09d6fad1d0cd63faa85661f64df811a16e2035a216e36d"
-    },
-    {
-      "path": "public/media/coloring/native/cube-ru/timeline.mjs",
-      "sha256": "6b2d9d960b1dbe6685b18809c1e76aa5123ec289590eb50815fdafc0ed049bb1"
-    },
-    {
       "path": "public/media/coloring/native/cube-stage.mjs",
       "sha256": "2a6fb2fca45dd80bb32b15d907ce8e864a26026e944e6691b4e99fc0e7621232"
+    },
+    {
+      "path": "public/media/solids/cube-lesson/en/timeline.mjs",
+      "sha256": "f057545974b618c34462e257c73b316a943452eb0edcd77c272382f53fc51771"
+    },
+    {
+      "path": "public/media/solids/cube-lesson/ru/timeline.mjs",
+      "sha256": "912742f81fdd5c9b5273923f1c7c31a0785454a4a5723432ee72db3a97ed72a3"
+    },
+    {
+      "path": "scripts/algebra-coloring-magic-playback-control.mjs",
+      "sha256": "16250cdb52afb1417e915b94dd4729cb47ddf8eddc0a882477820a347ff783ac"
+    },
+    {
+      "path": "scripts/algebra-coloring-magic-playback-control.test.mjs",
+      "sha256": "cb247a6286eee32efcc412d0d54666c26bfbef8208339ddec53e7629a01d0e59"
+    },
+    {
+      "path": "scripts/bounded-character-filters.mjs",
+      "sha256": "5e319a86e44717dd82e57113e6f9f140c7100502b7528dc98953d8a2cb9b101d"
     },
     {
       "path": "scripts/calculus-filter-buffers.mjs",
@@ -1381,6 +1407,10 @@
       "sha256": "76de4ef0bf4221b0ad003e91514ac41d699a0af8625a1b00112a60dc039f7881"
     },
     {
+      "path": "scripts/earth-belt-animated-filters.mjs",
+      "sha256": "d09b5077c661b15f0f490d4fbed39977ea877b431dce5c8116ccbbbe504237ae"
+    },
+    {
       "path": "scripts/export-original-frames.mjs",
       "sha256": "28eafe3d20cf2fde6ce8c5d83ffaae6e3279e47a7573a72c75b7b22b1ccdca9f"
     },
@@ -1409,16 +1439,56 @@
       "sha256": "9d71f25cdda6827e57e7e24a6a757406403ea0adc66f3e72d83309308c91cad0"
     },
     {
+      "path": "scripts/motion-fractal-playback-control.mjs",
+      "sha256": "4b3f5e9aad48abc92e98183887d8e02b4b045274f5fa6772ea3ad3bdc00203d5"
+    },
+    {
+      "path": "scripts/motion-fractal-playback-control.test.mjs",
+      "sha256": "f79c681e63c0fda2cfe53e149440f5e83b9b5a4b62e675bb1ea597aa584dfa2f"
+    },
+    {
       "path": "scripts/optimize-calculus-filters.mjs",
-      "sha256": "445cfb0e4998df8794044e3a88378b0ed109561b3b586502c2f35e3315c8e5b6"
+      "sha256": "52d59821f896617563436abf7eb8270eb382a47bd45d9d0dced476267dda871b"
     },
     {
       "path": "scripts/optimize-calculus-transitions.mjs",
       "sha256": "75dc4a1f774ad31b3d6ac78f51fd64afe86ced49b54cf44e13df25e789afa069"
     },
     {
+      "path": "scripts/optimize-empty-text-filters.mjs",
+      "sha256": "a72ccf4ff2d08bd67938bcba2de39af1e294a552c837ef1b67637ca31f55cc87"
+    },
+    {
+      "path": "scripts/optimize-nested-text-filters.mjs",
+      "sha256": "8c82bfbe334624ec8a67bd345ebfa3334d8cc3772f26fad44cd629679df671c6"
+    },
+    {
+      "path": "scripts/optimize-reviewed-nested-filters.mjs",
+      "sha256": "31f823d88fe4ef8ebc7062182a2f722cafd56d6b0fec630de9d2338dd37fea92"
+    },
+    {
       "path": "scripts/profile-calculus-filters.mjs",
       "sha256": "0ecffd0b9f267e389387416eb2209db6e65501f009dacb468e7f1596436dfff3"
+    },
+    {
+      "path": "scripts/profile-earth-belt-animation.mjs",
+      "sha256": "029eb91dc14051a0a5019d44c2427eb8a4a4a9dd083dd62661420f53fa73e08c"
+    },
+    {
+      "path": "scripts/profile-native-drawing.mjs",
+      "sha256": "f6a77cf1bfffa10bfa2e44abb630aad78e259f5ac21cf34cf3d5eaf3fd024760"
+    },
+    {
+      "path": "scripts/profile-native-performance.mjs",
+      "sha256": "c1042137485b0ca5dc6fde2850695916897d0e8ebd6a7de8d031b2f5063d9cd8"
+    },
+    {
+      "path": "scripts/profile-tram-animation.mjs",
+      "sha256": "deb2599ded575b2e751ff43288abf482e14dbd9316a106346da779dc43020d5d"
+    },
+    {
+      "path": "scripts/reasoning-logic-playback-control.mjs",
+      "sha256": "d7b298de3da02588db85e760700b2a894e064e1b7637dcb23058a59861fafc74"
     },
     {
       "path": "scripts/recover-calculus-text-bounds.mjs",
@@ -1429,8 +1499,16 @@
       "sha256": "5d64f470d0a4346c28df16fc6f74179ea294f70bd8471f7ee7f3f387b60e0aa4"
     },
     {
+      "path": "scripts/recover-reasoning-logic-controls.py",
+      "sha256": "e506b5e0a5134d800339898d9ef54bb188028b6da92bcddd64308152a65bb2a3"
+    },
+    {
       "path": "scripts/recover-sphere-lesson.mjs",
-      "sha256": "ae219f58c9fb9627f6a6164a093c7a84e08cefb7ce8d4b0d227cf671ad9df7d9"
+      "sha256": "e204e893970dae4991f0d6b9d511ade7a30ba45ff4adbad5b8b06f41f134f793"
+    },
+    {
+      "path": "scripts/recover-static-drawing-bounds.mjs",
+      "sha256": "37a19cd9679ae2451c1ecde4027b7cdb16c43f18e05bf1e947751862bde8e17e"
     },
     {
       "path": "scripts/refresh-canvas-lifecycle.mjs",
@@ -1453,6 +1531,10 @@
       "sha256": "287521e5be669ec639d79d1258167a25fbe0bbbab7129d8d4c9ebf1bd7ca204f"
     },
     {
+      "path": "scripts/tram-animated-filters.mjs",
+      "sha256": "06405b2198236aace1c957290659fd3cfed48cd4de5585904f6fa8a419cfaf1f"
+    },
+    {
       "path": "scripts/transcode-films.mjs",
       "sha256": "ec34f7c5c934ac5b450529fcfc5c9bca09022601b364f436bf25dafab325b76e"
     },
@@ -1461,8 +1543,1764 @@
       "sha256": "1031c064e3f67a8f428bad065c4f293f4682a455c7982e5c4e3f4ba18b038972"
     },
     {
+      "path": "src/app/App.tsx",
+      "sha256": "2993e936183b3af067330ab6f631c306bc184161464bc191234baf06799f7693"
+    },
+    {
+      "path": "src/app/OriginalPageLayout.css",
+      "sha256": "447e0153e9e0c63aa0b381351b2c8df4e39c765112e05ecc522bb8547da3c7b8"
+    },
+    {
+      "path": "src/app/OriginalPageLayout.tsx",
+      "sha256": "5cf398d3df8d86617253bbaa488b2df61595743dc75e2ecd9205eb1c8b545c1f"
+    },
+    {
+      "path": "src/app/OriginalSite.tsx",
+      "sha256": "5cfcf2ea97a66035faacc3b5dbde0c3cd781e4ea407cfa170b16a6fb10e60f1c"
+    },
+    {
+      "path": "src/app/activity-base.css",
+      "sha256": "1c104f7155d6efb7e255efa0cb0d35e6b5fe6636144ce8cfd71cf5e9e84615b8"
+    },
+    {
+      "path": "src/app/activityNavigation.ts",
+      "sha256": "6c9449d5f4982ec65999a73941af6bb9e241b1b9f2fc938022863ec576f1412b"
+    },
+    {
+      "path": "src/app/activityThumbnail.ts",
+      "sha256": "ac3bffea8c625858e546da1c80fe8594c7ab45da7235ab378ab5dca107b8e28d"
+    },
+    {
+      "path": "src/app/catalog.ts",
+      "sha256": "41e604302a7b30c51129127ddddddc3798826981046e53e1685160088faba20a"
+    },
+    {
+      "path": "src/app/preferences.ts",
+      "sha256": "9244fa029a3e8a94151b1811d5e7dcb1ad3b4261f6e850906762a69a840c7196"
+    },
+    {
+      "path": "src/app/registry.ts",
+      "sha256": "7dabc61385770443abcf055a424178088cc1aa1b71008e5a7b782a93ed6e56f3"
+    },
+    {
+      "path": "src/content/cube-sections-media.json",
+      "sha256": "1a2cf09acda3f0bed0aea68d46ed4bd03fdf216d90c5d98ecf9966c93d30a083"
+    },
+    {
+      "path": "src/content/films.json",
+      "sha256": "abacac754fceddcac40166b3bf84f0446a243003006e8d53275cc2390f3dc9d9"
+    },
+    {
+      "path": "src/content/interactive-audio-inventory.json",
+      "sha256": "7126a9553a0da58e69682b95f159cdc9374fdfab7568420d23f86f7beb4eb9bd"
+    },
+    {
+      "path": "src/content/legacy.json",
+      "sha256": "7d720e543a37c273c3cefddfe87b28e4c77f8ed222857fdf44e6141b6e8b0c5b"
+    },
+    {
+      "path": "src/content/original-pages.json",
+      "sha256": "00ed1ea28b297625217b07e1116430d0d0511a2ac684829efb236aada8497fe8"
+    },
+    {
+      "path": "src/content/previews.json",
+      "sha256": "76a2bd78e6104e586a4c33ed0b80dbf98a5dbb0909147893af3c539b6836bff4"
+    },
+    {
+      "path": "src/content/site-design.json",
+      "sha256": "d643ecab577e6d67386cfd40c341157d2d44ac39e8f492eab5b6acfc99b5acc7"
+    },
+    {
+      "path": "src/content/site-layouts.json",
+      "sha256": "a3a210cc1404b660503ae0682e9b9e4bb3eb88925dff6f3158ac295f014e2081"
+    },
+    {
+      "path": "src/content/spatial-net-art.json",
+      "sha256": "965690d4cac0d73db73ea0694553efa2b17de826be7cfd810fa5ddaf8d2d398c"
+    },
+    {
+      "path": "src/content/sphere-lesson.json",
+      "sha256": "827510358402fa97be5548f34596a595403a52f89acd543f6b96c39372c992a0"
+    },
+    {
+      "path": "src/main.tsx",
+      "sha256": "bc099c5499b768264dd365c4a7e02a6291c562fa1b803f85ab9b4b4295609a61"
+    },
+    {
+      "path": "src/modules/algebra/NativeLesson.tsx",
+      "sha256": "e0e7ae608cf61459064b3105ed2396358036db218648a7d20ca3967bc1463e56"
+    },
+    {
+      "path": "src/modules/algebra/difference-audio.json",
+      "sha256": "40d0bdabddd63cd4762263f138041dfb13188e344bbc5b8b29191726d91284d9"
+    },
+    {
+      "path": "src/modules/algebra/index.tsx",
+      "sha256": "03d4b741080490e06c9d64fc6dc908310a54723f3d1da8c4816d9f9b94eac0f3"
+    },
+    {
+      "path": "src/modules/algebra/manifest.ts",
+      "sha256": "047cee9c61876996aaa2d690debf621b9d6fb2f612238aec3c010a9650adb67f"
+    },
+    {
+      "path": "src/modules/algebra/optimize-quadratic.mjs",
+      "sha256": "72d82c4650c6fb6c869585fb6d3e912c303769a2a6bdfca6d5addd2a8bae1d3b"
+    },
+    {
+      "path": "src/modules/algebra/quadratic-audio.json",
+      "sha256": "5411b3e9fc47eac8050563d0871d4d2e0c312be28cc9e8905ce667fe8e121281"
+    },
+    {
+      "path": "src/modules/algebra/quadratic-text-bounds.json",
+      "sha256": "46523626d85fda1bb01746a535eefa027a2bbffed5fad2b2669acb0527f817c9"
+    },
+    {
+      "path": "src/modules/algebra/rules.ts",
+      "sha256": "5b4af5528502fa7fb2cf14c59cb89b49c1301c414cac84c943d968ffe010f2ad"
+    },
+    {
+      "path": "src/modules/algebra/source-controls.json",
+      "sha256": "1787ca2a00a429b415b4c237c2dd8ee5aeb1090e60f27bf831ad688e45e131cf"
+    },
+    {
+      "path": "src/modules/algebra/square-audio.json",
+      "sha256": "24b20fa0190831ed6954ace9269989dccc60da205a5ce09dc4c70e9c789925c1"
+    },
+    {
+      "path": "src/modules/algebra/style.css",
+      "sha256": "64081320c284e73b2d3a79d78274779530981ce1f7bdcfaf805515fa58fc4c0f"
+    },
+    {
+      "path": "src/modules/algebra/transform-audio.json",
+      "sha256": "a2e1a14a1b7005e5c5f0da0a8d495681ac6897dd054411b911ffccc7afc25f92"
+    },
+    {
+      "path": "src/modules/books/content.json",
+      "sha256": "05306a0ba601ad400148c09d6b8c55490a83414a7b12384b7dc8cad60f87a84b"
+    },
+    {
+      "path": "src/modules/books/import_books.py",
+      "sha256": "f20b9e89426c04b5f5a03e5ca712a50e37fa38016cfef7b19e248ce53c88ad8b"
+    },
+    {
+      "path": "src/modules/books/index.tsx",
+      "sha256": "c306b0023a61bbfeac98fd86817318a2033cfeec6369421c55789cc732984bdc"
+    },
+    {
+      "path": "src/modules/books/manifest.ts",
+      "sha256": "43a04311a712005db823779299a216436820c8554001b5903f73fde2887944cb"
+    },
+    {
+      "path": "src/modules/books/reader.css",
+      "sha256": "285b75ced99cb7fdf6db42ced19823c4a88ae5dacac2101bf8a0c4bcafaa9be3"
+    },
+    {
+      "path": "src/modules/calculus/CalcFormula.tsx",
+      "sha256": "b220413c949e7b46f61f34c774aa48f7e946889890acba3733fb1fe59c393613"
+    },
+    {
+      "path": "src/modules/calculus/NativeLesson.tsx",
+      "sha256": "2d2907b429c0a1e2131929ba0d4d5c6300ebf7464adf9b752424e1f4e7a52e08"
+    },
+    {
+      "path": "src/modules/calculus/en-audio.json",
+      "sha256": "89510f3fb227746646445148f6f982634cddb2b8a3063df9a65b5b3c27ffd79d"
+    },
+    {
+      "path": "src/modules/calculus/en-flow.json",
+      "sha256": "e9045ac5adecd560b538a103f94cb31bcde6d78d19668d12aa908c095d2cd646"
+    },
+    {
+      "path": "src/modules/calculus/index.tsx",
+      "sha256": "488a8c921bd3f3db310c1cdd822e3e2c7c18d79b3e57e5747d9c88adb2b4c908"
+    },
+    {
+      "path": "src/modules/calculus/lessonRules.ts",
+      "sha256": "a9f665a6efa8c04f2be43168cfde0cb0756015c38f4f2661d80ce8294e0ee12b"
+    },
+    {
+      "path": "src/modules/calculus/manifest.ts",
+      "sha256": "78d2c184d089403aba6d1cdf61f0d21523e8cd151779dc6916deef9672d9d1d7"
+    },
+    {
+      "path": "src/modules/calculus/recover-controls.py",
+      "sha256": "7c597eda0ac0f50e80d6afcbd13bc43534d39dba412f6d1be7683c13c01ffd01"
+    },
+    {
+      "path": "src/modules/calculus/recover-flow.py",
+      "sha256": "3669857fbdea67900c437a5d7a15760d2a25d83665c32be8ab6768b2fa7d66d5"
+    },
+    {
+      "path": "src/modules/calculus/ru-audio.json",
+      "sha256": "d506816eb2ead8b6b19adfe48d660d4de8ba7902a0e24cd3e79ae68db4142ea0"
+    },
+    {
+      "path": "src/modules/calculus/ru-flow.json",
+      "sha256": "7c366f0a4c8f5f16a191597d61e60f7f1f470b6785501b4b671b4da56f89d712"
+    },
+    {
+      "path": "src/modules/calculus/rules.ts",
+      "sha256": "dc97bbef3da8eea5ea6632db7ba79759bcf7b1812629a68205696074a344c706"
+    },
+    {
+      "path": "src/modules/calculus/source-controls.json",
+      "sha256": "8456251951db2e54fb5dfa88ca22bdf9918b508dbb34b398107cc49bf8c7a95d"
+    },
+    {
+      "path": "src/modules/calculus/sourceControls.ts",
+      "sha256": "f82045b666acc0e4d60ee9477b74f97cf12626a59d52116e3edf0e4b535044f9"
+    },
+    {
+      "path": "src/modules/calculus/style.css",
+      "sha256": "7bd2dec91819a45a0d0c51b42ff05c5043fbc5c19bfbf17ac1ba2d6f5cc25444"
+    },
+    {
+      "path": "src/modules/calculus/text-bounds.json",
+      "sha256": "6c0c98a86c063c2141dc6f5268afb90a4425f27b3b1517e4e9ed8a65f0b24660"
+    },
+    {
+      "path": "src/modules/coloring/ColoringLesson.tsx",
+      "sha256": "34070110568e7d53ee64b730555be987a43427d271c8da114568367723315e47"
+    },
+    {
+      "path": "src/modules/coloring/SolidActivity.tsx",
+      "sha256": "b9a3016b94ae00106c996081a58f2e4432cbcc0f2f69b5a4f45daeccc61bbb39"
+    },
+    {
+      "path": "src/modules/coloring/SourceSoundtrack.tsx",
+      "sha256": "d3155136f201f68b097088aa3aba83d758760af0f55e4a8a7c5f81a24bf2274d"
+    },
+    {
+      "path": "src/modules/coloring/audio-Recthexprizm-colorproblem-ru.json",
+      "sha256": "83686b56c98180e3b828619a1f17ba774f7b4da7db582d35221bd1da063d8e48"
+    },
+    {
+      "path": "src/modules/coloring/audio-Recthexprizm-colorproblem.json",
+      "sha256": "825189cbd6a297886ebcde196959219c9f3a5e454ce46726e73dab190b611e85"
+    },
+    {
+      "path": "src/modules/coloring/audio-Tetra-colorproblem-ru.json",
+      "sha256": "abcf8e0f30cbd62cdf1b18f9d43b6c0e1a177c7bf6a82947c6f56be473153abf"
+    },
+    {
+      "path": "src/modules/coloring/audio-Tetra-colorproblem.json",
+      "sha256": "a93f23aff275fea40ec2ffc605fa23a8d50d7cb5ffa818fbd3b4d6e6db59cdf4"
+    },
+    {
+      "path": "src/modules/coloring/audio-Threecolorplane-eng.json",
+      "sha256": "bec4d3014a9bd43415df46a072980fd38569c048bf0ee7a738485cbfa1de1208"
+    },
+    {
+      "path": "src/modules/coloring/audio-Threecolorplane-ru.json",
+      "sha256": "ee0e43b9b57e8da75f7151407393ff3e1b6246195216454907c3cb7161195127"
+    },
+    {
+      "path": "src/modules/coloring/audio-Twocoloreqtri-eng.json",
+      "sha256": "e4c87c18e43e7b2f050ec666f50b231562dc758cc624a69231fa90066d0f89f3"
+    },
+    {
+      "path": "src/modules/coloring/audio-Twocoloreqtri-ru.json",
+      "sha256": "4c8981a7df284bdc91fb3c22e91bc65fbcf16c28c478db5b33e29b76064ac36d"
+    },
+    {
+      "path": "src/modules/coloring/audio-Twocolorplane-eng.json",
+      "sha256": "cbf079ff3fdfbb11bd211466fc43e8d2b9f6563a5cef642b66fb8927bb4e4e5e"
+    },
+    {
+      "path": "src/modules/coloring/audio-Twocolorplane.json",
+      "sha256": "17982318c22902c1312b64b75b9b340bb39c70a9ff670fb0f20182fd53349324"
+    },
+    {
+      "path": "src/modules/coloring/audio-Twocolorplaneseg-en.json",
+      "sha256": "38b93a5bed554961187aa80803a7bdeb0c19d352c3be9a28285fe2be7c91ed9b"
+    },
+    {
+      "path": "src/modules/coloring/audio-Twocolorplaneseg-ru.json",
+      "sha256": "7c298e0501e05e27eb4085acb3b8cc51dee0582f8859fe0c58d60339c51e962c"
+    },
+    {
+      "path": "src/modules/coloring/audio-brick-colorproblem-ru.json",
+      "sha256": "f88b2bbfccbcd5a68e153bd3fbc62d90298078ec8ab43c5cf4037af56cdc251d"
+    },
+    {
+      "path": "src/modules/coloring/audio-brick-colorproblem.json",
+      "sha256": "9f92950c99f1040b12cdd41fd119c5fc81d4ff7df8d528a42fc1365488fe3dc1"
+    },
+    {
+      "path": "src/modules/coloring/audio-paralele-colorproblem-ru.json",
+      "sha256": "195b74fc704b00e6ff8fd5e0e46e9278eaabad94edae3ad863a33bec6ec9dec1"
+    },
+    {
+      "path": "src/modules/coloring/audio-paralele-colorproblem.json",
+      "sha256": "ce1358d27422521ec43f84d066b76c02da6cd87ad7e86d8ce124843065191091"
+    },
+    {
+      "path": "src/modules/coloring/cube-audio-en.json",
+      "sha256": "5d0a40c179a83a238999dc40b908fc0fb0ee4e4a19badb4e514f3893c4b627cb"
+    },
+    {
+      "path": "src/modules/coloring/cube-audio-ru.json",
+      "sha256": "97671a18f3ea174e88fc6529b575066409e5907272e4b63893ca3921322c705e"
+    },
+    {
+      "path": "src/modules/coloring/filter-optimization.json",
+      "sha256": "1e00d674febfcf56d3e38efb6fbd4a577463f2acafa1d67ba08d23d0e0178cac"
+    },
+    {
+      "path": "src/modules/coloring/index.tsx",
+      "sha256": "497fad9b45ed132bb8f042c63d42c279cf76f8cf92fb39c1a5a9b6b80d436685"
+    },
+    {
+      "path": "src/modules/coloring/lessonRules.ts",
+      "sha256": "e1ace4ac9ef0902eae830c1cb0e1833bbbac682ceaa47f138811a2e49ef7a062"
+    },
+    {
+      "path": "src/modules/coloring/lessons.ts",
+      "sha256": "153c197bf2f29e7583e66f4aee644c297a6456bf2ba1376377abca7993f77497"
+    },
+    {
+      "path": "src/modules/coloring/manifest.ts",
+      "sha256": "af4787d14461a3dbec99e63fae890818af0fb313af2287fe4a239322cb6f0289"
+    },
+    {
+      "path": "src/modules/coloring/optimize-painters.mjs",
+      "sha256": "93f6b3e3b047aa2698b9c1e4df3544757d9cf6efebaf13606214c7ca48374456"
+    },
+    {
+      "path": "src/modules/coloring/rules.ts",
+      "sha256": "62bd28378e9fdafbbef2644b0284edf4d9f69d608e880cb562eb6f187f135d00"
+    },
+    {
+      "path": "src/modules/coloring/source-controls.json",
+      "sha256": "d7ba4f8d6b4b6d930ac86148287a7a9bc49f1f763b0036d323659e83f3745bc9"
+    },
+    {
+      "path": "src/modules/coloring/style.css",
+      "sha256": "1620040e515e2acecc70e628a49f9729da20dcf9f8c9f986958b8d3150c90f70"
+    },
+    {
+      "path": "src/modules/coloring/text-bounds-cube.json",
+      "sha256": "1d53118b130a3f2367d5957b4559c0abc0b4353a216831ef007913b0d7622284"
+    },
+    {
+      "path": "src/modules/coloring/text-bounds-equilateral.json",
+      "sha256": "8f7651f78c2f79cb8810175c6d7385eaed5c9bfcef56742d73dd26df2e67429f"
+    },
+    {
+      "path": "src/modules/coloring/text-bounds-segment.json",
+      "sha256": "e9fb0adeafaecf8c664d7c7a7c2555286a91c42f482549d09dfcdaf6cb3e8cf5"
+    },
+    {
+      "path": "src/modules/coloring/text-bounds-three-plane.json",
+      "sha256": "5aebf01cd8712dbcbb6315a3dfe7ed94f18dcee025c10e649e95869cee1e3c17"
+    },
+    {
+      "path": "src/modules/coloring/text-bounds-two-plane.json",
+      "sha256": "081fe087f2c2747dac302994daec6ce5106f16add43785fc01347f28e1cd592b"
+    },
+    {
+      "path": "src/modules/dissections/drawing-bounds-bills.json",
+      "sha256": "98b3685344f6eef59988fa3614f08550cd7041a6b7708adad833ede55c376837"
+    },
+    {
+      "path": "src/modules/dissections/filter-optimization.json",
+      "sha256": "d2c053be3b553d238ed6685b0d73a29861e567071f05380f39f33113f94dd4ab"
+    },
+    {
+      "path": "src/modules/dissections/index.tsx",
+      "sha256": "179be1e5489544dda1fbb53847863212c04cbe9880932058db17f249931b8e36"
+    },
+    {
+      "path": "src/modules/dissections/lesson-audio.json",
+      "sha256": "089e6b1a781c306b86dce88228fd9d7e0b31157de00eb4a81a09c6213b4c23ff"
+    },
+    {
+      "path": "src/modules/dissections/manifest.ts",
+      "sha256": "29a0a5c08bc342eb5ca849c78ab56d076b3cc6949d1ac28d2649f30be0a4c5ca"
+    },
+    {
+      "path": "src/modules/dissections/static-filter-optimization.json",
+      "sha256": "73cb248aa16c13623429d1f43d0e260ad4107eeeb775f8700b0aecc10d0c8ff7"
+    },
+    {
+      "path": "src/modules/dissections/text-bounds-bills.json",
+      "sha256": "a9fc6454d6932296cf548111214433331a0d3804755a2adede436f11f652c391"
+    },
+    {
+      "path": "src/modules/escher/FacesCelebration.tsx",
+      "sha256": "c5e71b497492aa15449594dd9ef7ca3d8c59eb5af7b755bce14a86d0ae29b4c6"
+    },
+    {
+      "path": "src/modules/escher/GameTimeline.tsx",
+      "sha256": "4b36f71e23adf45ff963065156643be1465fa4d96895a018c9594fda8f469493"
+    },
+    {
+      "path": "src/modules/escher/TimelinePlayer.tsx",
+      "sha256": "6f9f883cce66ed026e9e7770e09bfa6affe15dca290352eeae3d426d8b0b1f69"
+    },
+    {
+      "path": "src/modules/escher/audio-BandF.json",
+      "sha256": "f84962c054316702776bf870544ac140f75660c768520a4f3006194b78fcb824"
+    },
+    {
+      "path": "src/modules/escher/audio-Sliding-4.json",
+      "sha256": "8f4f21dc50e99200523f4507ab2480f291541f9443455270e672107f9e7a0d90"
+    },
+    {
+      "path": "src/modules/escher/audio-faces.json",
+      "sha256": "23359bca12389850d72f6da975d6479d3630613466b27b62d4d9ab838d34e6f0"
+    },
+    {
+      "path": "src/modules/escher/audio-hands.json",
+      "sha256": "2e8bcd8a3fe7eaba5f7586e8813d2e3ccec5919b4e596aee105a99629f746cbe"
+    },
+    {
+      "path": "src/modules/escher/audio-lizards.json",
+      "sha256": "0909b711a11b509169b95b1cd8b46095cc136ccc1ef94edf6105bc749e9e0914"
+    },
+    {
+      "path": "src/modules/escher/audio-stairbig.json",
+      "sha256": "10b4b56506d39c20b41bd062823a5cacd93acff4bc1484f5a45896f68067d47d"
+    },
+    {
+      "path": "src/modules/escher/audio-stairs.json",
+      "sha256": "6747689d8500944eca4ef9706082c0ce083338d3a87b08e969d1cf92fa2d1457"
+    },
+    {
+      "path": "src/modules/escher/audio-waterfall.json",
+      "sha256": "5cf30fd16bafc3a5a7080ce510348b4d541ad00ab688a6796c599d8679413867"
+    },
+    {
+      "path": "src/modules/escher/celebration-viewports.json",
+      "sha256": "8b7ed672c1be71a2041f60abd94fd2a121fa3c00656de8d312bb3a24130c46cc"
+    },
+    {
+      "path": "src/modules/escher/celebrationGeometry.ts",
+      "sha256": "85d02083b542eb5877ed3581d336e62b0f147f59df4ce63b238e8644310d42f5"
+    },
+    {
+      "path": "src/modules/escher/export-canvas-timelines.mjs",
+      "sha256": "f533c55bdc588127661dfd79d198663e7b0bf79dbcdfa35997cc72fe788bfed5"
+    },
+    {
+      "path": "src/modules/escher/export-game-timelines.mjs",
+      "sha256": "26fee18c14c3302d2fcbe5d08cd0e321cbbc65409aa3a7e26abf3b3ab52c25b5"
+    },
+    {
+      "path": "src/modules/escher/filter-optimization.json",
+      "sha256": "df959cb1c802228bb6f487ef2b03d0f11804ab1e95131e193d701460a01a03a8"
+    },
+    {
+      "path": "src/modules/escher/index.tsx",
+      "sha256": "88855a1ef8694456ef70fe187758135fe73538fc33b4727d785b26bf42f687a4"
+    },
+    {
+      "path": "src/modules/escher/manifest.ts",
+      "sha256": "a05bbbe5a471687decd7ff76808eecd1c6f9a979800bc4dbae8ed178a6e30696"
+    },
+    {
+      "path": "src/modules/escher/optimize-painters.mjs",
+      "sha256": "42910960ef814a15487a440dd4e43baa296a9603a465761e25a19623219a3cb8"
+    },
+    {
+      "path": "src/modules/escher/presentation.ts",
+      "sha256": "1f78189e3e1ca6f8cb9a2ed3c22757a5d855fdb10fee41a381320a4026cc760e"
+    },
+    {
+      "path": "src/modules/escher/profile-painters.mjs",
+      "sha256": "59d6258ae6bbbab1f397fee2935fda743acc7bbdbe9234d3e12d2c8d0a319959"
+    },
+    {
+      "path": "src/modules/escher/recover-celebration-viewports.py",
+      "sha256": "26238522e63c2b144e3fcbcced9b55ede9271e2adaf7563d820490f7edd2380d"
+    },
+    {
+      "path": "src/modules/escher/relocate-obsolete-exports.mjs",
+      "sha256": "cb8f16b8bfd28477a00cf569a09ffffccbaf703a42f2b68940fb6b43d979e487"
+    },
+    {
+      "path": "src/modules/escher/rules.ts",
+      "sha256": "cffa496dd7bb9af389683361638c8f67550a80e79953eb5ede5012913c3bac9c"
+    },
+    {
+      "path": "src/modules/escher/style.css",
+      "sha256": "784555c6c19edec48258794bf28833262992b33dc929678f3ab0b333936898b2"
+    },
+    {
+      "path": "src/modules/escher/text-bounds-BandF.json",
+      "sha256": "b1027689421e3fa465a5f6c8160ddcd04de362c93d1f948551cf5ea31ecfd81d"
+    },
+    {
+      "path": "src/modules/escher/text-bounds-faces.json",
+      "sha256": "562d8407360c578e8749a4fe81594b5d43334101e0665f1835bbef99c5f84d6a"
+    },
+    {
+      "path": "src/modules/escher/text-bounds-hands.json",
+      "sha256": "3996fac3463674468ed2881281a3dbfe2a11f01d46025d96b305cf17cf461171"
+    },
+    {
+      "path": "src/modules/escher/text-bounds-lizards.json",
+      "sha256": "1428b068bc14df2abf054effcf79e578c88eb9065b1e8018f8feea916a2593cd"
+    },
+    {
+      "path": "src/modules/escher/text-bounds-stairbig.json",
+      "sha256": "40c7206d61831614e1b886995825b4f3e10c33c26114f344ad49c8a352e4eb81"
+    },
+    {
+      "path": "src/modules/escher/text-bounds-stairs.json",
+      "sha256": "218fad03113502dc4afddb9f5ee5832dd0e7d44bfb466225990345b0d7b99df4"
+    },
+    {
+      "path": "src/modules/escher/text-bounds-waterfall.json",
+      "sha256": "819f2c17cf4d2c0be45b5511d262f49ad861a2d4f4af2ed214e4f2c303a48be0"
+    },
+    {
+      "path": "src/modules/escher/timelines.ts",
+      "sha256": "12c85e9f4841022b1bde08e5331d12c64425677a4da3bfef77e9609dc400cbab"
+    },
+    {
+      "path": "src/modules/falling/CompletionLesson.tsx",
+      "sha256": "9209c3a72ce95b0e260833aa80c9e2563451b41569b575be579a7c56e2912838"
+    },
+    {
+      "path": "src/modules/falling/art.ts",
+      "sha256": "8a0ed4d30de84eeb6b18e90d7293fc1056c24f08ee94234164a105e0b13b5ff0"
+    },
+    {
+      "path": "src/modules/falling/audio.json",
+      "sha256": "d5ec717e6d0f30c739a3f4d2030ca8a77073321867533679983fdb6488332ba5"
+    },
+    {
+      "path": "src/modules/falling/index.tsx",
+      "sha256": "e6da43e0808f11277fd4174d9893ad2244f80b71d98d6958431a3771bbe44222"
+    },
+    {
+      "path": "src/modules/falling/manifest.ts",
+      "sha256": "4610c70a7837ad2d994c8bc966ef03eb1890682617966cbf893e18254287324f"
+    },
+    {
+      "path": "src/modules/falling/rules.ts",
+      "sha256": "025495f3eaf9b14242596c87c0b99e8e8f17c308e95486ec0bb07dbb0e6f9196"
+    },
+    {
+      "path": "src/modules/falling/style.css",
+      "sha256": "a5620d526904e9e560365e60731e53832994b666c024b6b0a45261aaa310f3a1"
+    },
+    {
+      "path": "src/modules/falling/text-bounds-falling-figure.json",
+      "sha256": "4dfe6c6b95fbfa473bcf6300ffa8f47a526d9d06aadee9a6cacec53189846640"
+    },
+    {
+      "path": "src/modules/films/index.tsx",
+      "sha256": "99136a80be53e078a0dda90bc63ecb1f7eed63102879189a63e092d03e7dfc07"
+    },
+    {
+      "path": "src/modules/films/manifest.ts",
+      "sha256": "2e02350b0e4a4a911c13fbc18bd515ccb5d700c814848c4be8d8da40b3d9a2ee"
+    },
+    {
+      "path": "src/modules/fractals/NativeFractalLesson.tsx",
+      "sha256": "00f51678877ad2efb7f21a1ea8cab2bc443c8e131ed14981a428a643effa2b7c"
+    },
+    {
+      "path": "src/modules/fractals/drawing-bounds.json",
+      "sha256": "0d3ed67b9e6830b33120f21eece6ed574adcae7c9813c7bfc654ef0a95e703f1"
+    },
+    {
+      "path": "src/modules/fractals/index.tsx",
+      "sha256": "19aeca0fdefaa927bd09ead8e7587e834f67fb12f6f5919b98ade333d758fe5f"
+    },
+    {
+      "path": "src/modules/fractals/manifest.ts",
+      "sha256": "0a01754f902f6b4da7aeb60c88d948f6dc910ebfed0c4aa500fd035f0e26eb7a"
+    },
+    {
+      "path": "src/modules/fractals/native-lessons.json",
+      "sha256": "d71bfb4af1d380922552143eea5a5c91fa20b511fed56e911d324a849af338ad"
+    },
+    {
+      "path": "src/modules/fractals/rules.ts",
+      "sha256": "9a3530595047f968f0d7b592058c8e189a15bcbc07d167c1d4e960e5cee03528"
+    },
+    {
+      "path": "src/modules/fractals/source-controls.json",
+      "sha256": "476141275e1bfef12428efd36490b344dd55629d93c88d62d73e979a53b7d383"
+    },
+    {
+      "path": "src/modules/fractals/styles.css",
+      "sha256": "643d54e90c2a472b0ad67cade541c648a7ef76da43f7854c558c34a6537ee3e3"
+    },
+    {
+      "path": "src/modules/fractals/text-bounds.json",
+      "sha256": "f06e894c805d94e9695e905d7d26620b5a047a41715c7974dfee582bf1fefa6c"
+    },
+    {
+      "path": "src/modules/kids/InteractiveLesson.tsx",
+      "sha256": "ba0af1b4f2aec95332ba4075557bca66ba65e8a913f0f8e39d4eddcb358d8b77"
+    },
+    {
+      "path": "src/modules/kids/Kitten.tsx",
+      "sha256": "ee30fea731dadc333d5992f028ffd74b8fe03f45e34e1c9e838559c6ce13038c"
+    },
+    {
+      "path": "src/modules/kids/OriginalBoard.tsx",
+      "sha256": "08f0e9ff9412c84a1682844987994adcd099373bac2ea8117c860002db431cee"
+    },
+    {
+      "path": "src/modules/kids/SortingPractice.tsx",
+      "sha256": "163bda2d03657da8df103d15b97d98286c38ebaf8ad3d0e42edc6d5fd94fbf4f"
+    },
+    {
+      "path": "src/modules/kids/audio.json",
+      "sha256": "1ec99417fb57f3584b51406683fda2e2f72bccd4e1c0288bbff2f2ddea0a90fc"
+    },
+    {
+      "path": "src/modules/kids/boardRules.ts",
+      "sha256": "0390cc2474d2bc7bcd901ce0322b5d11a0ce95ca0f524b8b034488b8b4eec55c"
+    },
+    {
+      "path": "src/modules/kids/index.tsx",
+      "sha256": "d9820efb15915f41e026761477eecf49f20f97f1d6366de464f534e6688806fc"
+    },
+    {
+      "path": "src/modules/kids/kids.css",
+      "sha256": "4796b710431beecd214c46850d256e4f0a06f96614c53de7c27f9e8da75071be"
+    },
+    {
+      "path": "src/modules/kids/lesson-stages.json",
+      "sha256": "6e31953207d10903d876b77bf828a2ffc7edb26aa540c9941415c8d7f1f188bb"
+    },
+    {
+      "path": "src/modules/kids/lessonRules.ts",
+      "sha256": "4634ea9fec0750a2b4d72852d833043d49e395ec23ac15f8b40ed4a1ebddf741"
+    },
+    {
+      "path": "src/modules/kids/manifest.ts",
+      "sha256": "79e55c8a72e2ff33571832328ef936f2ec161e3b31ee9d59c9b6123a792463db"
+    },
+    {
+      "path": "src/modules/kids/optimize-painters.mjs",
+      "sha256": "32550522b844467b4b371f493e5a8908fbcbda143db25165367dae413377baf3"
+    },
+    {
+      "path": "src/modules/kids/recover_audio.mjs",
+      "sha256": "c57004dedf7e54dca54fb00470c13864cf11fa4f0ce3bad6e6497f9514190445"
+    },
+    {
+      "path": "src/modules/kids/recover_content.py",
+      "sha256": "41b59de3f25d378d93a4e09d01d46618284c549714be971043751eb7166b2e50"
+    },
+    {
+      "path": "src/modules/kids/recover_kitten.py",
+      "sha256": "1722931e3bfee649507d3cd681c5e0cbb8b6d4957977ca90ce47c1ff7db93932"
+    },
+    {
+      "path": "src/modules/kids/recover_lesson_stages.py",
+      "sha256": "137993afa73ad8c407359c7e7da93b1347fb5babf855318f35119f402bf3ef52"
+    },
+    {
+      "path": "src/modules/kids/recovered.json",
+      "sha256": "79177e3370754768ba33a7a02bfd083a82792e4de23a361a663668b7c7457c1c"
+    },
+    {
+      "path": "src/modules/kids/rules.ts",
+      "sha256": "03f63286a5f8bbe25226433a5f32f01df4775538763d930f998c53d82dcdedea"
+    },
+    {
+      "path": "src/modules/kids/text-bounds-kids-find-connect.json",
+      "sha256": "8c09e022a32054e9879388c85d4cb68e65ef192f85516c2ba995807197110810"
+    },
+    {
+      "path": "src/modules/kids/text-bounds-kids-find-couple.json",
+      "sha256": "aa689f1135377df493c3c5dbc68f5418f5511a33adf5b884d0b515198710a0b5"
+    },
+    {
+      "path": "src/modules/kids/text-bounds-kids-find-improper.json",
+      "sha256": "a523d44e8e77e7c00485f6135ad3d52bb6e715e9774d9f44f6dcad45a115eb99"
+    },
+    {
+      "path": "src/modules/kids/text-bounds-kids-find-match.json",
+      "sha256": "accd78490df0185b872541203a732972bb8b226b780cf09e3b336f1b1a801c64"
+    },
+    {
+      "path": "src/modules/kids/text-bounds-kids-find-proper.json",
+      "sha256": "42e6e59620abda6a69beed2341ad858cd28020af8a73babb0008182a206e0e65"
+    },
+    {
+      "path": "src/modules/kids/text-bounds-kids-find-same.json",
+      "sha256": "dc918187da8a24d982a044bf38efe8516b66d484fe02d12c8041e2057819b6a4"
+    },
+    {
+      "path": "src/modules/kids/text-bounds-kids-put-place.json",
+      "sha256": "9a5fbf5b1a15c079101e21facde5fc25acb25466c0be54e711a553045a0d5a1e"
+    },
+    {
+      "path": "src/modules/kids/text-bounds-kids-share-color.json",
+      "sha256": "71dbce18ca823992885eb47cd407f198edb23c01f4c4e080fc4e27d7c6f621c5"
+    },
+    {
+      "path": "src/modules/kids/text-bounds-kids-share-shape.json",
+      "sha256": "d5635ed2716d339635fe9fec9a9a0ede2f7a503d323ed1c9306bcee7bd8cec93"
+    },
+    {
+      "path": "src/modules/kids/text-bounds-kids-share-size.json",
+      "sha256": "f31d963c67427dbe261ad8b5b78f24a9a47b5a35925ab0b207f13428fe1831b3"
+    },
+    {
+      "path": "src/modules/kids/useBoardAudio.ts",
+      "sha256": "fd08dd7f30ffaf8796670f035d1f8aa078f4ac4e66e38442e699d5c9255dbc0a"
+    },
+    {
+      "path": "src/modules/logic/RecoveredBoards.tsx",
+      "sha256": "207d6599059aebca5f379dda8442b2272b3006a5b506a0b244960ca3bf063843"
+    },
+    {
+      "path": "src/modules/logic/WisemenLesson.tsx",
+      "sha256": "d46f922acb55005c8563c40acbf9fbed4d41efeef3b0498f819a6ed4a0099103"
+    },
+    {
+      "path": "src/modules/logic/filter-optimization.json",
+      "sha256": "5238e755715e6c84e5ac778e166c0ea64722f308e929f7ec05c9cdf92eae0d7a"
+    },
+    {
+      "path": "src/modules/logic/index.tsx",
+      "sha256": "8605e5c305f47d279a028f549249db8cde5542c3816fb43e2c151364540e2b47"
+    },
+    {
+      "path": "src/modules/logic/logic.css",
+      "sha256": "4c9274760e08573bcce75daee8317f9665e64f21165ed764c7ae2c0dc14131b6"
+    },
+    {
+      "path": "src/modules/logic/manifest.ts",
+      "sha256": "3310f2382aa4fcb038ce2e67f0ccea9f3b40a3123736394c77f95beca693cd9d"
+    },
+    {
+      "path": "src/modules/logic/optimize-painters.mjs",
+      "sha256": "84dd2dd81a8d67061e13635b9bff9a553d5cdf54db8561701da3082530bfc091"
+    },
+    {
+      "path": "src/modules/logic/recover_audio_lessons.mjs",
+      "sha256": "220157ad42a743169f6bf3302a1c233ad2a14ef19c53f473bffd2e94de6b8494"
+    },
+    {
+      "path": "src/modules/logic/recover_effect_audio.mjs",
+      "sha256": "7b5ff965efba7ecb046cf7c4c844eeeb1b2ad777e5ff18682760ea906cb57146"
+    },
+    {
+      "path": "src/modules/logic/recover_visuals.py",
+      "sha256": "135d7920cc03cc47e488322cd8ef7b025ab616edc93dae0c28df4710989d76e6"
+    },
+    {
+      "path": "src/modules/logic/recovered.json",
+      "sha256": "53d78aaf59f779d56cc5795d1f37ad469c533f0d44aa1872a65d0dd600c22515"
+    },
+    {
+      "path": "src/modules/logic/rules.ts",
+      "sha256": "819b9daf986fc6b65425918bb6192276f6ccdebb31f66e6133e4156ee6a8b900"
+    },
+    {
+      "path": "src/modules/logic/source-controls.json",
+      "sha256": "91be50c03f190ffd93761038be379e690f898efd989fd9ea01daee48eca5819e"
+    },
+    {
+      "path": "src/modules/logic/useLogicAudio.tsx",
+      "sha256": "b4863bc328c137ad7a86a7e81e99efcc096bbb7c41685946c5d83466abf9ab77"
+    },
+    {
+      "path": "src/modules/logic/wisemen-eight-en-audio.json",
+      "sha256": "702c832a3aa6b4fb8d589daa52be1a64ac2bee8f49524fbaab6c8896f0fb4807"
+    },
+    {
+      "path": "src/modules/logic/wisemen-eight-ru-audio.json",
+      "sha256": "ada2d96d7ae2504f31f52b724503fa00291df1f8bca0f29fad4f269ff6e886ac"
+    },
+    {
+      "path": "src/modules/logic/wisemen-eight-text-bounds.json",
+      "sha256": "820319ba7f888fc08fba2aa630b40c5f49800a33e3b15268ed55ee8a76b0c02e"
+    },
+    {
+      "path": "src/modules/logic/wisemen-en-audio.json",
+      "sha256": "8c7ad41f661c4ac3301bd8d1ccf4515192cb756e28023c7e17c51f030a1cfe9b"
+    },
+    {
+      "path": "src/modules/logic/wisemen-lessons.json",
+      "sha256": "82eaf46f496b90bfddf2aa37f2d263dff951c7fdbf8d870920d7d94db04df6b9"
+    },
+    {
+      "path": "src/modules/logic/wisemen-ru-audio.json",
+      "sha256": "a469424885885d1571d122805329be20411965a19855c0d06b42628bc9549056"
+    },
+    {
+      "path": "src/modules/logic/wisemen-text-bounds.json",
+      "sha256": "e126dc56526f52e2153b466adf0ec457c252fb56459801b7e2c385cc2c62a892"
+    },
+    {
+      "path": "src/modules/logic/wisemenSequence.ts",
+      "sha256": "89be7be70f189387401d2a3ae01d72d70fcfe7f783655b5158d3a6a23353bafc"
+    },
+    {
+      "path": "src/modules/magic/MagicLesson.tsx",
+      "sha256": "79a8149038acb4bb0e8971df29ecb2cded9179e83fed576bd48e623c78cb5243"
+    },
+    {
+      "path": "src/modules/magic/MouseMaze.tsx",
+      "sha256": "0294a181f187a142300d82afadb7d87775e494d9f2e350dcc967db1073644b5c"
+    },
+    {
+      "path": "src/modules/magic/build-native-lessons.mjs",
+      "sha256": "eda4648db5f1d54973565e479684036dfd1a3a33fe3f65f9a7d93ab530fa1456"
+    },
+    {
+      "path": "src/modules/magic/extract_mouse.py",
+      "sha256": "dcb463da36971e64a2a7137c80ee5201d7565d5bc59b52c28258f4f0943bd735"
+    },
+    {
+      "path": "src/modules/magic/filter-optimization.json",
+      "sha256": "ae5ea7550cf02af2e299892a6efc9235ac97b9821e96bb523d260d6809474b37"
+    },
+    {
+      "path": "src/modules/magic/hourglasses-en-audio.json",
+      "sha256": "f9fbc644bd685694cb72e7c7c80a8fbf09d5bd8c19ed6e6222cda339fdb287d2"
+    },
+    {
+      "path": "src/modules/magic/hourglasses-ru-audio.json",
+      "sha256": "20354953731bcaf4e90ed24abaea892fb9dc220afe6f622b470cd4f8dc8dfb1a"
+    },
+    {
+      "path": "src/modules/magic/hourglasses-text-bounds.json",
+      "sha256": "a84f353fc13c5f2046c81504bdf0cc469c45c0c37ac38e6a1338e26df8b676ee"
+    },
+    {
+      "path": "src/modules/magic/index.tsx",
+      "sha256": "cfe4da8169b3518b78852fd5840b8186222eb4d576f63880c38c4f20d982e467"
+    },
+    {
+      "path": "src/modules/magic/magic.css",
+      "sha256": "67e9e57281099e361858e4c04d7042fa1227ca6ea6685e88cab8ef93ea100460"
+    },
+    {
+      "path": "src/modules/magic/manifest.ts",
+      "sha256": "e6d59141aa005f72bc7836a0b53aac5c3922cfa7e384a8d48fe6d428d3d3e608"
+    },
+    {
+      "path": "src/modules/magic/mindread-en-audio.json",
+      "sha256": "4a6c5960321fa103205a451a5dd6b38819ee1631b917318d728bf04a3ae4cc86"
+    },
+    {
+      "path": "src/modules/magic/mouse-data.json",
+      "sha256": "cb2a9add3475c9c53f89a1f6e0f63cff3d98138359dbac7fbc7eccf9e75f83c9"
+    },
+    {
+      "path": "src/modules/magic/mouseRules.ts",
+      "sha256": "61b52b3183e2e8246010ebc4937d6b722d7503eb277d9a2d6b473cc63a0570e1"
+    },
+    {
+      "path": "src/modules/magic/native-lessons.json",
+      "sha256": "d45813271d5af0e56bab9bca49ad118893201f8bb8174c134e5e4ef25f45cde5"
+    },
+    {
+      "path": "src/modules/magic/optimize-painters.mjs",
+      "sha256": "f1a1c8ab0c1fea82250c1d2e41ffa808534fa8e48c4f96a0ea35d6782a3e5d39"
+    },
+    {
+      "path": "src/modules/magic/rules.ts",
+      "sha256": "d82ea1a3a9a7a69737efbdd5cb755b59b7418d0d9fed3e6ac4e6d2576ae3c810"
+    },
+    {
+      "path": "src/modules/magic/source-controls.json",
+      "sha256": "fbad44c88e490120e307d6b41d346c30308b79b6a59d868a710ed52337b8a2d4"
+    },
+    {
+      "path": "src/modules/magic/subtraction-en-audio.json",
+      "sha256": "70a75a8a51b209d4480688d4b28ccc2b7058605c2eb4f4542d730d443dce03cf"
+    },
+    {
+      "path": "src/modules/magic/subtraction-ru-audio.json",
+      "sha256": "1c56aecc71da9b47fa94b7664054b01b01a07936b2ae051c1ca3cf4869a61ff7"
+    },
+    {
+      "path": "src/modules/magic/subtraction-text-bounds.json",
+      "sha256": "8f05879b759a8e23f22a25152e0619c8a7965d3ba7c35aad6a1f9a86a77b8bb0"
+    },
+    {
+      "path": "src/modules/magic/useMindreadSound.ts",
+      "sha256": "08051bf66f18741edc811dac3e23a295a3a3f769065f0d6c4ebdbc974b42172b"
+    },
+    {
+      "path": "src/modules/measurement/MeasurementLesson.tsx",
+      "sha256": "f6cc035a5d5396130c35126449743511f92f4bf4b0799cb91e0b9609422265b5"
+    },
+    {
+      "path": "src/modules/measurement/area-drawing-bounds.json",
+      "sha256": "bb8b322f0add9fb1d3f98cdd5311cf8dff642f300434f30e37064a12bcc7dfc7"
+    },
+    {
+      "path": "src/modules/measurement/area-text-bounds.json",
+      "sha256": "363df248d69f1a71be63fb3b58740a0e44652645bf19a111576828ba25907ad0"
+    },
+    {
+      "path": "src/modules/measurement/circle-text-bounds.json",
+      "sha256": "f1445f5e207f8c063edcf26ee9f5a7707d41344ff8fd1cdc17fc10d982c12bf2"
+    },
+    {
+      "path": "src/modules/measurement/circleLessonRules.ts",
+      "sha256": "81df426e5b8fcc7a6b98499939282dbfc873a477e6ffebb6c39c94948061cc14"
+    },
+    {
+      "path": "src/modules/measurement/circleQuiz.ts",
+      "sha256": "ea1b784f2dc60050702d33d700d6f7cc2c1e416bf9be8aae9ae7d1dc87d5d513"
+    },
+    {
+      "path": "src/modules/measurement/index.tsx",
+      "sha256": "53aca46c09538acd8e3fc63253ed4ab644a237110c312647ce08f5bedd6e4bb2"
+    },
+    {
+      "path": "src/modules/measurement/lessonData.json",
+      "sha256": "5dd2f5daa289bba50524e004324d6862d5ee740e5271e6aaa0c52b763f04de27"
+    },
+    {
+      "path": "src/modules/measurement/manifest.ts",
+      "sha256": "84ccd082e2ed579f91124e1c42e8fdbdd7710667c323bf79fd5d7508059789b5"
+    },
+    {
+      "path": "src/modules/measurement/measurement.css",
+      "sha256": "2b55867255152daf7028c487482596a5c9872790bdd31cbdcc9d722d2ccb6fd3"
+    },
+    {
+      "path": "src/modules/measurement/optimize-circle.mjs",
+      "sha256": "a47e2c25bc45a1585f694b41c6b5adc7dee3023857a6cdbbbf64e0126289f296"
+    },
+    {
+      "path": "src/modules/measurement/optimize-lessons.mjs",
+      "sha256": "26a97d5748062951a8b79be1d5b58f71dd1454387a9d9bac46de7b3b99b28bd9"
+    },
+    {
+      "path": "src/modules/measurement/polygon-drawing-bounds.json",
+      "sha256": "c14e9465536dbbb66e34d90b12bc27853c5a1ced5046cddb74a26a34aa9053f7"
+    },
+    {
+      "path": "src/modules/measurement/polygon-text-bounds.json",
+      "sha256": "072c03c2f0003855e8544426175f6340fb68400ad70deac05384306512e0301a"
+    },
+    {
+      "path": "src/modules/measurement/recoverMedia.mjs",
+      "sha256": "8a5bdc8403bad2a290ea3ed8b8407edc8bf7bbb3df8aeb2596b88a9e4464109e"
+    },
+    {
+      "path": "src/modules/measurement/rules.ts",
+      "sha256": "b56fb7554e89b68d9ef6d04c1b8cffa3cea30b6c996c388fb9aec1ebf3b7d88b"
+    },
+    {
+      "path": "src/modules/measurement/sourceControls.ts",
+      "sha256": "0ae818b43b3cdae7b0a2a9d1fee7e6f67dcef3e88a44e2f90e0f42cf58765496"
+    },
+    {
+      "path": "src/modules/motion/Circles.tsx",
+      "sha256": "638d30c8a4eccc914ea276b9885b05ae0f5bfd3b696dd017f340bc5577626220"
+    },
+    {
+      "path": "src/modules/motion/NativeMotionLesson.tsx",
+      "sha256": "fd59ef31e7f1e14be684dd4275b1bb659dc7ddf763187f1bccaf354e8c06e5a2"
+    },
+    {
+      "path": "src/modules/motion/drawing-bounds.json",
+      "sha256": "8959dd9bf4b96820f98f3c11e8e4db96e0afdbf8f79a83e0fd0fde5553aed2de"
+    },
+    {
+      "path": "src/modules/motion/earth-belt-animation-optimization.json",
+      "sha256": "1ba9a225e1a3be82acf352dcba8fa0e909348907fee864edaa59e26f0b2bd57f"
+    },
+    {
+      "path": "src/modules/motion/index.tsx",
+      "sha256": "328979b578e96bd59fa5ca47b605f7cf2e785d2833e032e3826ece7ccf6ccead"
+    },
+    {
+      "path": "src/modules/motion/lessonRules.ts",
+      "sha256": "5761f068f364fb0db5d92ad953038b59e892f0fca917247090207259a190f929"
+    },
+    {
+      "path": "src/modules/motion/manifest.ts",
+      "sha256": "73c80b0a4e3f0e9e605effa5414cf27d785284e109aefc48950032bf9d54fc6e"
+    },
+    {
+      "path": "src/modules/motion/motion.css",
+      "sha256": "39430c050798049dc09cd4686ebb0e84288e6e61518b7acb269e7b842ce772d2"
+    },
+    {
+      "path": "src/modules/motion/native-lessons.json",
+      "sha256": "db647eb5821cad5bb2f0a1195589d2366f228dba67444d0525015bab928ea811"
+    },
+    {
+      "path": "src/modules/motion/optimize-earth-belt.mjs",
+      "sha256": "65e0e187e46e1a70e3a5eb91730b2f5fe1ad578a716fe9f860577e9b00d17bc2"
+    },
+    {
+      "path": "src/modules/motion/optimize-painters.mjs",
+      "sha256": "63801dffc3ab156018f65714725130c8bb660dd323a4f681c33ac079b06ed733"
+    },
+    {
+      "path": "src/modules/motion/playback-control-patches.json",
+      "sha256": "404504384d7836c1e38c837d1fbf1dbd9c482bfabff0a2cd08084766419b1d4c"
+    },
+    {
+      "path": "src/modules/motion/recover-native-lessons.mjs",
+      "sha256": "666558c1f4c4be780131968543cd5e278f787b7602d28dd830670585e9cda3db"
+    },
+    {
+      "path": "src/modules/motion/recover-source-controls.py",
+      "sha256": "21ad01e27ab7ab12f58a336361f63e9ac0bf799288bec087355478d09c98fb91"
+    },
+    {
+      "path": "src/modules/motion/rules.ts",
+      "sha256": "44df991cafe524085779f3e9c10d7bfddb82a0dd4a7252409bf09b066a5412ec"
+    },
+    {
+      "path": "src/modules/motion/source-controls.json",
+      "sha256": "20f07cdd46658e59ec18e176456e380237401650659ad2e343dce766193aeb77"
+    },
+    {
+      "path": "src/modules/motion/text-bounds.json",
+      "sha256": "5137d3fad8f45725557ff923f7a25c15652ab64cd5345e74d55d15ff119ff6d6"
+    },
+    {
+      "path": "src/modules/quiz/audio-more-inventory.json",
+      "sha256": "1671eb4ef10fa39e0008274ce0787697d5510e8493c584d4d0a0ebdd9edd9f82"
+    },
+    {
+      "path": "src/modules/quiz/audio-music.json",
+      "sha256": "6cbc95cf4dd4c378a660395033563a6d5b4caee52b336c817250e833987f0d78"
+    },
+    {
+      "path": "src/modules/quiz/audio-source.json",
+      "sha256": "a4bc1c1f2afe25a490210941041ecd2d4ad814532c5eecf0bcbe3920862e4405"
+    },
+    {
+      "path": "src/modules/quiz/build-audio.mjs",
+      "sha256": "efa5b390ec9dd4075e8a421b531c546aca627317ed7d19e6f35636d53746e767"
+    },
+    {
+      "path": "src/modules/quiz/import-questions.mjs",
+      "sha256": "5caa1ae102c89aa66e3279cafa44d4444170630f6f6ec995e5e7cf29fd1523d6"
+    },
+    {
+      "path": "src/modules/quiz/index.tsx",
+      "sha256": "043ae44b18f252c0b36b1b2dfa8912c024b96c46bc6ee2aa8a2246ba68163250"
+    },
+    {
+      "path": "src/modules/quiz/manifest.ts",
+      "sha256": "69e9e0bb9011d991b4f8246b232966f1de365d32954c9d66d30efb0c2035842f"
+    },
+    {
+      "path": "src/modules/quiz/questions.json",
+      "sha256": "58a3aa536a44b32c70b7640f5a76a8c544faefca444733820670439b43f0bee5"
+    },
+    {
+      "path": "src/modules/quiz/quiz.css",
+      "sha256": "7068dfc0fa53817484a12d02959cdd23ed5699124685e966ed263ba2934105bc"
+    },
+    {
+      "path": "src/modules/quiz/rules.ts",
+      "sha256": "26016ff93f4b4c7473c828bf177d1a45e8fd8fe457cad79b4daf7b9054369c41"
+    },
+    {
+      "path": "src/modules/quiz/useQuizMusic.ts",
+      "sha256": "b144a20dd8e2afa69a09ba2e9102ba976731a4d41d18a98084da39627eebdee1"
+    },
+    {
+      "path": "src/modules/reasoning/NativeArtwork.tsx",
+      "sha256": "d38d90206bde347b8d1170da76bf5a22ffe01688277f0c8a4eba404e7020b678"
+    },
+    {
+      "path": "src/modules/reasoning/ParadoxBox.tsx",
+      "sha256": "bb03324fa8f339f14a321e1242c8fb1cae0f1f3c548ba52954e9dfd2f50391cc"
+    },
+    {
+      "path": "src/modules/reasoning/content.ts",
+      "sha256": "c9fe95099cf4f4e626efc2634f156b80782c69fdc35477c3db3abf305249a16c"
+    },
+    {
+      "path": "src/modules/reasoning/drawing-bounds-bacteria.json",
+      "sha256": "a8960160c1d0026ef37f7ea246fd400e9ae4e6e58e0dbd2f73a4a15288d72ac5"
+    },
+    {
+      "path": "src/modules/reasoning/drawing-bounds-burninghouse.json",
+      "sha256": "c5fe88a948c8d108579bf6b227f1cf32ec3f5c9ac808af5f0ed10292528334ac"
+    },
+    {
+      "path": "src/modules/reasoning/drawing-bounds-grandma.json",
+      "sha256": "56d90660c5cf5b23f639095614c97ea8e2766e797f7c79eb533d1acab54137ef"
+    },
+    {
+      "path": "src/modules/reasoning/drawing-bounds-hand.json",
+      "sha256": "f49d1d8414829e0fa32dc8e5701d0e35197a44b58a9b48cb7d34eacb0d1c94a2"
+    },
+    {
+      "path": "src/modules/reasoning/drawing-bounds-hunter.json",
+      "sha256": "05538659c63246b8a4ee7b3fc920403a405a403321d8f4fa479155c97f6573e0"
+    },
+    {
+      "path": "src/modules/reasoning/drawing-bounds-paradox.json",
+      "sha256": "c12fda3eb2f358fd00c350bc9636367ffc3ac0926a023dc54cc99c8d26d75f37"
+    },
+    {
+      "path": "src/modules/reasoning/drawing-bounds-snail.json",
+      "sha256": "373a01dd9259e952422386410b3de740c702e3dcda0d04bf91f3dcf0174bef06"
+    },
+    {
+      "path": "src/modules/reasoning/drawing-bounds-staruhi.json",
+      "sha256": "3745b306936e0aba27236302c31a4279ad7fcdc6fad420861920d2dbe15deea2"
+    },
+    {
+      "path": "src/modules/reasoning/drawing-bounds-tram.json",
+      "sha256": "fe9de001c1fd9e1ccf2f17d98e63bfbb8cd77ac59c179a2b277ff41922da479e"
+    },
+    {
+      "path": "src/modules/reasoning/drawing-bounds-turtles.json",
+      "sha256": "976eb125bf36b05eee89dfe52b67d5a4f1617fbfe57954e12dc8a4845f214431"
+    },
+    {
+      "path": "src/modules/reasoning/drawing-bounds-wine.json",
+      "sha256": "c4807d69f94a3687dd7e17863ba7fbc1d6f83e2027e9176ae9d2cb0f3b9c1d99"
+    },
+    {
+      "path": "src/modules/reasoning/export-native.mjs",
+      "sha256": "d74bc488bf4ca5c6d4c1fcc10c49b21cb58921549155adc174750172ec8f3fb2"
+    },
+    {
+      "path": "src/modules/reasoning/filter-optimization.json",
+      "sha256": "64f52b2adc1ce6e972eb07da958dd14dd1d9ff20da10f7d6da1003735be75108"
+    },
+    {
+      "path": "src/modules/reasoning/index.tsx",
+      "sha256": "073070c22f6f2410ac7657a47c7cb11f7af8ebbc1c2d197249be0b38b9f2efc0"
+    },
+    {
+      "path": "src/modules/reasoning/lesson-audio.json",
+      "sha256": "955be38b5e09d7b5335bf693c8072ab759039c36a8ea3bf88462d9f2e4678e24"
+    },
+    {
+      "path": "src/modules/reasoning/lessonFlow.ts",
+      "sha256": "f0728dacefb904c9858f578162d3d9575d467b3201bfea8e83ca4411524e7dcf"
+    },
+    {
+      "path": "src/modules/reasoning/manifest.ts",
+      "sha256": "24064e1568cb3f9522b50190f657e390e0b8bb1bdd07a92b3a87f2d6d5b70387"
+    },
+    {
+      "path": "src/modules/reasoning/native-timelines.json",
+      "sha256": "cbf45639dfc3e0426077a044a0cae67f0138df08bea73ba2bc8e15eb666fe1da"
+    },
+    {
+      "path": "src/modules/reasoning/optimize-painters.mjs",
+      "sha256": "e8f052d10bb11053650299dafa49133bd77d5f59837e8e61488bee6bb0a705f9"
+    },
+    {
+      "path": "src/modules/reasoning/optimize-static-painters.mjs",
+      "sha256": "764f11bf288e88dedfee4afef99e20f35260dcc47a8be5a56a072249772e3a6e"
+    },
+    {
+      "path": "src/modules/reasoning/optimize-tram.mjs",
+      "sha256": "3283ee0669ab9f39abf6d8c82fe6e96608df49d0bf57449999c977270147d8eb"
+    },
+    {
+      "path": "src/modules/reasoning/paradox-scenes.json",
+      "sha256": "d0c2f0640d473231efbc59629b299197939406e7dd90f38b979157266d22e4f2"
+    },
+    {
+      "path": "src/modules/reasoning/questionGate.ts",
+      "sha256": "3efc3b7926fa4f7e74efa5f65cd8bd29225e93be6f21a539d2bb4b200b582c20"
+    },
+    {
+      "path": "src/modules/reasoning/reasoning.css",
+      "sha256": "432b6da7a946d8bf23ccb3bb79bf92278320e3243e8f57bc0f78ba4b74703f56"
+    },
+    {
+      "path": "src/modules/reasoning/recover-audio.mjs",
+      "sha256": "8cac5c6a74f0da560b68dad5a84f272a917133a5b65c4a365a920052aafc47f2"
+    },
+    {
+      "path": "src/modules/reasoning/recover-text-bounds.mjs",
+      "sha256": "48fdcb1a57aa3b5f81c12caa5b7ca66528427674924fb41112b6ed11d672f43e"
+    },
+    {
+      "path": "src/modules/reasoning/rules.ts",
+      "sha256": "9fdad25565e2ef9df5f488223e31ab55bdddf44c43e3d3ab11e0b3e7c05c3510"
+    },
+    {
+      "path": "src/modules/reasoning/source-controls.json",
+      "sha256": "87fb31f5099b271418aca12e6053b826dbd00d08b0a31bdd42cac00f64486834"
+    },
+    {
+      "path": "src/modules/reasoning/sourceControls.ts",
+      "sha256": "f28014caccf7cfc98b79d3dc3005692044f0815b97e7d0c92f13fdd1781cb253"
+    },
+    {
+      "path": "src/modules/reasoning/static-filter-optimization.json",
+      "sha256": "91cf0ae30cd9f641dcc550c22018c6205f1fbee12904817aec3490871a920ddf"
+    },
+    {
+      "path": "src/modules/reasoning/text-bounds-bacteria.json",
+      "sha256": "ddb7efc9dd2e38082ea7d9c408dfc4763480af083fc09deffea94305110c28b2"
+    },
+    {
+      "path": "src/modules/reasoning/text-bounds-burninghouse.json",
+      "sha256": "17f3be985a2fe9f91c3642fbd6adec153a2741ffab910a691a6f5c3f7009d9e5"
+    },
+    {
+      "path": "src/modules/reasoning/text-bounds-grandma.json",
+      "sha256": "12e8b88f94fd118e9dfc7fd9f297e983bf062c1d5ff36fec564cb3d01aecdfd6"
+    },
+    {
+      "path": "src/modules/reasoning/text-bounds-hand.json",
+      "sha256": "653a3492dcde904d57102b019265f027a47c19860022742cb259c928ca1c7df9"
+    },
+    {
+      "path": "src/modules/reasoning/text-bounds-hunter.json",
+      "sha256": "7603cb4cd580c7a4cf5f4327b1f3b53fe90b7a54c8a2052b56907ccb23dbee54"
+    },
+    {
+      "path": "src/modules/reasoning/text-bounds-paradox.json",
+      "sha256": "1e2323a17028cffddf2050f5c2453711cf01d76e04b361d3183f6adac7821ee4"
+    },
+    {
+      "path": "src/modules/reasoning/text-bounds-snail.json",
+      "sha256": "d34e704c3a97bf22528a9b871cd64e616e6839a8dd231227fbb30f3b9915ec66"
+    },
+    {
+      "path": "src/modules/reasoning/text-bounds-staruhi.json",
+      "sha256": "cafb94add50d561a4eb29e3a95466d0ba13c0f72cb8d9e8c1e871bff8e0c924f"
+    },
+    {
+      "path": "src/modules/reasoning/text-bounds-tram.json",
+      "sha256": "735b3ada5ce3f9fa2e019c84f11fda236d6d4b23286ccd95794c485365b9f939"
+    },
+    {
+      "path": "src/modules/reasoning/text-bounds-turtles.json",
+      "sha256": "5a07ced15e3b8a76aa10a538f7a15f07bc2078098c63fbf7b0351bed9233d5a2"
+    },
+    {
+      "path": "src/modules/reasoning/text-bounds-wine.json",
+      "sha256": "298e9e75559d755e22c2f445898ca61ca140f3fbc37db6efc24664fca410d796"
+    },
+    {
+      "path": "src/modules/reasoning/tram-animation-optimization.json",
+      "sha256": "070eeb0ffca9b6063c47836683b2eb289446af2e7d4cfe72fbc1877a17836b6c"
+    },
+    {
+      "path": "src/modules/solids/CubeSectionsLesson.tsx",
+      "sha256": "637b717d92f06f0d71f347a555144b5f559d851f5b886034ce2bcec278ad3f3d"
+    },
+    {
+      "path": "src/modules/solids/SourceSoundtrack.tsx",
+      "sha256": "daf8d3330fab7cc82ce275019a8cb8f59f93a5f7b41dafb6599ac205b7b47a20"
+    },
+    {
+      "path": "src/modules/solids/SphereLesson.tsx",
+      "sha256": "d25c534aa1dec3aae9d526220757d13c38d1e59ff178a763eafc925546b7ebf2"
+    },
+    {
+      "path": "src/modules/solids/SphereQuiz.tsx",
+      "sha256": "f9c0ed4f564efc1386786c4d2fe5982fc94e1771a66aaf2513b1d3eeb91cf4de"
+    },
+    {
+      "path": "src/modules/solids/TetrahedronView.tsx",
+      "sha256": "7fe8dd999237cd4c88c5d464723d74663725b8527fe185d6f146ae6a05fcd60f"
+    },
+    {
+      "path": "src/modules/solids/cube-sections-lesson.css",
+      "sha256": "76c4174ce74d492884c984c1a86cfe301c48586adf8bc9c81609fa0324a69db4"
+    },
+    {
+      "path": "src/modules/solids/cubeSectionsLessonRules.ts",
+      "sha256": "d0d4dbe1476c2b468440b576ee6448ff81e491285a3fc61a9da77b88dc9cfefd"
+    },
+    {
+      "path": "src/modules/solids/index.tsx",
+      "sha256": "b5cb1ceda1d4c70d2cae8225e52fd13afc791761743f95a7395f1f21d42caab4"
+    },
+    {
+      "path": "src/modules/solids/manifest.ts",
+      "sha256": "c6c2307877f58f5f164278ecc14a491040ec171d8d1941325630e57905242511"
+    },
+    {
+      "path": "src/modules/solids/optimize-sphere.mjs",
+      "sha256": "d29a16b4496173e19d0c8de77bdabb3b83d4fd36959a3f6943096f753729fe74"
+    },
+    {
+      "path": "src/modules/solids/recover-cube-media.mjs",
+      "sha256": "f5b47b8f89671279f5d2d4d2a03c79c7f0552c927be849c4cf8e3a54764ebffc"
+    },
+    {
+      "path": "src/modules/solids/rules.ts",
+      "sha256": "dac2fe2165df4fdbdf67d20022b1e9e5c3b308a49be62dec59c383d2258f32e4"
+    },
+    {
+      "path": "src/modules/solids/solids.css",
+      "sha256": "550e0f6d029ad36a48e48c3c675d31d8c742067b68e5f079df11f2dd8330ef91"
+    },
+    {
+      "path": "src/modules/solids/sphere-drawing-bounds.json",
+      "sha256": "d09611607ae1b484ba8d2f03371853da91ee043d84191aef948cc2f008c8381d"
+    },
+    {
+      "path": "src/modules/solids/sphere-text-bounds.json",
+      "sha256": "c0e8979b9035355c3059c79a471f473f51332fcf61d59d6b5b986c3bd4882b1d"
+    },
+    {
+      "path": "src/modules/solids/sphereQuiz.ts",
+      "sha256": "b700fa927ba03c79d7e6f58e4028c7801b5bd457e1b1ab90e88e7faa5101e1aa"
+    },
+    {
+      "path": "src/modules/spatial/CalendarLesson.tsx",
+      "sha256": "c1d87a1f3ae3256a8472e97d0c365a4a2d8934628672b0b8e77ce05ca8997438"
+    },
+    {
+      "path": "src/modules/spatial/Companions.tsx",
+      "sha256": "61d4dca1673f556f104d91363c447a25810428483287b9d86ef267baba998da2"
+    },
+    {
+      "path": "src/modules/spatial/DraggableNet.tsx",
+      "sha256": "2451933643097dddcc6a809e00fc873cf9026ab9264bf71ef8f2ffd4edf8af0d"
+    },
+    {
+      "path": "src/modules/spatial/NetArtwork.ts",
+      "sha256": "3a2522ed422f5eedb3a8fa34e9cb4d99352eea619bb591c49d20d2afa0780829"
+    },
+    {
+      "path": "src/modules/spatial/Octahedron.tsx",
+      "sha256": "5e6ac20361f327af2b047d623ab3fe1d7ac48a50ba24077feb0a1217631290ed"
+    },
+    {
+      "path": "src/modules/spatial/OctahedronProjection.ts",
+      "sha256": "719c4da5c02013fd53219f490758372525c6b80cdbebe489b3eb36f54e649f99"
+    },
+    {
+      "path": "src/modules/spatial/OriginalNets.ts",
+      "sha256": "8d91ae4b2fba27338c2f8325df27f4ddc708d765eed20f4f0c83e54bfcb15ff2"
+    },
+    {
+      "path": "src/modules/spatial/PairRules.ts",
+      "sha256": "680eb770602f4eb557889c6f7355ddb8a6a46633266aafb0c090f80390d50cd7"
+    },
+    {
+      "path": "src/modules/spatial/PairStageAudio.tsx",
+      "sha256": "a52eb7c8b9fae6804f1658d78853202979ea4004c21a070e422879dfbf944b08"
+    },
+    {
+      "path": "src/modules/spatial/index.tsx",
+      "sha256": "0e6d03f30decc4fe08ddac62dec7ed7808c08e5442a35b87bd63af0f90b45d33"
+    },
+    {
+      "path": "src/modules/spatial/manifest.ts",
+      "sha256": "3bc2a9e4c88289788c01f2e5043c87fc82b59dea96e6ad08c798838744842eca"
+    },
+    {
+      "path": "src/modules/spatial/rules.ts",
+      "sha256": "574260f73f641322f9aafe1ab878fe74d2be0222e0972374ab70fc10535f87f3"
+    },
+    {
+      "path": "src/modules/spatial/spatial.css",
+      "sha256": "684f14f47a6fa1f7fa5e37e76073323c07345b75cb099d9f7673d723e6cc3119"
+    },
+    {
+      "path": "src/modules/spatial/useDragRotation.ts",
+      "sha256": "6cb9c6c7c88b7e58759d087d4ff4a2f86ee1f42c0ef572509be21d9088685416"
+    },
+    {
+      "path": "src/modules/spatial/useSourceAudio.ts",
+      "sha256": "0a4c73282c680ac7ab019cf1d38a7eb52015b23f225d468c113eb4c66dfff14a"
+    },
+    {
+      "path": "src/modules/stories/StoryFilm.tsx",
+      "sha256": "49eba9a30ddd92eff24097a9f2a1287593131d2d3e0f2bdcf6a75378b5629905"
+    },
+    {
+      "path": "src/modules/stories/StoryPresentation.tsx",
+      "sha256": "39918c6acac4251d73df9475d0a2797a0e784393913718dcdda8b1a2c6752b68"
+    },
+    {
+      "path": "src/modules/stories/audio-Pinoc-game.json",
+      "sha256": "d474548811b70209759d96e9ef2e6d443a715099e9a8ada2f3eea79600a5a13b"
+    },
+    {
+      "path": "src/modules/stories/audio-Prosto-game.json",
+      "sha256": "2c5672ce5895ee265701bf2c1f2f50701725ce6d606730ff64da4d6d64bbd4a1"
+    },
+    {
+      "path": "src/modules/stories/audio-Snowhite-game.json",
+      "sha256": "516961568f8ead36b2cb97eb42f21c6bc4a6d838c60b144e3dea13c34305e12c"
+    },
+    {
+      "path": "src/modules/stories/export-parent-timelines.mjs",
+      "sha256": "5d46ba6ada8d6768595d7f08e08f5407a64acfc080c6b89e0314ca1814f59fcf"
+    },
+    {
+      "path": "src/modules/stories/index.tsx",
+      "sha256": "989ab8503695459d1cfd64ec1efbde6a68f0dcf3c92d33723070c7e4329784e0"
+    },
+    {
+      "path": "src/modules/stories/manifest.ts",
+      "sha256": "4a02ca2c002335c5eefd4ec8cd949ad6e7573f7c5135073bf413e7177a8b19c2"
+    },
+    {
+      "path": "src/modules/stories/optimize-painters.mjs",
+      "sha256": "5e52fa14300b5a8141c628b17f11cdb8eeb62ccab217c4639b17d4b8576782d2"
+    },
+    {
+      "path": "src/modules/stories/presentation.ts",
+      "sha256": "bcc32fc7e39927d64189fb8a7c6ebb97d70ff35c0ea18cced5b2131600012eb5"
+    },
+    {
+      "path": "src/modules/stories/stories.css",
+      "sha256": "f84093e2079e2ec0627d3757a0e8ef20dcbbc190daf9cf448cf40b0070b75532"
+    },
+    {
+      "path": "src/modules/stories/text-bounds-Pinoc-game.json",
+      "sha256": "29874cdfbae1757af90aefde873b1544b4a0ab9c1435d0ed2bb47148427be802"
+    },
+    {
+      "path": "src/modules/stories/text-bounds-Prosto-game.json",
+      "sha256": "122fc7279baeb2b1152b162ca4698aa34caa82347f945f71d833f9cfc01e9a1b"
+    },
+    {
+      "path": "src/modules/stories/text-bounds-Snowhite-game.json",
+      "sha256": "f68db135abf0afdd395306f38ff35d95bc5deb5f20e23b676dd44eca82ce94ce"
+    },
+    {
+      "path": "src/modules/triangles/Congruence.tsx",
+      "sha256": "a37cc541a0bcb10168a31662f547b6e868aa314e21dbeb662ec49162e6fcffb1"
+    },
+    {
+      "path": "src/modules/triangles/FalseProof.tsx",
+      "sha256": "c18242eafcce0d573d204cf01037ab3e443a9b4462d5d5cd852fc9bc2b6642d4"
+    },
+    {
+      "path": "src/modules/triangles/InscribedProof.tsx",
+      "sha256": "42ffd2954c45827b12e87c8a151b311c69ad2d3506d5948fa910d9ab1a531e29"
+    },
+    {
+      "path": "src/modules/triangles/NativeTriangleLesson.tsx",
+      "sha256": "172aee71f9693b0a8f98f059eb2189f2e53caab4fc2fec8173eeff3c0decf2c3"
+    },
+    {
+      "path": "src/modules/triangles/OriginalDrawings.tsx",
+      "sha256": "b820bc17c41191e3b7c9f94b07040daf21cfa6a33ab93c4d61d510f751c763d0"
+    },
+    {
+      "path": "src/modules/triangles/PythagorasProof.tsx",
+      "sha256": "c57e7be339d7734aebccdfe92f6db7919142fb8aa4fc55c223ffad24550a358a"
+    },
+    {
+      "path": "src/modules/triangles/PythagorasQuiz.tsx",
+      "sha256": "daea73e53eb48c221ec5f37094721096bdfd55997a4a1e618e4e93f4ddea981e"
+    },
+    {
+      "path": "src/modules/triangles/SourceDragStage.tsx",
+      "sha256": "6e1598a9efeb2335189dae64123ea3a39fdae612cc34959e0d8cec56f39606bd"
+    },
+    {
+      "path": "src/modules/triangles/SourceTriangleQuiz.ts",
+      "sha256": "297366620ba04b1ee17b342b0b2d5d9b49599fc6692551b064cddb92acfc22c4"
+    },
+    {
+      "path": "src/modules/triangles/StageGeometry.ts",
+      "sha256": "e8e3b2f1bc91352372bf82b55f42f169c14ac5e5e401046d700dcb0cb07981f0"
+    },
+    {
+      "path": "src/modules/triangles/TriangleLessonRules.ts",
+      "sha256": "a905119402ab27646ebfb1b46d85cbb28b82cff61c9df7476eeabcb04a5308a4"
+    },
+    {
+      "path": "src/modules/triangles/altitudes-drawing-bounds.json",
+      "sha256": "8f43453afe82cdb01462adaec1100d1d1fb61acd7e93b57d15bf15422533b120"
+    },
+    {
+      "path": "src/modules/triangles/altitudes-text-bounds.json",
+      "sha256": "d3cdf68a88966b34eaba7d18b4b6f6442798493461dca7bd228acedee63a8853"
+    },
+    {
+      "path": "src/modules/triangles/bisectors-drawing-bounds.json",
+      "sha256": "aa2074764b0490498888377c1060b4b7ff769d45cc224c3e4a95a552c8ce4f4b"
+    },
+    {
+      "path": "src/modules/triangles/bisectors-text-bounds.json",
+      "sha256": "b4d0f6b32ccae98c4a4e43e6b9613f440d9bcb16617e2c55cac3f26246fdd29e"
+    },
+    {
+      "path": "src/modules/triangles/congruence-drawing-bounds.json",
+      "sha256": "1be7fcb8df6395cc0ed91317847ece8f5fc69af3e5f6f33e29495efa37ee1017"
+    },
+    {
+      "path": "src/modules/triangles/congruence-text-bounds.json",
+      "sha256": "87d709d5c82f0f02577f5af57f7fd3a6775fdef10d339a0d8f1183818de79105"
+    },
+    {
+      "path": "src/modules/triangles/cosine-law-drawing-bounds.json",
+      "sha256": "fe0d27946519fe1c19d3a3591b65e6c6de758b011a734a8d96f33d2b559da0d1"
+    },
+    {
+      "path": "src/modules/triangles/cosine-law-text-bounds.json",
+      "sha256": "d0ff86a05f2a565a54a36427f3ceacd82d4a7a001d79d8e1c508ca75fcf28511"
+    },
+    {
+      "path": "src/modules/triangles/false-proof-drawing-bounds.json",
+      "sha256": "ed13c00e62799c0793e34514c88ad5b3b301866a632332239cab31819361c790"
+    },
+    {
+      "path": "src/modules/triangles/false-proof-text-bounds.json",
+      "sha256": "e99a4e8e39da42947386e55bc3ce88fd223ae34bb9ea2795a9bd6cc4ae650d01"
+    },
+    {
+      "path": "src/modules/triangles/geometry.ts",
+      "sha256": "9fe50c44eb834b899c22ea8cddff16f30ef85e7fd48fad2dbc219f98e13003e7"
+    },
+    {
+      "path": "src/modules/triangles/index.tsx",
+      "sha256": "a0d22361395d211a3a0473299ae72273e5f255e0851131e09bedd262f6be94b5"
+    },
+    {
+      "path": "src/modules/triangles/inscribed-angle-drawing-bounds.json",
+      "sha256": "96df25a213d7b783e57acb65614faa8b2435efe000b4050bb7cfe3965d1ffd61"
+    },
+    {
+      "path": "src/modules/triangles/inscribed-angle-text-bounds.json",
+      "sha256": "b0f724b85ccf02d7da92dc12463bf6fe3d4d5d9777f6b90798fe4018af852674"
+    },
+    {
+      "path": "src/modules/triangles/manifest.ts",
+      "sha256": "c8218b57215e9d2a75980aeaae3044ab992d2501122f05edfac8099385f33d9b"
+    },
+    {
+      "path": "src/modules/triangles/medians-drawing-bounds.json",
+      "sha256": "958c391a8f6121f5cb0b15470f181174d21faefc09445d3f57982dde60608b2d"
+    },
+    {
+      "path": "src/modules/triangles/medians-text-bounds.json",
+      "sha256": "448d31835318b93673bc9aea37199bd24776e5e8f5f73ab48ca2ec3f45c466e1"
+    },
+    {
+      "path": "src/modules/triangles/native-altitudes-en.json",
+      "sha256": "939b3d96dc66b093960eaf7fc1e0b95b6da9466b999d3e86d5d08ca14a509f34"
+    },
+    {
+      "path": "src/modules/triangles/native-altitudes-ru.json",
+      "sha256": "844d4277824ddea54af01046eeddd1c52b1aa604124c6c49b1209f00d3cb0e67"
+    },
+    {
+      "path": "src/modules/triangles/native-bisectors-en.json",
+      "sha256": "38866439310264940a03205e7fd7ccc82245954ea6fbf15aeda6395a2fc9bb10"
+    },
+    {
+      "path": "src/modules/triangles/native-bisectors-ru.json",
+      "sha256": "ce5736ec3aedf9d573bdefe314da3ed6c8aefc51d688282ad54290a909a5d69f"
+    },
+    {
+      "path": "src/modules/triangles/native-congruence-en.json",
+      "sha256": "f6bed7f354b2c03d26ad85aafa8f0ab97e43cfeaa1fe6645f3b645692fb588d6"
+    },
+    {
+      "path": "src/modules/triangles/native-congruence-ru.json",
+      "sha256": "2025825ed42d86ad73d637e724e382633c666a7a25c7bcef73bef490da4dfa28"
+    },
+    {
+      "path": "src/modules/triangles/native-cosine-law-en.json",
+      "sha256": "ab32b738a1eefeaf84ec477658ff06c8dbd1a4d89e0c8419051c05371d074c80"
+    },
+    {
+      "path": "src/modules/triangles/native-cosine-law-ru.json",
+      "sha256": "abd2519a8cab25abfabf6d79bfd252d1152a79b6fde1e12e820e4d9d34e75f1f"
+    },
+    {
+      "path": "src/modules/triangles/native-false-proof-en.json",
+      "sha256": "6c2c59a33512d776351b9d6516c726a53902ebcbc7b15a081b0c9141227b34fa"
+    },
+    {
+      "path": "src/modules/triangles/native-false-proof-ru.json",
+      "sha256": "26b5da58b1d56bc80cfe6031b6299c91ae9f517ad1ef6ade7441f966654adcec"
+    },
+    {
+      "path": "src/modules/triangles/native-inscribed-angle-en.json",
+      "sha256": "4f4370239d9bad5daa869c5e3d3f771398d260ae819e58073d7ddd18c4736aa8"
+    },
+    {
+      "path": "src/modules/triangles/native-inscribed-angle-ru.json",
+      "sha256": "3a095c2478cd5ad463afd2ccc922df10dd22bf97b2c947f3168b0ce8527ace64"
+    },
+    {
+      "path": "src/modules/triangles/native-medians-en.json",
+      "sha256": "3d37647b9ed3607c80d1af2e46b59ba00a9d54968ac895e997430799db690c6c"
+    },
+    {
+      "path": "src/modules/triangles/native-medians-ru.json",
+      "sha256": "d5e9e98903cd8ce8f1ba00e77e5dcc50bbc32078e021faee621ed2c4e9d95de6"
+    },
+    {
+      "path": "src/modules/triangles/native-palm-trig-en.json",
+      "sha256": "62829b6ee9fc96280c8b7a561178f3729b5105a137028edc8b7e83755a7f1520"
+    },
+    {
+      "path": "src/modules/triangles/native-pythagoras-en.json",
+      "sha256": "af9147ee93b9e65c399442c962fcc5090ec741057d660e73959ebfc63ff87a83"
+    },
+    {
+      "path": "src/modules/triangles/native-pythagoras-ru.json",
+      "sha256": "19bad511c67741878d80876ee8395343af7fd65cdfcc85c2d622da646129ed9c"
+    },
+    {
+      "path": "src/modules/triangles/native-sine-law-en.json",
+      "sha256": "a8a3116a7ba9171ed7e3afbb75a3ce9318b37caebda4fe6772d6ee39a083a502"
+    },
+    {
+      "path": "src/modules/triangles/native-sine-law-ru.json",
+      "sha256": "f79ee4a7758a6b639934c24515bb951822aeb770d3b3f240442e8e60ceee4f87"
+    },
+    {
+      "path": "src/modules/triangles/native-trig-addition-en.json",
+      "sha256": "41305232a50f382380d9ba8e2307d038df1e7be976556c70247341fee94bb015"
+    },
+    {
+      "path": "src/modules/triangles/native-trig-addition-ru.json",
+      "sha256": "5e441bf4d20a5052396fefa773d4bdc1209fb5ed5de23a97c423e74fc41ae28b"
+    },
+    {
+      "path": "src/modules/triangles/optimize-altitudes.mjs",
+      "sha256": "6a6554068f73acedb33b6d5be271e7f3aad9b850596e0bf0a4fc00e8dbcd9988"
+    },
+    {
+      "path": "src/modules/triangles/optimize-painters.mjs",
+      "sha256": "c04f9910c7ca176ef609017c32c80a091800fa0891fc48c3250aa359759d2028"
+    },
+    {
+      "path": "src/modules/triangles/palm-trig-drawing-bounds.json",
+      "sha256": "eae6b199516f7b7910d7aa93458d8a7ce64dcda641a7ed80951acce8d656bd2d"
+    },
+    {
+      "path": "src/modules/triangles/palm-trig-text-bounds.json",
+      "sha256": "b647f81f691423600f2d8f6ca5c7f2db768e584d0054c55f24f3552a23a8d0c2"
+    },
+    {
+      "path": "src/modules/triangles/profile-altitudes.mjs",
+      "sha256": "e1853730b68c93dc77f5181c2650a050b1dde8db177dc02ae96c07fc63a69c34"
+    },
+    {
+      "path": "src/modules/triangles/pythagoras-drawing-bounds.json",
+      "sha256": "3804515dc3999bca625c1a73687aa2338ecb0688eb193c93789763f39b3bd31d"
+    },
+    {
+      "path": "src/modules/triangles/pythagoras-text-bounds.json",
+      "sha256": "e79381adb0e02f5a0ee6eff2ba2e62d2205ca583d1522cdf2b283ebc328f3636"
+    },
+    {
+      "path": "src/modules/triangles/recover-interactions.py",
+      "sha256": "8873e8e1186a6eb2ce9bdfb9fbc08c6cb9fc776583d7581328a8ac5450dbf36f"
+    },
+    {
+      "path": "src/modules/triangles/recover-native.mjs",
+      "sha256": "6ccffe486c7d3b0d5093823c4e9a8d4a304d46100339a7732b4f3148f0911051"
+    },
+    {
+      "path": "src/modules/triangles/sine-law-drawing-bounds.json",
+      "sha256": "6d82af9f72eeefa62ad1f8f32668345af94cd7fd5f6369e595904a68fe4d3907"
+    },
+    {
+      "path": "src/modules/triangles/sine-law-text-bounds.json",
+      "sha256": "5cdb3339ace89f190cd268d1a05188e8a987a6e34038870ee353413374e1aa83"
+    },
+    {
+      "path": "src/modules/triangles/source-controls.json",
+      "sha256": "c51cf58cc2cb91e96f9170d0a7252ad058141470a1edfb3973d73cd192506ac0"
+    },
+    {
+      "path": "src/modules/triangles/source-interactions.json",
+      "sha256": "fc072fce41f74007d169a632d01908da96cf3594192ce9cb6625d50f2ec817d4"
+    },
+    {
+      "path": "src/modules/triangles/sourceControls.ts",
+      "sha256": "fd39867de6a7077c422793643d241694f3feafd94ce10e5acfd16f30504d8054"
+    },
+    {
+      "path": "src/modules/triangles/triangles.css",
+      "sha256": "19452c8b37033c248886f008e92136ee7dbc6a6ce0efe3da50be90742198ec7a"
+    },
+    {
+      "path": "src/modules/triangles/trig-addition-drawing-bounds.json",
+      "sha256": "bb1455d3ac635e845e686552499b60fb496e8d54210af47725ccf976b0231adc"
+    },
+    {
+      "path": "src/modules/triangles/trig-addition-text-bounds.json",
+      "sha256": "42095beda51187cebb2c5ee80c2e39f7bfdb9b373c3581317003320e41db3624"
+    },
+    {
+      "path": "src/shared/CachedTextFilters.mjs",
+      "sha256": "4b226fbe77d19ff1424b6f1e1b11bb2eefc5c9cfba2e49a9af2ed1f40beccf1e"
+    },
+    {
+      "path": "src/shared/JigsawGroups.ts",
+      "sha256": "48f47235639226c1d84a2d4f0fbb1d9b3fb53b37421f860796c9aa1ab71628a2"
+    },
+    {
+      "path": "src/shared/LessonAudio.ts",
+      "sha256": "490d82789e089a8456e94f8c18765224fea6c9a3fe3f31936b22c76abc3c536b"
+    },
+    {
+      "path": "src/shared/LessonCanvas.ts",
+      "sha256": "f2d30b250194f152cc8cea258b083548d0ef240d42f4cf36c05387d878b595ed"
+    },
+    {
+      "path": "src/shared/OriginalCompanion.tsx",
+      "sha256": "f96234048cbc59fc41580270925c93ae1f206066fca1394409954d7fcdaa9692"
+    },
+    {
+      "path": "src/shared/OriginalLesson.ts",
+      "sha256": "3617573f7bdabe05a40e5d46f82004a86ba0f201e0cf02c23fe9d00e1391e5fa"
+    },
+    {
+      "path": "src/shared/OriginalLessonPlayer.tsx",
+      "sha256": "a8c156da28a8d859c8d6fd4ef4581dc762da57ebddd9d67a67d135c982ceafbd"
+    },
+    {
+      "path": "src/shared/OriginalTimeline.tsx",
+      "sha256": "4ec82a898a16501143f497b9433fc0e050889715a5482d19c38474f4b905f03b"
+    },
+    {
+      "path": "src/shared/OriginalWordmark.tsx",
+      "sha256": "fc7761ba0c451730726e79a4848fbe38bca2c57f2294de4ac2cfdc98b6d0a8c9"
+    },
+    {
+      "path": "src/shared/WordmarkTimeline.ts",
+      "sha256": "53eb57f6d7cf2e974c14fe6c7418a47e0fcb0a38bf5763e27ccf3a9ea2bc17a1"
+    },
+    {
+      "path": "src/shared/contracts.ts",
+      "sha256": "5677974ed14862dd4f836d7d2d360a971c896b66907e5c7429794f3884283ba2"
+    },
+    {
+      "path": "src/shared/original-lesson.css",
+      "sha256": "c11ab80747754a5ee4780245d06a510aabad0c11bba3ff6ad0887d252897d56d"
+    },
+    {
+      "path": "src/shared/useAnimation.ts",
+      "sha256": "f1ae253342219329193c29d695e8c0cbb71e09ae502fa1c49bedd46bd3ec8414"
+    },
+    {
+      "path": "src/styles.css",
+      "sha256": "b2f599b41ffda19abca85b5ee44ec34b5162278ebaf7ff6f2ec3c0edc270743f"
+    },
+    {
       "path": "third-party/ffdec/canvas-original.js",
       "sha256": "98b62f4b9eb061b95dbe8c71ce555421721479aa16548fc99e06940084d94f92"
+    },
+    {
+      "path": "third-party/ffdec/package-source.mjs",
+      "sha256": "acb96a5099791cbbe3c9c82379a5270be01d7dc6819773239e8e35bbd5662500"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "8d464cbb66905fa698094f7822c82037db8484c01392670714ee38493e1372d8"
+    },
+    {
+      "path": "vite.config.ts",
+      "sha256": "f02c9519b29c9e4e88cf697850fb881b3fcea93932c1c45fcba4ea99e2b9eb3f"
     }
   ]
 }

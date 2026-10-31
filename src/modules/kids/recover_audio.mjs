@@ -26,6 +26,7 @@ if (process.argv.includes("--export-falling") || process.argv.includes("--conver
   ];
   const result = spawnSync(process.execPath, args, { cwd: root, stdio: "inherit" });
   if (result.status !== 0) throw new Error("Falling completion recovery failed.");
+  if (process.argv.includes("--convert-reviewed-falling")) optimizePainters("falling");
   process.exit(0);
 }
 if (process.argv.includes("--export-lessons") || process.argv.includes("--convert-reviewed-lessons")) {
@@ -50,7 +51,18 @@ if (process.argv.includes("--export-lessons") || process.argv.includes("--conver
       });
     }
   }
+  if (process.argv.includes("--convert-reviewed-lessons")) optimizePainters("kids");
   process.exit(0);
+}
+function optimizePainters(family) {
+  const result = spawnSync(process.execPath, [
+    "src/modules/kids/optimize-painters.mjs", "--apply", family,
+  ], { cwd: root, stdio: "inherit" });
+  if (result.status !== 0) throw new Error(`${family}: source-text filter optimization failed.`);
+  const empty = spawnSync(process.execPath, [
+    "scripts/optimize-empty-text-filters.mjs", "--apply", family,
+  ], { cwd: root, stdio: "inherit" });
+  if (empty.status !== 0) throw new Error(`${family}: empty-text filter optimization failed.`);
 }
 const catalogs = { kids: {}, falling: {} };
 async function findMain(directory) {

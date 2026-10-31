@@ -1,6 +1,6 @@
 # FFDec Canvas runtime corresponding source
 
-Release modification date: **2026-10-30**.
+Release modification date: **2026-10-31**.
 
 The exported `canvas.js` runtime comes from JPEXS Free Flash Decompiler 26.2.1's
 `ffdec_lib`, licensed under GNU LGPL version 3. The application's separate GPL
@@ -23,10 +23,10 @@ patch implementation sources are the repository's `scripts/*.mjs`; source
 snapshots are also included in the archive. These are modifications by the
 MightyMatica restoration contributors, dated above, not upstream behavior.
 
-The split xz archive contains 184 readable, unminified converted baselines,
-the three remaining unminified
-cube modules, converter/patcher/minifier source, dependency lockfile, licenses,
-and a SHA-256 manifest. The baseline is already a converted native module:
+The split xz archive contains 186 readable, unminified converted baselines,
+the three remaining cube modules, converter/patcher/minifier sources, shared
+runtime and family recovery sources, configuration, dependency lockfile,
+licenses, and a SHA-256 manifest. The baseline is already a converted native module:
 reconstruction does **not** require a SWF, FLA, private archive, Java or FFDec.
 Embedded drawing and image content remains subject to its independent rights.
 
@@ -52,7 +52,9 @@ they duplicate the drawing/image payload already supplied in `public/media`.
 The baseline is an editable pre-minification form, not a claim that rerunning
 one command recreates every subsequent manual edit.
 
-For semantic editing use the readable baselines and `support/scripts/` sources.
+For semantic editing use the readable baselines, `support/scripts/`, and
+`support/src/` sources. The latter includes the current bounded-filter helper,
+family optimization evidence, source-control metadata, and lesson controllers.
 With Node.js and locked dependencies installed,
 `scripts/minify-native-drawings.mjs` exposes `minifyReviewed`; its CLI supports
 `INPUT.mjs OUTPUT.mjs`. Other patchers document their entry points in source.
@@ -61,7 +63,7 @@ the app does not require a signature or installation key for modified modules.
 
 Maintainers can regenerate the staging tree with
 `node third-party/ffdec/package-source.mjs` while the local verified baseline
-cache exists, then archive `.cache/ffdec-readable-source/` with
+cache exists, then archive `.cache/ffdec-readable-source-2026-10-31-final/` with
 `tar -cf - . | xz -T2 -3` and split the output into 40 MiB parts.
 Consumers use the published
 archive instead; the private cache is not a consumer prerequisite.

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Sharesize-eng.swf",
+      "sourceSha256": "3c40427a7404600068a1e19c6cd2995f0b3cbeef22698d61efb601cb38ce3096",
+      "textBounds": {
+        "text85": [
+          -1144,
+          250,
+          4475,
+          4105
+        ],
+        "text108": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Sharesize-eng.swf",
+      "sourceSha256": "3c40427a7404600068a1e19c6cd2995f0b3cbeef22698d61efb601cb38ce3096",
+      "textBounds": {
+        "text85": [
+          -1144,
+          250,
+          4475,
+          4105
+        ],
+        "text108": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    }
+  }
+}

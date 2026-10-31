@@ -66,7 +66,12 @@ test("source vertex-drag interludes wait for the learner before resuming the pro
 });
 
 test("false-proof Hint keeps its question hold and plays the original hint audio before native dragging", () => {
+  const interactions = JSON.parse(readFileSync(new URL("../src/modules/triangles/source-interactions.json", import.meta.url), "utf8"));
   for (const { source } of sources.filter(({ source }) => source.hintFrame !== undefined)) {
+    const sourceInteraction = Object.values(interactions).find(item => item.source === source.source);
+    const hint = sourceInteraction.continuation.find(item => item.id === "bHint");
+    assert.ok(hint?.resumeFrames.includes(source.hintFrame), "the painted Hint activates the same authored continuation");
+    assert.equal(sourceInteraction.vertices.length, 3, "the original final stage supplies all three draggable vertices");
     const lesson = triangleLessonTransport(source);
     const clock = createLessonClock(lesson);
     clock.waiting = null;

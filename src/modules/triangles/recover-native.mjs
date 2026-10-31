@@ -135,3 +135,11 @@ for (const [id, ...names] of titles) {
     console.log(`Recovered ${id}:${locale}: ${endFrame} frames, ${chapters.length} bounded chapters, ${gates.length} gates → ${relative(repository, output)}`);
   }
 }
+// Preserve the reviewed text-filter cache when a missing chapter is recovered.
+// Bounds are recovered separately from the immutable source binaries.
+const optimized = spawnSync(process.execPath, [resolve(import.meta.dirname, "optimize-painters.mjs"), "--apply"],
+  { cwd: repository, stdio: "inherit", timeout: 300000 });
+if (optimized.error || optimized.status !== 0) throw optimized.error ?? new Error("Triangle filter optimization failed.");
+const nested = spawnSync(process.execPath, [resolve(repository, "scripts/optimize-reviewed-nested-filters.mjs"), "--apply", "--family", "triangles"],
+  { cwd: repository, stdio: "inherit", timeout: 300000 });
+if (nested.error || nested.status !== 0) throw nested.error ?? new Error("Triangle nested-filter optimization failed.");

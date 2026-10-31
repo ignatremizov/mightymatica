@@ -1,5 +1,39 @@
 # Falling Figure
 
+## Rendering performance review (2026-10-31)
+
+Reviewed color, size, shape and All gameplay modes plus all four completion
+ranges. Gameplay remains bounded to one/five figures. Its hidden gameplay
+canvas no longer redraws grass, buckets and figures during completion; the
+separate visible companion keeps its existing animation clock and painter.
+Scoring, automatic target acceptance, drag feedback and source audio are
+unchanged.
+
+Completion now caches 282 verified static-text filter blocks at source density,
+retaining original shadow/glow parameters. Bounds and source SHA-256 come from
+the preserved FallingFigure.swf in `text-bounds-falling-figure.json`; both
+language entries honestly reference that single source. The family-owned kids
+`optimize-painters.mjs --apply falling` checks source hashes, backs up the current
+painter in `.cache/falling-filter-originals`, verifies syntax and deep-equal
+metadata/export contracts, and guards against concurrent writes.
+`recover_audio.mjs --convert-reviewed-falling` reapplies the patch after conversion.
+
+Follow-up: separately reviewed `scripts/optimize-empty-text-filters.mjs` removes
+282 transparent isolation/shadow/glow blocks around text95, whose generated
+function is empty. The original `place(...)` calls and text leaf remain.
+Exact outer/non-knockout chains are required; nonempty artwork, arbitrary calls,
+dynamic expressions, inner effects, knockout and bevel are ineligible.
+No authored visible text effects are removed. Recovery conversion runs this pass
+after static-text optimization; guarded backups, candidate syntax/contract
+checks and second-pass idempotence passed.
+
+Candidate checks and second-pass idempotence passed; focused kids/falling rules
+tests passed **15/15**; five focused empty-filter rewrite/rejection tests passed.
+No browser, FPS benchmark, listening or pixel-parity
+verification was performed. Main owns integrated checks. Manual follow-up:
+complete each mode, inspect completion lettering/shadows and companion animation,
+then restart and verify pointer/keyboard sorting and sound.
+
 Presentation review: the published XFL declares a `#66ffff` stage and Times New
 Roman Bold lettering. The native canvas now uses that exact aqua background with
 square unframed edges; supplementary controls use blue outlines instead of green

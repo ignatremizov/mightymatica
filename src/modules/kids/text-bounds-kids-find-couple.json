@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Findcouplewithline.swf",
+      "sourceSha256": "aca852181fba63118a5a19408de211fd61c98e31e5aff2087c3c1105ab664b9b",
+      "textBounds": {
+        "text2": [
+          -1284,
+          250,
+          4630,
+          5250
+        ],
+        "text53": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Findcouplewithline.swf",
+      "sourceSha256": "aca852181fba63118a5a19408de211fd61c98e31e5aff2087c3c1105ab664b9b",
+      "textBounds": {
+        "text2": [
+          -1284,
+          250,
+          4630,
+          5250
+        ],
+        "text53": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    }
+  }
+}

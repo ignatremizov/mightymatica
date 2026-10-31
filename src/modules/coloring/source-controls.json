@@ -1,0 +1,226 @@
+[
+  {
+    "family": "coloring",
+    "key": "coloring-two-plane:en",
+    "source": "Movies/Twocolorplane-eng.swf",
+    "sourceSha256": "f3dc2f55dfe941aaf7af45b893ad2950c84a04fd4de36bcdc0c980c5ebafb4d6",
+    "sprite": "sprite22",
+    "sourceClass": "pp_5",
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 1,
+        "x": 3.03492,
+        "y": 14.92286,
+        "width": 83.81468,
+        "height": 31.76009
+      }
+    ],
+    "actionHotspots": {
+      "bHint": {
+        "sourceArtwork": true,
+        "x": 412.1,
+        "y": 341.6,
+        "width": 128.95,
+        "height": 43.85
+      }
+    },
+    "navigationMenus": []
+  },
+  {
+    "family": "coloring",
+    "key": "coloring-two-plane:ru",
+    "source": "Movies/Twocolorplane.swf",
+    "sourceSha256": "ac682b1a26958cb34c5096252890cb64e46c1675a561a03bee9bd93e9fd2b84b",
+    "sprite": "sprite22",
+    "sourceClass": "pp_5",
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 1,
+        "x": 3.03492,
+        "y": 14.92286,
+        "width": 83.81468,
+        "height": 31.76009
+      }
+    ],
+    "actionHotspots": {
+      "bHint": {
+        "sourceArtwork": true,
+        "x": 423.1,
+        "y": 359.55,
+        "width": 135.18893,
+        "height": 43.85
+      }
+    },
+    "navigationMenus": []
+  },
+  {
+    "family": "coloring",
+    "key": "coloring-segment:en",
+    "source": "Movies/Twocolorplaneseg-en.swf",
+    "sourceSha256": "279cb55d36220a72e781fa2efb671545373ae75f720916fbdd118c44d398b817",
+    "sprite": "sprite22",
+    "sourceClass": "pp_5",
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 1,
+        "x": 3.03492,
+        "y": 14.92286,
+        "width": 83.81468,
+        "height": 31.76009
+      }
+    ],
+    "actionHotspots": {
+      "bHint": {
+        "sourceArtwork": true,
+        "x": 423.1,
+        "y": 337.55,
+        "width": 128.95,
+        "height": 43.85
+      }
+    },
+    "navigationMenus": []
+  },
+  {
+    "family": "coloring",
+    "key": "coloring-segment:ru",
+    "source": "Movies/Twocolorplaneseg-ru.swf",
+    "sourceSha256": "c3f42dccfbcdee7133ba7f111cd0db5b05adc582248524f5d8a7a47fe280ba03",
+    "sprite": "sprite22",
+    "sourceClass": "pp_5",
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 1,
+        "x": 3.03492,
+        "y": 14.92286,
+        "width": 83.81468,
+        "height": 31.76009
+      }
+    ],
+    "actionHotspots": {
+      "bHint": {
+        "sourceArtwork": true,
+        "x": 423.1,
+        "y": 337.55,
+        "width": 135.18893,
+        "height": 43.85
+      }
+    },
+    "navigationMenus": []
+  },
+  {
+    "family": "coloring",
+    "key": "coloring-equilateral:en",
+    "source": "Movies/Twocoloreqtri-eng.swf",
+    "sourceSha256": "13d1120a4166ea023ef142e8abe7b129f1ad614e27d6427cc2f3c83a33243ae6",
+    "sprite": "sprite22",
+    "sourceClass": "pp_5",
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 1,
+        "x": 3.03492,
+        "y": 14.92286,
+        "width": 83.81468,
+        "height": 31.76009
+      }
+    ],
+    "actionHotspots": {
+      "bHint": {
+        "sourceArtwork": true,
+        "x": 423.1,
+        "y": 337.55,
+        "width": 128.95,
+        "height": 43.85
+      }
+    },
+    "navigationMenus": []
+  },
+  {
+    "family": "coloring",
+    "key": "coloring-equilateral:ru",
+    "source": "Movies/Twocoloreqtri-ru.swf",
+    "sourceSha256": "fcf2f2b322fd4027eb1f8328e8a5ad2f41102041b066aa22c39a594b2ca3af72",
+    "sprite": "sprite22",
+    "sourceClass": "pp_5",
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 1,
+        "x": 3.03492,
+        "y": 14.92286,
+        "width": 83.81468,
+        "height": 31.76009
+      }
+    ],
+    "actionHotspots": {
+      "bHint": {
+        "sourceArtwork": true,
+        "x": 423.1,
+        "y": 337.55,
+        "width": 135.18893,
+        "height": 43.85
+      }
+    },
+    "navigationMenus": []
+  },
+  {
+    "family": "coloring",
+    "key": "coloring-three-plane:en",
+    "source": "Movies/Threecolorplane-eng.swf",
+    "sourceSha256": "d2a8c196549009b1d667e111c178045f167613040527a8178b0592b68c4fd7ae",
+    "sprite": "sprite23",
+    "sourceClass": "pp_5",
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 1,
+        "x": 3.03492,
+        "y": 14.92286,
+        "width": 83.81468,
+        "height": 31.76009
+      }
+    ],
+    "actionHotspots": {
+      "bHint": {
+        "sourceArtwork": true,
+        "x": 408.1,
+        "y": 334.55,
+        "width": 128.95,
+        "height": 43.85
+      }
+    },
+    "navigationMenus": []
+  },
+  {
+    "family": "coloring",
+    "key": "coloring-three-plane:ru",
+    "source": "Movies/Threecolorplane-ru.swf",
+    "sourceSha256": "810eabab0a100db94714879a3cab576a2ecae3dc0f7d3d2d031f093752d6c18e",
+    "sprite": "sprite23",
+    "sourceClass": "pp_5",
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 1,
+        "x": 3.03492,
+        "y": 14.92286,
+        "width": 83.81468,
+        "height": 31.76009
+      }
+    ],
+    "actionHotspots": {
+      "bHint": {
+        "sourceArtwork": true,
+        "x": 408.1,
+        "y": 334.55,
+        "width": 135.18893,
+        "height": 43.85
+      }
+    },
+    "navigationMenus": []
+  }
+]

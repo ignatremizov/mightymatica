@@ -1,0 +1,558 @@
+{
+  "version": 1,
+  "method": "actual filter arithmetic; inert Canvas vectors/images; not browser FPS",
+  "width": 1520,
+  "height": 1105,
+  "results": [
+    {
+      "locale": "en",
+      "beforeSha256": "e8fdf328b4febd95c187923a930e88aab1e7850327dedafd94afc31bfcc93e78",
+      "afterSha256": "2e01eca9ed1f159700f248707a6b417b6ba91b25b74b2ee7948a74375abb2c43",
+      "before": {
+        "module": ".cache/tram-animated-originals/e8fdf328b4febd95c187923a930e88aab1e7850327dedafd94afc31bfcc93e78.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 12,
+        "totalMilliseconds": 5941.98,
+        "warmMedianMilliseconds": null,
+        "warmMaxMilliseconds": null,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 904,
+            "repeat": 0,
+            "milliseconds": 569.715,
+            "canvases": 44,
+            "calls": 1830,
+            "reads": 45,
+            "readPixels": 17593830,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 905,
+            "repeat": 0,
+            "milliseconds": 471.511,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 906,
+            "repeat": 0,
+            "milliseconds": 457.15,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 907,
+            "repeat": 0,
+            "milliseconds": 485.485,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 908,
+            "repeat": 0,
+            "milliseconds": 492.685,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 909,
+            "repeat": 0,
+            "milliseconds": 513.068,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 910,
+            "repeat": 0,
+            "milliseconds": 487.019,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 911,
+            "repeat": 0,
+            "milliseconds": 507.081,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 912,
+            "repeat": 0,
+            "milliseconds": 493.012,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 913,
+            "repeat": 0,
+            "milliseconds": 501.687,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 914,
+            "repeat": 0,
+            "milliseconds": 479.587,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 915,
+            "repeat": 0,
+            "milliseconds": 483.824,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          }
+        ],
+        "medianMilliseconds": 492.685
+      },
+      "after": {
+        "module": "public/media/reasoning/native/tram-en.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 12,
+        "totalMilliseconds": 108.94,
+        "warmMedianMilliseconds": null,
+        "warmMaxMilliseconds": null,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 904,
+            "repeat": 0,
+            "milliseconds": 53.667,
+            "canvases": 44,
+            "calls": 1830,
+            "reads": 45,
+            "readPixels": 1025445,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 905,
+            "repeat": 0,
+            "milliseconds": 5.227,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 906,
+            "repeat": 0,
+            "milliseconds": 4.909,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 907,
+            "repeat": 0,
+            "milliseconds": 4.983,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 908,
+            "repeat": 0,
+            "milliseconds": 4.865,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 909,
+            "repeat": 0,
+            "milliseconds": 4.89,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 910,
+            "repeat": 0,
+            "milliseconds": 5.002,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 911,
+            "repeat": 0,
+            "milliseconds": 5.021,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 912,
+            "repeat": 0,
+            "milliseconds": 5.567,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 913,
+            "repeat": 0,
+            "milliseconds": 5.036,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 914,
+            "repeat": 0,
+            "milliseconds": 4.815,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 915,
+            "repeat": 0,
+            "milliseconds": 4.869,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          }
+        ],
+        "medianMilliseconds": 5.002
+      }
+    },
+    {
+      "locale": "ru",
+      "beforeSha256": "f9ec94e407daacc945cf8b541752a62f62e3aae6054ad67403cbeb40e0a04ab2",
+      "afterSha256": "6828904bc25d1fcf325b88584209790072f499f1dfb34e4a133dfb62f95fe1bb",
+      "before": {
+        "module": ".cache/tram-animated-originals/f9ec94e407daacc945cf8b541752a62f62e3aae6054ad67403cbeb40e0a04ab2.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 12,
+        "totalMilliseconds": 5670.57,
+        "warmMedianMilliseconds": null,
+        "warmMaxMilliseconds": null,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 904,
+            "repeat": 0,
+            "milliseconds": 565.944,
+            "canvases": 44,
+            "calls": 1608,
+            "reads": 45,
+            "readPixels": 17605360,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 905,
+            "repeat": 0,
+            "milliseconds": 477.062,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 906,
+            "repeat": 0,
+            "milliseconds": 480.591,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 907,
+            "repeat": 0,
+            "milliseconds": 470.956,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 908,
+            "repeat": 0,
+            "milliseconds": 447.161,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 909,
+            "repeat": 0,
+            "milliseconds": 458.145,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 910,
+            "repeat": 0,
+            "milliseconds": 493.092,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 911,
+            "repeat": 0,
+            "milliseconds": 439.765,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 912,
+            "repeat": 0,
+            "milliseconds": 497.197,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 913,
+            "repeat": 0,
+            "milliseconds": 442.243,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 914,
+            "repeat": 0,
+            "milliseconds": 446.319,
+            "canvases": 10,
+            "calls": 256,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          },
+          {
+            "frame": 915,
+            "repeat": 0,
+            "milliseconds": 451.967,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 16796000,
+            "fullCanvasReads": 10
+          }
+        ],
+        "medianMilliseconds": 470.956
+      },
+      "after": {
+        "module": "public/media/reasoning/native/tram-ru.mjs",
+        "width": 1520,
+        "height": 1105,
+        "mode": "CPU/filter diagnostic, not browser FPS",
+        "frameCount": 12,
+        "totalMilliseconds": 104.14,
+        "warmMedianMilliseconds": null,
+        "warmMaxMilliseconds": null,
+        "warmFullCanvasReads": 0,
+        "warmReadPixels": 0,
+        "samples": [
+          {
+            "frame": 904,
+            "repeat": 0,
+            "milliseconds": 54.834,
+            "canvases": 44,
+            "calls": 1608,
+            "reads": 45,
+            "readPixels": 1036975,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 905,
+            "repeat": 0,
+            "milliseconds": 4.639,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 906,
+            "repeat": 0,
+            "milliseconds": 4.524,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 907,
+            "repeat": 0,
+            "milliseconds": 4.39,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 908,
+            "repeat": 0,
+            "milliseconds": 4.367,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 909,
+            "repeat": 0,
+            "milliseconds": 4.465,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 910,
+            "repeat": 0,
+            "milliseconds": 4.52,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 911,
+            "repeat": 0,
+            "milliseconds": 4.452,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 912,
+            "repeat": 0,
+            "milliseconds": 4.757,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 913,
+            "repeat": 0,
+            "milliseconds": 4.42,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 914,
+            "repeat": 0,
+            "milliseconds": 4.37,
+            "canvases": 10,
+            "calls": 256,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          },
+          {
+            "frame": 915,
+            "repeat": 0,
+            "milliseconds": 4.36,
+            "canvases": 10,
+            "calls": 286,
+            "reads": 10,
+            "readPixels": 227615,
+            "fullCanvasReads": 0
+          }
+        ],
+        "medianMilliseconds": 4.465
+      }
+    }
+  ]
+}

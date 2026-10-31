@@ -1,0 +1,592 @@
+{
+  "paradox:en": {
+    "source": "Movies/Paradox box.swf",
+    "sourceSha256": "3bbb9fa7e1877575f8d71b1bab430fe6b75a096e4bec87847a8738b7b864c395",
+    "transportSymbols": [
+      "sprite75"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 61,
+        "lastFrame": 499,
+        "x": 18.0,
+        "y": 367.98719787597656,
+        "width": 85.74931869506837,
+        "height": 25.224205017089844
+      },
+      {
+        "firstFrame": 504,
+        "lastFrame": 933,
+        "x": 16.0,
+        "y": 359.98719787597656,
+        "width": 85.74931869506837,
+        "height": 25.224205017089844
+      },
+      {
+        "firstFrame": 938,
+        "lastFrame": 1353,
+        "x": 12.0,
+        "y": 361.98719787597656,
+        "width": 85.74931869506837,
+        "height": 25.224205017089844
+      },
+      {
+        "firstFrame": 1358,
+        "lastFrame": 1767,
+        "x": 27.0,
+        "y": 348.98719787597656,
+        "width": 85.74931869506837,
+        "height": 25.224205017089844
+      },
+      {
+        "firstFrame": 1773,
+        "lastFrame": 2375,
+        "x": 460.75,
+        "y": 363.5871978759766,
+        "width": 85.74931869506838,
+        "height": 25.224205017089844
+      },
+      {
+        "firstFrame": 2380,
+        "lastFrame": 2681,
+        "x": 4.0,
+        "y": 376.0371978759766,
+        "width": 85.74931869506837,
+        "height": 25.224205017089844
+      },
+      {
+        "firstFrame": 2686,
+        "lastFrame": 3171,
+        "x": 13.0,
+        "y": 366.98719787597656,
+        "width": 85.74931869506837,
+        "height": 25.224205017089844
+      },
+      {
+        "firstFrame": 3176,
+        "lastFrame": 3478,
+        "x": 21.0,
+        "y": 351.98719787597656,
+        "width": 85.74931869506837,
+        "height": 25.224205017089844
+      },
+      {
+        "firstFrame": 3483,
+        "lastFrame": 4100,
+        "x": 12.5,
+        "y": 360.7830504019745,
+        "width": 67.05707676883321,
+        "height": 19.725654710782692
+      }
+    ],
+    "stopHotspots": {},
+    "sourceClasses": [
+      "Paradoxbox_fla.pp_13"
+    ]
+  },
+  "paradox:ru": {
+    "source": "Movies/Paradox box-ru.swf",
+    "sourceSha256": "17912b911228b73108047abf91bd8fbef7a8738f20b4bd414038f206a98dd484",
+    "transportSymbols": [
+      "sprite75",
+      "sprite274"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 61,
+        "lastFrame": 499,
+        "x": 8.668136596679688,
+        "y": 360.8712631225586,
+        "width": 82.03315734863281,
+        "height": 31.08501434326172
+      },
+      {
+        "firstFrame": 504,
+        "lastFrame": 933,
+        "x": 11.1,
+        "y": 360.09999999999997,
+        "width": 104.9,
+        "height": 39.75
+      },
+      {
+        "firstFrame": 938,
+        "lastFrame": 1353,
+        "x": 7.1,
+        "y": 362.09999999999997,
+        "width": 104.9,
+        "height": 39.75
+      },
+      {
+        "firstFrame": 1358,
+        "lastFrame": 1573,
+        "x": 22.1,
+        "y": 349.09999999999997,
+        "width": 104.9,
+        "height": 39.75
+      },
+      {
+        "firstFrame": 1773,
+        "lastFrame": 2375,
+        "x": 451.0010650634766,
+        "y": 360.81592559814453,
+        "width": 87.75066833496095,
+        "height": 33.251564025878906
+      },
+      {
+        "firstFrame": 2380,
+        "lastFrame": 2681,
+        "x": 2.1230422973632814,
+        "y": 364.81238174438477,
+        "width": 91.56180877685547,
+        "height": 34.69572830200195
+      },
+      {
+        "firstFrame": 2686,
+        "lastFrame": 3171,
+        "x": 8.1,
+        "y": 367.09999999999997,
+        "width": 104.9,
+        "height": 39.75
+      },
+      {
+        "firstFrame": 3176,
+        "lastFrame": 3478,
+        "x": 16.1,
+        "y": 352.09999999999997,
+        "width": 104.9,
+        "height": 39.75
+      },
+      {
+        "firstFrame": 3483,
+        "lastFrame": 4100,
+        "x": 12.5,
+        "y": 360.7830504019745,
+        "width": 67.05707676883321,
+        "height": 19.725654710782692
+      }
+    ],
+    "stopHotspots": {},
+    "sourceClasses": [
+      "Paradoxbox_ru_fla.pp_13",
+      "Paradoxbox_ru_fla.pp_65"
+    ]
+  },
+  "burninghouse:en": {
+    "source": "Movies/Burninghouse.swf",
+    "sourceSha256": "e48836a595221d74e83f94c9607deb951d91962feb047395a11abfa2fd1bed95",
+    "transportSymbols": [],
+    "playbackHotspots": [],
+    "stopHotspots": {
+      "515": {
+        "x": 26.1,
+        "y": 273.15000000000003,
+        "width": 128.95000000000002,
+        "height": 43.849999999999966,
+        "sourceArtwork": true
+      },
+      "2": {
+        "x": 5.1374267578125,
+        "y": 292.79959793090825,
+        "width": 142.89649658203123,
+        "height": 58.738097381591786,
+        "sourceArtwork": true
+      }
+    },
+    "sourceClasses": []
+  },
+  "burninghouse:ru": {
+    "source": "Movies/Burninghouse-ru.swf",
+    "sourceSha256": "a27e7579792169018c536d9db46f13b00dfc421bdcae8fbee53d88b18d83387a",
+    "transportSymbols": [],
+    "playbackHotspots": [],
+    "stopHotspots": {
+      "515": {
+        "x": 26.1,
+        "y": 273.15000000000003,
+        "width": 128.95000000000002,
+        "height": 43.849999999999966,
+        "sourceArtwork": true
+      },
+      "2": {
+        "x": 5.1374267578125,
+        "y": 292.79959793090825,
+        "width": 142.89649658203123,
+        "height": 58.738097381591786,
+        "sourceArtwork": true
+      }
+    },
+    "sourceClasses": []
+  },
+  "grandma:en": {
+    "source": "Movies/Grandmaclimbes.swf",
+    "sourceSha256": "acde807b26519ea14b99f7fee10543bc5820540052b8fbe6fd896225e3bda09d",
+    "transportSymbols": [
+      "sprite51"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 466,
+        "x": 9.034919738769531,
+        "y": 361.0728614807129,
+        "width": 83.81467742919922,
+        "height": 31.760089874267578
+      }
+    ],
+    "stopHotspots": {},
+    "sourceClasses": [
+      "Grandmaclimbes_fla.pp_9"
+    ]
+  },
+  "grandma:ru": {
+    "source": "Movies/Grandmaclimbes-ru.swf",
+    "sourceSha256": "2c156bf7d3a79ee7cd3cf64c7ca6d9b17e45b5538cac389429871ea0bb417430",
+    "transportSymbols": [
+      "sprite51"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 466,
+        "x": 9.034919738769531,
+        "y": 361.0728614807129,
+        "width": 83.81467742919922,
+        "height": 31.760089874267578
+      }
+    ],
+    "stopHotspots": {},
+    "sourceClasses": [
+      "Grandmaclimbes_fla.pp_9"
+    ]
+  },
+  "hunter:en": {
+    "source": "Movies/Hunter.swf",
+    "sourceSha256": "8dd9a2cd110b71ac085f497fb91e8091838b675538fb2257112f56672221c45a",
+    "transportSymbols": [
+      "sprite44"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 890,
+        "x": 8.93491973876953,
+        "y": 98.07286148071289,
+        "width": 83.81467742919921,
+        "height": 31.760089874267564
+      }
+    ],
+    "stopHotspots": {},
+    "sourceClasses": [
+      "Hunter_fla.pp_14"
+    ]
+  },
+  "hunter:ru": {
+    "source": "Movies/Hunter-ru.swf",
+    "sourceSha256": "3af53811e32a33947f84233cdade3610f402181efe3ccdee32b066164624ed1f",
+    "transportSymbols": [
+      "sprite44"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 890,
+        "x": 8.93491973876953,
+        "y": 98.07286148071289,
+        "width": 83.81467742919921,
+        "height": 31.760089874267564
+      }
+    ],
+    "stopHotspots": {},
+    "sourceClasses": [
+      "Hunter_ru_fla.pp_14"
+    ]
+  },
+  "snail:en": {
+    "source": "Movies/Snail-eng.swf",
+    "sourceSha256": "103cb2da4cdc120f7e333348f221c533c4ff78cf3174e75c1a43b62046c534a8",
+    "transportSymbols": [
+      "sprite43"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 1147,
+        "x": 17.1,
+        "y": 235.5,
+        "width": 104.9,
+        "height": 39.75
+      }
+    ],
+    "stopHotspots": {},
+    "sourceClasses": [
+      "Snail_eng_fla.pp_12"
+    ]
+  },
+  "snail:ru": {
+    "source": "Movies/Snail.swf",
+    "sourceSha256": "f2a070d4269e80cec6b55bb9e309f06e77722f8dac0e096533d2fd866a5cf04c",
+    "transportSymbols": [
+      "sprite43"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 1147,
+        "x": 17.1,
+        "y": 235.5,
+        "width": 104.9,
+        "height": 39.75
+      }
+    ],
+    "stopHotspots": {},
+    "sourceClasses": [
+      "Snail_fla.pp_12"
+    ]
+  },
+  "staruhi:en": {
+    "source": "Movies/Staruhi-eng.swf",
+    "sourceSha256": "438ef6aa2e6d683ff6f2d561f88dbfc554cf072b1e11ba7000bd1f8af0e6fedd",
+    "transportSymbols": [
+      "sprite59"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 1147,
+        "x": 17.1,
+        "y": 326.5,
+        "width": 104.9,
+        "height": 39.75
+      }
+    ],
+    "stopHotspots": {},
+    "sourceClasses": [
+      "Staruhi_eng_fla.pp_17"
+    ]
+  },
+  "staruhi:ru": {
+    "source": "Movies/Staruhi.swf",
+    "sourceSha256": "df68fe4b453804f680df648095b5c720cfd1fcfc7b5cb4e3467154630131de31",
+    "transportSymbols": [
+      "sprite59"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 1147,
+        "x": 17.1,
+        "y": 326.5,
+        "width": 104.9,
+        "height": 39.75
+      }
+    ],
+    "stopHotspots": {},
+    "sourceClasses": [
+      "Staruhi_fla.pp_17"
+    ]
+  },
+  "tram:en": {
+    "source": "Movies/Tram.swf",
+    "sourceSha256": "1249d52a4e45f53b27e0201c63a64fe76c951144dff83270d2008adac6f33fda",
+    "transportSymbols": [],
+    "playbackHotspots": [],
+    "stopHotspots": {},
+    "sourceClasses": []
+  },
+  "tram:ru": {
+    "source": "Movies/Tram-ru.swf",
+    "sourceSha256": "5c70807cc0000549a0db3ad300f4d36325cbbe62b24f1facf733ee9f09e5b9d4",
+    "transportSymbols": [],
+    "playbackHotspots": [],
+    "stopHotspots": {},
+    "sourceClasses": []
+  },
+  "turtles:en": {
+    "source": "Movies/Turtles.swf",
+    "sourceSha256": "a2e9254ad4fc537bdf07434f8a49ca5b08e8092d1a8349f049b99a499d3ec769",
+    "transportSymbols": [],
+    "playbackHotspots": [],
+    "stopHotspots": {
+      "722": {
+        "x": 369.20000000000005,
+        "y": 184.9,
+        "width": 128.95,
+        "height": 43.849999999999994,
+        "sourceArtwork": true
+      },
+      "2": {
+        "x": 11.45,
+        "y": 151.85,
+        "width": 170.95000000000002,
+        "height": 49.30000000000001,
+        "sourceArtwork": true
+      }
+    },
+    "sourceClasses": []
+  },
+  "turtles:ru": {
+    "source": "Movies/Turtles-ru.swf",
+    "sourceSha256": "19ef78b54c4e545a5f89123b49457951b44004964e99ed40daa4ef2803cb2d9e",
+    "transportSymbols": [],
+    "playbackHotspots": [],
+    "stopHotspots": {
+      "722": {
+        "x": 369.20000000000005,
+        "y": 184.9,
+        "width": 128.95,
+        "height": 43.849999999999994,
+        "sourceArtwork": true
+      },
+      "2": {
+        "x": 11.45,
+        "y": 151.85,
+        "width": 170.95000000000002,
+        "height": 49.30000000000001,
+        "sourceArtwork": true
+      }
+    },
+    "sourceClasses": []
+  },
+  "wine:en": {
+    "source": "Movies/Wineandmilk.swf",
+    "sourceSha256": "f090507ed4748560f4fbad947796bb36236674db6d4af01ea54eec235c6b6549",
+    "transportSymbols": [
+      "sprite23"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 939,
+        "x": 9.034919738769531,
+        "y": 87.9728614807129,
+        "width": 83.81467742919922,
+        "height": 31.760089874267578
+      }
+    ],
+    "stopHotspots": {
+      "940": {
+        "x": 409.1,
+        "y": 347.7,
+        "width": 128.94999999999993,
+        "height": 43.849999999999966,
+        "sourceArtwork": true
+      }
+    },
+    "sourceClasses": [
+      "Wineandmilk_fla.pp_2"
+    ]
+  },
+  "wine:ru": {
+    "source": "Movies/Wineandmilk-ru.swf",
+    "sourceSha256": "cfebb923d2baa7ae0f85cdbfb2e42479b5f841e01b63b4daff850b4c8dcd0c3b",
+    "transportSymbols": [
+      "sprite23"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 939,
+        "x": 9.034919738769531,
+        "y": 40.97286148071289,
+        "width": 83.81467742919922,
+        "height": 31.760089874267578
+      }
+    ],
+    "stopHotspots": {
+      "940": {
+        "x": 409.1,
+        "y": 348.55,
+        "width": 128.94999999999993,
+        "height": 43.849999999999966,
+        "sourceArtwork": true
+      }
+    },
+    "sourceClasses": [
+      "Wineandmilk_ru_fla.pp_2"
+    ]
+  },
+  "bacteria:en": {
+    "source": "Movies/Bacteria.swf",
+    "sourceSha256": "f1ffdcfb2ce1866285e6c7cceba588ab4ce370a72fbb446f69284b5869a48509",
+    "transportSymbols": [
+      "sprite20"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 500,
+        "x": 8.93491973876953,
+        "y": 98.07286148071289,
+        "width": 83.81467742919921,
+        "height": 31.760089874267564
+      }
+    ],
+    "stopHotspots": {},
+    "sourceClasses": [
+      "Bacteria_fla.pp_3"
+    ]
+  },
+  "bacteria:ru": {
+    "source": "Movies/Bacteria-ru.swf",
+    "sourceSha256": "1a2dd284998949f136f5d7fa89c8237b8ad167b87b583e3bc54bcaf5663a7c38",
+    "transportSymbols": [
+      "sprite20"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 500,
+        "x": 8.93491973876953,
+        "y": 98.07286148071289,
+        "width": 83.81467742919921,
+        "height": 31.760089874267564
+      }
+    ],
+    "stopHotspots": {},
+    "sourceClasses": [
+      "Bacteria_ru_fla.pp_3"
+    ]
+  },
+  "hand:en": {
+    "source": "Movies/Hand1000.swf",
+    "sourceSha256": "52a73f78b3efb7efeb4ebdea48879d09ae734b3672b1ae6aadb8aa468f3e9384",
+    "transportSymbols": [
+      "sprite17"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 648,
+        "x": 9.034919738769531,
+        "y": 361.0728614807129,
+        "width": 83.81467742919922,
+        "height": 31.760089874267578
+      }
+    ],
+    "stopHotspots": {},
+    "sourceClasses": [
+      "Hand1000_fla.pp_2"
+    ]
+  },
+  "hand:ru": {
+    "source": "Movies/Hand1000-ru.swf",
+    "sourceSha256": "0b8eab02886c72639c654d39652b4383e891f1b964cb4201bccff53baa5c9544",
+    "transportSymbols": [
+      "sprite17"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 648,
+        "x": 9.034919738769531,
+        "y": 361.0728614807129,
+        "width": 83.81467742919922,
+        "height": 31.760089874267578
+      }
+    ],
+    "stopHotspots": {},
+    "sourceClasses": [
+      "Hand1000_fla.pp_2"
+    ]
+  }
+}

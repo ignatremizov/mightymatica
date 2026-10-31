@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import type { ActivityProps } from "../../shared/contracts";
 import { t } from "../../shared/contracts";
 import { useAnimation } from "../../shared/useAnimation";
@@ -93,12 +93,15 @@ function Mobius({ locale, reducedMotion }: ActivityProps) {
   const drag = useRef<{ pointer: number; x: number; view: number } | null>(null);
   useEffect(() => { if (reducedMotion) setPlaying(false); }, [reducedMotion]);
   useAnimation(delta => setTurn(value => Math.min(2, value + delta / 10)), playing && turn < 2);
-  const project = (p: [number, number, number]) => {
+  const project = useCallback((p: [number, number, number]) => {
     const a = view * Math.PI / 180;
     const x = p[0] * Math.cos(a) - p[1] * Math.sin(a);
     const y = p[0] * Math.sin(a) + p[1] * Math.cos(a);
     return `${300 + x * 90},${200 + y * 36 - p[2] * 90}`;
-  };
+  }, [view]);
+  // The strip depends on view rotation, not the animated face's lap position.
+  // Retain its 384 polygons while transporting the face.
+  const tiles = useMemo(() => {
   const tiles = [];
   for (let i = 0; i < 64; i++) {
     const u = i * Math.PI * 2 / 64, next = (i + 1) * Math.PI * 2 / 64;
@@ -107,6 +110,8 @@ function Mobius({ locale, reducedMotion }: ActivityProps) {
       tiles.push(<polygon key={`${i}-${across}`} points={[mobiusPoint(u, v), mobiusPoint(next, v), mobiusPoint(next, nextV), mobiusPoint(u, nextV)].map(project).join(" ")} fill={i < 32 ? "#a9b4ca" : "#b7adc8"} stroke="#45455b" strokeWidth=".6"/>);
     }
   }
+  return tiles;
+  }, [project]);
   const angle = turn * Math.PI * 2;
   const facePosition = project(mobiusPoint(angle, 0)).split(",").map(Number);
   const flip = Math.cos(angle / 2);

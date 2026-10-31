@@ -92,7 +92,9 @@ export default function FallingFigure({ locale, reducedMotion }: ActivityProps) 
   }
   function draw() {
     const context = canvas.current?.getContext("2d");
-    if (!context) return;
+    // Completion has its own painter; keep the visible companion animated
+    // without redrawing the now-hidden gameplay board.
+    if (context && score < goal(mode)) {
     context.clearRect(0, 0, 550, 400);
     context.fillStyle = "#66ffff"; context.fillRect(0, 0, 550, 400);
     // Quiet deterministic grass in the original garden palette; authored flower
@@ -132,6 +134,7 @@ export default function FallingFigure({ locale, reducedMotion }: ActivityProps) 
       context.fill(); context.stroke();
       context.fillStyle = "#fff"; context.font = "bold 11px system-ui"; context.textAlign = "center";
       context.fillText(ru ? { pink: "Р", blue: "С", green: "З" }[figure.color] : figure.color[0]!.toUpperCase(), figure.x, figure.y + 4);
+    }
     }
     const host = hostCanvas.current?.getContext("2d");
     const sheet = art.current.pifagor;

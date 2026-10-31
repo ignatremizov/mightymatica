@@ -195,3 +195,30 @@ This review does not establish visual parity for all 364 pages: no browser,
 compiler, build or image-by-image visual pass was performed. The manual
 checklist above remains necessary, especially zoomed horizontal scrolling,
 touch-scroll versus click behavior and delayed/failed page loading.
+
+### Rendering/performance review
+
+Reviewed all seven entries in the coverage table, their shared `Reader`,
+`reader.css`, lazy `content.json`, compact manifest and recovery importer.
+There is no Canvas, generated painter, pixel filter, animation timer or
+per-frame React update in the reader. Image loading and navigation drive
+state; fullscreen alone installs a `ResizeObserver`, which disconnects on
+exit and avoids state changes when its measured dimensions are unchanged.
+Ordinary zoom remains in free-height document flow.
+
+The preloader retains at most three neighbouring scans on each side, reuses
+overlapping neighbours, and releases out-of-window requests and all retained
+images on unmount. Its effect depends on the book/page, not zoom, fullscreen,
+image-load state or pointer motion. The current scan is a separate native
+image; the browser owns decoding and cache retention. No whole-book prefetch,
+filter caching or new image processing is needed. Reader fullscreen, native
+image menus and the ±3 preload policy were left unchanged.
+
+A read-only Node validation passed for all seven recorded original SWF hashes
+and all 364 shipped scan hashes. The Circles `BasicDataParser.as` and
+`DataExtracter.as` were rechecked as source evidence for the ordered image
+container; no archive was modified. No concrete rendering/lifecycle defect
+was found, so this review changes documentation only. There are no unhandled
+generated text filters in this family. No browser, FPS benchmark, compiler,
+build, importer run or full suite was performed; the manual checklist above
+remains necessary.

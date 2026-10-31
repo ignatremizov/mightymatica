@@ -1,0 +1,4240 @@
+{
+  "version": 1,
+  "frameNumbering": "one-based-global",
+  "languages": {
+    "en": {
+      "source": "Movies/Cubesections.swf",
+      "sourceSha256": "e5f8bac0aca2e7485289e7c3c5472af56c49977116085ff9b06df02de554dc73",
+      "width": 550,
+      "height": 400,
+      "fps": 24,
+      "frameCount": 1248,
+      "initialFrame": 9,
+      "endFrame": 1248,
+      "chapters": [
+        {
+          "id": "sections",
+          "startFrame": 1,
+          "endFrame": 1248,
+          "module": "solids/cube-lesson/en/timeline.mjs"
+        }
+      ],
+      "stops": [
+        {
+          "frame": 9,
+          "kind": "manual"
+        },
+        {
+          "frame": 1248,
+          "kind": "complete"
+        }
+      ],
+      "audioAssets": [],
+      "audioCues": [],
+      "playbackControls": [
+        {
+          "firstFrame": 9,
+          "lastFrame": 1231,
+          "transport": {
+            "x": 17.05,
+            "y": 365.23719787597656,
+            "width": 85.74931869506837,
+            "height": 25.224205017089844
+          }
+        }
+      ],
+      "nativeScenes": [
+        {
+          "scene": "Монтажный кадр 1",
+          "symbol": "Symbol 15",
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            260.95,
+            194
+          ],
+          "alpha": 0.55078125,
+          "children": [
+            {
+              "symbol": "Symbol 4",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 5",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 7",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.60784316,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! 1500 1500| -1500 1500| -1500 -1500| 1500 -1500| 1500 1500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.60784316"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 8",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 9",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 10",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 12",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -175,
+                  -175
+                ],
+                [
+                  175,
+                  -175
+                ],
+                [
+                  175,
+                  175
+                ],
+                [
+                  -175,
+                  175
+                ],
+                [
+                  -175,
+                  -175
+                ]
+              ],
+              "fill": "#ffff66",
+              "fillOpacity": 0.47843137,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -3500 -3500| 3500 -3500| 3500 3500| -3500 3500| -3500 -3500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffff66",
+                  "alpha": "0.47843137"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 14",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ff0099",
+              "fillOpacity": 0.47843137,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -1500| 1500 -1500| 1500 1500| -1500 1500| -1500 -1500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ff0099",
+                  "alpha": "0.47843137"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "Scene 2",
+          "symbol": "Symbol 34",
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            260.95,
+            194
+          ],
+          "alpha": 0.55078125,
+          "children": [
+            {
+              "symbol": "Symbol 23",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 24",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 26",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! 1500 1500| -1500 1500| -1500 -1500| 1500 -1500| 1500 1500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 27",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 28",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 29",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 31",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -175,
+                  -175
+                ],
+                [
+                  175,
+                  -175
+                ],
+                [
+                  175,
+                  175
+                ],
+                [
+                  -175,
+                  175
+                ],
+                [
+                  -175,
+                  -175
+                ]
+              ],
+              "fill": "#ffff66",
+              "fillOpacity": 0.47843137,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -3500 -3500| 3500 -3500| 3500 3500| -3500 3500| -3500 -3500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffff66",
+                  "alpha": "0.47843137"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 33",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -106
+                ],
+                [
+                  75,
+                  -106
+                ],
+                [
+                  75,
+                  106
+                ],
+                [
+                  -75,
+                  106
+                ],
+                [
+                  -75,
+                  -106
+                ]
+              ],
+              "fill": "#ff0099",
+              "fillOpacity": 0.47843137,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -2120| 1500 -2120| 1500 2120| -1500 2120| -1500 -2120"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ff0099",
+                  "alpha": "0.47843137"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "Scene 3",
+          "symbol": "Symbol 45",
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            260.95,
+            194
+          ],
+          "alpha": 0.55078125,
+          "children": [
+            {
+              "symbol": "Symbol 35",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 36",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 38",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! 1500 1500| -1500 1500| -1500 -1500| 1500 -1500| 1500 1500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 39",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 40",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 41",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 43",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -175,
+                  -175
+                ],
+                [
+                  175,
+                  -175
+                ],
+                [
+                  175,
+                  175
+                ],
+                [
+                  -175,
+                  175
+                ],
+                [
+                  -175,
+                  -175
+                ]
+              ],
+              "fill": "#ffff66",
+              "fillOpacity": 0.47843137,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -3500 -3500| 3500 -3500| 3500 3500| -3500 3500| -3500 -3500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffff66",
+                  "alpha": "0.47843137"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 44",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ff0099",
+              "fillOpacity": 0.47843137,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -1500| 1500 -1500| 1500 1500| -1500 1500| -1500 -1500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ff0099",
+                  "alpha": "0.47843137"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "Scene 4",
+          "symbol": "Symbol 56",
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            260.95,
+            194
+          ],
+          "alpha": 0.55078125,
+          "children": [
+            {
+              "symbol": "Symbol 46",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -150
+                ],
+                [
+                  75,
+                  -150
+                ],
+                [
+                  75,
+                  0
+                ],
+                [
+                  -75,
+                  0
+                ],
+                [
+                  -75,
+                  -150
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 47",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -150
+                ],
+                [
+                  75,
+                  -150
+                ],
+                [
+                  75,
+                  0
+                ],
+                [
+                  -75,
+                  0
+                ],
+                [
+                  -75,
+                  -150
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 49",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  75,
+                  0
+                ],
+                [
+                  -75,
+                  0
+                ],
+                [
+                  -75,
+                  -150
+                ],
+                [
+                  75,
+                  -150
+                ],
+                [
+                  75,
+                  0
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! 1500 0| -1500 0| -1500 -3000| 1500 -3000| 1500 0"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 50",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -150
+                ],
+                [
+                  75,
+                  -150
+                ],
+                [
+                  75,
+                  0
+                ],
+                [
+                  -75,
+                  0
+                ],
+                [
+                  -75,
+                  -150
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 51",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -150
+                ],
+                [
+                  75,
+                  -150
+                ],
+                [
+                  75,
+                  0
+                ],
+                [
+                  -75,
+                  0
+                ],
+                [
+                  -75,
+                  -150
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 52",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -150
+                ],
+                [
+                  75,
+                  -150
+                ],
+                [
+                  75,
+                  0
+                ],
+                [
+                  -75,
+                  0
+                ],
+                [
+                  -75,
+                  -150
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 54",
+              "matrix": [
+                1,
+                0,
+                0,
+                1.2943572998046875,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -175,
+                  -226.5125274658203
+                ],
+                [
+                  175,
+                  -226.5125274658203
+                ],
+                [
+                  175,
+                  226.5125274658203
+                ],
+                [
+                  -175,
+                  226.5125274658203
+                ],
+                [
+                  -175,
+                  -226.5125274658203
+                ]
+              ],
+              "fill": "#ffff66",
+              "fillOpacity": 0.47843137,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -3500 -3500| 3500 -3500| 3500 3500| -3500 3500| -3500 -3500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffff66",
+                  "alpha": "0.47843137"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "direct section shape",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -0.35,
+                  -183.8
+                ],
+                [
+                  106.05,
+                  -0.35
+                ],
+                [
+                  -106,
+                  0
+                ],
+                [
+                  -0.35,
+                  -183.8
+                ]
+              ],
+              "fill": "#ff33cc",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -7 -3676| 2121 -7| -2120 0| -7 -3676"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ff33cc",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nextBounds": [
+        [
+          487.84561078103724,
+          10.495972301252186,
+          531.4315073245671,
+          25.97953619360924
+        ],
+        [
+          487.84561078103724,
+          10.495972301252186,
+          531.4315073245671,
+          25.97953619360924
+        ],
+        [
+          487.84561078103724,
+          10.495972301252186,
+          531.4315073245671,
+          25.97953619360924
+        ],
+        [
+          487.84561078103724,
+          10.495972301252186,
+          531.4315073245671,
+          25.97953619360924
+        ]
+      ],
+      "playbackHotspot": {
+        "x": 17.05,
+        "y": 365.23719787597656,
+        "width": 85.74931869506837,
+        "height": 25.224205017089844
+      },
+      "geometryCoordinateSpace": "Flash local coordinates; XFL edges in twips (divide by 20); children in display-list order"
+    },
+    "ru": {
+      "source": "Movies/Cubesections-ru.swf",
+      "sourceSha256": "e63ea4f3923ba2f3323b9e66fc81218553c0fa7179a84b98f7b03a6b87d41409",
+      "width": 550,
+      "height": 400,
+      "fps": 24,
+      "frameCount": 1248,
+      "initialFrame": 9,
+      "endFrame": 1248,
+      "chapters": [
+        {
+          "id": "sections",
+          "startFrame": 1,
+          "endFrame": 1248,
+          "module": "solids/cube-lesson/ru/timeline.mjs"
+        }
+      ],
+      "stops": [
+        {
+          "frame": 9,
+          "kind": "manual"
+        },
+        {
+          "frame": 1248,
+          "kind": "complete"
+        }
+      ],
+      "audioAssets": [],
+      "audioCues": [],
+      "playbackControls": [
+        {
+          "firstFrame": 9,
+          "lastFrame": 1231,
+          "transport": {
+            "x": 10.15,
+            "y": 347.34999999999997,
+            "width": 104.89999999999999,
+            "height": 39.75
+          }
+        }
+      ],
+      "nativeScenes": [
+        {
+          "scene": "Монтажный кадр 1",
+          "symbol": "Symbol 15",
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            260.95,
+            194
+          ],
+          "alpha": 0.55078125,
+          "children": [
+            {
+              "symbol": "Symbol 4",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 5",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 7",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.60784316,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! 1500 1500| -1500 1500| -1500 -1500| 1500 -1500| 1500 1500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.60784316"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 8",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 9",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 10",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 12",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -175,
+                  -175
+                ],
+                [
+                  175,
+                  -175
+                ],
+                [
+                  175,
+                  175
+                ],
+                [
+                  -175,
+                  175
+                ],
+                [
+                  -175,
+                  -175
+                ]
+              ],
+              "fill": "#ffff66",
+              "fillOpacity": 0.47843137,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -3500 -3500| 3500 -3500| 3500 3500| -3500 3500| -3500 -3500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffff66",
+                  "alpha": "0.47843137"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 14",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ff0099",
+              "fillOpacity": 0.47843137,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -1500| 1500 -1500| 1500 1500| -1500 1500| -1500 -1500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ff0099",
+                  "alpha": "0.47843137"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "Scene 2",
+          "symbol": "Symbol 34",
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            260.95,
+            194
+          ],
+          "alpha": 0.55078125,
+          "children": [
+            {
+              "symbol": "Symbol 23",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 24",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 26",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! 1500 1500| -1500 1500| -1500 -1500| 1500 -1500| 1500 1500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 27",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 28",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 29",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 31",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -175,
+                  -175
+                ],
+                [
+                  175,
+                  -175
+                ],
+                [
+                  175,
+                  175
+                ],
+                [
+                  -175,
+                  175
+                ],
+                [
+                  -175,
+                  -175
+                ]
+              ],
+              "fill": "#ffff66",
+              "fillOpacity": 0.47843137,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -3500 -3500| 3500 -3500| 3500 3500| -3500 3500| -3500 -3500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffff66",
+                  "alpha": "0.47843137"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 33",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -106
+                ],
+                [
+                  75,
+                  -106
+                ],
+                [
+                  75,
+                  106
+                ],
+                [
+                  -75,
+                  106
+                ],
+                [
+                  -75,
+                  -106
+                ]
+              ],
+              "fill": "#ff0099",
+              "fillOpacity": 0.47843137,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -2120| 1500 -2120| 1500 2120| -1500 2120| -1500 -2120"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ff0099",
+                  "alpha": "0.47843137"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "Scene 3",
+          "symbol": "Symbol 45",
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            260.95,
+            194
+          ],
+          "alpha": 0.55078125,
+          "children": [
+            {
+              "symbol": "Symbol 35",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 36",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 38",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! 1500 1500| -1500 1500| -1500 -1500| 1500 -1500| 1500 1500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 39",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 40",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 41",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 43",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -175,
+                  -175
+                ],
+                [
+                  175,
+                  -175
+                ],
+                [
+                  175,
+                  175
+                ],
+                [
+                  -175,
+                  175
+                ],
+                [
+                  -175,
+                  -175
+                ]
+              ],
+              "fill": "#ffff66",
+              "fillOpacity": 0.47843137,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -3500 -3500| 3500 -3500| 3500 3500| -3500 3500| -3500 -3500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffff66",
+                  "alpha": "0.47843137"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 44",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -75
+                ],
+                [
+                  75,
+                  -75
+                ],
+                [
+                  75,
+                  75
+                ],
+                [
+                  -75,
+                  75
+                ],
+                [
+                  -75,
+                  -75
+                ]
+              ],
+              "fill": "#ff0099",
+              "fillOpacity": 0.47843137,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -1500| 1500 -1500| 1500 1500| -1500 1500| -1500 -1500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ff0099",
+                  "alpha": "0.47843137"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "scene": "Scene 4",
+          "symbol": "Symbol 56",
+          "matrix": [
+            1,
+            0,
+            0,
+            1,
+            260.95,
+            194
+          ],
+          "alpha": 0.55078125,
+          "children": [
+            {
+              "symbol": "Symbol 46",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -150
+                ],
+                [
+                  75,
+                  -150
+                ],
+                [
+                  75,
+                  0
+                ],
+                [
+                  -75,
+                  0
+                ],
+                [
+                  -75,
+                  -150
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 47",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -150
+                ],
+                [
+                  75,
+                  -150
+                ],
+                [
+                  75,
+                  0
+                ],
+                [
+                  -75,
+                  0
+                ],
+                [
+                  -75,
+                  -150
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 49",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  75,
+                  0
+                ],
+                [
+                  -75,
+                  0
+                ],
+                [
+                  -75,
+                  -150
+                ],
+                [
+                  75,
+                  -150
+                ],
+                [
+                  75,
+                  0
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! 1500 0| -1500 0| -1500 -3000| 1500 -3000| 1500 0"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 50",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -150
+                ],
+                [
+                  75,
+                  -150
+                ],
+                [
+                  75,
+                  0
+                ],
+                [
+                  -75,
+                  0
+                ],
+                [
+                  -75,
+                  -150
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 51",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -150
+                ],
+                [
+                  75,
+                  -150
+                ],
+                [
+                  75,
+                  0
+                ],
+                [
+                  -75,
+                  0
+                ],
+                [
+                  -75,
+                  -150
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 52",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -75,
+                  -150
+                ],
+                [
+                  75,
+                  -150
+                ],
+                [
+                  75,
+                  0
+                ],
+                [
+                  -75,
+                  0
+                ],
+                [
+                  -75,
+                  -150
+                ]
+              ],
+              "fill": "#ffffff",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -1500 -3000| 1500 -3000| 1500 0| -1500 0| -1500 -3000"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffffff",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "Symbol 54",
+              "matrix": [
+                1,
+                0,
+                0,
+                1.2943572998046875,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -175,
+                  -226.5125274658203
+                ],
+                [
+                  175,
+                  -226.5125274658203
+                ],
+                [
+                  175,
+                  226.5125274658203
+                ],
+                [
+                  -175,
+                  226.5125274658203
+                ],
+                [
+                  -175,
+                  -226.5125274658203
+                ]
+              ],
+              "fill": "#ffff66",
+              "fillOpacity": 0.47843137,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -3500 -3500| 3500 -3500| 3500 3500| -3500 3500| -3500 -3500"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ffff66",
+                  "alpha": "0.47843137"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "symbol": "direct section shape",
+              "matrix": [
+                1,
+                0,
+                0,
+                1,
+                0,
+                0
+              ],
+              "points": [
+                [
+                  -0.35,
+                  -183.8
+                ],
+                [
+                  106.05,
+                  -0.35
+                ],
+                [
+                  -106,
+                  0
+                ],
+                [
+                  -0.35,
+                  -183.8
+                ]
+              ],
+              "fill": "#ff33cc",
+              "fillOpacity": 0.6,
+              "stroke": "#000000",
+              "strokeWidth": 1,
+              "edges": [
+                {
+                  "fillStyle0": "0",
+                  "fillStyle1": "1",
+                  "strokeStyle": "1",
+                  "edges": "! -7 -3676| 2121 -7| -2120 0| -7 -3676"
+                }
+              ],
+              "fills": [
+                {
+                  "color": "#ff33cc",
+                  "alpha": "0.6"
+                }
+              ],
+              "strokes": [
+                {
+                  "weight": "1.0",
+                  "scaleMode": "normal",
+                  "colors": [
+                    {
+                      "color": "#000000"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "nextBounds": [
+        [
+          487.84561078103724,
+          10.495972301252186,
+          531.4315073245671,
+          25.97953619360924
+        ],
+        [
+          487.84561078103724,
+          10.495972301252186,
+          531.4315073245671,
+          25.97953619360924
+        ],
+        [
+          487.84561078103724,
+          10.495972301252186,
+          531.4315073245671,
+          25.97953619360924
+        ],
+        [
+          487.84561078103724,
+          10.495972301252186,
+          531.4315073245671,
+          25.97953619360924
+        ]
+      ],
+      "playbackHotspot": {
+        "x": 10.15,
+        "y": 347.34999999999997,
+        "width": 104.89999999999999,
+        "height": 39.75
+      },
+      "geometryCoordinateSpace": "Flash local coordinates; XFL edges in twips (divide by 20); children in display-list order"
+    }
+  }
+}

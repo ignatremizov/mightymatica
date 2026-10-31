@@ -1,5 +1,111 @@
 # Solids restoration
 
+## Original cube-sections sequence (2026-10-31)
+
+The earlier static-illustration limitation is superseded: the cube activity now
+opens `CubeSectionsLesson`, with four source-driven animated demonstrations and
+working NEXT controls, followed by the original 9–1248 vector sequence and
+Play/Pause. English and Russian source artwork are selected separately. The
+mathematical explorer becomes available after the final sequence completes;
+the separate FLV movie is not substituted for this applet.
+
+The first four phases use bounded 24 Hz native geometry mutations, preserving
+source display order, perspective, registration, fade and section rules. The
+final phase uses its recovered drawing module and playback-state-bound transport.
+Original background music remains explicitly controlled through one soundtrack
+player across phases. The otherwise silent final drawing player has no redundant
+Sound checkbox.
+
+See [sequence evidence](../reviews/cube-sections-native-sequence.md) and
+[media recovery](../reviews/cube-sections-native-media.md). Main's integrated
+type-check passed. Three focused timer/projection regressions passed; browser
+appearance, translucent overlaps and both languages' controls remain subject to
+manual acceptance. No claim of complete Flash rasterization parity is made.
+
+## Nested static-text follow-up (2026-10-31)
+
+Sphere's English examples painter now fuses 142 outer filter blocks around
+`sprite241 → text240`. Its one-frame translation-only wrapper and existing
+shape/composite caches remain unchanged. Inner and outer authored glow stages
+retain their order and parameters while the combined chain runs at source density.
+This removes the earlier outer-glow limitation without claiming exact DPR>1
+mixed-density pixel parity. Source hashes, original backup, guarded application
+and focused checks are recorded in [the nested-filter review](../reviews/nested-filter-optimization.md)
+and its JSON companion. No browser/FPS or audio verification was performed.
+
+## Source-bound static-composite follow-up, 2026-10-31
+
+This supersedes the English-ending limitation recorded in the earlier review
+below. An additional 1,197 English-ending shadows on static formula/shape sprites
+`sprite273`, `sprite280`, `sprite284` now use the bounded cache. All 1,197 actual
+outer source transforms are `[0.05,0,0,0.05]`; all five shape-child placements
+are identity matrices. No anisotropic/sheared stroked path is accepted by this
+source-target trace. Authored shadows remain unchanged.
+
+`sphere-drawing-bounds.json` records 164 English / 236 Russian binary-derived
+static shape/text rectangles with source hashes. Existing text-only evidence is
+preserved and checked for identical source hashes and shared text rectangles.
+Reproduce with `scripts/recover-static-drawing-bounds.mjs --en <English original>
+--ru <Russian original> --output src/modules/solids/sphere-drawing-bounds.json`,
+using the exact filenames documented below. The importer uses ShapeBounds,
+not EdgeBounds, and excludes morph/dynamic text and non-scaling Shape4 strokes.
+
+All other Sphere painters required no additional changes. English examples still
+retains 142 nested outer glow blocks on `sprite241`; these remain intentionally
+ineligible. English ending has no remaining direct root pixel-filter blocks.
+These are static source-site counts, not measured per-frame performance.
+
+`scripts/recover-sphere-lesson.mjs --convert-reviewed` now reapplies the family
+optimizer after conversion; metadata/export modes do not invoke it. Source hashes,
+hashed backups, candidate syntax, deep metadata/export comparisons and
+concurrent-edit guards remain, and repeat application is byte-idempotent.
+No audio, teaching sequence or question gate changed. Focused
+cache/importer/rules/source-branch/quiz tests passed 31/31; both optimizers and
+recovery hooks passed syntax checks. Central serialized CPU/pixel profiling
+belongs to Main.
+
+## Rendering/performance review, 2026-10-31
+
+Reviewed all three activities: cube and tetrahedron are bounded event-driven SVG
+explorers, not continuously repainted native films; Sphere owns six generated
+Canvas chapter painters. Cube's unfinished original demonstration is a fidelity
+gap, not a rendering-performance defect, and was not reconstructed in this work.
+No explorer interaction, teaching sequence, narration or question gate changed.
+
+All six Sphere painters now use the reviewed bounded static-text filter cache:
+EN proof/examples/ending contain 1,481/5,194/896 replaced filter groups; RU
+contains 1,478/5,286/768. Authored effects remain, including shadows. Filtered
+static text uses source density; ordinary vectors retain their existing rendering.
+`sphere-text-bounds.json` records 97 EN / 143 RU text rectangles recovered from
+the original binaries and their SHA-256 hashes. Reproduce bounds with
+`scripts/recover-calculus-text-bounds.mjs`, pointing `--en` at
+`Volumeofball-proof-examples.swf`, `--ru` at
+`Volumeofball-proof-examples -ru.swf` (the space is intentional), and `--output`
+at `src/modules/solids/sphere-text-bounds.json`. Original paths are under the
+read-only recovery tree's matching `objects/Movies/<name>/original/` directories.
+Run `node src/modules/solids/optimize-sphere.mjs --apply` afterward.
+
+The family-local tool verifies binary hashes, backs up before replacement under
+`.cache/solids-filter-originals`, syntax-checks candidates, deep-compares
+metadata/exports, rejects concurrent edits and is idempotent. Main owns the
+root recovery-script hook.
+
+Unresolved expensive filters remain intentionally visible in this review:
+English examples has 142 outer glow blocks on `sprite241`, which already
+contains filtered `text240` (nested glows); English ending has 1,197 shadows
+on mixed formula/geometry sprites `sprite273`, `sprite280`, `sprite284`.
+They cannot safely use the current verified text-only rewrite. The other four
+Sphere painters have no remaining root pixel-filter blocks. These are static
+code-site counts, not per-frame call counts or performance measurements.
+
+Focused cache, measurement, source-branch, quiz-progression and solids tests
+passed 24/24. All six candidates passed syntax and unchanged metadata/export
+checks, and repeating the optimizer made no changes. No browser automation,
+FPS, pixel-parity or audio-listening claims are made. Manual acceptance still
+needs both languages, proof/example/ending shadows and placement, playback,
+Examples stops, completion and quiz routes. Central serialized diagnostics
+belong to Main.
+
 ## Sphere completion explorer action
 
 The Sphere wrapper now supplies the shared player's completion-only **Try it

@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Findmatchandconnect.swf",
+      "sourceSha256": "3f67a72affb71f056b86326ab5ea3d45964bdb8940f372f2b762d6e0bcabc7f5",
+      "textBounds": {
+        "text2": [
+          -871,
+          184,
+          4145,
+          5153
+        ],
+        "text55": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Findmatchandconnect.swf",
+      "sourceSha256": "3f67a72affb71f056b86326ab5ea3d45964bdb8940f372f2b762d6e0bcabc7f5",
+      "textBounds": {
+        "text2": [
+          -871,
+          184,
+          4145,
+          5153
+        ],
+        "text55": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    }
+  }
+}

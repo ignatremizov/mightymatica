@@ -111,7 +111,10 @@ def transform(bounds, m):
             max(p[0] for p in points), max(p[1] for p in points)]
 
 
-def recover(name, transport):
+def recover(name, transport, extra_ids=()):
+    """Recover one reviewed transport, plus explicitly requested source buttons."""
+    if not all(re.fullmatch(r"[A-Za-z_$][\w$]*", identity) for identity in extra_ids):
+        raise ValueError("Invalid reviewed control identity")
     base = ARCHIVE / name
     document = base / "project" / f"{name}.xfl" / name / "DOMDocument.xml"
     library = document.parent / "LIBRARY"
@@ -157,7 +160,7 @@ def recover(name, transport):
                 max(b[2] for b in result), max(b[3] for b in result)]
 
     children = []
-    for frame in symbol(transport).findall(".//x:DOMFrame", NS):
+    for frame in symbol(transport).findall(".//x:DOMFrame", NS) if transport else []:
         for instance in frame.findall("./x:elements/x:DOMSymbolInstance", NS):
             child = instance.get("libraryItemName")
             local = bounds(child)
@@ -175,7 +178,9 @@ def recover(name, transport):
         for frame in frames:
             for instance in frame.findall("./x:elements/x:DOMSymbolInstance", NS):
                 identity = instance.get("name", "")
-                if identity != "pp" and not re.fullmatch(r"bPart[1-5]|bQuiz|bNext|bQuiz[1-4]|bWrongAns", identity):
+                if identity == "pp" and instance.get("libraryItemName") != transport:
+                    continue
+                if identity != "pp" and identity not in extra_ids and not re.fullmatch(r"bPart[1-5]|bQuiz|bNext|bQuiz[1-4]|bWrongAns", identity):
                     continue
                 start = offset+int(frame.get("index", "0"))+1
                 end = start+int(frame.get("duration", "1"))-1
@@ -185,13 +190,13 @@ def recover(name, transport):
                     item["rects"] = {c["state"]: transform(c["transportBounds"], item["matrix"]) for c in children}
                 else:
                     item["rect"] = transform(bounds(item["symbol"]), item["matrix"])
-                    if identity == "bNext":
+                    if identity == "bNext" or identity in extra_ids:
                         resumes = []
                         for function, body in functions.items():
                             match = re.fullmatch(r"frame(\d+)", function)
                             if not match or not start <= int(match[1]) <= end:
                                 continue
-                            handler = re.search(r"(?:this\.)?bNext\.addEventListener\(MouseEvent.CLICK,\s*(?:this\.)?(\w+)\)", body)
+                            handler = re.search(rf"(?:this\.)?{re.escape(identity)}\.addEventListener\(MouseEvent.CLICK,\s*(?:this\.)?(\w+)\)", body)
                             if (handler and re.search(r"\bstop\(\)", body)
                                     and re.fullmatch(r"\s*MovieClip\(root\)\.play\(\);\s*", functions.get(handler[1], ""))):
                                 resumes.append(int(match[1]))

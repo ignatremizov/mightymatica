@@ -1,0 +1,15 @@
+.cube-sections-lesson { display: grid; gap: .8rem; }
+.cube-sections-stage { position: relative; width: min(100%, 550px); margin-inline: auto; background: #6ff; }
+.cube-sections-stage canvas { display: block; width: 100%; height: auto; }
+.cube-sections-stage svg { position: absolute; inset: 0; width: 100%; height: 100%; pointer-events: none; }
+.cube-sections-source-title { font: bold 26.2px "Times New Roman", serif; fill: #f09; }
+.cube-sections-next {
+  position: absolute; top: 2.3%; right: 1.8%; min-height: 34px;
+  padding: .2em .4em; border: 1px solid #030; border-radius: 8px;
+  background: radial-gradient(at 45% 40%, #0ff, #f3c); color: #000;
+  font: bold clamp(.7rem, 3vw, 1rem) "Times New Roman", serif; cursor: pointer;
+}
+.cube-sections-next:focus-visible { outline: 3px solid #000; outline-offset: 3px; }
+.cube-sections-next-source { background: transparent; border: 0; border-radius: 0; }
+.cube-sections-controls { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; margin-top: .6rem; }
+.cube-sections-controls [role="status"] { font-size: .9rem; }

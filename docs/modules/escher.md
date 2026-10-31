@@ -1,5 +1,33 @@
 # Escher and sliding tiles
 
+## Complete family performance review
+
+The review covered all 13 activities: seven picture puzzles (Birds and Fish,
+Faces, Drawing Hands, Reptiles, Impossible Stairways, Stairs, Waterfall), five
+standalone loops (`Escher-ball`, `Escher-reptilies`, `Escher-stairsbig`,
+`Hands-escher`, `Birdfish-e`), and Sliding Tiles. All twelve generated Canvas
+painters, `index.tsx`, `TimelinePlayer.tsx`, `GameTimeline.tsx`,
+`FacesCelebration.tsx`, and the source-range/audio mapping in `presentation.ts`
+were inspected. Sliding Tiles is event-driven DOM, not a filtered Canvas loop.
+
+All seven existing picture-parent text-cache patches remain byte-for-byte
+unchanged: a dry-run through the reviewed patcher found zero new groups,
+no helper refresh, and identical output for each. Each standalone loop has
+only the common filter-library call sites (three blur, five drop-shadow,
+one gradient-bevel), with no additional authored filtered placements to cache.
+Consequently no new Escher painter rewrite was warranted. This inventory is
+not a claim that all vector drawing has negligible cost.
+
+The existing in-place crop scratch Canvas is reused, Faces keeps its fixed
+43 particles and six-step catch-up cap, and the nine-piece DOM group updates
+remain interaction-driven. No additional concrete unbounded per-frame
+controller defect was established. Source loop ranges, celebration placement,
+audio, and freeform movable jigsaw groups were preserved.
+
+The focused Escher, stories, and shared jigsaw tests passed together: 20 tests,
+zero failures. No browser automation, FPS claim, audio listening, pixel-parity
+verification, or new full-resolution baseline profiling was performed.
+
 ## In-place victory and bounded filter performance follow-up
 
 The two reported Birds and Fish screenshots showed a correct movable picture

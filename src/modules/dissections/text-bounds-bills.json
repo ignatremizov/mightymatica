@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Bills-transform.swf",
+      "sourceSha256": "8e0ab1a7326ae4f4fa94136078330cbcaa9c6fa68d23a5fc671410b626c8aaee",
+      "textBounds": {
+        "text22": [
+          -1240,
+          246,
+          5014,
+          1234
+        ],
+        "text23": [
+          -381,
+          246,
+          10574,
+          4280
+        ],
+        "text60": [
+          -381,
+          246,
+          10574,
+          4280
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Bills-transform-ru.swf",
+      "sourceSha256": "9f88592c3a799fd5410bf9c60c4bc12bb9961cd9fd7d5f67f687597f58c3844e",
+      "textBounds": {
+        "text22": [
+          -3376,
+          246,
+          7132,
+          1473
+        ],
+        "text23": [
+          -376,
+          246,
+          10341,
+          4423
+        ],
+        "text68": [
+          -376,
+          246,
+          10341,
+          4423
+        ]
+      }
+    }
+  }
+}

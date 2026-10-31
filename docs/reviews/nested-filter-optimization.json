@@ -1,0 +1,895 @@
+{
+  "version": 1,
+  "policy": "Fused nested static text at source density; not universal pixel equivalence to the prior mixed-density DPR>1 path.",
+  "validation": "Current source hashes and recovered DefineText bounds; candidate syntax, deep metadata/exports, concurrency hash and idempotence. Four focused proof tests passed; no browser/FPS/full-density benchmark claim.",
+  "targets": [
+    {
+      "family": "dissections",
+      "module": "dissections/bills-ru.mjs",
+      "source": "Movies/Bills-transform-ru.swf",
+      "sourceSha256": "9f88592c3a799fd5410bf9c60c4bc12bb9961cd9fd7d5f67f687597f58c3844e",
+      "status": "applied",
+      "groups": 746,
+      "wrappers": [
+        {
+          "wrapper": "sprite69",
+          "text": "text68",
+          "groups": 746,
+          "exampleMatrix": [
+            0.05,
+            0,
+            0,
+            0.05,
+            105.55000000000001,
+            -0.7500000000000142
+          ],
+          "chain": [
+            [
+              "glow",
+              13,
+              13,
+              1,
+              [
+                255,
+                255,
+                255,
+                1
+              ],
+              false,
+              false,
+              1
+            ],
+            [
+              "glow",
+              13,
+              13,
+              1,
+              [
+                255,
+                255,
+                255,
+                1
+              ],
+              false,
+              false,
+              1
+            ]
+          ]
+        }
+      ],
+      "backup": ".cache/nested-filter-originals/dissections/bills-ru-b09270f725d62ab9d1b06014f00bbd4aa64da785a67606a5d82306c273d91ae8.mjs",
+      "beforeSha256": "b09270f725d62ab9d1b06014f00bbd4aa64da785a67606a5d82306c273d91ae8",
+      "afterSha256": "e57502c7dd7b52cdbcf5f5fd38ca0ab8dbb5f3b5dba8741abbc10e079aa65646"
+    },
+    {
+      "family": "logic",
+      "module": "logic/native/wisemen-eight-ru-hint.mjs",
+      "source": "Movies/Wisemen 8-ru.swf",
+      "sourceSha256": "250b16b7f5bf54057e0b0f3362de175cd8da8bbb3b6caaea411e603917b0637b",
+      "status": "unchanged",
+      "groups": 0,
+      "wrappers": [],
+      "beforeSha256": "4e7e7c6253e8ee871f94f44ea2712bc0a1c1c9dd7fe10941feafd4dbce9c96b0",
+      "afterSha256": "4e7e7c6253e8ee871f94f44ea2712bc0a1c1c9dd7fe10941feafd4dbce9c96b0"
+    },
+    {
+      "family": "logic",
+      "module": "logic/native/wisemen-eight-ru-story.mjs",
+      "source": "Movies/Wisemen 8-ru.swf",
+      "sourceSha256": "250b16b7f5bf54057e0b0f3362de175cd8da8bbb3b6caaea411e603917b0637b",
+      "status": "applied",
+      "groups": 330,
+      "wrappers": [
+        {
+          "wrapper": "sprite79",
+          "text": "text78",
+          "groups": 139,
+          "exampleMatrix": [
+            0.05,
+            0,
+            0,
+            0.05,
+            200.35000000000002,
+            302.65
+          ],
+          "chain": [
+            [
+              "dropShadow",
+              5,
+              5,
+              44,
+              5,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ],
+            [
+              "dropShadow",
+              5,
+              5,
+              44,
+              5,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ]
+          ]
+        },
+        {
+          "wrapper": "sprite83",
+          "text": "text82",
+          "groups": 191,
+          "exampleMatrix": [
+            0.05,
+            0,
+            0,
+            0.05,
+            201.55,
+            532.75
+          ],
+          "chain": [
+            [
+              "dropShadow",
+              5,
+              5,
+              44,
+              5,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ],
+            [
+              "dropShadow",
+              5,
+              5,
+              44,
+              5,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ]
+          ]
+        }
+      ],
+      "backup": ".cache/nested-filter-originals/logic/wisemen-eight-ru-story-7a9db3f084ee054271efcdea3ae31b6b66cb383e7e416522fc0f2accfddb5f63.mjs",
+      "beforeSha256": "7a9db3f084ee054271efcdea3ae31b6b66cb383e7e416522fc0f2accfddb5f63",
+      "afterSha256": "bece3aa91b85b9273447cb9e01bc4f82d96fbd5035e5b54ca0776ab6862be471"
+    },
+    {
+      "family": "motion",
+      "module": "motion/native/earth-belt/en/frames-1-580.mjs",
+      "source": "Movies/Earthandbelt.swf",
+      "sourceSha256": "3510a302d233c9880d126f3be4de68ac5a978eb349ba51e59dd92ac2b0ce04fb",
+      "status": "applied",
+      "groups": 102,
+      "wrappers": [
+        {
+          "wrapper": "sprite29",
+          "text": "text28",
+          "groups": 102,
+          "exampleMatrix": [
+            0.05,
+            0,
+            0,
+            0.05,
+            213.1,
+            339.5
+          ],
+          "chain": [
+            [
+              "dropShadow",
+              5,
+              5,
+              44,
+              2,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ],
+            [
+              "glow",
+              5,
+              5,
+              1,
+              [
+                255,
+                0,
+                0,
+                1
+              ],
+              false,
+              false,
+              1
+            ],
+            [
+              "dropShadow",
+              5,
+              5,
+              44,
+              2,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ],
+            [
+              "glow",
+              5,
+              5,
+              1,
+              [
+                255,
+                0,
+                0,
+                1
+              ],
+              false,
+              false,
+              1
+            ]
+          ]
+        }
+      ],
+      "backup": ".cache/nested-filter-originals/motion/frames-1-580-5155932b83df788614a55d597d013834c0e3fa961aebcbe5fcbc0fe871c9ffff.mjs",
+      "beforeSha256": "5155932b83df788614a55d597d013834c0e3fa961aebcbe5fcbc0fe871c9ffff",
+      "afterSha256": "7ba374068ccd188212edafb9ed6e226e9ba31eb0e98c5e96f47c1dcedcc69423"
+    },
+    {
+      "family": "motion",
+      "module": "motion/native/earth-belt/ru/frames-1-580.mjs",
+      "source": "Movies/Earthandbelt-ru.swf",
+      "sourceSha256": "95d6f2157624e056e8ebe1f273304a57d137c2c129ffeae0963a079d49888836",
+      "status": "applied",
+      "groups": 102,
+      "wrappers": [
+        {
+          "wrapper": "sprite29",
+          "text": "text28",
+          "groups": 102,
+          "exampleMatrix": [
+            0.05,
+            0,
+            0,
+            0.05,
+            213.1,
+            339.5
+          ],
+          "chain": [
+            [
+              "dropShadow",
+              5,
+              5,
+              44,
+              2,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ],
+            [
+              "glow",
+              5,
+              5,
+              1,
+              [
+                255,
+                0,
+                0,
+                1
+              ],
+              false,
+              false,
+              1
+            ],
+            [
+              "dropShadow",
+              5,
+              5,
+              44,
+              2,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ],
+            [
+              "glow",
+              5,
+              5,
+              1,
+              [
+                255,
+                0,
+                0,
+                1
+              ],
+              false,
+              false,
+              1
+            ]
+          ]
+        }
+      ],
+      "backup": ".cache/nested-filter-originals/motion/frames-1-580-60382ae36dcf0bdbc2758ee5645b7bbe5628d59f9fd41877178d7a2880f2639e.mjs",
+      "beforeSha256": "60382ae36dcf0bdbc2758ee5645b7bbe5628d59f9fd41877178d7a2880f2639e",
+      "afterSha256": "207e46e95afbcc5c47ad6b29fd767b513670e33f6bd6922ab3bccbca69b4d9ae"
+    },
+    {
+      "family": "reasoning",
+      "module": "reasoning/native/paradox-en.mjs",
+      "source": "Movies/Paradox box.swf",
+      "sourceSha256": "3bbb9fa7e1877575f8d71b1bab430fe6b75a096e4bec87847a8738b7b864c395",
+      "status": "applied",
+      "groups": 490,
+      "wrappers": [
+        {
+          "wrapper": "sprite240",
+          "text": "text239",
+          "groups": 490,
+          "exampleMatrix": [
+            0.05,
+            0,
+            0,
+            0.05,
+            214.05,
+            302.45000000000005
+          ],
+          "chain": [
+            [
+              "dropShadow",
+              4,
+              4,
+              44,
+              4,
+              [
+                0,
+                0,
+                255,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ],
+            [
+              "dropShadow",
+              4,
+              4,
+              44,
+              4,
+              [
+                0,
+                0,
+                255,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ]
+          ]
+        }
+      ],
+      "backup": ".cache/nested-filter-originals/reasoning/paradox-en-e2d03a7a8a9dea71559b770e7172d007e438309d619e3d71318729567fce7061.mjs",
+      "beforeSha256": "e2d03a7a8a9dea71559b770e7172d007e438309d619e3d71318729567fce7061",
+      "afterSha256": "f1e94e10d9f4479facb645eefd187ba1df2610297e69d75282e4df2a369c16f1"
+    },
+    {
+      "family": "reasoning",
+      "module": "reasoning/native/paradox-ru.mjs",
+      "source": "Movies/Paradox box-ru.swf",
+      "sourceSha256": "17912b911228b73108047abf91bd8fbef7a8738f20b4bd414038f206a98dd484",
+      "status": "applied",
+      "groups": 490,
+      "wrappers": [
+        {
+          "wrapper": "sprite240",
+          "text": "text239",
+          "groups": 490,
+          "exampleMatrix": [
+            0.05,
+            0,
+            0,
+            0.05,
+            214.05,
+            302.45000000000005
+          ],
+          "chain": [
+            [
+              "dropShadow",
+              4,
+              4,
+              44,
+              4,
+              [
+                0,
+                0,
+                255,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ],
+            [
+              "dropShadow",
+              4,
+              4,
+              44,
+              4,
+              [
+                0,
+                0,
+                255,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ]
+          ]
+        }
+      ],
+      "backup": ".cache/nested-filter-originals/reasoning/paradox-ru-fbdbeb528463541fe5f5b4cb1c5af2debb3586af6b413ea6dd14e4dcbbafa87f.mjs",
+      "beforeSha256": "fbdbeb528463541fe5f5b4cb1c5af2debb3586af6b413ea6dd14e4dcbbafa87f",
+      "afterSha256": "4ccee2e9b25f3ed8154adfb35e932f452dffd3241a346fabcf629ee97497531e"
+    },
+    {
+      "family": "reasoning",
+      "module": "reasoning/native/snail-en.mjs",
+      "source": "Movies/Snail-eng.swf",
+      "sourceSha256": "103cb2da4cdc120f7e333348f221c533c4ff78cf3174e75c1a43b62046c534a8",
+      "status": "applied",
+      "groups": 118,
+      "wrappers": [
+        {
+          "wrapper": "sprite31",
+          "text": "text30",
+          "groups": 118,
+          "exampleMatrix": [
+            0.09690399169921875,
+            0,
+            0,
+            0.09690399169921875,
+            239.508251953125,
+            133.9874755859375
+          ],
+          "chain": [
+            [
+              "dropShadow",
+              5,
+              5,
+              44,
+              3,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ],
+            [
+              "dropShadow",
+              5,
+              5,
+              44,
+              3,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ]
+          ]
+        }
+      ],
+      "backup": ".cache/nested-filter-originals/reasoning/snail-en-79d50faeec97ff1c66c7a6d37b1801ec41c6a6cb2348a94eddc13b3d0cc88060.mjs",
+      "beforeSha256": "79d50faeec97ff1c66c7a6d37b1801ec41c6a6cb2348a94eddc13b3d0cc88060",
+      "afterSha256": "8e21234b9540d19e0383d7369f7942a7be848d2cebbc9ccadcb3576227c80ac0"
+    },
+    {
+      "family": "reasoning",
+      "module": "reasoning/native/snail-ru.mjs",
+      "source": "Movies/Snail.swf",
+      "sourceSha256": "f2a070d4269e80cec6b55bb9e309f06e77722f8dac0e096533d2fd866a5cf04c",
+      "status": "applied",
+      "groups": 118,
+      "wrappers": [
+        {
+          "wrapper": "sprite31",
+          "text": "text30",
+          "groups": 118,
+          "exampleMatrix": [
+            0.09690399169921875,
+            0,
+            0,
+            0.09690399169921875,
+            239.508251953125,
+            133.9874755859375
+          ],
+          "chain": [
+            [
+              "dropShadow",
+              5,
+              5,
+              44,
+              3,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ],
+            [
+              "dropShadow",
+              5,
+              5,
+              44,
+              3,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ]
+          ]
+        }
+      ],
+      "backup": ".cache/nested-filter-originals/reasoning/snail-ru-0b3cce6e85375cef0d958de0d163ac23c1f7e7c2539fa749c7a11463dbacd8e8.mjs",
+      "beforeSha256": "0b3cce6e85375cef0d958de0d163ac23c1f7e7c2539fa749c7a11463dbacd8e8",
+      "afterSha256": "9536aa5909e529cb60d39384b212ddeed65114721d8e524c62c533286ca53efd"
+    },
+    {
+      "family": "reasoning",
+      "module": "reasoning/native/tram-en.mjs",
+      "source": "Movies/Tram.swf",
+      "sourceSha256": "1249d52a4e45f53b27e0201c63a64fe76c951144dff83270d2008adac6f33fda",
+      "status": "applied",
+      "groups": 109,
+      "wrappers": [
+        {
+          "wrapper": "sprite79",
+          "text": "text78",
+          "groups": 109,
+          "exampleMatrix": [
+            0.05,
+            0,
+            0,
+            0.05,
+            51.44999999999999,
+            87.79999999999998
+          ],
+          "chain": [
+            [
+              "dropShadow",
+              4,
+              4,
+              44,
+              4,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ],
+            [
+              "dropShadow",
+              4,
+              4,
+              44,
+              2,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ]
+          ]
+        }
+      ],
+      "backup": ".cache/nested-filter-originals/reasoning/tram-en-553e1d3b81386fe3ed42c7deb8f3ab39e31bc73ad64c150d455e61128c75ffd8.mjs",
+      "beforeSha256": "553e1d3b81386fe3ed42c7deb8f3ab39e31bc73ad64c150d455e61128c75ffd8",
+      "afterSha256": "e8fdf328b4febd95c187923a930e88aab1e7850327dedafd94afc31bfcc93e78"
+    },
+    {
+      "family": "reasoning",
+      "module": "reasoning/native/tram-ru.mjs",
+      "source": "Movies/Tram-ru.swf",
+      "sourceSha256": "5c70807cc0000549a0db3ad300f4d36325cbbe62b24f1facf733ee9f09e5b9d4",
+      "status": "applied",
+      "groups": 109,
+      "wrappers": [
+        {
+          "wrapper": "sprite71",
+          "text": "text70",
+          "groups": 109,
+          "exampleMatrix": [
+            0.05,
+            0,
+            0,
+            0.05,
+            51.44999999999999,
+            87.79999999999998
+          ],
+          "chain": [
+            [
+              "dropShadow",
+              4,
+              4,
+              44,
+              4,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ],
+            [
+              "dropShadow",
+              4,
+              4,
+              44,
+              2,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ]
+          ]
+        }
+      ],
+      "backup": ".cache/nested-filter-originals/reasoning/tram-ru-3a0613816af3a509670c71c7ce0cbecb11ea9daa82e759e129ba1d84a80fbad3.mjs",
+      "beforeSha256": "3a0613816af3a509670c71c7ce0cbecb11ea9daa82e759e129ba1d84a80fbad3",
+      "afterSha256": "f9ec94e407daacc945cf8b541752a62f62e3aae6054ad67403cbeb40e0a04ab2"
+    },
+    {
+      "family": "solids",
+      "module": "solids/sphere-lesson/en/examples.mjs",
+      "source": "Movies/Volumeofball-proof-examples.swf",
+      "sourceSha256": "43d08094755fb7c4cb6db371cf7f5fa50c5d4edf7b39c2228b10a2b50ac7d034",
+      "status": "applied",
+      "groups": 142,
+      "wrappers": [
+        {
+          "wrapper": "sprite241",
+          "text": "text240",
+          "groups": 142,
+          "exampleMatrix": [
+            0.05,
+            0,
+            0,
+            0.05,
+            323.90000000000003,
+            148.55
+          ],
+          "chain": [
+            [
+              "glow",
+              9,
+              9,
+              1,
+              [
+                255,
+                255,
+                255,
+                1
+              ],
+              false,
+              false,
+              1
+            ],
+            [
+              "glow",
+              9,
+              9,
+              1,
+              [
+                255,
+                255,
+                255,
+                1
+              ],
+              false,
+              false,
+              1
+            ]
+          ]
+        }
+      ],
+      "backup": ".cache/nested-filter-originals/solids/examples-31f708070c1eca7ad33323debecc9bb08e80354cd55a4ea3fdf9c0b92c20c50b.mjs",
+      "beforeSha256": "31f708070c1eca7ad33323debecc9bb08e80354cd55a4ea3fdf9c0b92c20c50b",
+      "afterSha256": "de5ba04aa095f639de8ab09c0957a4fb14dacc2bc1f04bde705eb0693c6220c2"
+    },
+    {
+      "family": "triangles",
+      "module": "triangles/native/inscribed-angle/ru/chapter-1.mjs",
+      "source": "Movies/Insangle-ru.swf",
+      "sourceSha256": "ef5b5724807ec41b5ab8ccec8ad4b73e866b6f52a026a074a8ece295ce0e20e7",
+      "status": "applied",
+      "groups": 134,
+      "wrappers": [
+        {
+          "wrapper": "sprite80",
+          "text": "text79",
+          "groups": 134,
+          "exampleMatrix": [
+            0.03453903198242188,
+            0,
+            0,
+            0.023290252685546874,
+            416.8206604003906,
+            218.88161010742186
+          ],
+          "chain": [
+            [
+              "dropShadow",
+              0,
+              0,
+              44,
+              0,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              3,
+              1,
+              false
+            ],
+            [
+              "dropShadow",
+              0,
+              0,
+              44,
+              0,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ],
+            [
+              "glow",
+              0,
+              0,
+              1,
+              [
+                255,
+                0,
+                0,
+                1
+              ],
+              false,
+              false,
+              1
+            ],
+            [
+              "dropShadow",
+              10,
+              10,
+              44,
+              5,
+              [
+                0,
+                0,
+                0,
+                1
+              ],
+              false,
+              1,
+              1,
+              false
+            ]
+          ]
+        }
+      ],
+      "backup": ".cache/nested-filter-originals/triangles/chapter-1-66dd36b919da031c671b26071fe5bda1251a337b4227c0930e0fb079b86bffe0.mjs",
+      "beforeSha256": "66dd36b919da031c671b26071fe5bda1251a337b4227c0930e0fb079b86bffe0",
+      "afterSha256": "034c46c611afa1ffece4f3cda3689f4071e3f17e91d503fe4c1a99f07f1fdd9b"
+    }
+  ]
+}

@@ -49,3 +49,9 @@ await mkdir(`${native}/effects`, { recursive: true });
 for (const file of ["Howmany.mp3", "Shortbang.mp3", "AngryMob.mp3", "Mystery.mp3", "Kidsmelody.mp3", "salut.MP3"]) {
   await copyFile(`/home/ignat/code/mightymatica-archive-2026-08-09/raw-site/Movies/${file}`, `${native}/effects/${file}`);
 }
+if (!metadataOnly) {
+  run("src/modules/logic/optimize-painters.mjs", ["--apply"]);
+  run("scripts/optimize-reviewed-nested-filters.mjs", ["--apply", "--family", "logic"]);
+  execFileSync("python3", ["scripts/recover-reasoning-logic-controls.py"], { stdio: "inherit" });
+  run("scripts/reasoning-logic-playback-control.mjs", ["--apply", "logic"]);
+}

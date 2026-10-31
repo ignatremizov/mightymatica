@@ -60,8 +60,9 @@ Source artifacts inspected: each corresponding
 `raw-site/Movies/Cubesections.flv`.
 
 Native standalone controls provide explicit play, pause, seeking, full screen and replay.
-Audio is muted initially and opt-in. No autoplay, forced looping or resumed
-playback after tab hiding. Playback pauses on hidden documents and teardown.
+Audio is muted initially and opt-in. There is no autoplay or forced looping.
+Started playback continues across tab hiding and focus changes, subject to
+browser/OS suspension; leaving the activity pauses the player on teardown.
 Reduced motion does not start the film automatically; motion remains explicitly
 requested by Play. The Books page's silent Möbius illustration instead loops
 automatically while visible, honors page reduced motion, preserves an explicit
@@ -84,7 +85,7 @@ The eight embedded films retain exactly 379, 390, 104, 510, 3357, 1856, 2777 and
 external film contains 2220 video packets. Total output is approximately 26 MiB.
 No browser, compiler, full test suite or build is run by this worker.
 Manual integration checks: open each film; explicitly play; enable sound;
-seek and replay; hide the tab and confirm it remains paused on return; change
+seek and replay; hide the tab and confirm started playback continues; change
 activity and confirm audio stops; check mobile controls and source aspect ratio.
 Audio/video perceptual synchronization still needs human viewing/listening.
 
@@ -94,7 +95,8 @@ The soundtrack checkbox now follows native mute/volume changes, rather than
 displaying stale sound state after the built-in controls are used. Explicitly
 enabling the soundtrack also restores a zero native volume, matching the story
 companion player. Successful playback clears a previous playback-error notice.
-Initial mute, explicit playback, visibility suspension and teardown are unchanged.
+Initial mute, explicit playback and teardown are unchanged. The current
+background-playback policy is described above.
 Repeated collection-author credit was removed from the player footer; distinct
 artwork and film credits remain.
 
@@ -120,7 +122,7 @@ Mute is now initialized once, while subsequent mute/volume state belongs to
 the native player. The soundtrack checkbox still mirrors audibility and can
 explicitly unmute and restore zero volume. Removed redundant visible
 credits-preservation boilerplate; actual film credits and shell attribution
-remain. Explicit play, no loop, replay, hidden-tab pause, teardown pause and
+remain. Explicit play, no loop, replay, teardown pause and
 original media dimensions remain unchanged.
 
 Read-only asset validation found all nine film files present and nonempty.
@@ -128,5 +130,28 @@ No browser, compiler, build, transcoding or full suite was run. A platform
 media-control regression needs manual verification, not a mock-DOM unit test:
 play with sound, reduce native volume to zero, raise it, and confirm sound
 returns without a separate unmute. Check checkbox/native mute agreement,
-replay at the end, hidden-tab suspension, teardown and unavailable-media errors.
+replay at the end, background playback, teardown and unavailable-media errors.
 Perceptual sync and visual fidelity still require human viewing/listening.
+
+### Rendering/performance review
+
+All nine entries listed above use the same native `FilmPlayer` and were
+reviewed for frame-loop and lifecycle overhead. The player has no Canvas,
+generated painter, pixel filter, animation timer, `timeupdate` subscription,
+or per-frame React/DOM update. React state changes only for sound controls and
+playback/error events. Only the selected film mounts; `preload="metadata"`
+does not request all nine films. Native video retains the source dimension
+cap and browser-owned decoding, seeking and playback. No replacement renderer,
+transcode, background-policy change or runtime optimization was justified.
+
+A read-only Node validation passed for all nine output MP4 SHA-256 hashes and
+all recorded input video/audio hashes in `public/media/films/provenance.json`.
+The eight recovered film `DOMDocument.xml` files each declare one video and
+one sound item; the ninth input is the recorded external `Cubesections.flv`.
+No expensive generated text filters exist in this family.
+
+Only documentation changed in this review, including correction of stale
+hidden-tab pause descriptions to match the current runtime policy. No browser,
+FPS benchmark, audio listening, compiler, build, full suite or media processing
+was performed. Native playback and perceptual fidelity still require the manual
+checks above.

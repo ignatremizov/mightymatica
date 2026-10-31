@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Findsamecoupleline.swf",
+      "sourceSha256": "381a7708e420bbd653706b50709939f26ff2a6568e00849c4e9732666060bc4c",
+      "textBounds": {
+        "text67": [
+          -2552,
+          250,
+          5891,
+          5250
+        ],
+        "text73": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Findsamecoupleline.swf",
+      "sourceSha256": "381a7708e420bbd653706b50709939f26ff2a6568e00849c4e9732666060bc4c",
+      "textBounds": {
+        "text67": [
+          -2552,
+          250,
+          5891,
+          5250
+        ],
+        "text73": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    }
+  }
+}

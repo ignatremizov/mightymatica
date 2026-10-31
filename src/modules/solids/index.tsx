@@ -2,6 +2,7 @@ import { useRef, useState } from "react";
 import type { ActivityProps, Locale } from "../../shared/contracts";
 import { t, mediaUrl } from "../../shared/contracts";
 import OriginalCompanion from "../../shared/OriginalCompanion";
+import CubeSectionsLesson from "./CubeSectionsLesson";
 import SphereLesson from "./SphereLesson";
 import TetrahedronView from "./TetrahedronView";
 import SourceSoundtrack from "./SourceSoundtrack";
@@ -157,17 +158,19 @@ export default function Solids({ activityId, locale, reducedMotion }: ActivityPr
   if (activityId === "solids-sphere-volume") {
     return <div className="solids"><SphereLesson key={locale} locale={locale} reducedMotion={reducedMotion} explorer={<SphereExplorer locale={locale} />} /></div>;
   }
-  const original = activityId === "solids-tetrahedron-weekdays" ? "solids/tetrahedron-reference/1.svg" : activityId === "solids-cube-sections" ? "solids/cube-reference/1.svg" : "solids/sphere-reference/2878.svg";
+  if (activityId === "solids-cube-sections") {
+    return <div className="solids"><CubeSectionsLesson key={locale} locale={locale} reducedMotion={reducedMotion} explorer={<Sections locale={locale} />} /></div>;
+  }
   return <div className="solids">
     <details className="activity-note"><summary>{t(locale, "Original film illustration", "Иллюстрация исходного фильма")}</summary>
-      <img className="solids-original" src={mediaUrl(original)} alt={t(locale, "Static frame exported from this activity's original English Flash film", "Статический кадр из исходного англоязычного Flash-фильма")} loading="lazy" />
+      <img className="solids-original" src={mediaUrl("solids/tetrahedron-reference/1.svg")} alt={t(locale, "Static frame exported from this activity's original English Flash film", "Статический кадр из исходного англоязычного Flash-фильма")} loading="lazy" />
       <p>{t(locale, "Illustration: Yuri Remizov / MightyMatica.", "Иллюстрация: Юрий Ремизов / MightyMatica.")}</p>
     </details>
     <details className="activity-note"><summary>{t(locale, "Original collection companion", "Персонаж исходной коллекции")}</summary>
       <OriginalCompanion playing={false} reducedMotion={reducedMotion} label={t(locale, "Original Pythagoras character, still pose", "Исходный персонаж Пифагор, неподвижная поза")} />
       <p>{t(locale, "Pythagoras — Yuri Remizov / MightyMatica.", "Пифагор — Юрий Ремизов / MightyMatica.")}</p>
     </details>
-    {activityId === "solids-cube-sections" ? <Sections locale={locale} /> : <Tetrahedra locale={locale} />}
-    <SourceSoundtrack key={activityId} track={activityId === "solids-cube-sections" ? "cube" : "tetrahedron"} locale={locale} />
+    <Tetrahedra locale={locale} />
+    <SourceSoundtrack track="tetrahedron" locale={locale} />
   </div>;
 }

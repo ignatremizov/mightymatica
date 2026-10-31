@@ -1,0 +1,118 @@
+{
+  "wisemen-en": {
+    "source": "Movies/Wisemen.swf",
+    "sourceSha256": "dec5a3c5a7af1bc6f7d3d61596dc34c27ce5fed01f98ef05c96982770e73b640",
+    "transportSymbols": [
+      "sprite29"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 11,
+        "lastFrame": 1095,
+        "x": 15.3,
+        "y": 36.997665552701804,
+        "width": 118.72962458843834,
+        "height": 34.9257631173823
+      }
+    ],
+    "stopHotspots": {
+      "1097": {
+        "x": 413.20000000000005,
+        "y": 29.900000000000002,
+        "width": 128.94999999999993,
+        "height": 43.849999999999994,
+        "sourceArtwork": true
+      }
+    },
+    "sourceClasses": [
+      "Wisemen_fla.pp_5"
+    ]
+  },
+  "wisemen-ru": {
+    "source": "Movies/Wisemen-ru.swf",
+    "sourceSha256": "341003198786b01932353a64d8d71e772890e3fd3bb5b69ccc479873d26bc61d",
+    "transportSymbols": [
+      "sprite28"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 11,
+        "lastFrame": 1095,
+        "x": 26.579527282714842,
+        "y": 20.637071990966795,
+        "width": 92.4933853149414,
+        "height": 35.04873275756836
+      }
+    ],
+    "stopHotspots": {
+      "1097": {
+        "x": 413.20000000000005,
+        "y": 29.900000000000002,
+        "width": 128.94999999999993,
+        "height": 43.849999999999994,
+        "sourceArtwork": true
+      }
+    },
+    "sourceClasses": [
+      "Wisemen_fla.pp_5"
+    ]
+  },
+  "wisemen-eight-en": {
+    "source": "Movies/Wisemen 8.swf",
+    "sourceSha256": "79332de189f5e5baab56c1e060f478c842c52e5fd000f118b79974464a834fb3",
+    "transportSymbols": [
+      "sprite43"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 1090,
+        "x": 22.019839477539062,
+        "y": 32.09572296142578,
+        "width": 62.72935485839844,
+        "height": 23.770179748535156
+      }
+    ],
+    "stopHotspots": {
+      "1097": {
+        "x": 413.20000000000005,
+        "y": 29.900000000000002,
+        "width": 128.94999999999993,
+        "height": 43.849999999999994,
+        "sourceArtwork": true
+      }
+    },
+    "sourceClasses": [
+      "Wisemen8_fla.pp_12"
+    ]
+  },
+  "wisemen-eight-ru": {
+    "source": "Movies/Wisemen 8-ru.swf",
+    "sourceSha256": "250b16b7f5bf54057e0b0f3362de175cd8da8bbb3b6caaea411e603917b0637b",
+    "transportSymbols": [
+      "sprite45"
+    ],
+    "playbackHotspots": [
+      {
+        "firstFrame": 1,
+        "lastFrame": 1090,
+        "x": 22.019839477539062,
+        "y": 32.09572296142578,
+        "width": 62.72935485839844,
+        "height": 23.770179748535156
+      }
+    ],
+    "stopHotspots": {
+      "1097": {
+        "x": 413.20000000000005,
+        "y": 29.900000000000002,
+        "width": 128.94999999999993,
+        "height": 43.849999999999994,
+        "sourceArtwork": true
+      }
+    },
+    "sourceClasses": [
+      "Wisemen8_fla.pp_12"
+    ]
+  }
+}

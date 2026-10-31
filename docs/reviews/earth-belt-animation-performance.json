@@ -1,0 +1,982 @@
+{
+  "version": 1,
+  "method": "actual filter arithmetic; inert Canvas vectors/images; not browser FPS",
+  "width": 1520,
+  "height": 1105,
+  "results": [
+    {
+      "locale": "en",
+      "beforeSha256": "fe09c4be97e54b5bbc9dc696a9f5785f712787c0d816f4e5f07fd09d6b83663f",
+      "afterSha256": "248eb1dad32aa9c10a530264dc75513e8cb4d359ea91d1520bd4ceaa8d6c3712",
+      "before": {
+        "repeated": {
+          "module": ".cache/earth-belt-animated-originals/fe09c4be97e54b5bbc9dc696a9f5785f712787c0d816f4e5f07fd09d6b83663f.mjs",
+          "width": 1520,
+          "height": 1105,
+          "mode": "CPU/filter diagnostic, not browser FPS",
+          "frameCount": 3,
+          "totalMilliseconds": 2300.31,
+          "warmMedianMilliseconds": 276.468,
+          "warmMaxMilliseconds": 282.442,
+          "warmFullCanvasReads": 30,
+          "warmReadPixels": 50388030,
+          "samples": [
+            {
+              "frame": 326,
+              "repeat": 0,
+              "milliseconds": 287.402,
+              "canvases": 35,
+              "calls": 2438,
+              "reads": 38,
+              "readPixels": 9215518,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 326,
+              "repeat": 1,
+              "milliseconds": 225.385,
+              "canvases": 12,
+              "calls": 378,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 326,
+              "repeat": 2,
+              "milliseconds": 282.442,
+              "canvases": 12,
+              "calls": 378,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 360,
+              "repeat": 0,
+              "milliseconds": 259.58,
+              "canvases": 35,
+              "calls": 2324,
+              "reads": 38,
+              "readPixels": 9215518,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 360,
+              "repeat": 1,
+              "milliseconds": 276.468,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 360,
+              "repeat": 2,
+              "milliseconds": 218.334,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 580,
+              "repeat": 0,
+              "milliseconds": 254.197,
+              "canvases": 21,
+              "calls": 1723,
+              "reads": 22,
+              "readPixels": 9108957,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 580,
+              "repeat": 1,
+              "milliseconds": 278.95,
+              "canvases": 6,
+              "calls": 429,
+              "reads": 6,
+              "readPixels": 8398001,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 580,
+              "repeat": 2,
+              "milliseconds": 217.436,
+              "canvases": 6,
+              "calls": 429,
+              "reads": 6,
+              "readPixels": 8398001,
+              "fullCanvasReads": 5
+            }
+          ]
+        },
+        "consecutive": {
+          "module": ".cache/earth-belt-animated-originals/fe09c4be97e54b5bbc9dc696a9f5785f712787c0d816f4e5f07fd09d6b83663f.mjs",
+          "width": 1520,
+          "height": 1105,
+          "mode": "CPU/filter diagnostic, not browser FPS",
+          "frameCount": 12,
+          "totalMilliseconds": 2935.87,
+          "warmMedianMilliseconds": null,
+          "warmMaxMilliseconds": null,
+          "warmFullCanvasReads": 0,
+          "warmReadPixels": 0,
+          "samples": [
+            {
+              "frame": 326,
+              "repeat": 0,
+              "milliseconds": 330.381,
+              "canvases": 35,
+              "calls": 2438,
+              "reads": 38,
+              "readPixels": 9215518,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 327,
+              "repeat": 0,
+              "milliseconds": 282.873,
+              "canvases": 35,
+              "calls": 2438,
+              "reads": 38,
+              "readPixels": 9217103,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 328,
+              "repeat": 0,
+              "milliseconds": 231.861,
+              "canvases": 35,
+              "calls": 2438,
+              "reads": 38,
+              "readPixels": 9215518,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 329,
+              "repeat": 0,
+              "milliseconds": 241.366,
+              "canvases": 18,
+              "calls": 395,
+              "reads": 18,
+              "readPixels": 8586623,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 330,
+              "repeat": 0,
+              "milliseconds": 277.957,
+              "canvases": 18,
+              "calls": 395,
+              "reads": 18,
+              "readPixels": 8585038,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 331,
+              "repeat": 0,
+              "milliseconds": 230.012,
+              "canvases": 18,
+              "calls": 395,
+              "reads": 18,
+              "readPixels": 8586623,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 332,
+              "repeat": 0,
+              "milliseconds": 208.336,
+              "canvases": 12,
+              "calls": 268,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 333,
+              "repeat": 0,
+              "milliseconds": 227.27,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 334,
+              "repeat": 0,
+              "milliseconds": 238.715,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 335,
+              "repeat": 0,
+              "milliseconds": 206.979,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 336,
+              "repeat": 0,
+              "milliseconds": 233.296,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 337,
+              "repeat": 0,
+              "milliseconds": 226.582,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            }
+          ],
+          "medianMilliseconds": 233.296
+        }
+      },
+      "after": {
+        "repeated": {
+          "module": "public/media/motion/native/earth-belt/en/frames-1-580.mjs",
+          "width": 1520,
+          "height": 1105,
+          "mode": "CPU/filter diagnostic, not browser FPS",
+          "frameCount": 3,
+          "totalMilliseconds": 65.06,
+          "warmMedianMilliseconds": 0.11,
+          "warmMaxMilliseconds": 0.189,
+          "warmFullCanvasReads": 0,
+          "warmReadPixels": 6,
+          "samples": [
+            {
+              "frame": 326,
+              "repeat": 0,
+              "milliseconds": 29.747,
+              "canvases": 35,
+              "calls": 2438,
+              "reads": 38,
+              "readPixels": 890643,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 326,
+              "repeat": 1,
+              "milliseconds": 0.189,
+              "canvases": 1,
+              "calls": 137,
+              "reads": 1,
+              "readPixels": 1,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 326,
+              "repeat": 2,
+              "milliseconds": 0.11,
+              "canvases": 1,
+              "calls": 137,
+              "reads": 1,
+              "readPixels": 1,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 360,
+              "repeat": 0,
+              "milliseconds": 19.009,
+              "canvases": 35,
+              "calls": 2324,
+              "reads": 38,
+              "readPixels": 890643,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 360,
+              "repeat": 1,
+              "milliseconds": 0.099,
+              "canvases": 1,
+              "calls": 23,
+              "reads": 1,
+              "readPixels": 1,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 360,
+              "repeat": 2,
+              "milliseconds": 0.046,
+              "canvases": 1,
+              "calls": 23,
+              "reads": 1,
+              "readPixels": 1,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 580,
+              "repeat": 0,
+              "milliseconds": 15.533,
+              "canvases": 21,
+              "calls": 1723,
+              "reads": 22,
+              "readPixels": 793557,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 580,
+              "repeat": 1,
+              "milliseconds": 0.102,
+              "canvases": 1,
+              "calls": 200,
+              "reads": 1,
+              "readPixels": 1,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 580,
+              "repeat": 2,
+              "milliseconds": 0.186,
+              "canvases": 1,
+              "calls": 200,
+              "reads": 1,
+              "readPixels": 1,
+              "fullCanvasReads": 0
+            }
+          ]
+        },
+        "consecutive": {
+          "module": "public/media/motion/native/earth-belt/en/frames-1-580.mjs",
+          "width": 1520,
+          "height": 1105,
+          "mode": "CPU/filter diagnostic, not browser FPS",
+          "frameCount": 12,
+          "totalMilliseconds": 80.03,
+          "warmMedianMilliseconds": null,
+          "warmMaxMilliseconds": null,
+          "warmFullCanvasReads": 0,
+          "warmReadPixels": 0,
+          "samples": [
+            {
+              "frame": 326,
+              "repeat": 0,
+              "milliseconds": 20.627,
+              "canvases": 35,
+              "calls": 2438,
+              "reads": 38,
+              "readPixels": 890643,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 327,
+              "repeat": 0,
+              "milliseconds": 17.484,
+              "canvases": 35,
+              "calls": 2438,
+              "reads": 38,
+              "readPixels": 892228,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 328,
+              "repeat": 0,
+              "milliseconds": 17.622,
+              "canvases": 35,
+              "calls": 2438,
+              "reads": 38,
+              "readPixels": 890643,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 329,
+              "repeat": 0,
+              "milliseconds": 5.109,
+              "canvases": 18,
+              "calls": 395,
+              "reads": 18,
+              "readPixels": 261748,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 330,
+              "repeat": 0,
+              "milliseconds": 5.052,
+              "canvases": 18,
+              "calls": 395,
+              "reads": 18,
+              "readPixels": 260163,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 331,
+              "repeat": 0,
+              "milliseconds": 5.008,
+              "canvases": 18,
+              "calls": 395,
+              "reads": 18,
+              "readPixels": 261748,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 332,
+              "repeat": 0,
+              "milliseconds": 1.552,
+              "canvases": 12,
+              "calls": 268,
+              "reads": 12,
+              "readPixels": 73132,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 333,
+              "repeat": 0,
+              "milliseconds": 1.504,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 73132,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 334,
+              "repeat": 0,
+              "milliseconds": 1.542,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 73132,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 335,
+              "repeat": 0,
+              "milliseconds": 1.53,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 73132,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 336,
+              "repeat": 0,
+              "milliseconds": 1.463,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 73132,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 337,
+              "repeat": 0,
+              "milliseconds": 1.464,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 73132,
+              "fullCanvasReads": 0
+            }
+          ],
+          "medianMilliseconds": 5.008
+        }
+      }
+    },
+    {
+      "locale": "ru",
+      "beforeSha256": "f853e52e9e189972394103ecfdf57f75f3c342de157da4a621dab7f7d00493d1",
+      "afterSha256": "df357427e4bad1d402ebc0260aa15c66f98651c7905c34169c0667970bcebaf6",
+      "before": {
+        "repeated": {
+          "module": ".cache/earth-belt-animated-originals/f853e52e9e189972394103ecfdf57f75f3c342de157da4a621dab7f7d00493d1.mjs",
+          "width": 1520,
+          "height": 1105,
+          "mode": "CPU/filter diagnostic, not browser FPS",
+          "frameCount": 3,
+          "totalMilliseconds": 2131.61,
+          "warmMedianMilliseconds": 225.275,
+          "warmMaxMilliseconds": 250.005,
+          "warmFullCanvasReads": 30,
+          "warmReadPixels": 50388030,
+          "samples": [
+            {
+              "frame": 326,
+              "repeat": 0,
+              "milliseconds": 264.303,
+              "canvases": 35,
+              "calls": 2264,
+              "reads": 38,
+              "readPixels": 9200718,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 326,
+              "repeat": 1,
+              "milliseconds": 244.857,
+              "canvases": 12,
+              "calls": 378,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 326,
+              "repeat": 2,
+              "milliseconds": 250.005,
+              "canvases": 12,
+              "calls": 378,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 360,
+              "repeat": 0,
+              "milliseconds": 241.324,
+              "canvases": 35,
+              "calls": 2150,
+              "reads": 38,
+              "readPixels": 9200718,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 360,
+              "repeat": 1,
+              "milliseconds": 210.88,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 360,
+              "repeat": 2,
+              "milliseconds": 225.275,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 580,
+              "repeat": 0,
+              "milliseconds": 260.511,
+              "canvases": 21,
+              "calls": 2015,
+              "reads": 22,
+              "readPixels": 9094817,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 580,
+              "repeat": 1,
+              "milliseconds": 215.273,
+              "canvases": 6,
+              "calls": 576,
+              "reads": 6,
+              "readPixels": 8398001,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 580,
+              "repeat": 2,
+              "milliseconds": 219.109,
+              "canvases": 6,
+              "calls": 576,
+              "reads": 6,
+              "readPixels": 8398001,
+              "fullCanvasReads": 5
+            }
+          ]
+        },
+        "consecutive": {
+          "module": ".cache/earth-belt-animated-originals/f853e52e9e189972394103ecfdf57f75f3c342de157da4a621dab7f7d00493d1.mjs",
+          "width": 1520,
+          "height": 1105,
+          "mode": "CPU/filter diagnostic, not browser FPS",
+          "frameCount": 12,
+          "totalMilliseconds": 2726.97,
+          "warmMedianMilliseconds": null,
+          "warmMaxMilliseconds": null,
+          "warmFullCanvasReads": 0,
+          "warmReadPixels": 0,
+          "samples": [
+            {
+              "frame": 326,
+              "repeat": 0,
+              "milliseconds": 239.139,
+              "canvases": 35,
+              "calls": 2264,
+              "reads": 38,
+              "readPixels": 9200718,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 327,
+              "repeat": 0,
+              "milliseconds": 225.962,
+              "canvases": 35,
+              "calls": 2264,
+              "reads": 38,
+              "readPixels": 9202303,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 328,
+              "repeat": 0,
+              "milliseconds": 231.658,
+              "canvases": 35,
+              "calls": 2264,
+              "reads": 38,
+              "readPixels": 9200718,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 329,
+              "repeat": 0,
+              "milliseconds": 208.264,
+              "canvases": 18,
+              "calls": 395,
+              "reads": 18,
+              "readPixels": 8586623,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 330,
+              "repeat": 0,
+              "milliseconds": 217.782,
+              "canvases": 18,
+              "calls": 395,
+              "reads": 18,
+              "readPixels": 8585038,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 331,
+              "repeat": 0,
+              "milliseconds": 225.556,
+              "canvases": 18,
+              "calls": 395,
+              "reads": 18,
+              "readPixels": 8586623,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 332,
+              "repeat": 0,
+              "milliseconds": 227.718,
+              "canvases": 12,
+              "calls": 268,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 333,
+              "repeat": 0,
+              "milliseconds": 230.52,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 334,
+              "repeat": 0,
+              "milliseconds": 224.326,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 335,
+              "repeat": 0,
+              "milliseconds": 231.556,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 336,
+              "repeat": 0,
+              "milliseconds": 230.997,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            },
+            {
+              "frame": 337,
+              "repeat": 0,
+              "milliseconds": 233.4,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 8398007,
+              "fullCanvasReads": 5
+            }
+          ],
+          "medianMilliseconds": 230.52
+        }
+      },
+      "after": {
+        "repeated": {
+          "module": "public/media/motion/native/earth-belt/ru/frames-1-580.mjs",
+          "width": 1520,
+          "height": 1105,
+          "mode": "CPU/filter diagnostic, not browser FPS",
+          "frameCount": 3,
+          "totalMilliseconds": 63.39,
+          "warmMedianMilliseconds": 0.12,
+          "warmMaxMilliseconds": 0.166,
+          "warmFullCanvasReads": 0,
+          "warmReadPixels": 6,
+          "samples": [
+            {
+              "frame": 326,
+              "repeat": 0,
+              "milliseconds": 29.705,
+              "canvases": 35,
+              "calls": 2264,
+              "reads": 38,
+              "readPixels": 875843,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 326,
+              "repeat": 1,
+              "milliseconds": 0.161,
+              "canvases": 1,
+              "calls": 137,
+              "reads": 1,
+              "readPixels": 1,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 326,
+              "repeat": 2,
+              "milliseconds": 0.091,
+              "canvases": 1,
+              "calls": 137,
+              "reads": 1,
+              "readPixels": 1,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 360,
+              "repeat": 0,
+              "milliseconds": 17.729,
+              "canvases": 35,
+              "calls": 2150,
+              "reads": 38,
+              "readPixels": 875843,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 360,
+              "repeat": 1,
+              "milliseconds": 0.12,
+              "canvases": 1,
+              "calls": 23,
+              "reads": 1,
+              "readPixels": 1,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 360,
+              "repeat": 2,
+              "milliseconds": 0.05,
+              "canvases": 1,
+              "calls": 23,
+              "reads": 1,
+              "readPixels": 1,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 580,
+              "repeat": 0,
+              "milliseconds": 15.243,
+              "canvases": 21,
+              "calls": 2015,
+              "reads": 22,
+              "readPixels": 779417,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 580,
+              "repeat": 1,
+              "milliseconds": 0.093,
+              "canvases": 1,
+              "calls": 347,
+              "reads": 1,
+              "readPixels": 1,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 580,
+              "repeat": 2,
+              "milliseconds": 0.166,
+              "canvases": 1,
+              "calls": 347,
+              "reads": 1,
+              "readPixels": 1,
+              "fullCanvasReads": 0
+            }
+          ]
+        },
+        "consecutive": {
+          "module": "public/media/motion/native/earth-belt/ru/frames-1-580.mjs",
+          "width": 1520,
+          "height": 1105,
+          "mode": "CPU/filter diagnostic, not browser FPS",
+          "frameCount": 12,
+          "totalMilliseconds": 81.61,
+          "warmMedianMilliseconds": null,
+          "warmMaxMilliseconds": null,
+          "warmFullCanvasReads": 0,
+          "warmReadPixels": 0,
+          "samples": [
+            {
+              "frame": 326,
+              "repeat": 0,
+              "milliseconds": 18.31,
+              "canvases": 35,
+              "calls": 2264,
+              "reads": 38,
+              "readPixels": 875843,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 327,
+              "repeat": 0,
+              "milliseconds": 22.575,
+              "canvases": 35,
+              "calls": 2264,
+              "reads": 38,
+              "readPixels": 877428,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 328,
+              "repeat": 0,
+              "milliseconds": 18.63,
+              "canvases": 35,
+              "calls": 2264,
+              "reads": 38,
+              "readPixels": 875843,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 329,
+              "repeat": 0,
+              "milliseconds": 4.804,
+              "canvases": 18,
+              "calls": 395,
+              "reads": 18,
+              "readPixels": 261748,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 330,
+              "repeat": 0,
+              "milliseconds": 4.473,
+              "canvases": 18,
+              "calls": 395,
+              "reads": 18,
+              "readPixels": 260163,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 331,
+              "repeat": 0,
+              "milliseconds": 4.527,
+              "canvases": 18,
+              "calls": 395,
+              "reads": 18,
+              "readPixels": 261748,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 332,
+              "repeat": 0,
+              "milliseconds": 1.412,
+              "canvases": 12,
+              "calls": 268,
+              "reads": 12,
+              "readPixels": 73132,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 333,
+              "repeat": 0,
+              "milliseconds": 1.324,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 73132,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 334,
+              "repeat": 0,
+              "milliseconds": 1.364,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 73132,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 335,
+              "repeat": 0,
+              "milliseconds": 1.375,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 73132,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 336,
+              "repeat": 0,
+              "milliseconds": 1.308,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 73132,
+              "fullCanvasReads": 0
+            },
+            {
+              "frame": 337,
+              "repeat": 0,
+              "milliseconds": 1.468,
+              "canvases": 12,
+              "calls": 264,
+              "reads": 12,
+              "readPixels": 73132,
+              "fullCanvasReads": 0
+            }
+          ],
+          "medianMilliseconds": 4.473
+        }
+      }
+    }
+  ]
+}

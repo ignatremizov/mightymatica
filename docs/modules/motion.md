@@ -1,5 +1,213 @@
 # Rolling and motion lessons
 
+## Source-painted playback and Hint controls (2026-10-31)
+
+The existing painted controls now have transparent, keyboard-accessible hit
+areas. No new visible buttons or replacement artwork were added:
+
+| Source | Original transport and inclusive global frame spans |
+| --- | --- |
+| `Caterpillar`, `Caterpillar-ru` | `pp` Symbol 43 / `pp_16`: 1–409 and 519–927 |
+| `Byciclist-eng`, `Byciclist-ru`, `Byciclist-chi` | `pp` Symbol 63 / `pp_25`: 1–790 |
+
+Both source transport classes stop their nested two-state clip and explicitly
+select Play or Pause when their `go` / `halt` buttons play or stop the root.
+Only those verified sprites now follow the native player's playback state;
+all other nested characters retain their original frame/time arguments.
+The transport spans are source placements, not chapter-wide overlays.
+
+`Caterpillar` / `Caterpillar-ru` Hint at frame 518 (Symbols 76 / 70) and
+`Coinsrotate-e` / `Coinsrotate` Hint at frame 1257 (Symbols 78 / 75) now use
+their original Hit artwork and placement at (418, 353.15). Their source
+`starthint` handler is only `MovieClip(root).play()`, so activation releases
+the existing manual stop without seeking or revealing another branch.
+Caterpillar still stops separately at frame 519 for its painted Play.
+The previously fixed Earth-and-Belt Hint is unchanged.
+
+`source-controls.json` records the original source hashes, Hit bounds,
+placement matrices, spans and proven Hint resume frames.
+`python3 src/modules/motion/recover-source-controls.py` regenerates both owned
+families' evidence using the shared structured XFL/SWF reader. It checks
+source hashes and permits Hint hit areas only at existing manual lesson
+stops with a proven simple-resume handler.
+
+`scripts/motion-fractal-playback-control.mjs --apply motion` backs up generated
+painters in `.cache/motion-fractal-playback-originals/`, patches only the
+reviewed source pp sprites in 17 chapters, then verifies syntax, unchanged
+metadata/exports, concurrent-write protection and idempotence. Recovery
+reapplies this bounded patch after the existing optimization passes.
+`src/modules/motion/playback-control-patches.json` is the combined 25-painter
+handoff manifest: exact module paths, selected pp sprites, before/after
+SHA-256 hashes and the hash-addressed original-backup convention.
+
+The full owned root-control audit found no additional source pp controls in
+the other motion lessons. Their existing painted answer/retry controls remain
+outside this Play/Hint slice; the semantic answer/retry actions and their
+source gates are unchanged. No clock, audio, background-playback, performance
+helper or narration behavior was changed.
+
+Verification: 20 focused Motion/Fractals and playback-patcher tests passed.
+All 25 combined Motion/Fractals painter candidates passed syntax and
+metadata/export checks; a second pass changed zero painters. Both edited
+TSX files passed syntax parsing only, not a full type-check. No browser,
+server, full compiler/build/suite or publication was run.
+
+Manual acceptance: in both Caterpillar languages, activate the original
+Play/Pause in both placements, then Hint and the separate unfolding Play.
+Check Coin Cluster Hint in both languages, all three Cyclists languages,
+keyboard focus/activation, narration continuity, Restart and background
+playback. Cyclists' question and wrong-answer stops must still require the
+existing answer/retry actions. Visual and audible parity is not asserted.
+
+## Earth-and-belt Hint control (2026-10-31)
+
+At frame 580, the existing source-drawn HINT / Подсказка button now has a
+transparent semantic hit target instead of a second visible Hint button.
+Both language sources place `bHint` at (418, 353.15); its bounds come from the
+original Hit-state artwork (EN Symbol 70, RU Symbol 69). Pointer, touch and
+keyboard activation continue the same optional hint stop. Artwork, narration,
+transport controls and answer gates are unchanged.
+
+Manual check: reach the question in each language, confirm there is only one
+visible Hint button, activate the original by pointer and keyboard, and check
+that Restart restores the question flow.
+
+Verification: all 12 focused motion tests, TypeScript, production build and
+native-asset checks passed. The composed local preview entry and updated
+runtime assets were hash-checked over localhost and Tailscale. No browser
+automation or publication was performed.
+
+## Earth-and-belt animated shadow fix (2026-10-31)
+
+The reported pause as the cat fades in was the remaining animated `sprite57`
+shadow, not the already cached caption. Its 180 placements per language still
+filtered a full high-resolution stage on every redraw.
+
+`optimize-earth-belt.mjs --apply` now gives that character its own bounded
+source-density effect cache. It retains the exact original pose, ratio and clock
+arguments in both rendering and cache identity; this does not freeze the cat or
+change its 49-frame animation, fade, placement, source shadow, narration or Hint
+gate. All 57 original shape/sprite/image functions per language are byte-identical
+to their immediate pre-fix versions.
+
+Bounds are recovered from the actual source SWFs and conservatively union all
+49 poses, quadratic control hulls and round NORMAL stroke expansion. The offline
+rewrite rejects unknown painting, masks, filters, child clocks, blend modes and
+unsupported root transforms. Embedded bitmap clips keep their existing decoded
+image lifetime. Only the filtered layer renders at authored density; this follows
+the prior density policy, not an exact full-DPR pixel-equivalence claim.
+
+The extra cache holds at most four entries / 262,144 pixels, independent of the
+static captions. Renderer disposal releases it before image cleanup. Hash-backed
+originals are in `.cache/earth-belt-animated-originals/`; the generated
+`earth-belt-animation-optimization.json` records both sources, all pose bounds and
+before/after painter hashes. Recovery reapplies the fix after static/nested passes.
+
+[The focused diagnostic](../reviews/earth-belt-animation-performance.json) uses
+actual filter arithmetic with inert Canvas vector/image I/O at 1520 × 1105.
+Twelve consecutive fresh-clock frames, rather than only repeated cache hits,
+improved from median 233.296 to 5.008 ms (EN), and 230.520 to 4.473 ms (RU).
+Repeated full-stage reads fell from 60 to zero over each twelve-frame window.
+Cold/new-entry frames in that diagnostic still reached approximately 21–23 ms.
+These are not browser FPS, rasterization, pixel-parity or listening measurements.
+
+Checks: 20 focused cache/animation tests passed; both 580-frame introductory
+painters executed every original frame through a tiny inert Canvas; metadata,
+export names, artwork-function preservation and repeat-idempotence checks passed.
+Manual acceptance: hard-refresh, watch the cat fade in and move throughout both
+languages, check its limbs/whiskers/shadow for clipping, and exercise Pause,
+Restart, Hint and background audio. Nothing was published.
+
+Integration passed `npm run check` and the production build/native-only gates.
+Only the two Earth-and-belt drawing files were refreshed in the composed local
+preview; both match the fresh build over localhost and Tailscale. The preview
+services and entry bundles were left unchanged. A full page reload is required
+to replace a renderer already imported by an open tab.
+
+## Source-bound embedded-bitmap follow-up (2026-10-31)
+
+The reviewed static pass now recognizes the exact closed embedded-bitmap fill
+used by Earth-belt `shape20`: a literal source clip, balanced save/restore, two
+constant pattern-space transforms and an immutable, explicitly decoded embedded
+image. Its authoritative binary ShapeBounds is `[0,0,5980,2000]`. This is not
+general clipping, dynamic image, animation or stroked-shape caching.
+
+Applying the existing guarded optimizer across all 49 motion chapters adds 363
+cached outer blocks to each English/Russian Earth-belt introduction. Existing
+nested-text patches and effect parameters remain in place; no nested optimizer
+was rerun. Other motion chapters are covered by the same source/hash/contract
+checks. No authored shadow, question, gate, narration or timing was removed.
+
+Hashed originals remain under `.cache/motion-filter-originals/`; candidate syntax,
+deep-equal metadata/exports, concurrent-edit and immediate repeat-idempotence
+guards apply. Main owns final serialized profiling. No dense benchmark, browser
+or full build was run by this worker, and pixel parity or FPS is not claimed.
+
+## Nested static-text follow-up (2026-10-31)
+
+Both Earth-belt introductory painters qualified for the strict one-frame,
+single-text-child nested-filter rewrite: 102 outer blocks per locale around
+`sprite29`. Original wrappers, existing shape/composite caches, filters, audio
+and lesson boundaries are retained. The composed chain runs at authored source
+density, not the previous mixed-density DPR>1 path; universal pixel parity is
+not claimed. Source hashes, exact leaf mappings, backups and focused checks
+are recorded in [the nested-filter review](../reviews/nested-filter-optimization.md)
+and its JSON companion. No browser/FPS or audio verification was performed.
+
+## Text-filter performance review
+
+All ten activities were reviewed: cycloids, coin cluster, two coins, square
+coin, Earth belt, Earth walk, cyclists, caterpillar, adjustable ladder and
+kitten ladder. The 49 existing native drawing chapters were checked against
+their 15 actual source variants in `native-lessons.json`, including Chinese
+cyclists. `text-bounds.json` records source hashes and DefineText bounds
+recovered directly from those preserved binaries, without executing scripts.
+
+`optimize-painters.mjs motion --apply` reuses the reviewed text-only filter
+rewrite. It replaced 24,126 repeated static-text filter blocks with cropped,
+bounded source-density caching, retaining authored shadows and glow. Originals
+are backed up under `.cache/motion-filter-originals/` before replacement.
+Source hashes, candidate syntax, deep-equal metadata/exports, concurrent edits
+and idempotence are checked. Recovery runs bounds extraction and optimization
+after chapter export; metadata-only recovery leaves painters alone.
+
+Non-text artwork remains untouched. In particular, each Earth belt introduction
+(`en/frames-1-580.mjs`, `ru/frames-1-580.mjs`) retains 747 direct shadow/glow
+calls in its generated `main` dispatcher. These are repeated call sites across
+frames, not 747 calls per displayed frame. They include vector/sprite artwork
+and need separate profiling and safe bounds evidence before further caching.
+No other motion chapter retains direct shadow/glow calls in `main`.
+
+The subsequent static-drawing review recovered `drawing-bounds.json` from
+the same 15 source-hashed binaries and enabled the reviewed pure-vector
+composite recognizer in the family optimizer. Every stroked shape is excluded
+locally: FFDec NORMAL stroke expansion uses the maximum CTM diagonal and is
+not safely bounded by an affine source rectangle under arbitrary nested
+rotation/anisotropy. Filled eligible paths still use authoritative ShapeBounds.
+All 49 chapters were reconsidered; no additional blocks qualified, so this
+follow-up changed no native painter bytes.
+
+The Earth belt residuals are now classified precisely in each locale:
+363 calls on `sprite21` (bitmap-pattern `shape20`, not a solid path),
+204 on `sprite29` (contains already-cached nested text effects), and
+180 on animated 49-frame `sprite57`. These are call-site totals across the
+chapter. None qualifies as a pure one-frame solid composite; widening the
+cache to flatten them would need a separate reviewed contract. The existing
+text-bounds evidence is retained unchanged.
+
+Silent cycloid and ladder explorers retain their existing bounded geometry.
+Cycloid trace construction is already memoized by parameters, with at most
+7,201 points; integer orbit controls and fixed viewport remain unchanged.
+Ladder sizing and all teaching, question, audio and timing gates are unchanged.
+
+Validation: every rewritten candidate passed syntax and metadata/export
+comparison; rerunning both family optimizers produced zero changes.
+The focused motion lesson/rule and fractal suite passed all 15 tests.
+No browser, FPS benchmark, audio listening or pixel-parity verification was
+performed. Manual acceptance should check animated captions/shadows, question
+and retry branches, source-language switching including Chinese, chapter
+transitions, both ladder sizes and cycloid trace/viewport behavior.
+
 ## Original interactive audiovisual lessons
 
 The source animation with synchronized embedded audio is now the primary

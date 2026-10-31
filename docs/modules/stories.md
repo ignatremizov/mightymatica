@@ -1,5 +1,47 @@
 # Cartoon picture puzzles
 
+## Bounded text-filter performance review
+
+All three generated parent painters were reviewed together with `index.tsx`,
+`StoryPresentation.tsx`, `StoryFilm.tsx`, and `presentation.ts`. Pinocchio and
+Prostokvashino each repeated 189 static-text shadow placements; Snow White
+repeated 581. These placements now use the shared source-density, bounded
+text-filter cache, preserving the authored shadow rather than removing it.
+The original filter library remains present for other artwork.
+
+`text-bounds-Pinoc-game.json`, `text-bounds-Prosto-game.json`, and
+`text-bounds-Snowhite-game.json` recover the two static text symbols in each
+actual preserved `Movies/<name>.swf` binary. Both locale entries deliberately
+refer to the same original binary; they are not separate translated sources.
+Reproduce bounds with `scripts/recover-calculus-text-bounds.mjs`, supplying that
+binary to both `--en` and `--ru` and the matching family JSON to `--output`.
+The recorded source SHA-256 values are checked before every rewrite.
+
+Run `node src/modules/stories/optimize-painters.mjs --apply` after regeneration.
+The parent exporter also invokes it. It retains hash-addressed originals under
+`.cache/stories-filter-originals`, checks candidate syntax, deep-compares
+metadata and export names, rejects concurrent target changes, verifies
+idempotence, and atomically replaces each target. A second invocation is a no-op.
+
+An AST inventory after patching leaves only the common filter-library calls
+(three blur, five drop-shadow, one gradient-bevel call site per painter); no
+additional uncached authored filter placements remain in these three parents.
+This does not mean ordinary vector drawing or media decoding is free. The
+source film/parent ranges, companion audio, question/assembly gates, movable
+jigsaw groups, and user-controlled playback are unchanged. No separate
+unbounded frame-loop defect was established in the family controllers.
+
+Focused verification: `node --experimental-strip-types --test
+tests/escher.test.mjs tests/stories.test.mjs tests/jigsaw-groups.test.mjs`
+passed all 20 tests. Candidate syntax, deep metadata/export checks, original
+source hashes, and second-pass no-op checks passed for all three painters.
+No browser, FPS measurement, audio listening, pixel-parity claim, integrated
+build, or full-resolution baseline benchmark is implied.
+
+Manual follow-up: play each original introduction and reward transition;
+check text/shadow edges at narrow and large sizes, freeform grouped dragging,
+return from the companion film, pause/replay, and soundtrack synchronization.
+
 ## Audio-source follow-up
 
 The four converted films retain their existing original audio and explicit,

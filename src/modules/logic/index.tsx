@@ -140,14 +140,13 @@ function Wisemen({ activityId, locale, reducedMotion }: ActivityProps) {
   const [checked, setChecked] = useState(false);
   const [hint, setHint] = useState(false);
   const [answer, setAnswer] = useState<number | null>(null);
-  const [storyRun, setStoryRun] = useState(0);
   const washed = eight && stop >= dirty;
-  return <WisemenLesson key={`${locale}-${storyRun}`} eight={eight} locale={locale} reducedMotion={reducedMotion} hint={hint}
+  return <WisemenLesson key={`${activityId}-${locale}`} eight={eight} locale={locale} reducedMotion={reducedMotion}
+    onHint={() => setHint(true)}
     onRestart={() => { setDirty(8); setStop(0); setChecked(false); setAnswer(null); setHint(false); setGuess(1); }}>
     <p className="explanation">{eight
       ? say("Eight silent, perfectly logical travelers can see everyone else's face, but not their own. After a tunnel, an announcement says: “At least one of you has a dirty face.” They may wash only at train stops. Everyone reasons at the same speed and sees who washes at each stop.", "Восемь молчаливых, безупречно логичных мудрецов видят чужие лица, но не своё. После туннеля объявляют: «Хотя бы у одного из вас грязное лицо». Умыться можно только на станции. Все рассуждают одинаково быстро и видят, кто умывается.")
       : say("Three wisemen emerge from a tunnel, all with soot on their faces. Each laughs at the others. One stops laughing after realizing that his own face must be dirty. He cannot see his own face. Why?", "Три мудреца выходят из туннеля с лицами в саже. Каждый смеётся над другими. Один перестаёт смеяться, поняв, что его лицо тоже грязное. Своего лица он не видит. Как он догадался?")}</p>
-    <div className="controls"><button className="button button-secondary" onClick={() => setHint(!hint)} aria-expanded={hint}>{say("Two-person hint", "Подсказка: двое")}</button><button className="button button-secondary" onClick={() => { setDirty(8); setStop(0); setChecked(false); setAnswer(null); setHint(false); setGuess(1); setStoryRun((run) => run + 1); }}>{say("Reset", "Сначала")}</button></div>
     {hint && <p className="explanation">{eight ? say("Consider just two wisemen. If only one were dirty, what would that person learn from the announcement? If both were dirty, what would they learn when nobody washes at the first stop?", "Рассмотрите двух мудрецов. Если испачкан только один, что он узнает из объявления? Если испачканы оба, что они узнают, когда на первой станции никто не умоется?") : say("With just two travelers and one dirty face, the dirty traveler sees a clean face and has nothing to laugh at. What changes when both are dirty?", "Если из двух мудрецов испачкан только один, он видит чистое лицо и ему не над чем смеяться. Что изменится, если испачканы оба?")}</p>}
     <details>
       <summary>{say("Explore the reasoning", "Исследовать рассуждение")}</summary>

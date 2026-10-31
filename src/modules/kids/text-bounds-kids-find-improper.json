@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Find improper to.swf",
+      "sourceSha256": "7cf0dcd884fbaac4e870c150c2070cae778407905ded9880691c00314628514d",
+      "textBounds": {
+        "text39": [
+          -2373,
+          250,
+          5736,
+          1350
+        ],
+        "text45": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Find improper to.swf",
+      "sourceSha256": "7cf0dcd884fbaac4e870c150c2070cae778407905ded9880691c00314628514d",
+      "textBounds": {
+        "text39": [
+          -2373,
+          250,
+          5736,
+          1350
+        ],
+        "text45": [
+          -709,
+          250,
+          4046,
+          1358
+        ]
+      }
+    }
+  }
+}

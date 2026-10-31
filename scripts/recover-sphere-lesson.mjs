@@ -110,4 +110,8 @@ for (const [language, config] of Object.entries(configurations)) {
 const target = resolve(root, "src/content/sphere-lesson.json");
 await mkdir(dirname(target), { recursive: true });
 await writeFile(target, JSON.stringify({ version: 1, frameNumbering: "one-based-global", soundTimebase: 44100, envelopeLevelMaximum: 32768, languages }, null, 2) + "\n");
+if (mode === "--convert-reviewed") {
+  run(["src/modules/solids/optimize-sphere.mjs", "--apply"]);
+  run(["scripts/optimize-reviewed-nested-filters.mjs", "--apply", "--family", "solids"]);
+}
 console.log(`Recovered Sphere metadata (${mode}); no source drawing JavaScript executed.`);

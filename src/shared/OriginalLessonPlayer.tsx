@@ -491,7 +491,7 @@ export default function OriginalLessonPlayer({
       <button type="button" className="source-play-control" disabled={status !== "ready" || buffering}
         onClick={playing ? pause : play}>{t(locale, playing ? "Pause" : "Play", playing ? "Пауза" : "Воспроизвести")}</button>
       <button type="button" onClick={restart}>{t(locale, "Restart", "Сначала")}</button>
-      <label><input type="checkbox" checked={sound} onChange={event => {
+      {lesson.audioAssets.length > 0 && <label><input type="checkbox" checked={sound} onChange={event => {
         const value = event.currentTarget.checked;
         setSound(value);
         onSoundChange?.(value);
@@ -505,7 +505,7 @@ export default function OriginalLessonPlayer({
             .then(() => { if (audio.current === owner) setBuffering(false); })
             .catch(() => { if (audio.current === owner) { setAudioError(true); setSound(false); setBuffering(false); } });
         }
-      }} /> {t(locale, "Sound", "Звук")}</label>
+      }} /> {t(locale, "Sound", "Звук")}</label>}
       {complete && <span role="status">{completionLabel ?? t(locale, "Lesson complete", "Урок завершён")}</span>}
     </div>
     {audioError && <p role="status">{t(locale, "Some sound could not be played. You can continue without sound.", "Не удалось воспроизвести часть звука. Можно продолжить без него.")}{" "}

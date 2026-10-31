@@ -34,7 +34,7 @@ The FFDec Canvas runtime has a separate software-license boundary: FFDec
 under `public/licenses/`; corresponding source, readable converted baselines,
 final-module references and hashes live under `third-party/ffdec/`.
 See that directory's README for upstream evidence and modifications dated
-2026-10-30. These terms do not relicense independent application code or art.
+2026-10-31. These terms do not relicense independent application code or art.
 
 Original site content belongs to Yuri Remizov, the site authors, or their
 respective rights holders. This restoration does not automatically place that

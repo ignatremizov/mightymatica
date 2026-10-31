@@ -24,3 +24,5 @@ for (const [source, frames] of [["Pinoc-game", 240], ["Prosto-game", 240], ["Sno
     "--output", `src/modules/stories/audio-${source}.json`,
     "--media-dir", `public/media/stories/audio/${source}`]);
 }
+// Keep regenerated parent artwork on the same source-verified text-cache path.
+run(["src/modules/stories/optimize-painters.mjs", "--apply"]);

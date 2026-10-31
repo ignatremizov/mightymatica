@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "languages": {
+    "en": {
+      "source": "Movies/Snowhite-game.swf",
+      "sourceSha256": "7e30e36464afbb574d6ad28e9ba3ce925217216d117cad43f1e3bc339b809b04",
+      "textBounds": {
+        "text34": [
+          27,
+          296,
+          9261,
+          4717
+        ],
+        "text40": [
+          38,
+          296,
+          11604,
+          3038
+        ]
+      }
+    },
+    "ru": {
+      "source": "Movies/Snowhite-game.swf",
+      "sourceSha256": "7e30e36464afbb574d6ad28e9ba3ce925217216d117cad43f1e3bc339b809b04",
+      "textBounds": {
+        "text34": [
+          27,
+          296,
+          9261,
+          4717
+        ],
+        "text40": [
+          38,
+          296,
+          11604,
+          3038
+        ]
+      }
+    }
+  }
+}
